@@ -1,8 +1,8 @@
 ---
-source_file: "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md"
+source_file: "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md"
 type: "document"
 community: "Iranian Kingship"
-location: "chunk 3/3"
+location: "chunk 2/3"
 tags:
   - graphify/document
   - graphify/EXTRACTED
@@ -13,8 +13,6 @@ tags:
 
 ## Connections
 - [[CONCEPTS OF POLLUTION IN LATE SASANIAN IRAN DOES POLLUTION NEED STAIRS, AND DOES IT FILL SPACE]] - `references` [EXTRACTED]
-- [[Concepts of Pollution]] - `references` [EXTRACTED]
-- [[Concepts of Pollution in Late Sasanian Iran]] - `references` [EXTRACTED]
-- [[Encounters by the Rivers of Babylon]] - `references` [EXTRACTED]
+- [[Contact Transmission of Corpse Pollution]] - `conceptually_related_to` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Iranian_Kingship

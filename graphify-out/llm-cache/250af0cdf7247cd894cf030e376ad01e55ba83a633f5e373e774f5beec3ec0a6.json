@@ -1,0 +1,439 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_a_history_of_political_ideas_from_antiqu_md",
+      "label": "Gazelle AcademicNew Title \u2013 Political Philosophy",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_a_history_of_political_ideas_from_antiquity_to_the_middle_ages",
+      "label": "A History of Political Ideas: From Antiquity to the Middle Ages",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_philippe_nemo",
+      "label": "Philippe Nemo",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_kenneth_casler",
+      "label": "Kenneth Casler",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_three_sources_of_political_thought_thesis",
+      "label": "Three Sources of Political Thought Thesis",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_greek_city_state_thinkers_plato_aristotle_xenophon_stoics",
+      "label": "Greek City-State Thinkers (Plato, Aristotle, Xenophon, Stoics)",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_roman_law",
+      "label": "Roman Law",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_roman_political_writers_cicero_seneca_tacitus",
+      "label": "Roman Political Writers (Cicero, Seneca, Tacitus)",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_christian_thought_gospels_biblical_texts_and_christians_under_the_roman_empire",
+      "label": "Christian Thought: Gospels, Biblical Texts, and Christians under the Roman Empire",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_christian_thinkers_paul_augustine_thomas_aquinas",
+      "label": "Christian Thinkers (Paul, Augustine, Thomas Aquinas)",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_canon_law",
+      "label": "Canon Law",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_pre_greek_prepolitical_societies",
+      "label": "Pre-Greek Prepolitical Societies",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_evolving_jurisdiction_governing_the_people",
+      "label": "Evolving Jurisdiction Governing the People",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_a_history_of_political_ideas_from_antiqu_md",
+      "target": "llm_a_history_of_political_ideas_from_antiquity_to_the_middle_ages",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_history_of_political_ideas_from_antiqu_md",
+      "target": "llm_canon_law",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_history_of_political_ideas_from_antiqu_md",
+      "target": "llm_christian_thinkers_paul_augustine_thomas_aquinas",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_history_of_political_ideas_from_antiqu_md",
+      "target": "llm_christian_thought_gospels_biblical_texts_and_christians_under_the_roman_empire",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_history_of_political_ideas_from_antiqu_md",
+      "target": "llm_evolving_jurisdiction_governing_the_people",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_history_of_political_ideas_from_antiqu_md",
+      "target": "llm_greek_city_state_thinkers_plato_aristotle_xenophon_stoics",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_history_of_political_ideas_from_antiqu_md",
+      "target": "llm_kenneth_casler",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_history_of_political_ideas_from_antiqu_md",
+      "target": "llm_philippe_nemo",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_history_of_political_ideas_from_antiqu_md",
+      "target": "llm_pre_greek_prepolitical_societies",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_history_of_political_ideas_from_antiqu_md",
+      "target": "llm_roman_law",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_history_of_political_ideas_from_antiqu_md",
+      "target": "llm_roman_political_writers_cicero_seneca_tacitus",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_history_of_political_ideas_from_antiqu_md",
+      "target": "llm_three_sources_of_political_thought_thesis",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_philippe_nemo",
+      "target": "llm_a_history_of_political_ideas_from_antiquity_to_the_middle_ages",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_kenneth_casler",
+      "target": "llm_a_history_of_political_ideas_from_antiquity_to_the_middle_ages",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_a_history_of_political_ideas_from_antiquity_to_the_middle_ages",
+      "target": "llm_three_sources_of_political_thought_thesis",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_three_sources_of_political_thought_thesis",
+      "target": "llm_greek_city_state_thinkers_plato_aristotle_xenophon_stoics",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_three_sources_of_political_thought_thesis",
+      "target": "llm_roman_law",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_three_sources_of_political_thought_thesis",
+      "target": "llm_christian_thought_gospels_biblical_texts_and_christians_under_the_roman_empire",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.96,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_a_history_of_political_ideas_from_antiquity_to_the_middle_ages",
+      "target": "llm_pre_greek_prepolitical_societies",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.93,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_pre_greek_prepolitical_societies",
+      "target": "llm_evolving_jurisdiction_governing_the_people",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.92,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_evolving_jurisdiction_governing_the_people",
+      "target": "llm_three_sources_of_political_thought_thesis",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.78,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_a_history_of_political_ideas_from_antiquity_to_the_middle_ages",
+      "target": "llm_roman_political_writers_cicero_seneca_tacitus",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_roman_political_writers_cicero_seneca_tacitus",
+      "target": "llm_evolving_jurisdiction_governing_the_people",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.92,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_christian_thought_gospels_biblical_texts_and_christians_under_the_roman_empire",
+      "target": "llm_canon_law",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_christian_thinkers_paul_augustine_thomas_aquinas",
+      "target": "llm_christian_thought_gospels_biblical_texts_and_christians_under_the_roman_empire",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_greek_roman_and_christian_sources_of_political_thought",
+      "label": "Greek, Roman, and Christian Sources of Political Thought",
+      "nodes": [
+        "llm_christian_thought_gospels_biblical_texts_and_christians_under_the_roman_empire",
+        "llm_greek_city_state_thinkers_plato_aristotle_xenophon_stoics",
+        "llm_roman_law",
+        "llm_three_sources_of_political_thought_thesis"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md"
+    },
+    {
+      "id": "hyper_christian_layer_in_the_history_of_political_organization",
+      "label": "Christian Layer in the History of Political Organization",
+      "nodes": [
+        "llm_canon_law",
+        "llm_christian_thinkers_paul_augustine_thomas_aquinas",
+        "llm_christian_thought_gospels_biblical_texts_and_christians_under_the_roman_empire"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 1884,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 10454,
+    "output_tokens_details": {
+      "reasoning_tokens": 8286
+    },
+    "total_tokens": 12338
+  }
+}

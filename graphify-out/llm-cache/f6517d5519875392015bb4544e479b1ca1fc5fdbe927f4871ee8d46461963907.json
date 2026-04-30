@@ -1,0 +1,492 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_concepts_of_pollution_in_late_sasanian_i_md",
+      "label": "CONCEPTS OF POLLUTION IN LATE SASANIAN IRAN DOES POLLUTION NEED STAIRS, AND DOES IT FILL SPACE?",
+      "file_type": "document",
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_young_avestan_videvdad",
+      "label": "Young Avestan Videvdad",
+      "file_type": "document",
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_pahlavi_videvdad",
+      "label": "Pahlavi Videvdad",
+      "file_type": "document",
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zand_fragard_jud_d_w_d_d",
+      "label": "Zand \u012b fragard \u012b jud-d\u0113w-d\u0101d",
+      "file_type": "document",
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_yist_n_yist",
+      "label": "\u0160\u0101yist n\u0113 \u0161\u0101yist",
+      "file_type": "document",
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_pahlavi_videvdad_6_5_roof_stairs_corpse_pollution_case",
+      "label": "Pahlavi Videvdad 6.5 Roof/Stairs Corpse-Pollution Case",
+      "file_type": "document",
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zand_fragard_jud_d_w_d_d_td2_482_483_roof_ladder_case",
+      "label": "Zand \u012b fragard \u012b jud-d\u0113w-d\u0101d TD2 482\u2013483 Roof/Ladder Case",
+      "file_type": "document",
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_pahlavi_videvdad_5_44_one_door_yazi_n_ritual_materials_house_case",
+      "label": "Pahlavi Videvdad 5.44 One-Door Yazi\u0161n/Ritual-Materials House Case",
+      "file_type": "document",
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_contact_transmission_of_corpse_pollution",
+      "label": "Contact Transmission of Corpse Pollution",
+      "file_type": "document",
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zfjd_spatial_corpse_pollution_tan_mas_y_and_house_interior_tuh_g_r_man",
+      "label": "ZFJD Spatial Corpse Pollution: tan-mas\u0101y and House-Interior tuh\u012bg r\u0113man",
+      "file_type": "document",
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_interpretation_pahlavi_tuh_g_as_doorway_empty_space_pollution",
+      "label": "Interpretation: Pahlavi tuh\u012bg as Doorway Empty-Space Pollution",
+      "file_type": "document",
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_redactional_dating_rationale_zfjd_later_than_pahlavi_videvdad_via_authority_telescoping_and_abarg_m_dy_m_h_pi_ksil_schools",
+      "label": "Redactional-Dating Rationale: ZFJD Later Than Pahlavi Videvdad via Authority Telescoping and Abarg/M\u0113dy\u014dm\u0101h/Pi\u0161ksil Schools",
+      "file_type": "document",
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_rabbinic_affinity_method_halakha_aggada_parsimony_and_consistency_spiegel_1856_secunda_vevaina",
+      "label": "Rabbinic-Affinity Method: Halakha/Aggada, Parsimony, and Consistency (Spiegel 1856; Secunda; Vevaina)",
+      "file_type": "document",
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_concepts_of_pollution_in_late_sasanian_i_md",
+      "target": "llm_contact_transmission_of_corpse_pollution",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_concepts_of_pollution_in_late_sasanian_i_md",
+      "target": "llm_interpretation_pahlavi_tuh_g_as_doorway_empty_space_pollution",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_concepts_of_pollution_in_late_sasanian_i_md",
+      "target": "llm_pahlavi_videvdad",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_concepts_of_pollution_in_late_sasanian_i_md",
+      "target": "llm_pahlavi_videvdad_5_44_one_door_yazi_n_ritual_materials_house_case",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_concepts_of_pollution_in_late_sasanian_i_md",
+      "target": "llm_pahlavi_videvdad_6_5_roof_stairs_corpse_pollution_case",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_concepts_of_pollution_in_late_sasanian_i_md",
+      "target": "llm_rabbinic_affinity_method_halakha_aggada_parsimony_and_consistency_spiegel_1856_secunda_vevaina",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_concepts_of_pollution_in_late_sasanian_i_md",
+      "target": "llm_redactional_dating_rationale_zfjd_later_than_pahlavi_videvdad_via_authority_telescoping_and_abarg_m_dy_m_h_pi_ksil_schools",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_concepts_of_pollution_in_late_sasanian_i_md",
+      "target": "llm_yist_n_yist",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_concepts_of_pollution_in_late_sasanian_i_md",
+      "target": "llm_young_avestan_videvdad",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_concepts_of_pollution_in_late_sasanian_i_md",
+      "target": "llm_zand_fragard_jud_d_w_d_d",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_concepts_of_pollution_in_late_sasanian_i_md",
+      "target": "llm_zand_fragard_jud_d_w_d_d_td2_482_483_roof_ladder_case",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_concepts_of_pollution_in_late_sasanian_i_md",
+      "target": "llm_zfjd_spatial_corpse_pollution_tan_mas_y_and_house_interior_tuh_g_r_man",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_pahlavi_videvdad",
+      "target": "llm_young_avestan_videvdad",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_pahlavi_videvdad_6_5_roof_stairs_corpse_pollution_case",
+      "target": "llm_pahlavi_videvdad",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_pahlavi_videvdad_6_5_roof_stairs_corpse_pollution_case",
+      "target": "llm_contact_transmission_of_corpse_pollution",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zand_fragard_jud_d_w_d_d_td2_482_483_roof_ladder_case",
+      "target": "llm_zand_fragard_jud_d_w_d_d",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zand_fragard_jud_d_w_d_d_td2_482_483_roof_ladder_case",
+      "target": "llm_pahlavi_videvdad_6_5_roof_stairs_corpse_pollution_case",
+      "relation": "semantically_similar_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_zand_fragard_jud_d_w_d_d_td2_482_483_roof_ladder_case",
+      "target": "llm_zfjd_spatial_corpse_pollution_tan_mas_y_and_house_interior_tuh_g_r_man",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zfjd_spatial_corpse_pollution_tan_mas_y_and_house_interior_tuh_g_r_man",
+      "target": "llm_contact_transmission_of_corpse_pollution",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_pahlavi_videvdad_5_44_one_door_yazi_n_ritual_materials_house_case",
+      "target": "llm_pahlavi_videvdad",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_pahlavi_videvdad_5_44_one_door_yazi_n_ritual_materials_house_case",
+      "target": "llm_young_avestan_videvdad",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_pahlavi_videvdad_5_44_one_door_yazi_n_ritual_materials_house_case",
+      "target": "llm_interpretation_pahlavi_tuh_g_as_doorway_empty_space_pollution",
+      "relation": "conceptually_related_to",
+      "confidence": "AMBIGUOUS",
+      "confidence_score": 0.68,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.7
+    },
+    {
+      "source": "llm_interpretation_pahlavi_tuh_g_as_doorway_empty_space_pollution",
+      "target": "llm_zfjd_spatial_corpse_pollution_tan_mas_y_and_house_interior_tuh_g_r_man",
+      "relation": "contrasts_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_interpretation_pahlavi_tuh_g_as_doorway_empty_space_pollution",
+      "target": "llm_contact_transmission_of_corpse_pollution",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.76,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_yist_n_yist",
+      "target": "llm_contact_transmission_of_corpse_pollution",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_redactional_dating_rationale_zfjd_later_than_pahlavi_videvdad_via_authority_telescoping_and_abarg_m_dy_m_h_pi_ksil_schools",
+      "target": "llm_zand_fragard_jud_d_w_d_d",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_redactional_dating_rationale_zfjd_later_than_pahlavi_videvdad_via_authority_telescoping_and_abarg_m_dy_m_h_pi_ksil_schools",
+      "target": "llm_pahlavi_videvdad",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_redactional_dating_rationale_zfjd_later_than_pahlavi_videvdad_via_authority_telescoping_and_abarg_m_dy_m_h_pi_ksil_schools",
+      "target": "llm_zfjd_spatial_corpse_pollution_tan_mas_y_and_house_interior_tuh_g_r_man",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.78,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_rabbinic_affinity_method_halakha_aggada_parsimony_and_consistency_spiegel_1856_secunda_vevaina",
+      "target": "llm_interpretation_pahlavi_tuh_g_as_doorway_empty_space_pollution",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.8,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_rabbinic_affinity_method_halakha_aggada_parsimony_and_consistency_spiegel_1856_secunda_vevaina",
+      "target": "llm_pahlavi_videvdad",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_four_text_corpus_for_testing_late_sasanian_ritual_pollution",
+      "label": "Four-Text Corpus for Testing Late Sasanian Ritual Pollution",
+      "nodes": [
+        "llm_pahlavi_videvdad",
+        "llm_yist_n_yist",
+        "llm_young_avestan_videvdad",
+        "llm_zand_fragard_jud_d_w_d_d"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md"
+    },
+    {
+      "id": "hyper_debate_over_whether_corpse_pollution_requires_contact_or_fills_space",
+      "label": "Debate over Whether Corpse Pollution Requires Contact or Fills Space",
+      "nodes": [
+        "llm_contact_transmission_of_corpse_pollution",
+        "llm_interpretation_pahlavi_tuh_g_as_doorway_empty_space_pollution",
+        "llm_pahlavi_videvdad_5_44_one_door_yazi_n_ritual_materials_house_case",
+        "llm_pahlavi_videvdad_6_5_roof_stairs_corpse_pollution_case",
+        "llm_zand_fragard_jud_d_w_d_d_td2_482_483_roof_ladder_case",
+        "llm_zfjd_spatial_corpse_pollution_tan_mas_y_and_house_interior_tuh_g_r_man"
+      ],
+      "relation": "debate",
+      "confidence": "INFERRED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 6883,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 15935,
+    "output_tokens_details": {
+      "reasoning_tokens": 12937
+    },
+    "total_tokens": 22818
+  }
+}

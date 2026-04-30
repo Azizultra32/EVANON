@@ -1,0 +1,461 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_471689884_contribution_of_persia_to_the_world_civilization_2019_doc_doc_md",
+      "label": "Decorative blue oval graphicDecorative blue oval graphic**Contribution of Persia To World Civilization**",
+      "file_type": "document",
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_contribution_of_persia_to_world_civilization",
+      "label": "Contribution of Persia to World Civilization",
+      "file_type": "document",
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_persian_origin_civilizational_priority_thesis",
+      "label": "Persian-Origin Civilizational Priority Thesis",
+      "file_type": "document",
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_irano_european_language_and_iranian_plateau_migration_thesis",
+      "label": "Irano-European Language and Iranian Plateau Migration Thesis",
+      "file_type": "document",
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_gardeshgari_iran_cited_series",
+      "label": "Gardeshgari Iran Cited Series",
+      "file_type": "document",
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_qanat_kareez_underground_water_system",
+      "label": "Qanat/Kareez Underground Water System",
+      "file_type": "document",
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_national_geographic_channel_qanat_reference_oct_1_2006",
+      "label": "National Geographic Channel Qanat Reference (Oct. 1, 2006)",
+      "file_type": "document",
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_persian_architecture_and_engineering_transmission",
+      "label": "Persian Architecture and Engineering Transmission",
+      "file_type": "document",
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_iran_land_and_the_people_a_h_saidian_2001",
+      "label": "Iran: Land and the People (A.H. Saidian, 2001)",
+      "file_type": "document",
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "A.H. Saidian",
+      "contributor": null
+    },
+    {
+      "id": "llm_persian_carpet_food_spice_and_perfume_origin_catalogue",
+      "label": "Persian Carpet, Food, Spice, and Perfume Origin Catalogue",
+      "file_type": "document",
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_noruz_sizdeh_bedar_and_king_jamshid_tradition",
+      "label": "Noruz, Sizdeh Bedar, and King Jamshid Tradition",
+      "file_type": "document",
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_mithraism_mitra_persian_sun_god_worship",
+      "label": "Mithraism/Mitra Persian Sun-God Worship",
+      "file_type": "document",
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_taj_mahal_persian_design_claim_ustad_eisa_shirazi_mumtaz_mahal",
+      "label": "Taj Mahal Persian Design Claim (Ustad Eisa Shirazi; Mumtaz Mahal)",
+      "file_type": "document",
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_471689884_contribution_of_persia_to_the_world_civilization_2019_doc_doc_md",
+      "target": "llm_contribution_of_persia_to_world_civilization",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_471689884_contribution_of_persia_to_the_world_civilization_2019_doc_doc_md",
+      "target": "llm_gardeshgari_iran_cited_series",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_471689884_contribution_of_persia_to_the_world_civilization_2019_doc_doc_md",
+      "target": "llm_iran_land_and_the_people_a_h_saidian_2001",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_471689884_contribution_of_persia_to_the_world_civilization_2019_doc_doc_md",
+      "target": "llm_irano_european_language_and_iranian_plateau_migration_thesis",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_471689884_contribution_of_persia_to_the_world_civilization_2019_doc_doc_md",
+      "target": "llm_mithraism_mitra_persian_sun_god_worship",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_471689884_contribution_of_persia_to_the_world_civilization_2019_doc_doc_md",
+      "target": "llm_national_geographic_channel_qanat_reference_oct_1_2006",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_471689884_contribution_of_persia_to_the_world_civilization_2019_doc_doc_md",
+      "target": "llm_noruz_sizdeh_bedar_and_king_jamshid_tradition",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_471689884_contribution_of_persia_to_the_world_civilization_2019_doc_doc_md",
+      "target": "llm_persian_architecture_and_engineering_transmission",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_471689884_contribution_of_persia_to_the_world_civilization_2019_doc_doc_md",
+      "target": "llm_persian_carpet_food_spice_and_perfume_origin_catalogue",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_471689884_contribution_of_persia_to_the_world_civilization_2019_doc_doc_md",
+      "target": "llm_persian_origin_civilizational_priority_thesis",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_471689884_contribution_of_persia_to_the_world_civilization_2019_doc_doc_md",
+      "target": "llm_qanat_kareez_underground_water_system",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_471689884_contribution_of_persia_to_the_world_civilization_2019_doc_doc_md",
+      "target": "llm_taj_mahal_persian_design_claim_ustad_eisa_shirazi_mumtaz_mahal",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_contribution_of_persia_to_world_civilization",
+      "target": "llm_persian_origin_civilizational_priority_thesis",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_irano_european_language_and_iranian_plateau_migration_thesis",
+      "target": "llm_persian_origin_civilizational_priority_thesis",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_irano_european_language_and_iranian_plateau_migration_thesis",
+      "target": "llm_gardeshgari_iran_cited_series",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_qanat_kareez_underground_water_system",
+      "target": "llm_persian_origin_civilizational_priority_thesis",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_qanat_kareez_underground_water_system",
+      "target": "llm_national_geographic_channel_qanat_reference_oct_1_2006",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_persian_architecture_and_engineering_transmission",
+      "target": "llm_persian_origin_civilizational_priority_thesis",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.84,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_persian_architecture_and_engineering_transmission",
+      "target": "llm_gardeshgari_iran_cited_series",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_persian_carpet_food_spice_and_perfume_origin_catalogue",
+      "target": "llm_persian_origin_civilizational_priority_thesis",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.83,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_persian_carpet_food_spice_and_perfume_origin_catalogue",
+      "target": "llm_iran_land_and_the_people_a_h_saidian_2001",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_noruz_sizdeh_bedar_and_king_jamshid_tradition",
+      "target": "llm_persian_origin_civilizational_priority_thesis",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.78,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_mithraism_mitra_persian_sun_god_worship",
+      "target": "llm_persian_origin_civilizational_priority_thesis",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_mithraism_mitra_persian_sun_god_worship",
+      "target": "llm_irano_european_language_and_iranian_plateau_migration_thesis",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.8,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_taj_mahal_persian_design_claim_ustad_eisa_shirazi_mumtaz_mahal",
+      "target": "llm_persian_origin_civilizational_priority_thesis",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_taj_mahal_persian_design_claim_ustad_eisa_shirazi_mumtaz_mahal",
+      "target": "llm_persian_architecture_and_engineering_transmission",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.78,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.75
+    },
+    {
+      "source": "llm_persian_architecture_and_engineering_transmission",
+      "target": "llm_qanat_kareez_underground_water_system",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.72,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.7
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_persian_technology_and_material_culture_origin_cluster",
+      "label": "Persian Technology and Material Culture Origin Cluster",
+      "nodes": [
+        "llm_persian_architecture_and_engineering_transmission",
+        "llm_persian_carpet_food_spice_and_perfume_origin_catalogue",
+        "llm_persian_origin_civilizational_priority_thesis",
+        "llm_qanat_kareez_underground_water_system",
+        "llm_taj_mahal_persian_design_claim_ustad_eisa_shirazi_mumtaz_mahal"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md"
+    },
+    {
+      "id": "hyper_persian_religion_calendar_and_origin_claims_cluster",
+      "label": "Persian Religion, Calendar, and Origin Claims Cluster",
+      "nodes": [
+        "llm_irano_european_language_and_iranian_plateau_migration_thesis",
+        "llm_mithraism_mitra_persian_sun_god_worship",
+        "llm_noruz_sizdeh_bedar_and_king_jamshid_tradition",
+        "llm_persian_origin_civilizational_priority_thesis"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.76,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 6735,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 12036,
+    "output_tokens_details": {
+      "reasoning_tokens": 9322
+    },
+    "total_tokens": 18771
+  }
+}

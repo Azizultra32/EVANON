@@ -1,0 +1,479 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "label": "PROBLEMS OF ARMENIAN PREHISTORY",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_problems_of_armenian_prehistory",
+      "label": "Problems of Armenian Prehistory",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_forefather_hayk_in_the_light_of_comparative_mythology",
+      "label": "Forefather Hayk in the Light of Comparative Mythology",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_hayk_legendary_forefather_of_the_armenians",
+      "label": "Hayk, Legendary Forefather of the Armenians",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_hayk_as_composite_epic_divine_archetype",
+      "label": "Hayk as Composite Epic Divine Archetype",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_armenian_ethnogonic_myth_as_epicized_creation_myth",
+      "label": "Armenian Ethnogonic Myth as Epicized Creation Myth",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_khorenatsi_1_10_15_and_sebeos_1_sources",
+      "label": "Khorenatsi 1.10\u201315 and Sebeos 1 Sources",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ahy_n_1981_and_dum_zil_1994_trifunctional_reading",
+      "label": "Ahy\u00e1n 1981 and Dum\u00e9zil 1994 Trifunctional Reading",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_opposing_trifunctional_triad_bel_bar_amin_amiram",
+      "label": "Opposing Trifunctional Triad: Bel, Bar\u0161amin, \u0160amiram",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_armenian_azg_patriarchal_family_and_poti_etymology_of_hayk",
+      "label": "Armenian Azg Patriarchal Family and *poti- Etymology of Hayk",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_indo_european_m_nnerbund_comitatus",
+      "label": "Indo-European M\u00e4nnerbund / Comitatus",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_orion_triple_weapon_and_dog_slayer_parallels_rudra_praj_pati_kanda_n",
+      "label": "Orion, Triple-Weapon, and Dog-Slayer Parallels: Rudra, Praj\u0101pati, Kanda\u014dn",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_near_eastern_associations_bel_marduk_te_ub_tei_eba_noah",
+      "label": "Near Eastern Associations: Bel-Marduk, Te\u0161\u0161ub/Tei\u0161eba, Noah",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_ahy_n_1981_and_dum_zil_1994_trifunctional_reading",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_armenian_azg_patriarchal_family_and_poti_etymology_of_hayk",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_armenian_ethnogonic_myth_as_epicized_creation_myth",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_forefather_hayk_in_the_light_of_comparative_mythology",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_hayk_as_composite_epic_divine_archetype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_hayk_legendary_forefather_of_the_armenians",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_indo_european_m_nnerbund_comitatus",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_khorenatsi_1_10_15_and_sebeos_1_sources",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_near_eastern_associations_bel_marduk_te_ub_tei_eba_noah",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_opposing_trifunctional_triad_bel_bar_amin_amiram",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_orion_triple_weapon_and_dog_slayer_parallels_rudra_praj_pati_kanda_n",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_problems_of_armenian_prehistory",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_problems_of_armenian_prehistory",
+      "target": "llm_forefather_hayk_in_the_light_of_comparative_mythology",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_forefather_hayk_in_the_light_of_comparative_mythology",
+      "target": "llm_hayk_legendary_forefather_of_the_armenians",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_forefather_hayk_in_the_light_of_comparative_mythology",
+      "target": "llm_hayk_as_composite_epic_divine_archetype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.98
+    },
+    {
+      "source": "llm_hayk_legendary_forefather_of_the_armenians",
+      "target": "llm_armenian_ethnogonic_myth_as_epicized_creation_myth",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_armenian_ethnogonic_myth_as_epicized_creation_myth",
+      "target": "llm_khorenatsi_1_10_15_and_sebeos_1_sources",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_armenian_ethnogonic_myth_as_epicized_creation_myth",
+      "target": "llm_hayk_as_composite_epic_divine_archetype",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.92,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.92
+    },
+    {
+      "source": "llm_ahy_n_1981_and_dum_zil_1994_trifunctional_reading",
+      "target": "llm_hayk_legendary_forefather_of_the_armenians",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_ahy_n_1981_and_dum_zil_1994_trifunctional_reading",
+      "target": "llm_hayk_as_composite_epic_divine_archetype",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_opposing_trifunctional_triad_bel_bar_amin_amiram",
+      "target": "llm_ahy_n_1981_and_dum_zil_1994_trifunctional_reading",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_hayk_legendary_forefather_of_the_armenians",
+      "target": "llm_opposing_trifunctional_triad_bel_bar_amin_amiram",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_armenian_azg_patriarchal_family_and_poti_etymology_of_hayk",
+      "target": "llm_hayk_legendary_forefather_of_the_armenians",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.94
+    },
+    {
+      "source": "llm_armenian_azg_patriarchal_family_and_poti_etymology_of_hayk",
+      "target": "llm_hayk_as_composite_epic_divine_archetype",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_indo_european_m_nnerbund_comitatus",
+      "target": "llm_hayk_legendary_forefather_of_the_armenians",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.94
+    },
+    {
+      "source": "llm_indo_european_m_nnerbund_comitatus",
+      "target": "llm_hayk_as_composite_epic_divine_archetype",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_orion_triple_weapon_and_dog_slayer_parallels_rudra_praj_pati_kanda_n",
+      "target": "llm_hayk_legendary_forefather_of_the_armenians",
+      "relation": "semantically_similar_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.94
+    },
+    {
+      "source": "llm_orion_triple_weapon_and_dog_slayer_parallels_rudra_praj_pati_kanda_n",
+      "target": "llm_hayk_as_composite_epic_divine_archetype",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_near_eastern_associations_bel_marduk_te_ub_tei_eba_noah",
+      "target": "llm_hayk_legendary_forefather_of_the_armenians",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.94
+    },
+    {
+      "source": "llm_near_eastern_associations_bel_marduk_te_ub_tei_eba_noah",
+      "target": "llm_hayk_as_composite_epic_divine_archetype",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_evidence_cluster_for_hayk_as_composite_indo_european_and_near_eastern_archetype",
+      "label": "Evidence Cluster for Hayk as Composite Indo-European and Near Eastern Archetype",
+      "nodes": [
+        "llm_ahy_n_1981_and_dum_zil_1994_trifunctional_reading",
+        "llm_armenian_azg_patriarchal_family_and_poti_etymology_of_hayk",
+        "llm_armenian_ethnogonic_myth_as_epicized_creation_myth",
+        "llm_hayk_legendary_forefather_of_the_armenians",
+        "llm_indo_european_m_nnerbund_comitatus",
+        "llm_near_eastern_associations_bel_marduk_te_ub_tei_eba_noah",
+        "llm_orion_triple_weapon_and_dog_slayer_parallels_rudra_praj_pati_kanda_n"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 6460,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 9764,
+    "output_tokens_details": {
+      "reasoning_tokens": 7111
+    },
+    "total_tokens": 16224
+  }
+}

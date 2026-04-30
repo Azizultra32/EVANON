@@ -12,8 +12,11 @@ tags:
 # Lake Kayānsīh
 
 ## Connections
-- [[Saošyant]] - `linked_to` [EXTRACTED]
-- [[Zoroastrianism]] - `associated_with` [EXTRACTED]
+- [[Avesta and Pahlavi Sources on Kayānsīh (Yt. 13.28, 13.62; Yt. 19.66-69; Dēnkard 7.8.1)]] - `references` [EXTRACTED]
+- [[Kayānid Sacred Historiography and xwarrah]] - `conceptually_related_to` [EXTRACTED]
+- [[Kuh-e Khwāja  Lake Hāmun]] - `conceptually_related_to` [EXTRACTED]
+- [[Middle Iranian Invention of Avestan Sanctuaries Thesis]] - `conceptually_related_to` [EXTRACTED]
+- [[Saošyant and Renovation Eschatology]] - `conceptually_related_to` [EXTRACTED]
 - [[“Building a New Vision of the Past in the Sasanian Empire The Sanctuaries of Kayānsih and the Great Fires of Iran”]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Iranian_Kingship

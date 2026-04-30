@@ -1,0 +1,490 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_471689884_contribution_of_persia_to_the_world_civilization_2019_doc_doc_md",
+      "label": "Decorative blue oval graphicDecorative blue oval graphic**Contribution of Persia To World Civilization**",
+      "file_type": "document",
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_contribution_of_persia_to_world_civilization_central_argument",
+      "label": "Contribution of Persia to World Civilization (central argument)",
+      "file_type": "document",
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_persia_iran_ancient_iran_pars_and_aryan_etymology",
+      "label": "Persia/Iran (ancient Iran; Pars and Aryan etymology)",
+      "file_type": "document",
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_jiroft_and_eilam_as_first_great_human_civilization_claim",
+      "label": "Jiroft and Eilam as first great human civilization claim",
+      "file_type": "document",
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_professor_arthur_a_pope",
+      "label": "Professor Arthur A. Pope",
+      "file_type": "document",
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_a_h_saidian_iran_land_and_the_people_tehran_2001",
+      "label": "A. H. Saidian, Iran: Land and the People (Tehran, 2001)",
+      "file_type": "document",
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_persian_empire",
+      "label": "Persian Empire",
+      "file_type": "document",
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_robert_payne_the_splendor_of_persia",
+      "label": "Robert Payne, The Splendor of Persia",
+      "file_type": "document",
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_cyrus_the_great_of_persia",
+      "label": "Cyrus the Great of Persia",
+      "file_type": "document",
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_achaemenid_human_rights_charters_darius_ganj_nameh_and_cyrus_cylinder",
+      "label": "Achaemenid human rights charters (Darius Ganj-Nameh and Cyrus Cylinder)",
+      "file_type": "document",
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_persian_liberation_of_jews_and_religious_toleration_claim",
+      "label": "Persian liberation of Jews and religious toleration claim",
+      "file_type": "document",
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_persian_priority_claims_in_industry_agriculture_banking_law_and_language",
+      "label": "Persian priority claims in industry, agriculture, banking, law, and language",
+      "file_type": "document",
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_silk_road_as_persian_linked_east_west_trade_network",
+      "label": "Silk Road as Persian-linked East-West trade network",
+      "file_type": "document",
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_471689884_contribution_of_persia_to_the_world_civilization_2019_doc_doc_md",
+      "target": "llm_a_h_saidian_iran_land_and_the_people_tehran_2001",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_471689884_contribution_of_persia_to_the_world_civilization_2019_doc_doc_md",
+      "target": "llm_achaemenid_human_rights_charters_darius_ganj_nameh_and_cyrus_cylinder",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_471689884_contribution_of_persia_to_the_world_civilization_2019_doc_doc_md",
+      "target": "llm_contribution_of_persia_to_world_civilization_central_argument",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_471689884_contribution_of_persia_to_the_world_civilization_2019_doc_doc_md",
+      "target": "llm_cyrus_the_great_of_persia",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_471689884_contribution_of_persia_to_the_world_civilization_2019_doc_doc_md",
+      "target": "llm_jiroft_and_eilam_as_first_great_human_civilization_claim",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_471689884_contribution_of_persia_to_the_world_civilization_2019_doc_doc_md",
+      "target": "llm_persia_iran_ancient_iran_pars_and_aryan_etymology",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_471689884_contribution_of_persia_to_the_world_civilization_2019_doc_doc_md",
+      "target": "llm_persian_empire",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_471689884_contribution_of_persia_to_the_world_civilization_2019_doc_doc_md",
+      "target": "llm_persian_liberation_of_jews_and_religious_toleration_claim",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_471689884_contribution_of_persia_to_the_world_civilization_2019_doc_doc_md",
+      "target": "llm_persian_priority_claims_in_industry_agriculture_banking_law_and_language",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_471689884_contribution_of_persia_to_the_world_civilization_2019_doc_doc_md",
+      "target": "llm_professor_arthur_a_pope",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_471689884_contribution_of_persia_to_the_world_civilization_2019_doc_doc_md",
+      "target": "llm_robert_payne_the_splendor_of_persia",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_471689884_contribution_of_persia_to_the_world_civilization_2019_doc_doc_md",
+      "target": "llm_silk_road_as_persian_linked_east_west_trade_network",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_contribution_of_persia_to_world_civilization_central_argument",
+      "target": "llm_persia_iran_ancient_iran_pars_and_aryan_etymology",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_contribution_of_persia_to_world_civilization_central_argument",
+      "target": "llm_jiroft_and_eilam_as_first_great_human_civilization_claim",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_jiroft_and_eilam_as_first_great_human_civilization_claim",
+      "target": "llm_contribution_of_persia_to_world_civilization_central_argument",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_contribution_of_persia_to_world_civilization_central_argument",
+      "target": "llm_professor_arthur_a_pope",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_contribution_of_persia_to_world_civilization_central_argument",
+      "target": "llm_a_h_saidian_iran_land_and_the_people_tehran_2001",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_a_h_saidian_iran_land_and_the_people_tehran_2001",
+      "target": "llm_professor_arthur_a_pope",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_professor_arthur_a_pope",
+      "target": "llm_jiroft_and_eilam_as_first_great_human_civilization_claim",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_contribution_of_persia_to_world_civilization_central_argument",
+      "target": "llm_persian_empire",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_contribution_of_persia_to_world_civilization_central_argument",
+      "target": "llm_robert_payne_the_splendor_of_persia",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_robert_payne_the_splendor_of_persia",
+      "target": "llm_persian_empire",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_cyrus_the_great_of_persia",
+      "target": "llm_persian_empire",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_cyrus_the_great_of_persia",
+      "target": "llm_persian_liberation_of_jews_and_religious_toleration_claim",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.96,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_achaemenid_human_rights_charters_darius_ganj_nameh_and_cyrus_cylinder",
+      "target": "llm_persian_liberation_of_jews_and_religious_toleration_claim",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_persian_liberation_of_jews_and_religious_toleration_claim",
+      "target": "llm_contribution_of_persia_to_world_civilization_central_argument",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.84,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_persian_priority_claims_in_industry_agriculture_banking_law_and_language",
+      "target": "llm_contribution_of_persia_to_world_civilization_central_argument",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_contribution_of_persia_to_world_civilization_central_argument",
+      "target": "llm_persian_priority_claims_in_industry_agriculture_banking_law_and_language",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_contribution_of_persia_to_world_civilization_central_argument",
+      "target": "llm_silk_road_as_persian_linked_east_west_trade_network",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.92,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_silk_road_as_persian_linked_east_west_trade_network",
+      "target": "llm_persia_iran_ancient_iran_pars_and_aryan_etymology",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.85
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_evidence_cluster_for_persian_civilizational_primacy",
+      "label": "Evidence cluster for Persian civilizational primacy",
+      "nodes": [
+        "llm_a_h_saidian_iran_land_and_the_people_tehran_2001",
+        "llm_jiroft_and_eilam_as_first_great_human_civilization_claim",
+        "llm_persia_iran_ancient_iran_pars_and_aryan_etymology",
+        "llm_professor_arthur_a_pope"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md"
+    },
+    {
+      "id": "hyper_achaemenid_human_rights_and_religious_toleration_cluster",
+      "label": "Achaemenid human rights and religious toleration cluster",
+      "nodes": [
+        "llm_achaemenid_human_rights_charters_darius_ganj_nameh_and_cyrus_cylinder",
+        "llm_cyrus_the_great_of_persia",
+        "llm_persian_empire",
+        "llm_persian_liberation_of_jews_and_religious_toleration_claim"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 6428,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 7024,
+    "output_tokens_details": {
+      "reasoning_tokens": 4142
+    },
+    "total_tokens": 13452
+  }
+}

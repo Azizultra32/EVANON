@@ -1,0 +1,491 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_a_father_a_daughter_and_a_son_in_law_in_md",
+      "label": "A FATHER, A DAUGHTER, AND A SON-IN-LAW IN ZOROASTRIAN HERMENEUTICS<sup>1</sup>",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_xw_d_dah_x_a_tuuada_a_next_of_kin_marriage",
+      "label": "Xw\u0113d\u014ddah / X'a\u0113tuuada\u03b8a (Next-of-Kin Marriage)",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_yasna_53_old_avestan_concluding_poem",
+      "label": "Yasna 53 (Old Avestan Concluding Poem)",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_vad_mn_and_x_a_tu_semantic_debate",
+      "label": "vad\u0259mn\u014d and X'a\u0113tu- Semantic Debate",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_skj_rv_2013_encrypted_xw_d_dah_and_fra_kerd_argument",
+      "label": "Skj\u00e6rv\u00f8 2013 Encrypted Xw\u0113d\u014ddah and Fra\u0161kerd Argument",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_pahlavi_yasna_53_4",
+      "label": "Pahlavi Yasna 53.4",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_d_nkard_book_9_war_tm_nsr_and_bag_nasks",
+      "label": "D\u0113nkard Book 9 War\u0161tm\u0101nsr and Bag Nasks",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_pahlavi_riv_yat_accompanying_the_d_dest_n_d_n_g_8a_8o",
+      "label": "Pahlavi Riv\u0101yat Accompanying the D\u0101dest\u0101n \u012b D\u0113n\u012bg 8a/8o",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_wisprad_visperad_3_3_house_lady_and_xw_d_dah_passage",
+      "label": "Wisprad/Visperad 3.3 House-Lady and Xw\u0113d\u014ddah Passage",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_p_ru_ist_pourucist",
+      "label": "P\u014dru\u010dist\u0101 / Pourucist\u0101",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zardu_x_t_zara_u_tra",
+      "label": "Zardu(x)\u0161t / Zara\u03b8u\u0161tra",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_j_m_sp",
+      "label": "J\u0101m\u0101sp",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_emic_pahlavi_hermeneutics_vs_boyce_kellens_antinomy",
+      "label": "Emic Pahlavi Hermeneutics vs. Boyce/Kellens Antinomy",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_a_father_a_daughter_and_a_son_in_law_in_md",
+      "target": "llm_d_nkard_book_9_war_tm_nsr_and_bag_nasks",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_father_a_daughter_and_a_son_in_law_in_md",
+      "target": "llm_emic_pahlavi_hermeneutics_vs_boyce_kellens_antinomy",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_father_a_daughter_and_a_son_in_law_in_md",
+      "target": "llm_j_m_sp",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_father_a_daughter_and_a_son_in_law_in_md",
+      "target": "llm_p_ru_ist_pourucist",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_father_a_daughter_and_a_son_in_law_in_md",
+      "target": "llm_pahlavi_riv_yat_accompanying_the_d_dest_n_d_n_g_8a_8o",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_father_a_daughter_and_a_son_in_law_in_md",
+      "target": "llm_pahlavi_yasna_53_4",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_father_a_daughter_and_a_son_in_law_in_md",
+      "target": "llm_skj_rv_2013_encrypted_xw_d_dah_and_fra_kerd_argument",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_father_a_daughter_and_a_son_in_law_in_md",
+      "target": "llm_vad_mn_and_x_a_tu_semantic_debate",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_father_a_daughter_and_a_son_in_law_in_md",
+      "target": "llm_wisprad_visperad_3_3_house_lady_and_xw_d_dah_passage",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_father_a_daughter_and_a_son_in_law_in_md",
+      "target": "llm_xw_d_dah_x_a_tuuada_a_next_of_kin_marriage",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_father_a_daughter_and_a_son_in_law_in_md",
+      "target": "llm_yasna_53_old_avestan_concluding_poem",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_father_a_daughter_and_a_son_in_law_in_md",
+      "target": "llm_zardu_x_t_zara_u_tra",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_vad_mn_and_x_a_tu_semantic_debate",
+      "target": "llm_yasna_53_old_avestan_concluding_poem",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_vad_mn_and_x_a_tu_semantic_debate",
+      "target": "llm_xw_d_dah_x_a_tuuada_a_next_of_kin_marriage",
+      "relation": "conceptually_related_to",
+      "confidence": "AMBIGUOUS",
+      "confidence_score": 0.55,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.6
+    },
+    {
+      "source": "llm_skj_rv_2013_encrypted_xw_d_dah_and_fra_kerd_argument",
+      "target": "llm_yasna_53_old_avestan_concluding_poem",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_skj_rv_2013_encrypted_xw_d_dah_and_fra_kerd_argument",
+      "target": "llm_xw_d_dah_x_a_tuuada_a_next_of_kin_marriage",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_skj_rv_2013_encrypted_xw_d_dah_and_fra_kerd_argument",
+      "target": "llm_p_ru_ist_pourucist",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_pahlavi_yasna_53_4",
+      "target": "llm_yasna_53_old_avestan_concluding_poem",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_pahlavi_yasna_53_4",
+      "target": "llm_xw_d_dah_x_a_tuuada_a_next_of_kin_marriage",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_pahlavi_yasna_53_4",
+      "target": "llm_p_ru_ist_pourucist",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_pahlavi_yasna_53_4",
+      "target": "llm_zardu_x_t_zara_u_tra",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_pahlavi_yasna_53_4",
+      "target": "llm_j_m_sp",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_d_nkard_book_9_war_tm_nsr_and_bag_nasks",
+      "target": "llm_pahlavi_yasna_53_4",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_d_nkard_book_9_war_tm_nsr_and_bag_nasks",
+      "target": "llm_xw_d_dah_x_a_tuuada_a_next_of_kin_marriage",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_d_nkard_book_9_war_tm_nsr_and_bag_nasks",
+      "target": "llm_p_ru_ist_pourucist",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_pahlavi_riv_yat_accompanying_the_d_dest_n_d_n_g_8a_8o",
+      "target": "llm_xw_d_dah_x_a_tuuada_a_next_of_kin_marriage",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_pahlavi_riv_yat_accompanying_the_d_dest_n_d_n_g_8a_8o",
+      "target": "llm_zardu_x_t_zara_u_tra",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_wisprad_visperad_3_3_house_lady_and_xw_d_dah_passage",
+      "target": "llm_xw_d_dah_x_a_tuuada_a_next_of_kin_marriage",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_pahlavi_riv_yat_accompanying_the_d_dest_n_d_n_g_8a_8o",
+      "target": "llm_emic_pahlavi_hermeneutics_vs_boyce_kellens_antinomy",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_emic_pahlavi_hermeneutics_vs_boyce_kellens_antinomy",
+      "target": "llm_vad_mn_and_x_a_tu_semantic_debate",
+      "relation": "contrasts_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.75
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_p_ru_ist_zara_u_tra_and_j_m_sp_in_xw_d_dah_hermeneutics",
+      "label": "P\u014dru\u010dist\u0101, Zara\u03b8u\u0161tra, and J\u0101m\u0101sp in Xw\u0113d\u014ddah Hermeneutics",
+      "nodes": [
+        "llm_j_m_sp",
+        "llm_p_ru_ist_pourucist",
+        "llm_xw_d_dah_x_a_tuuada_a_next_of_kin_marriage",
+        "llm_zardu_x_t_zara_u_tra"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md"
+    },
+    {
+      "id": "hyper_pahlavi_yasna_d_nkard_riv_yat_intertextual_cluster",
+      "label": "Pahlavi Yasna\u2013D\u0113nkard\u2013Riv\u0101yat Intertextual Cluster",
+      "nodes": [
+        "llm_d_nkard_book_9_war_tm_nsr_and_bag_nasks",
+        "llm_emic_pahlavi_hermeneutics_vs_boyce_kellens_antinomy",
+        "llm_pahlavi_riv_yat_accompanying_the_d_dest_n_d_n_g_8a_8o",
+        "llm_pahlavi_yasna_53_4",
+        "llm_xw_d_dah_x_a_tuuada_a_next_of_kin_marriage"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 7672,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 12035,
+    "output_tokens_details": {
+      "reasoning_tokens": 9322
+    },
+    "total_tokens": 19707
+  }
+}

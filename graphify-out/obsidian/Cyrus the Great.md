@@ -1,33 +1,20 @@
 ---
-source_file: "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc 2.md"
+source_file: "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md"
 type: "document"
-community: "Iranian Kingship"
+community: "Mithraic Studies"
 location: "chunk 1/3"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Iranian_Kingship
+  - community/Mithraic_Studies
 ---
 
 # Cyrus the Great
 
 ## Connections
-- [[ABSTRACT]] - `references` [EXTRACTED]
-- [[ABSTRACT_1]] - `references` [EXTRACTED]
-- [[ABSTRACT_2]] - `references` [EXTRACTED]
 - [[ASTYAGES, CYRUS AND ZOROASTER SOLVING A HISTORICAL DILEMMA]] - `references` [EXTRACTED]
-- [[Ancient Iran Cosmology, Mythology, History_1]] - `references` [EXTRACTED]
-- [[Ancient Iran Cosmology, Mythology, History_2]] - `references` [EXTRACTED]
-- [[Contribution of Persia to World Civilization]] - `references` [EXTRACTED]
-- [[Contribution of Persia to the World Civilization]] - `references` [EXTRACTED]
-- [[Darius I]] - `references` [EXTRACTED]
-- [[Decorative blue oval graphicDecorative blue oval graphicContribution of Persia To World Civilization]] - `references` [EXTRACTED]
-- [[Decorative blue oval graphicDecorative blue oval graphicContribution of Persia To World Civilization_1]] - `references` [EXTRACTED]
-- [[Human Rights Charter]] - `references` [EXTRACTED]
-- [[Iranian Civilization]] - `references` [EXTRACTED]
-- [[Median Ideology]] - `participates_in` [INFERRED]
-- [[Persia]] - `references` [EXTRACTED]
-- [[Shahname]] - `references` [EXTRACTED]
-- [[Zoroastrianism]] - `references` [EXTRACTED]
+- [[François Vallat's Achaemenid Lineage and Banishment Thesis (Vallat 2010; 2011)]] - `conceptually_related_to` [EXTRACTED]
+- [[Median Mithra–Apam Napāt Khvarenah Ideology]] - `participates_in` [EXTRACTED]
+- [[Zoroastrian Priestly Rewriting of Iranian History]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Iranian_Kingship
+#graphify/document #graphify/EXTRACTED #community/Mithraic_Studies

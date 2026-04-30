@@ -1,0 +1,491 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_and_man_created_god_kings_priests_and_go_md",
+      "label": "AND MAN CREATED GOD? KINGS, PRIESTS AND GODS ON SASANIAN INVESTITURE RELIEFS",
+      "file_type": "document",
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_and_man_created_god_kings_priests_and_gods_on_sasanian_investiture_reliefs",
+      "label": "AND MAN CREATED GOD? KINGS, PRIESTS AND GODS ON SASANIAN INVESTITURE RELIEFS",
+      "file_type": "document",
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Bruno Overlaet",
+      "contributor": null
+    },
+    {
+      "id": "llm_naqsh_i_rustam_i_investiture_relief",
+      "label": "Naqsh-i Rustam I investiture relief",
+      "file_type": "document",
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ardashir_i_sasanian_king_of_kings",
+      "label": "Ardashir I, Sasanian King of Kings",
+      "file_type": "document",
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ahura_mazda_ohrmazd_equated_with_zeus_in_the_greek_inscription",
+      "label": "Ahura Mazda / Ohrmazd, equated with Zeus in the Greek inscription",
+      "file_type": "document",
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_naqsh_i_rustam_i_trilingual_horse_inscriptions_and_language_sequence_back_1978_281_282",
+      "label": "Naqsh-i Rustam I trilingual horse inscriptions and language sequence (Back 1978: 281-282)",
+      "file_type": "document",
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_conventional_divine_investiture_interpretation_of_sasanian_beribboned_ring_reliefs",
+      "label": "Conventional divine-investiture interpretation of Sasanian beribboned-ring reliefs",
+      "file_type": "document",
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_overlaet_s_priestly_investiture_reinterpretation_of_early_and_late_sasanian_reliefs",
+      "label": "Overlaet\u2019s priestly-investiture reinterpretation of early and late Sasanian reliefs",
+      "file_type": "document",
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_late_addition_hypothesis_for_the_ahura_mazda_inscription_end_of_ardashir_i_or_early_shapur_i_canepa_2010_576",
+      "label": "Late-addition hypothesis for the Ahura Mazda inscription, end of Ardashir I or early Shapur I (Canepa 2010: 576)",
+      "file_type": "document",
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_barsum_ritual_bundle_as_priestly_or_lower_divine_regalia",
+      "label": "Barsum ritual bundle as priestly or lower-divine regalia",
+      "file_type": "document",
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_beribboned_ring_as_possible_mithra_contract_covenant_or_pledge_token_kaim_2009_407_408",
+      "label": "Beribboned ring as possible mithra contract, covenant, or pledge token (Kaim 2009: 407-408)",
+      "file_type": "document",
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_d_dest_n_d_n_g_18_1_5_and_30_4_5_on_seeing_ohrmazd_jaafari_dehaghi_1998_73_93_grenet_2006",
+      "label": "D\u0101dest\u0101n \u012b d\u0113n\u012bg 18.1-5 and 30.4-5 on seeing Ohrmazd (Jaafari-Dehaghi 1998: 73, 93; Grenet 2006)",
+      "file_type": "document",
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_taq_i_bustan_iii_khusrow_ii_investiture_relief_reinterpreted_as_clergy_of_ahura_mazda_and_anahita_cults",
+      "label": "Taq-i Bustan III Khusrow II investiture relief, reinterpreted as clergy of Ahura Mazda and Anahita cults",
+      "file_type": "document",
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_and_man_created_god_kings_priests_and_go_md",
+      "target": "llm_ahura_mazda_ohrmazd_equated_with_zeus_in_the_greek_inscription",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_and_man_created_god_kings_priests_and_go_md",
+      "target": "llm_and_man_created_god_kings_priests_and_gods_on_sasanian_investiture_reliefs",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_and_man_created_god_kings_priests_and_go_md",
+      "target": "llm_ardashir_i_sasanian_king_of_kings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_and_man_created_god_kings_priests_and_go_md",
+      "target": "llm_barsum_ritual_bundle_as_priestly_or_lower_divine_regalia",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_and_man_created_god_kings_priests_and_go_md",
+      "target": "llm_beribboned_ring_as_possible_mithra_contract_covenant_or_pledge_token_kaim_2009_407_408",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_and_man_created_god_kings_priests_and_go_md",
+      "target": "llm_conventional_divine_investiture_interpretation_of_sasanian_beribboned_ring_reliefs",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_and_man_created_god_kings_priests_and_go_md",
+      "target": "llm_d_dest_n_d_n_g_18_1_5_and_30_4_5_on_seeing_ohrmazd_jaafari_dehaghi_1998_73_93_grenet_2006",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_and_man_created_god_kings_priests_and_go_md",
+      "target": "llm_late_addition_hypothesis_for_the_ahura_mazda_inscription_end_of_ardashir_i_or_early_shapur_i_canepa_2010_576",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_and_man_created_god_kings_priests_and_go_md",
+      "target": "llm_naqsh_i_rustam_i_investiture_relief",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_and_man_created_god_kings_priests_and_go_md",
+      "target": "llm_naqsh_i_rustam_i_trilingual_horse_inscriptions_and_language_sequence_back_1978_281_282",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_and_man_created_god_kings_priests_and_go_md",
+      "target": "llm_overlaet_s_priestly_investiture_reinterpretation_of_early_and_late_sasanian_reliefs",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_and_man_created_god_kings_priests_and_go_md",
+      "target": "llm_taq_i_bustan_iii_khusrow_ii_investiture_relief_reinterpreted_as_clergy_of_ahura_mazda_and_anahita_cults",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_and_man_created_god_kings_priests_and_gods_on_sasanian_investiture_reliefs",
+      "target": "llm_naqsh_i_rustam_i_investiture_relief",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_and_man_created_god_kings_priests_and_gods_on_sasanian_investiture_reliefs",
+      "target": "llm_conventional_divine_investiture_interpretation_of_sasanian_beribboned_ring_reliefs",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_and_man_created_god_kings_priests_and_gods_on_sasanian_investiture_reliefs",
+      "target": "llm_overlaet_s_priestly_investiture_reinterpretation_of_early_and_late_sasanian_reliefs",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_and_man_created_god_kings_priests_and_gods_on_sasanian_investiture_reliefs",
+      "target": "llm_d_dest_n_d_n_g_18_1_5_and_30_4_5_on_seeing_ohrmazd_jaafari_dehaghi_1998_73_93_grenet_2006",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_naqsh_i_rustam_i_investiture_relief",
+      "target": "llm_naqsh_i_rustam_i_trilingual_horse_inscriptions_and_language_sequence_back_1978_281_282",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_naqsh_i_rustam_i_trilingual_horse_inscriptions_and_language_sequence_back_1978_281_282",
+      "target": "llm_ardashir_i_sasanian_king_of_kings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_naqsh_i_rustam_i_trilingual_horse_inscriptions_and_language_sequence_back_1978_281_282",
+      "target": "llm_ahura_mazda_ohrmazd_equated_with_zeus_in_the_greek_inscription",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_naqsh_i_rustam_i_trilingual_horse_inscriptions_and_language_sequence_back_1978_281_282",
+      "target": "llm_conventional_divine_investiture_interpretation_of_sasanian_beribboned_ring_reliefs",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_naqsh_i_rustam_i_trilingual_horse_inscriptions_and_language_sequence_back_1978_281_282",
+      "target": "llm_late_addition_hypothesis_for_the_ahura_mazda_inscription_end_of_ardashir_i_or_early_shapur_i_canepa_2010_576",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_late_addition_hypothesis_for_the_ahura_mazda_inscription_end_of_ardashir_i_or_early_shapur_i_canepa_2010_576",
+      "target": "llm_overlaet_s_priestly_investiture_reinterpretation_of_early_and_late_sasanian_reliefs",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_overlaet_s_priestly_investiture_reinterpretation_of_early_and_late_sasanian_reliefs",
+      "target": "llm_conventional_divine_investiture_interpretation_of_sasanian_beribboned_ring_reliefs",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_barsum_ritual_bundle_as_priestly_or_lower_divine_regalia",
+      "target": "llm_overlaet_s_priestly_investiture_reinterpretation_of_early_and_late_sasanian_reliefs",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_barsum_ritual_bundle_as_priestly_or_lower_divine_regalia",
+      "target": "llm_ahura_mazda_ohrmazd_equated_with_zeus_in_the_greek_inscription",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_beribboned_ring_as_possible_mithra_contract_covenant_or_pledge_token_kaim_2009_407_408",
+      "target": "llm_conventional_divine_investiture_interpretation_of_sasanian_beribboned_ring_reliefs",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_beribboned_ring_as_possible_mithra_contract_covenant_or_pledge_token_kaim_2009_407_408",
+      "target": "llm_naqsh_i_rustam_i_investiture_relief",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_d_dest_n_d_n_g_18_1_5_and_30_4_5_on_seeing_ohrmazd_jaafari_dehaghi_1998_73_93_grenet_2006",
+      "target": "llm_ahura_mazda_ohrmazd_equated_with_zeus_in_the_greek_inscription",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_taq_i_bustan_iii_khusrow_ii_investiture_relief_reinterpreted_as_clergy_of_ahura_mazda_and_anahita_cults",
+      "target": "llm_overlaet_s_priestly_investiture_reinterpretation_of_early_and_late_sasanian_reliefs",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_conventional_divine_investiture_interpretation_of_sasanian_beribboned_ring_reliefs",
+      "target": "llm_taq_i_bustan_iii_khusrow_ii_investiture_relief_reinterpreted_as_clergy_of_ahura_mazda_and_anahita_cults",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.8
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_naqsh_i_rustam_i_inscriptional_identification_of_king_and_god",
+      "label": "Naqsh-i Rustam I inscriptional identification of king and god",
+      "nodes": [
+        "llm_ahura_mazda_ohrmazd_equated_with_zeus_in_the_greek_inscription",
+        "llm_ardashir_i_sasanian_king_of_kings",
+        "llm_naqsh_i_rustam_i_investiture_relief",
+        "llm_naqsh_i_rustam_i_trilingual_horse_inscriptions_and_language_sequence_back_1978_281_282"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md"
+    },
+    {
+      "id": "hyper_debate_over_divine_versus_priestly_investiture_on_sasanian_reliefs",
+      "label": "Debate over divine versus priestly investiture on Sasanian reliefs",
+      "nodes": [
+        "llm_barsum_ritual_bundle_as_priestly_or_lower_divine_regalia",
+        "llm_beribboned_ring_as_possible_mithra_contract_covenant_or_pledge_token_kaim_2009_407_408",
+        "llm_conventional_divine_investiture_interpretation_of_sasanian_beribboned_ring_reliefs",
+        "llm_late_addition_hypothesis_for_the_ahura_mazda_inscription_end_of_ardashir_i_or_early_shapur_i_canepa_2010_576",
+        "llm_overlaet_s_priestly_investiture_reinterpretation_of_early_and_late_sasanian_reliefs"
+      ],
+      "relation": "debate",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 6267,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 10073,
+    "output_tokens_details": {
+      "reasoning_tokens": 7250
+    },
+    "total_tokens": 16340
+  }
+}

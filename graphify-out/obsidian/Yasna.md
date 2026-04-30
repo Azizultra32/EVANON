@@ -13,6 +13,9 @@ tags:
 
 ## Connections
 - [[A History of Persian Literature Volume XVII]] - `references` [EXTRACTED]
+- [[Almut Hintze]] - `references` [EXTRACTED]
 - [[Avestan Literature]] - `references` [EXTRACTED]
+- [[The Gathas]] - `references` [EXTRACTED]
+- [[Yasna Haptan-hāiti]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Avestan_Texts

@@ -1,0 +1,481 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_md",
+      "label": "Gifts to a Magus",
+      "file_type": "document",
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zarathustra",
+      "label": "Zarathustra",
+      "file_type": "document",
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ahura_mazd",
+      "label": "Ahura Mazd\u0101",
+      "file_type": "document",
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ahuna_vairya_prayer_y_27_13",
+      "label": "Ahuna Vairya Prayer (Y. 27.13)",
+      "file_type": "document",
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_mazdayasnian_belief_da_n_m_zdayasni",
+      "label": "Mazdayasnian Belief (da\u0113n\u0101 m\u0101zdayasni)",
+      "file_type": "document",
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_yt_19_80_81_demons_retreat_before_zarathustra_s_ahuna_vairya",
+      "label": "Yt. 19.80\u201381: Demons Retreat Before Zarathustra\u2019s Ahuna Vairya",
+      "file_type": "document",
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_y_45_3_divine_maq_r_m_revelation_to_the_poet_priest",
+      "label": "Y. 45.3: Divine maq\u03b8r\u0259m Revelation to the Poet-Priest",
+      "file_type": "document",
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_article_argument_zarathustra_s_prophetic_and_priestly_authority_max_weber_typology",
+      "label": "Article Argument: Zarathustra\u2019s Prophetic and Priestly Authority (Max Weber Typology)",
+      "file_type": "document",
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_gathas_and_yasna_hapta_h_iti_ritual_y_28_9_y_34_4_15_n_rangest_n_47",
+      "label": "Gathas and Yasna Hapta\u1e45h\u0101iti Ritual (Y. 28.9; Y. 34.4,15; N\u0113rangest\u0101n 47)",
+      "file_type": "document",
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ritual_fire_as_ahura_mazd_s_presence_and_fra_k_r_ti_anticipation_y_36_2_6",
+      "label": "Ritual Fire as Ahura Mazd\u0101\u2019s Presence and fra\u0161\u014d.k\u0259r\u0259ti Anticipation (Y. 36.2\u20136)",
+      "file_type": "document",
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zara_u_tr_t_ma_zardu_tr_tom_zarathustra_like_priestly_authority",
+      "label": "zara\u03b8u\u0161tr\u014dt\u0259ma / zardu\u0161tr\u014dtom: Zarathustra-like Priestly Authority",
+      "file_type": "document",
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_women_priests_and_gender_inclusive_authority_y_41_2_y_26_7_n_rangest_n_22_n_10_35",
+      "label": "Women Priests and Gender-Inclusive Authority (Y. 41.2; Y. 26.7; N\u0113rangest\u0101n 22; \u0160n\u0160 10.35)",
+      "file_type": "document",
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_later_india_iran_hereditary_male_priesthood_defilement_rationale_and_paramobed_mobedyar_reforms",
+      "label": "Later India/Iran Hereditary Male Priesthood, Defilement Rationale, and Paramobed/Mobedyar Reforms",
+      "file_type": "document",
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_md",
+      "target": "llm_ahuna_vairya_prayer_y_27_13",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_md",
+      "target": "llm_ahura_mazd",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_md",
+      "target": "llm_article_argument_zarathustra_s_prophetic_and_priestly_authority_max_weber_typology",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_md",
+      "target": "llm_gathas_and_yasna_hapta_h_iti_ritual_y_28_9_y_34_4_15_n_rangest_n_47",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_md",
+      "target": "llm_later_india_iran_hereditary_male_priesthood_defilement_rationale_and_paramobed_mobedyar_reforms",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_md",
+      "target": "llm_mazdayasnian_belief_da_n_m_zdayasni",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_md",
+      "target": "llm_ritual_fire_as_ahura_mazd_s_presence_and_fra_k_r_ti_anticipation_y_36_2_6",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_md",
+      "target": "llm_women_priests_and_gender_inclusive_authority_y_41_2_y_26_7_n_rangest_n_22_n_10_35",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_md",
+      "target": "llm_y_45_3_divine_maq_r_m_revelation_to_the_poet_priest",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_md",
+      "target": "llm_yt_19_80_81_demons_retreat_before_zarathustra_s_ahuna_vairya",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_md",
+      "target": "llm_zara_u_tr_t_ma_zardu_tr_tom_zarathustra_like_priestly_authority",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_md",
+      "target": "llm_zarathustra",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_yt_19_80_81_demons_retreat_before_zarathustra_s_ahuna_vairya",
+      "target": "llm_zarathustra",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_yt_19_80_81_demons_retreat_before_zarathustra_s_ahuna_vairya",
+      "target": "llm_ahuna_vairya_prayer_y_27_13",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_yt_19_80_81_demons_retreat_before_zarathustra_s_ahuna_vairya",
+      "target": "llm_article_argument_zarathustra_s_prophetic_and_priestly_authority_max_weber_typology",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_ahuna_vairya_prayer_y_27_13",
+      "target": "llm_mazdayasnian_belief_da_n_m_zdayasni",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_ahuna_vairya_prayer_y_27_13",
+      "target": "llm_ahura_mazd",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_y_45_3_divine_maq_r_m_revelation_to_the_poet_priest",
+      "target": "llm_ahura_mazd",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.96,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_y_45_3_divine_maq_r_m_revelation_to_the_poet_priest",
+      "target": "llm_zarathustra",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.92,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_y_45_3_divine_maq_r_m_revelation_to_the_poet_priest",
+      "target": "llm_article_argument_zarathustra_s_prophetic_and_priestly_authority_max_weber_typology",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zarathustra",
+      "target": "llm_mazdayasnian_belief_da_n_m_zdayasni",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.92,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_gathas_and_yasna_hapta_h_iti_ritual_y_28_9_y_34_4_15_n_rangest_n_47",
+      "target": "llm_article_argument_zarathustra_s_prophetic_and_priestly_authority_max_weber_typology",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_gathas_and_yasna_hapta_h_iti_ritual_y_28_9_y_34_4_15_n_rangest_n_47",
+      "target": "llm_ritual_fire_as_ahura_mazd_s_presence_and_fra_k_r_ti_anticipation_y_36_2_6",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_ritual_fire_as_ahura_mazd_s_presence_and_fra_k_r_ti_anticipation_y_36_2_6",
+      "target": "llm_ahura_mazd",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_ritual_fire_as_ahura_mazd_s_presence_and_fra_k_r_ti_anticipation_y_36_2_6",
+      "target": "llm_article_argument_zarathustra_s_prophetic_and_priestly_authority_max_weber_typology",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.72,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.7
+    },
+    {
+      "source": "llm_zara_u_tr_t_ma_zardu_tr_tom_zarathustra_like_priestly_authority",
+      "target": "llm_zarathustra",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.97,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zara_u_tr_t_ma_zardu_tr_tom_zarathustra_like_priestly_authority",
+      "target": "llm_article_argument_zarathustra_s_prophetic_and_priestly_authority_max_weber_typology",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_women_priests_and_gender_inclusive_authority_y_41_2_y_26_7_n_rangest_n_22_n_10_35",
+      "target": "llm_article_argument_zarathustra_s_prophetic_and_priestly_authority_max_weber_typology",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.7
+    },
+    {
+      "source": "llm_women_priests_and_gender_inclusive_authority_y_41_2_y_26_7_n_rangest_n_22_n_10_35",
+      "target": "llm_later_india_iran_hereditary_male_priesthood_defilement_rationale_and_paramobed_mobedyar_reforms",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.93,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_evidence_for_zarathustra_s_prophetic_and_priestly_authority",
+      "label": "Evidence for Zarathustra\u2019s Prophetic and Priestly Authority",
+      "nodes": [
+        "llm_ahura_mazd",
+        "llm_article_argument_zarathustra_s_prophetic_and_priestly_authority_max_weber_typology",
+        "llm_gathas_and_yasna_hapta_h_iti_ritual_y_28_9_y_34_4_15_n_rangest_n_47",
+        "llm_y_45_3_divine_maq_r_m_revelation_to_the_poet_priest",
+        "llm_zara_u_tr_t_ma_zardu_tr_tom_zarathustra_like_priestly_authority",
+        "llm_zarathustra"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.92,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md"
+    },
+    {
+      "id": "hyper_gender_and_priesthood_across_avestan_pahlavi_persian_and_contemporary_zoroastrian_practice",
+      "label": "Gender and Priesthood across Avestan, Pahlavi, Persian, and Contemporary Zoroastrian Practice",
+      "nodes": [
+        "llm_later_india_iran_hereditary_male_priesthood_defilement_rationale_and_paramobed_mobedyar_reforms",
+        "llm_women_priests_and_gender_inclusive_authority_y_41_2_y_26_7_n_rangest_n_22_n_10_35",
+        "llm_zara_u_tr_t_ma_zardu_tr_tom_zarathustra_like_priestly_authority"
+      ],
+      "relation": "debate",
+      "confidence": "INFERRED",
+      "confidence_score": 0.78,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 6668,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 12507,
+    "output_tokens_details": {
+      "reasoning_tokens": 9794
+    },
+    "total_tokens": 19175
+  }
+}

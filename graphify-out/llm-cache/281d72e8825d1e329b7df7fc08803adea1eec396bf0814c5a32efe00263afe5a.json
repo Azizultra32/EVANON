@@ -1,0 +1,490 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "label": "PROBLEMS OF ARMENIAN PREHISTORY",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_aram_as_the_black_thunder_god_petrosyan_2002_43ff",
+      "label": "Aram as the 'Black' Thunder God (Petrosyan 2002:43ff.)",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_bar_am_bar_amin_as_white_adversary_khorenatsi_1_14_agathangelos_784",
+      "label": "Bar\u0161am/Bar\u0161amin as White Adversary (Khorenatsi 1.14; Agathangelos 784)",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_r_ma_par_ur_ma_vs_arjuna_k_rtav_rya_parallel_mah_bh_rata_3_115_116_pur_as",
+      "label": "R\u0101ma-Par\u0101\u015bur\u0101ma vs Arjuna K\u0101rtav\u012brya Parallel (Mah\u0101bh\u0101rata 3.115-116; Pur\u0101\u1e47as)",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_armeno_urartian_onomastic_parallels_with_armenian_c",
+      "label": "Armeno-Urartian Onomastic Parallels with Armenian /c/",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_earliest_armenians_in_the_armenian_highland_before_urartu",
+      "label": "Earliest Armenians in the Armenian Highland before Urartu",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_problem_of_identifying_and_localizing_the_proto_armenians",
+      "label": "Problem of Identifying and Localizing the Proto-Armenians",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_armenian_ethnogonic_legends_as_epicized_creation_myth_khorenatsi_anonym_seb_os",
+      "label": "Armenian Ethnogonic Legends as Epicized Creation Myth (Khorenatsi; Anonym/Seb\u0113os)",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_hayk_s_settlement_in_hark_and_victory_over_bel_nimrod",
+      "label": "Hayk's Settlement in Hark\u2018 and Victory over Bel/Nimrod",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_aramaneak_s_move_to_ayrarat_as_beginning_of_real_armenia",
+      "label": "Aramaneak's Move to Ayrarat as Beginning of 'Real Armenia'",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_indo_european_trifunctional_triad_hayk_aram_ara",
+      "label": "Indo-European Trifunctional Triad: Hayk, Aram, Ara",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_greek_phrygian_origin_testimonia_herodotus_7_73_eudoxus",
+      "label": "Greek Phrygian-Origin Testimonia (Herodotus 7.73; Eudoxus)",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_urartu_s_non_armenian_language_and_the_late_immigration_thesis",
+      "label": "Urartu's Non-Armenian Language and the Late-Immigration Thesis",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_aram_as_the_black_thunder_god_petrosyan_2002_43ff",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_aramaneak_s_move_to_ayrarat_as_beginning_of_real_armenia",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_armenian_ethnogonic_legends_as_epicized_creation_myth_khorenatsi_anonym_seb_os",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_armeno_urartian_onomastic_parallels_with_armenian_c",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_bar_am_bar_amin_as_white_adversary_khorenatsi_1_14_agathangelos_784",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_earliest_armenians_in_the_armenian_highland_before_urartu",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_greek_phrygian_origin_testimonia_herodotus_7_73_eudoxus",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_hayk_s_settlement_in_hark_and_victory_over_bel_nimrod",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_indo_european_trifunctional_triad_hayk_aram_ara",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_problem_of_identifying_and_localizing_the_proto_armenians",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_r_ma_par_ur_ma_vs_arjuna_k_rtav_rya_parallel_mah_bh_rata_3_115_116_pur_as",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_urartu_s_non_armenian_language_and_the_late_immigration_thesis",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_aram_as_the_black_thunder_god_petrosyan_2002_43ff",
+      "target": "llm_bar_am_bar_amin_as_white_adversary_khorenatsi_1_14_agathangelos_784",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_bar_am_bar_amin_as_white_adversary_khorenatsi_1_14_agathangelos_784",
+      "target": "llm_aram_as_the_black_thunder_god_petrosyan_2002_43ff",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_r_ma_par_ur_ma_vs_arjuna_k_rtav_rya_parallel_mah_bh_rata_3_115_116_pur_as",
+      "target": "llm_aram_as_the_black_thunder_god_petrosyan_2002_43ff",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_aram_as_the_black_thunder_god_petrosyan_2002_43ff",
+      "target": "llm_r_ma_par_ur_ma_vs_arjuna_k_rtav_rya_parallel_mah_bh_rata_3_115_116_pur_as",
+      "relation": "semantically_similar_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_armeno_urartian_onomastic_parallels_with_armenian_c",
+      "target": "llm_earliest_armenians_in_the_armenian_highland_before_urartu",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_armeno_urartian_onomastic_parallels_with_armenian_c",
+      "target": "llm_problem_of_identifying_and_localizing_the_proto_armenians",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_problem_of_identifying_and_localizing_the_proto_armenians",
+      "target": "llm_armenian_ethnogonic_legends_as_epicized_creation_myth_khorenatsi_anonym_seb_os",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.8,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_armenian_ethnogonic_legends_as_epicized_creation_myth_khorenatsi_anonym_seb_os",
+      "target": "llm_hayk_s_settlement_in_hark_and_victory_over_bel_nimrod",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_armenian_ethnogonic_legends_as_epicized_creation_myth_khorenatsi_anonym_seb_os",
+      "target": "llm_aramaneak_s_move_to_ayrarat_as_beginning_of_real_armenia",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_hayk_s_settlement_in_hark_and_victory_over_bel_nimrod",
+      "target": "llm_aramaneak_s_move_to_ayrarat_as_beginning_of_real_armenia",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_hayk_s_settlement_in_hark_and_victory_over_bel_nimrod",
+      "target": "llm_indo_european_trifunctional_triad_hayk_aram_ara",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_aram_as_the_black_thunder_god_petrosyan_2002_43ff",
+      "target": "llm_indo_european_trifunctional_triad_hayk_aram_ara",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_indo_european_trifunctional_triad_hayk_aram_ara",
+      "target": "llm_armenian_ethnogonic_legends_as_epicized_creation_myth_khorenatsi_anonym_seb_os",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.8,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_greek_phrygian_origin_testimonia_herodotus_7_73_eudoxus",
+      "target": "llm_problem_of_identifying_and_localizing_the_proto_armenians",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_greek_phrygian_origin_testimonia_herodotus_7_73_eudoxus",
+      "target": "llm_armenian_ethnogonic_legends_as_epicized_creation_myth_khorenatsi_anonym_seb_os",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.75,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.75
+    },
+    {
+      "source": "llm_urartu_s_non_armenian_language_and_the_late_immigration_thesis",
+      "target": "llm_problem_of_identifying_and_localizing_the_proto_armenians",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_urartu_s_non_armenian_language_and_the_late_immigration_thesis",
+      "target": "llm_earliest_armenians_in_the_armenian_highland_before_urartu",
+      "relation": "contrasts_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_aramaneak_s_move_to_ayrarat_as_beginning_of_real_armenia",
+      "target": "llm_earliest_armenians_in_the_armenian_highland_before_urartu",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.75
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_black_white_thunder_god_mythic_comparison",
+      "label": "Black/White Thunder-God Mythic Comparison",
+      "nodes": [
+        "llm_aram_as_the_black_thunder_god_petrosyan_2002_43ff",
+        "llm_bar_am_bar_amin_as_white_adversary_khorenatsi_1_14_agathangelos_784",
+        "llm_r_ma_par_ur_ma_vs_arjuna_k_rtav_rya_parallel_mah_bh_rata_3_115_116_pur_as"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md"
+    },
+    {
+      "id": "hyper_evidence_and_debate_on_proto_armenian_origins",
+      "label": "Evidence and Debate on Proto-Armenian Origins",
+      "nodes": [
+        "llm_armeno_urartian_onomastic_parallels_with_armenian_c",
+        "llm_earliest_armenians_in_the_armenian_highland_before_urartu",
+        "llm_greek_phrygian_origin_testimonia_herodotus_7_73_eudoxus",
+        "llm_problem_of_identifying_and_localizing_the_proto_armenians",
+        "llm_urartu_s_non_armenian_language_and_the_late_immigration_thesis"
+      ],
+      "relation": "debate",
+      "confidence": "INFERRED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 6777,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 8489,
+    "output_tokens_details": {
+      "reasoning_tokens": 5696
+    },
+    "total_tokens": 15266
+  }
+}

@@ -1,0 +1,493 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_abraham_and_nimrod_in_the_shadow_of_zar_md",
+      "label": "--- Abraham and Nimrod in the Shadow of Zarathustra\\*",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_abraham_and_nimrod_in_the_shadow_of_zarathustra",
+      "label": "Abraham and Nimrod in the Shadow of Zarathustra",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "source_url": "http://www.jstor.org/stable/10.1086/678533",
+      "captured_at": null,
+      "author": "Yishai Kiel",
+      "contributor": null
+    },
+    {
+      "id": "llm_zarathustra",
+      "label": "Zarathustra",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_abraham",
+      "label": "Abraham",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_nimrod",
+      "label": "Nimrod",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_abraham_in_the_fiery_furnace_narrative",
+      "label": "Abraham in the Fiery Furnace Narrative",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_genesis_rabbah",
+      "label": "Genesis Rabbah",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_second_temple_abraham_fire_exegesis_jubilees_and_pseudo_philo",
+      "label": "Second Temple Abraham-Fire Exegesis (Jubilees and Pseudo-Philo)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_qur_an_abraham_fire_scene_29_24_21_68_37_97",
+      "label": "Qur'an Abraham Fire Scene (29:24; 21:68; 37:97)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_greek_traditions_of_zarathustra_s_fiery_ordeal",
+      "label": "Greek Traditions of Zarathustra's Fiery Ordeal",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zoroastrian_fire_cult",
+      "label": "Zoroastrian Fire-Cult",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_greek_christian_identification_of_nimrod_with_zarathustra",
+      "label": "Greek-Christian Identification of Nimrod with Zarathustra",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_argument_genesis_rabbah_engages_and_reverses_greek_zarathustra_traditions",
+      "label": "Argument: Genesis Rabbah Engages and Reverses Greek Zarathustra Traditions",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_abraham_and_nimrod_in_the_shadow_of_zar_md",
+      "target": "llm_abraham",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abraham_and_nimrod_in_the_shadow_of_zar_md",
+      "target": "llm_abraham_and_nimrod_in_the_shadow_of_zarathustra",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abraham_and_nimrod_in_the_shadow_of_zar_md",
+      "target": "llm_abraham_in_the_fiery_furnace_narrative",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abraham_and_nimrod_in_the_shadow_of_zar_md",
+      "target": "llm_argument_genesis_rabbah_engages_and_reverses_greek_zarathustra_traditions",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abraham_and_nimrod_in_the_shadow_of_zar_md",
+      "target": "llm_genesis_rabbah",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abraham_and_nimrod_in_the_shadow_of_zar_md",
+      "target": "llm_greek_christian_identification_of_nimrod_with_zarathustra",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abraham_and_nimrod_in_the_shadow_of_zar_md",
+      "target": "llm_greek_traditions_of_zarathustra_s_fiery_ordeal",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abraham_and_nimrod_in_the_shadow_of_zar_md",
+      "target": "llm_nimrod",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abraham_and_nimrod_in_the_shadow_of_zar_md",
+      "target": "llm_qur_an_abraham_fire_scene_29_24_21_68_37_97",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abraham_and_nimrod_in_the_shadow_of_zar_md",
+      "target": "llm_second_temple_abraham_fire_exegesis_jubilees_and_pseudo_philo",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abraham_and_nimrod_in_the_shadow_of_zar_md",
+      "target": "llm_zarathustra",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abraham_and_nimrod_in_the_shadow_of_zar_md",
+      "target": "llm_zoroastrian_fire_cult",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_abraham_and_nimrod_in_the_shadow_of_zarathustra",
+      "target": "llm_abraham_in_the_fiery_furnace_narrative",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_abraham_and_nimrod_in_the_shadow_of_zarathustra",
+      "target": "llm_genesis_rabbah",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_abraham_and_nimrod_in_the_shadow_of_zarathustra",
+      "target": "llm_argument_genesis_rabbah_engages_and_reverses_greek_zarathustra_traditions",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_abraham",
+      "target": "llm_abraham_in_the_fiery_furnace_narrative",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.99,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_nimrod",
+      "target": "llm_abraham_in_the_fiery_furnace_narrative",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.99,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_abraham_in_the_fiery_furnace_narrative",
+      "target": "llm_genesis_rabbah",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.96,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_second_temple_abraham_fire_exegesis_jubilees_and_pseudo_philo",
+      "target": "llm_abraham_in_the_fiery_furnace_narrative",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_qur_an_abraham_fire_scene_29_24_21_68_37_97",
+      "target": "llm_abraham_in_the_fiery_furnace_narrative",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.92,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_zarathustra",
+      "target": "llm_greek_traditions_of_zarathustra_s_fiery_ordeal",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.96,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_greek_traditions_of_zarathustra_s_fiery_ordeal",
+      "target": "llm_abraham_in_the_fiery_furnace_narrative",
+      "relation": "semantically_similar_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_greek_traditions_of_zarathustra_s_fiery_ordeal",
+      "target": "llm_argument_genesis_rabbah_engages_and_reverses_greek_zarathustra_traditions",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_zoroastrian_fire_cult",
+      "target": "llm_argument_genesis_rabbah_engages_and_reverses_greek_zarathustra_traditions",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.93,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_nimrod",
+      "target": "llm_zoroastrian_fire_cult",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.91,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_greek_christian_identification_of_nimrod_with_zarathustra",
+      "target": "llm_argument_genesis_rabbah_engages_and_reverses_greek_zarathustra_traditions",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_nimrod",
+      "target": "llm_zarathustra",
+      "relation": "semantically_similar_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.87,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.88
+    },
+    {
+      "source": "llm_abraham",
+      "target": "llm_zarathustra",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.72,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.7
+    },
+    {
+      "source": "llm_abraham",
+      "target": "llm_nimrod",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_abraham",
+      "target": "llm_zarathustra",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.8,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.75
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_abraham_nimrod_zarathustra_identification_and_role_reversal_debate",
+      "label": "Abraham-Nimrod-Zarathustra Identification and Role-Reversal Debate",
+      "nodes": [
+        "llm_abraham",
+        "llm_argument_genesis_rabbah_engages_and_reverses_greek_zarathustra_traditions",
+        "llm_greek_christian_identification_of_nimrod_with_zarathustra",
+        "llm_greek_traditions_of_zarathustra_s_fiery_ordeal",
+        "llm_nimrod",
+        "llm_zarathustra",
+        "llm_zoroastrian_fire_cult"
+      ],
+      "relation": "debate",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md"
+    },
+    {
+      "id": "hyper_abraham_fire_narrative_in_jewish_and_islamic_exegetical_contexts",
+      "label": "Abraham Fire Narrative in Jewish and Islamic Exegetical Contexts",
+      "nodes": [
+        "llm_abraham_in_the_fiery_furnace_narrative",
+        "llm_genesis_rabbah",
+        "llm_qur_an_abraham_fire_scene_29_24_21_68_37_97",
+        "llm_second_temple_abraham_fire_exegesis_jubilees_and_pseudo_philo"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 6348,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 15017,
+    "output_tokens_details": {
+      "reasoning_tokens": 12430
+    },
+    "total_tokens": 21365
+  }
+}

@@ -1,0 +1,490 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_2_md",
+      "label": "**THE AURA OF KINGS**",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_the_aura_of_kings_legitimacy_and_divine_sanction_in_iranian_kingship",
+      "label": "The Aura of Kings: Legitimacy and Divine Sanction in Iranian Kingship",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Abolala Soudavar",
+      "contributor": null
+    },
+    {
+      "id": "llm_farr_khvarnah_divine_glory",
+      "label": "Farr / Khvarnah / Divine Glory",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_legitimacy_and_divine_sanction_in_iranian_kingship",
+      "label": "Legitimacy and Divine Sanction in Iranian Kingship",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_argument_for_studying_the_visual_symbolism_of_farr",
+      "label": "Argument for Studying the Visual Symbolism of Farr",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_iconography_as_a_tool_of_historiography",
+      "label": "Iconography as a Tool of Historiography",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_great_il_kh_nid_sh_hn_me_and_mongol_legitimacy_program",
+      "label": "Great Il-Kh\u0101nid Sh\u0101hn\u0101me and Mongol Legitimacy Program",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_sasanian_relief_figures_as_deities_not_mortals",
+      "label": "Sasanian Relief Figures as Deities, Not Mortals",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_latent_pre_zoroaster_mithr_ic_undercurrent_argument",
+      "label": "Latent Pre-Zoroaster Mithr\u0101ic Undercurrent Argument",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_achaemenid_winged_disk_ahura_mazd_or_khvarnah_debate",
+      "label": "Achaemenid Winged-Disk: Ahura-Mazd\u0101 or Khvarnah Debate",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_p_lecq_ahura_mazda_ou_xvarnah_1984",
+      "label": "P. Lecq, \u201cAhura Mazda ou Xvarnah?\u201d (1984)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_s_shahbazi_an_achemenid_symbol_ii_farnah_1980",
+      "label": "S. Shahbazi, \u201cAn Achemenid Symbol. II. Farnah\u2026\u201d (1980)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_z_my_d_yasht",
+      "label": "Z\u0101my\u0101d Yasht",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_2_md",
+      "target": "llm_achaemenid_winged_disk_ahura_mazd_or_khvarnah_debate",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_2_md",
+      "target": "llm_argument_for_studying_the_visual_symbolism_of_farr",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_2_md",
+      "target": "llm_farr_khvarnah_divine_glory",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_2_md",
+      "target": "llm_great_il_kh_nid_sh_hn_me_and_mongol_legitimacy_program",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_2_md",
+      "target": "llm_iconography_as_a_tool_of_historiography",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_2_md",
+      "target": "llm_latent_pre_zoroaster_mithr_ic_undercurrent_argument",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_2_md",
+      "target": "llm_legitimacy_and_divine_sanction_in_iranian_kingship",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_2_md",
+      "target": "llm_p_lecq_ahura_mazda_ou_xvarnah_1984",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_2_md",
+      "target": "llm_s_shahbazi_an_achemenid_symbol_ii_farnah_1980",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_2_md",
+      "target": "llm_sasanian_relief_figures_as_deities_not_mortals",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_2_md",
+      "target": "llm_the_aura_of_kings_legitimacy_and_divine_sanction_in_iranian_kingship",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_2_md",
+      "target": "llm_z_my_d_yasht",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_the_aura_of_kings_legitimacy_and_divine_sanction_in_iranian_kingship",
+      "target": "llm_farr_khvarnah_divine_glory",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_the_aura_of_kings_legitimacy_and_divine_sanction_in_iranian_kingship",
+      "target": "llm_legitimacy_and_divine_sanction_in_iranian_kingship",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_farr_khvarnah_divine_glory",
+      "target": "llm_legitimacy_and_divine_sanction_in_iranian_kingship",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.96,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_argument_for_studying_the_visual_symbolism_of_farr",
+      "target": "llm_farr_khvarnah_divine_glory",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_iconography_as_a_tool_of_historiography",
+      "target": "llm_argument_for_studying_the_visual_symbolism_of_farr",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_great_il_kh_nid_sh_hn_me_and_mongol_legitimacy_program",
+      "target": "llm_iconography_as_a_tool_of_historiography",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_great_il_kh_nid_sh_hn_me_and_mongol_legitimacy_program",
+      "target": "llm_farr_khvarnah_divine_glory",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_great_il_kh_nid_sh_hn_me_and_mongol_legitimacy_program",
+      "target": "llm_legitimacy_and_divine_sanction_in_iranian_kingship",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_iconography_as_a_tool_of_historiography",
+      "target": "llm_sasanian_relief_figures_as_deities_not_mortals",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_latent_pre_zoroaster_mithr_ic_undercurrent_argument",
+      "target": "llm_argument_for_studying_the_visual_symbolism_of_farr",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.92,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_latent_pre_zoroaster_mithr_ic_undercurrent_argument",
+      "target": "llm_farr_khvarnah_divine_glory",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_achaemenid_winged_disk_ahura_mazd_or_khvarnah_debate",
+      "target": "llm_farr_khvarnah_divine_glory",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.96,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_s_shahbazi_an_achemenid_symbol_ii_farnah_1980",
+      "target": "llm_achaemenid_winged_disk_ahura_mazd_or_khvarnah_debate",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_p_lecq_ahura_mazda_ou_xvarnah_1984",
+      "target": "llm_achaemenid_winged_disk_ahura_mazd_or_khvarnah_debate",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_p_lecq_ahura_mazda_ou_xvarnah_1984",
+      "target": "llm_s_shahbazi_an_achemenid_symbol_ii_farnah_1980",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_the_aura_of_kings_legitimacy_and_divine_sanction_in_iranian_kingship",
+      "target": "llm_p_lecq_ahura_mazda_ou_xvarnah_1984",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_the_aura_of_kings_legitimacy_and_divine_sanction_in_iranian_kingship",
+      "target": "llm_s_shahbazi_an_achemenid_symbol_ii_farnah_1980",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_z_my_d_yasht",
+      "target": "llm_farr_khvarnah_divine_glory",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.85
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_achaemenid_winged_disk_interpretation_debate",
+      "label": "Achaemenid Winged-Disk Interpretation Debate",
+      "nodes": [
+        "llm_achaemenid_winged_disk_ahura_mazd_or_khvarnah_debate",
+        "llm_farr_khvarnah_divine_glory",
+        "llm_p_lecq_ahura_mazda_ou_xvarnah_1984",
+        "llm_s_shahbazi_an_achemenid_symbol_ii_farnah_1980"
+      ],
+      "relation": "debate",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md"
+    },
+    {
+      "id": "hyper_farr_iconography_and_mithr_ic_legacy_as_interpretive_method",
+      "label": "Farr, Iconography, and Mithr\u0101ic Legacy as Interpretive Method",
+      "nodes": [
+        "llm_argument_for_studying_the_visual_symbolism_of_farr",
+        "llm_farr_khvarnah_divine_glory",
+        "llm_iconography_as_a_tool_of_historiography",
+        "llm_latent_pre_zoroaster_mithr_ic_undercurrent_argument"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 6008,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 11693,
+    "output_tokens_details": {
+      "reasoning_tokens": 8801
+    },
+    "total_tokens": 17701
+  }
+}

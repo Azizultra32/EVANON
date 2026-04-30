@@ -1,0 +1,492 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_md",
+      "label": "Bulletin of the Asia Institute",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_aniconism_in_the_religious_art_of_pre_islamic_iran_and_central_asia",
+      "label": "Aniconism in the Religious Art of Pre-Islamic Iran and Central Asia",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_michael_shenkar",
+      "label": "Michael Shenkar",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_iranian_world_geographic_scope_hindu_kush_to_zagros_steppe_zone_to_persian_gulf",
+      "label": "Iranian World Geographic Scope: Hindu Kush to Zagros, Steppe Zone to Persian Gulf",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_t_d_n_mettinger_s_aniconism_framework_including_no_graven_image",
+      "label": "T. D. N. Mettinger\u2019s Aniconism Framework, including No Graven Image?",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_material_aniconism",
+      "label": "Material Aniconism",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_empty_space_aniconism",
+      "label": "Empty-space Aniconism",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_semi_aniconism_and_elemental_aniconism",
+      "label": "Semi-aniconism and Elemental Aniconism",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_anthropomorphic_mental_notions_of_deity_despite_aniconic_cult_objects",
+      "label": "Anthropomorphic Mental Notions of Deity despite Aniconic Cult Objects",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_argument_iranian_aniconism_includes_multiple_categories_and_tension_between_aniconic_symbols_and_anthropomorphic_divine_conceptions",
+      "label": "Argument: Iranian Aniconism Includes Multiple Categories and Tension between Aniconic Symbols and Anthropomorphic Divine Conceptions",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_avesta_and_rig_veda_as_early_indo_iranian_religious_texts",
+      "label": "Avesta and Rig Veda as Early Indo-Iranian Religious Texts",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_scythian_alan_sword_akinakes_cult_attested_by_herodotus_and_ammianus_marcellinus",
+      "label": "Scythian/Alan Sword-Akinakes Cult attested by Herodotus and Ammianus Marcellinus",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_debate_zoomorphic_symbols_in_iranian_art_as_deity_representations",
+      "label": "Debate: Zoomorphic Symbols in Iranian Art as Deity Representations",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_md",
+      "target": "llm_aniconism_in_the_religious_art_of_pre_islamic_iran_and_central_asia",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_md",
+      "target": "llm_anthropomorphic_mental_notions_of_deity_despite_aniconic_cult_objects",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_md",
+      "target": "llm_argument_iranian_aniconism_includes_multiple_categories_and_tension_between_aniconic_symbols_and_anthropomorphic_divine_conceptions",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_md",
+      "target": "llm_avesta_and_rig_veda_as_early_indo_iranian_religious_texts",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_md",
+      "target": "llm_debate_zoomorphic_symbols_in_iranian_art_as_deity_representations",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_md",
+      "target": "llm_empty_space_aniconism",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_md",
+      "target": "llm_iranian_world_geographic_scope_hindu_kush_to_zagros_steppe_zone_to_persian_gulf",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_md",
+      "target": "llm_material_aniconism",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_md",
+      "target": "llm_michael_shenkar",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_md",
+      "target": "llm_scythian_alan_sword_akinakes_cult_attested_by_herodotus_and_ammianus_marcellinus",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_md",
+      "target": "llm_semi_aniconism_and_elemental_aniconism",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_md",
+      "target": "llm_t_d_n_mettinger_s_aniconism_framework_including_no_graven_image",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_michael_shenkar",
+      "target": "llm_aniconism_in_the_religious_art_of_pre_islamic_iran_and_central_asia",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_aniconism_in_the_religious_art_of_pre_islamic_iran_and_central_asia",
+      "target": "llm_iranian_world_geographic_scope_hindu_kush_to_zagros_steppe_zone_to_persian_gulf",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.96,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_aniconism_in_the_religious_art_of_pre_islamic_iran_and_central_asia",
+      "target": "llm_t_d_n_mettinger_s_aniconism_framework_including_no_graven_image",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_t_d_n_mettinger_s_aniconism_framework_including_no_graven_image",
+      "target": "llm_material_aniconism",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_t_d_n_mettinger_s_aniconism_framework_including_no_graven_image",
+      "target": "llm_empty_space_aniconism",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_t_d_n_mettinger_s_aniconism_framework_including_no_graven_image",
+      "target": "llm_anthropomorphic_mental_notions_of_deity_despite_aniconic_cult_objects",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_aniconism_in_the_religious_art_of_pre_islamic_iran_and_central_asia",
+      "target": "llm_argument_iranian_aniconism_includes_multiple_categories_and_tension_between_aniconic_symbols_and_anthropomorphic_divine_conceptions",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_material_aniconism",
+      "target": "llm_argument_iranian_aniconism_includes_multiple_categories_and_tension_between_aniconic_symbols_and_anthropomorphic_divine_conceptions",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.96,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_empty_space_aniconism",
+      "target": "llm_argument_iranian_aniconism_includes_multiple_categories_and_tension_between_aniconic_symbols_and_anthropomorphic_divine_conceptions",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.96,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_semi_aniconism_and_elemental_aniconism",
+      "target": "llm_argument_iranian_aniconism_includes_multiple_categories_and_tension_between_aniconic_symbols_and_anthropomorphic_divine_conceptions",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_anthropomorphic_mental_notions_of_deity_despite_aniconic_cult_objects",
+      "target": "llm_argument_iranian_aniconism_includes_multiple_categories_and_tension_between_aniconic_symbols_and_anthropomorphic_divine_conceptions",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_aniconism_in_the_religious_art_of_pre_islamic_iran_and_central_asia",
+      "target": "llm_avesta_and_rig_veda_as_early_indo_iranian_religious_texts",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_avesta_and_rig_veda_as_early_indo_iranian_religious_texts",
+      "target": "llm_anthropomorphic_mental_notions_of_deity_despite_aniconic_cult_objects",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_avesta_and_rig_veda_as_early_indo_iranian_religious_texts",
+      "target": "llm_argument_iranian_aniconism_includes_multiple_categories_and_tension_between_aniconic_symbols_and_anthropomorphic_divine_conceptions",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_aniconism_in_the_religious_art_of_pre_islamic_iran_and_central_asia",
+      "target": "llm_scythian_alan_sword_akinakes_cult_attested_by_herodotus_and_ammianus_marcellinus",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_scythian_alan_sword_akinakes_cult_attested_by_herodotus_and_ammianus_marcellinus",
+      "target": "llm_material_aniconism",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.96,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_debate_zoomorphic_symbols_in_iranian_art_as_deity_representations",
+      "target": "llm_material_aniconism",
+      "relation": "participates_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.78,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.7
+    },
+    {
+      "source": "llm_avesta_and_rig_veda_as_early_indo_iranian_religious_texts",
+      "target": "llm_debate_zoomorphic_symbols_in_iranian_art_as_deity_representations",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.75
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_mettinger_s_categories_applied_to_iranian_material",
+      "label": "Mettinger\u2019s Categories Applied to Iranian Material",
+      "nodes": [
+        "llm_aniconism_in_the_religious_art_of_pre_islamic_iran_and_central_asia",
+        "llm_anthropomorphic_mental_notions_of_deity_despite_aniconic_cult_objects",
+        "llm_argument_iranian_aniconism_includes_multiple_categories_and_tension_between_aniconic_symbols_and_anthropomorphic_divine_conceptions",
+        "llm_empty_space_aniconism",
+        "llm_material_aniconism",
+        "llm_semi_aniconism_and_elemental_aniconism",
+        "llm_t_d_n_mettinger_s_aniconism_framework_including_no_graven_image"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.92,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md"
+    },
+    {
+      "id": "hyper_sword_akinakes_worship_as_a_case_of_iranian_material_aniconism",
+      "label": "Sword-Akinakes Worship as a Case of Iranian Material Aniconism",
+      "nodes": [
+        "llm_argument_iranian_aniconism_includes_multiple_categories_and_tension_between_aniconic_symbols_and_anthropomorphic_divine_conceptions",
+        "llm_material_aniconism",
+        "llm_scythian_alan_sword_akinakes_cult_attested_by_herodotus_and_ammianus_marcellinus"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 5480,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 8396,
+    "output_tokens_details": {
+      "reasoning_tokens": 5696
+    },
+    "total_tokens": 13876
+  }
+}

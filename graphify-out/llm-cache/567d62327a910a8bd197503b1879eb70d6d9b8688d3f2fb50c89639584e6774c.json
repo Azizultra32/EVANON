@@ -1,0 +1,491 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_copy_md",
+      "label": "Gifts to a Magus",
+      "file_type": "document",
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_on_the_prophetic_and_priestly_authority_of_zarathustra_in_gifts_to_a_magus",
+      "label": "On the Prophetic and Priestly Authority of Zarathustra (in Gifts to a Magus)",
+      "file_type": "document",
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Almut Hintze",
+      "contributor": "Jamsheed K. Choksy; Jennifer Dubeansky"
+    },
+    {
+      "id": "llm_zarathustra",
+      "label": "Zarathustra",
+      "file_type": "document",
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_argument_zarathustra_combines_prophetic_and_priestly_authority",
+      "label": "Argument: Zarathustra Combines Prophetic and Priestly Authority",
+      "file_type": "document",
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_max_weber_s_prophet_priest_typology",
+      "label": "Max Weber's Prophet\u2013Priest Typology",
+      "file_type": "document",
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Max Weber",
+      "contributor": null
+    },
+    {
+      "id": "llm_ahura_mazd",
+      "label": "Ahura Mazd\u0101",
+      "file_type": "document",
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_gathas",
+      "label": "Gathas",
+      "file_type": "document",
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_yasna_33_6_zaotar_seeks_vision_and_conversation",
+      "label": "Yasna 33.6: Zaotar Seeks Vision and Conversation",
+      "file_type": "document",
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_revelatory_conversation_topos_y_43_7_8_ham_pursag_h",
+      "label": "Revelatory Conversation Topos (Y. 43.7\u20138; ham-pursag\u012bh)",
+      "file_type": "document",
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_da_n_m_zdayasni_mazda_worshipping_religion_mk_fol_19v_1_4",
+      "label": "Da\u0113n\u0101 M\u0101zdayasni (Mazda-Worshipping Religion; MK fol. 19v.1\u20134)",
+      "file_type": "document",
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_yasna_45_3_divine_authority_for_the_manthra",
+      "label": "Yasna 45.3: Divine Authority for the Manthra",
+      "file_type": "document",
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ahuna_vairya_as_anti_demonic_mantra_y_27_13_yt_19_80_81",
+      "label": "Ahuna Vairya as Anti-Demonic Mantra (Y. 27.13; Yt. 19.80\u201381)",
+      "file_type": "document",
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_yasna_hapta_h_iti_and_ritual_fire_y_36_2_6",
+      "label": "Yasna Hapta\u1e45h\u0101iti and Ritual Fire (Y. 36.2\u20136)",
+      "file_type": "document",
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_copy_md",
+      "target": "llm_ahuna_vairya_as_anti_demonic_mantra_y_27_13_yt_19_80_81",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_copy_md",
+      "target": "llm_ahura_mazd",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_copy_md",
+      "target": "llm_argument_zarathustra_combines_prophetic_and_priestly_authority",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_copy_md",
+      "target": "llm_da_n_m_zdayasni_mazda_worshipping_religion_mk_fol_19v_1_4",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_copy_md",
+      "target": "llm_gathas",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_copy_md",
+      "target": "llm_max_weber_s_prophet_priest_typology",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_copy_md",
+      "target": "llm_on_the_prophetic_and_priestly_authority_of_zarathustra_in_gifts_to_a_magus",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_copy_md",
+      "target": "llm_revelatory_conversation_topos_y_43_7_8_ham_pursag_h",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_copy_md",
+      "target": "llm_yasna_33_6_zaotar_seeks_vision_and_conversation",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_copy_md",
+      "target": "llm_yasna_45_3_divine_authority_for_the_manthra",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_copy_md",
+      "target": "llm_yasna_hapta_h_iti_and_ritual_fire_y_36_2_6",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_copy_md",
+      "target": "llm_zarathustra",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_on_the_prophetic_and_priestly_authority_of_zarathustra_in_gifts_to_a_magus",
+      "target": "llm_argument_zarathustra_combines_prophetic_and_priestly_authority",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_argument_zarathustra_combines_prophetic_and_priestly_authority",
+      "target": "llm_zarathustra",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_on_the_prophetic_and_priestly_authority_of_zarathustra_in_gifts_to_a_magus",
+      "target": "llm_max_weber_s_prophet_priest_typology",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_max_weber_s_prophet_priest_typology",
+      "target": "llm_argument_zarathustra_combines_prophetic_and_priestly_authority",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_on_the_prophetic_and_priestly_authority_of_zarathustra_in_gifts_to_a_magus",
+      "target": "llm_yasna_33_6_zaotar_seeks_vision_and_conversation",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_yasna_33_6_zaotar_seeks_vision_and_conversation",
+      "target": "llm_gathas",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_yasna_33_6_zaotar_seeks_vision_and_conversation",
+      "target": "llm_argument_zarathustra_combines_prophetic_and_priestly_authority",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.97,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_yasna_33_6_zaotar_seeks_vision_and_conversation",
+      "target": "llm_ahura_mazd",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_on_the_prophetic_and_priestly_authority_of_zarathustra_in_gifts_to_a_magus",
+      "target": "llm_revelatory_conversation_topos_y_43_7_8_ham_pursag_h",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_revelatory_conversation_topos_y_43_7_8_ham_pursag_h",
+      "target": "llm_zarathustra",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.92,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_revelatory_conversation_topos_y_43_7_8_ham_pursag_h",
+      "target": "llm_da_n_m_zdayasni_mazda_worshipping_religion_mk_fol_19v_1_4",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_on_the_prophetic_and_priestly_authority_of_zarathustra_in_gifts_to_a_magus",
+      "target": "llm_yasna_45_3_divine_authority_for_the_manthra",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_yasna_45_3_divine_authority_for_the_manthra",
+      "target": "llm_ahura_mazd",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_yasna_45_3_divine_authority_for_the_manthra",
+      "target": "llm_argument_zarathustra_combines_prophetic_and_priestly_authority",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.96,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_on_the_prophetic_and_priestly_authority_of_zarathustra_in_gifts_to_a_magus",
+      "target": "llm_ahuna_vairya_as_anti_demonic_mantra_y_27_13_yt_19_80_81",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_ahuna_vairya_as_anti_demonic_mantra_y_27_13_yt_19_80_81",
+      "target": "llm_da_n_m_zdayasni_mazda_worshipping_religion_mk_fol_19v_1_4",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.93,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_on_the_prophetic_and_priestly_authority_of_zarathustra_in_gifts_to_a_magus",
+      "target": "llm_yasna_hapta_h_iti_and_ritual_fire_y_36_2_6",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.93,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_yasna_hapta_h_iti_and_ritual_fire_y_36_2_6",
+      "target": "llm_argument_zarathustra_combines_prophetic_and_priestly_authority",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_evidence_set_for_zarathustra_s_prophetic_priestly_authority",
+      "label": "Evidence Set for Zarathustra's Prophetic-Priestly Authority",
+      "nodes": [
+        "llm_argument_zarathustra_combines_prophetic_and_priestly_authority",
+        "llm_revelatory_conversation_topos_y_43_7_8_ham_pursag_h",
+        "llm_yasna_33_6_zaotar_seeks_vision_and_conversation",
+        "llm_yasna_45_3_divine_authority_for_the_manthra",
+        "llm_yasna_hapta_h_iti_and_ritual_fire_y_36_2_6"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md"
+    },
+    {
+      "id": "hyper_transmission_of_mazdayasnian_religion_from_ahura_mazd_to_zarathustra",
+      "label": "Transmission of Mazdayasnian Religion from Ahura Mazd\u0101 to Zarathustra",
+      "nodes": [
+        "llm_ahuna_vairya_as_anti_demonic_mantra_y_27_13_yt_19_80_81",
+        "llm_ahura_mazd",
+        "llm_da_n_m_zdayasni_mazda_worshipping_religion_mk_fol_19v_1_4",
+        "llm_zarathustra"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 6383,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 17328,
+    "output_tokens_details": {
+      "reasoning_tokens": 14502
+    },
+    "total_tokens": 23711
+  }
+}

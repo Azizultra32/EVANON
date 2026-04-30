@@ -12,9 +12,9 @@ tags:
 # Jean Kellens
 
 ## Connections
-- [[Achaemenid History Derailed by Avestology]] - `participates_in` [EXTRACTED]
+- [[Achaemenid History Derailed by Avestology Assessing La religion des Achéménides]] - `references` [EXTRACTED]
 - [[Achaemenid History Derailed by AvestologyAssessing La religion des Achéménides confrontation des sources]] - `references` [EXTRACTED]
-- [[Achaemenid History Derailed by AvestologyAssessing La religion des Achéménides confrontation des sources_1]] - `references` [EXTRACTED]
-- [[Avesta]] - `references` [EXTRACTED]
+- [[Avesta]] - `conceptually_related_to` [EXTRACTED]
+- [[Kellens's Avestan derivation of Darius's name from Y31.7 (Kellens 2013, 556)]] - `participates_in` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Mithraic_Studies

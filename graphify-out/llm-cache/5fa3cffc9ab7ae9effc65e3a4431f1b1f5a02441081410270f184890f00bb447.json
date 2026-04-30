@@ -1,0 +1,492 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "label": "ANCIENT IRANIAN MOTIFS AND ZOROASTRIAN ICONOGRAPHY",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_winged_figure_farvahar_fravashi_symbol",
+      "label": "Winged Figure / Farvahar-Fravashi Symbol",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Vesta Sarkhosh Curtis",
+      "contributor": null
+    },
+    {
+      "id": "llm_debate_over_winged_symbol_ahura_mazd_vs_xvar_nah_kingly_glory",
+      "label": "Debate over Winged Symbol: Ahura Mazd\u0101 vs Xvar\u0259nah/Kingly Glory",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Vesta Sarkhosh Curtis",
+      "contributor": null
+    },
+    {
+      "id": "llm_ahura_mazd",
+      "label": "Ahura Mazd\u0101",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Vesta Sarkhosh Curtis",
+      "contributor": null
+    },
+    {
+      "id": "llm_xvar_nah_farnah_khwarrah_farr_kingly_glory",
+      "label": "Xvar\u0259nah / Farnah / Khwarrah / Farr (Kingly Glory)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Vesta Sarkhosh Curtis",
+      "contributor": null
+    },
+    {
+      "id": "llm_fravashis_as_warrior_ancestor_and_guardian_spirits",
+      "label": "Fravashis as Warrior, Ancestor and Guardian Spirits",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Vesta Sarkhosh Curtis",
+      "contributor": null
+    },
+    {
+      "id": "llm_sacred_fire_barsom_rods_and_padam_mouth_cover_ritual",
+      "label": "Sacred Fire, Barsom Rods and Padam Mouth Cover Ritual",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Vesta Sarkhosh Curtis",
+      "contributor": null
+    },
+    {
+      "id": "llm_achaemenid_royal_art_darius_seal_and_bisotun_relief",
+      "label": "Achaemenid Royal Art: Darius Seal and Bisotun Relief",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Vesta Sarkhosh Curtis",
+      "contributor": null
+    },
+    {
+      "id": "llm_frataraka_coin_iconography_of_persis",
+      "label": "Frataraka Coin Iconography of Persis",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Vesta Sarkhosh Curtis",
+      "contributor": null
+    },
+    {
+      "id": "llm_veregna_bird_royal_falcon_as_kingship_symbol",
+      "label": "Veregna Bird / Royal Falcon as Kingship Symbol",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Vesta Sarkhosh Curtis",
+      "contributor": null
+    },
+    {
+      "id": "llm_vologases_i_and_parthian_yazata_xvar_nah_iconography",
+      "label": "Vologases I and Parthian Yazata-Xvar\u0259nah Iconography",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Vesta Sarkhosh Curtis",
+      "contributor": null
+    },
+    {
+      "id": "llm_d_nkard_account_of_vologases_i_preserving_avestan_books_and_teachings",
+      "label": "D\u0113nkard Account of Vologases I Preserving Avestan Books and Teachings",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Vesta Sarkhosh Curtis",
+      "contributor": null
+    },
+    {
+      "id": "llm_ardashir_i_and_sasanian_imperial_zoroastrian_kingship",
+      "label": "Ardashir I and Sasanian Imperial Zoroastrian Kingship",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Vesta Sarkhosh Curtis",
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_achaemenid_royal_art_darius_seal_and_bisotun_relief",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_ahura_mazd",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_ardashir_i_and_sasanian_imperial_zoroastrian_kingship",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_d_nkard_account_of_vologases_i_preserving_avestan_books_and_teachings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_debate_over_winged_symbol_ahura_mazd_vs_xvar_nah_kingly_glory",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_frataraka_coin_iconography_of_persis",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_fravashis_as_warrior_ancestor_and_guardian_spirits",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_sacred_fire_barsom_rods_and_padam_mouth_cover_ritual",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_veregna_bird_royal_falcon_as_kingship_symbol",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_vologases_i_and_parthian_yazata_xvar_nah_iconography",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_winged_figure_farvahar_fravashi_symbol",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_xvar_nah_farnah_khwarrah_farr_kingly_glory",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_achaemenid_royal_art_darius_seal_and_bisotun_relief",
+      "target": "llm_winged_figure_farvahar_fravashi_symbol",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_winged_figure_farvahar_fravashi_symbol",
+      "target": "llm_ahura_mazd",
+      "relation": "conceptually_related_to",
+      "confidence": "AMBIGUOUS",
+      "confidence_score": 0.72,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.72
+    },
+    {
+      "source": "llm_winged_figure_farvahar_fravashi_symbol",
+      "target": "llm_xvar_nah_farnah_khwarrah_farr_kingly_glory",
+      "relation": "conceptually_related_to",
+      "confidence": "AMBIGUOUS",
+      "confidence_score": 0.72,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.72
+    },
+    {
+      "source": "llm_debate_over_winged_symbol_ahura_mazd_vs_xvar_nah_kingly_glory",
+      "target": "llm_winged_figure_farvahar_fravashi_symbol",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_debate_over_winged_symbol_ahura_mazd_vs_xvar_nah_kingly_glory",
+      "target": "llm_ahura_mazd",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.88
+    },
+    {
+      "source": "llm_debate_over_winged_symbol_ahura_mazd_vs_xvar_nah_kingly_glory",
+      "target": "llm_xvar_nah_farnah_khwarrah_farr_kingly_glory",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_fravashis_as_warrior_ancestor_and_guardian_spirits",
+      "target": "llm_winged_figure_farvahar_fravashi_symbol",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.86
+    },
+    {
+      "source": "llm_sacred_fire_barsom_rods_and_padam_mouth_cover_ritual",
+      "target": "llm_achaemenid_royal_art_darius_seal_and_bisotun_relief",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_frataraka_coin_iconography_of_persis",
+      "target": "llm_sacred_fire_barsom_rods_and_padam_mouth_cover_ritual",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_frataraka_coin_iconography_of_persis",
+      "target": "llm_achaemenid_royal_art_darius_seal_and_bisotun_relief",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_frataraka_coin_iconography_of_persis",
+      "target": "llm_xvar_nah_farnah_khwarrah_farr_kingly_glory",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.86
+    },
+    {
+      "source": "llm_veregna_bird_royal_falcon_as_kingship_symbol",
+      "target": "llm_xvar_nah_farnah_khwarrah_farr_kingly_glory",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_veregna_bird_royal_falcon_as_kingship_symbol",
+      "target": "llm_frataraka_coin_iconography_of_persis",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.84,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.84
+    },
+    {
+      "source": "llm_vologases_i_and_parthian_yazata_xvar_nah_iconography",
+      "target": "llm_xvar_nah_farnah_khwarrah_farr_kingly_glory",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_vologases_i_and_parthian_yazata_xvar_nah_iconography",
+      "target": "llm_veregna_bird_royal_falcon_as_kingship_symbol",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.86
+    },
+    {
+      "source": "llm_d_nkard_account_of_vologases_i_preserving_avestan_books_and_teachings",
+      "target": "llm_vologases_i_and_parthian_yazata_xvar_nah_iconography",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_ardashir_i_and_sasanian_imperial_zoroastrian_kingship",
+      "target": "llm_sacred_fire_barsom_rods_and_padam_mouth_cover_ritual",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.96,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.96
+    },
+    {
+      "source": "llm_ardashir_i_and_sasanian_imperial_zoroastrian_kingship",
+      "target": "llm_ahura_mazd",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.95
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_winged_figure_identification_debate",
+      "label": "Winged Figure Identification Debate",
+      "nodes": [
+        "llm_ahura_mazd",
+        "llm_debate_over_winged_symbol_ahura_mazd_vs_xvar_nah_kingly_glory",
+        "llm_winged_figure_farvahar_fravashi_symbol",
+        "llm_xvar_nah_farnah_khwarrah_farr_kingly_glory"
+      ],
+      "relation": "debate",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.92,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md"
+    },
+    {
+      "id": "hyper_royal_zoroastrian_iconographic_complex_of_fire_glory_and_falcon",
+      "label": "Royal Zoroastrian Iconographic Complex of Fire, Glory and Falcon",
+      "nodes": [
+        "llm_ardashir_i_and_sasanian_imperial_zoroastrian_kingship",
+        "llm_frataraka_coin_iconography_of_persis",
+        "llm_sacred_fire_barsom_rods_and_padam_mouth_cover_ritual",
+        "llm_veregna_bird_royal_falcon_as_kingship_symbol",
+        "llm_vologases_i_and_parthian_yazata_xvar_nah_iconography",
+        "llm_xvar_nah_farnah_khwarrah_farr_kingly_glory"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.83,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 6499,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 13181,
+    "output_tokens_details": {
+      "reasoning_tokens": 10358
+    },
+    "total_tokens": 19680
+  }
+}

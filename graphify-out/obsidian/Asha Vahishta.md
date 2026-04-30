@@ -1,21 +1,20 @@
 ---
 source_file: "raw/ocr/Ancient_Iran_Cosmology_Mythology_History 2.md"
 type: "document"
-community: "Zoroastrian Theology"
-location: "chunk 1/3"
+community: "Iranian Kingship"
+location: "chunk 2/3"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Zoroastrian_Theology
+  - community/Iranian_Kingship
 ---
 
 # Asha Vahishta
 
 ## Connections
 - [[Ancient Iran Cosmology, Mythology, History]] - `references` [EXTRACTED]
-- [[Ancient Iran Cosmology, Mythology, History_1]] - `references` [EXTRACTED]
-- [[Ancient Iran Cosmology, Mythology, History_2]] - `references` [EXTRACTED]
-- [[Spenta Armaiti]] - `conceptually_related_to` [EXTRACTED]
-- [[Vohu Manah]] - `participates_in` [EXTRACTED]
+- [[Bundahishn]] - `cites` [EXTRACTED]
+- [[Khshathra Vairya]] - `conceptually_related_to` [EXTRACTED]
+- [[Vohu Manah]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Zoroastrian_Theology
+#graphify/document #graphify/EXTRACTED #community/Iranian_Kingship

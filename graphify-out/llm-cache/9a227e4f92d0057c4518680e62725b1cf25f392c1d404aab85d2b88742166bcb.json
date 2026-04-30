@@ -1,0 +1,475 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_md",
+      "label": "Bulletin of the Asia Institute",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_aniconism_in_the_religious_art_of_pre_islamic_iran_and_central_asia",
+      "label": "Aniconism in the Religious Art of Pre-Islamic Iran and Central Asia",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_material_aniconism_zoomorphic_symbols_empty_space_aniconism_and_elemental_aniconism",
+      "label": "Material Aniconism: Zoomorphic Symbols, Empty-Space Aniconism, and Elemental Aniconism",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_anthropomorphic_mental_notions_of_the_divine",
+      "label": "Anthropomorphic Mental Notions of the Divine",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_debated_identification_of_a_kushan_god",
+      "label": "Debated Identification of a Kushan God",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_gnoli_2009_some_notes_upon_the_religious_significance_of_the_rabatak_inscription",
+      "label": "Gnoli 2009, \u201cSome Notes upon the Religious Significance of the Rabatak Inscription\u201d",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_grenet_2010_iranian_gods_in_hindu_garb",
+      "label": "Grenet 2010, \u201cIranian Gods in Hindu Garb\u201d",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_achaemenian_winged_symbol_on_the_behest_n_relief_of_darius_i",
+      "label": "Achaemenian Winged Symbol on the Behest\u016bn Relief of Darius I",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_assyrian_winged_disc_as_possible_representation_of_shamash",
+      "label": "Assyrian Winged Disc as Possible Representation of Shamash",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_problematic_interpretation_of_scythian_divine_iconography",
+      "label": "Problematic Interpretation of Scythian Divine Iconography",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_hellenistic_iranian_cult_statues_at_ai_khanum_and_the_frataraka_temple",
+      "label": "Hellenistic Iranian Cult Statues at Ai Khanum and the Frataraka Temple",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_pahlavi_m_n_g_g_t_g_sources_yast_n_yast_pahlavi_riv_yat_and_d_dest_n_d_n_g",
+      "label": "Pahlavi m\u0113n\u014dg/g\u0113t\u012bg Sources: \u0160\u0101yast n\u0113-\u0160\u0101yast, Pahlavi Riv\u0101yat, and D\u0101dest\u0101n \u012b d\u0113n\u012bg",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_shaked_1971_the_notions_m_n_g_and_g_t_g_in_the_pahlavi_texts",
+      "label": "Shaked 1971, \u201cThe Notions m\u0113n\u014dg and g\u0113t\u012bg in the Pahlavi Texts\u201d",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_md",
+      "target": "llm_achaemenian_winged_symbol_on_the_behest_n_relief_of_darius_i",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_md",
+      "target": "llm_aniconism_in_the_religious_art_of_pre_islamic_iran_and_central_asia",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_md",
+      "target": "llm_anthropomorphic_mental_notions_of_the_divine",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_md",
+      "target": "llm_assyrian_winged_disc_as_possible_representation_of_shamash",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_md",
+      "target": "llm_debated_identification_of_a_kushan_god",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_md",
+      "target": "llm_gnoli_2009_some_notes_upon_the_religious_significance_of_the_rabatak_inscription",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_md",
+      "target": "llm_grenet_2010_iranian_gods_in_hindu_garb",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_md",
+      "target": "llm_hellenistic_iranian_cult_statues_at_ai_khanum_and_the_frataraka_temple",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_md",
+      "target": "llm_material_aniconism_zoomorphic_symbols_empty_space_aniconism_and_elemental_aniconism",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_md",
+      "target": "llm_pahlavi_m_n_g_g_t_g_sources_yast_n_yast_pahlavi_riv_yat_and_d_dest_n_d_n_g",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_md",
+      "target": "llm_problematic_interpretation_of_scythian_divine_iconography",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_md",
+      "target": "llm_shaked_1971_the_notions_m_n_g_and_g_t_g_in_the_pahlavi_texts",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_aniconism_in_the_religious_art_of_pre_islamic_iran_and_central_asia",
+      "target": "llm_material_aniconism_zoomorphic_symbols_empty_space_aniconism_and_elemental_aniconism",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_aniconism_in_the_religious_art_of_pre_islamic_iran_and_central_asia",
+      "target": "llm_anthropomorphic_mental_notions_of_the_divine",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_material_aniconism_zoomorphic_symbols_empty_space_aniconism_and_elemental_aniconism",
+      "target": "llm_anthropomorphic_mental_notions_of_the_divine",
+      "relation": "contrasts_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.73,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.73
+    },
+    {
+      "source": "llm_aniconism_in_the_religious_art_of_pre_islamic_iran_and_central_asia",
+      "target": "llm_debated_identification_of_a_kushan_god",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_debated_identification_of_a_kushan_god",
+      "target": "llm_gnoli_2009_some_notes_upon_the_religious_significance_of_the_rabatak_inscription",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_debated_identification_of_a_kushan_god",
+      "target": "llm_grenet_2010_iranian_gods_in_hindu_garb",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_gnoli_2009_some_notes_upon_the_religious_significance_of_the_rabatak_inscription",
+      "target": "llm_grenet_2010_iranian_gods_in_hindu_garb",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_aniconism_in_the_religious_art_of_pre_islamic_iran_and_central_asia",
+      "target": "llm_achaemenian_winged_symbol_on_the_behest_n_relief_of_darius_i",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_achaemenian_winged_symbol_on_the_behest_n_relief_of_darius_i",
+      "target": "llm_material_aniconism_zoomorphic_symbols_empty_space_aniconism_and_elemental_aniconism",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.72,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.72
+    },
+    {
+      "source": "llm_achaemenian_winged_symbol_on_the_behest_n_relief_of_darius_i",
+      "target": "llm_assyrian_winged_disc_as_possible_representation_of_shamash",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.88
+    },
+    {
+      "source": "llm_aniconism_in_the_religious_art_of_pre_islamic_iran_and_central_asia",
+      "target": "llm_problematic_interpretation_of_scythian_divine_iconography",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_problematic_interpretation_of_scythian_divine_iconography",
+      "target": "llm_anthropomorphic_mental_notions_of_the_divine",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.82
+    },
+    {
+      "source": "llm_aniconism_in_the_religious_art_of_pre_islamic_iran_and_central_asia",
+      "target": "llm_hellenistic_iranian_cult_statues_at_ai_khanum_and_the_frataraka_temple",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_hellenistic_iranian_cult_statues_at_ai_khanum_and_the_frataraka_temple",
+      "target": "llm_material_aniconism_zoomorphic_symbols_empty_space_aniconism_and_elemental_aniconism",
+      "relation": "contrasts_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.76,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.76
+    },
+    {
+      "source": "llm_hellenistic_iranian_cult_statues_at_ai_khanum_and_the_frataraka_temple",
+      "target": "llm_anthropomorphic_mental_notions_of_the_divine",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.74,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.74
+    },
+    {
+      "source": "llm_aniconism_in_the_religious_art_of_pre_islamic_iran_and_central_asia",
+      "target": "llm_pahlavi_m_n_g_g_t_g_sources_yast_n_yast_pahlavi_riv_yat_and_d_dest_n_d_n_g",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_pahlavi_m_n_g_g_t_g_sources_yast_n_yast_pahlavi_riv_yat_and_d_dest_n_d_n_g",
+      "target": "llm_shaked_1971_the_notions_m_n_g_and_g_t_g_in_the_pahlavi_texts",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_pahlavi_m_n_g_g_t_g_sources_yast_n_yast_pahlavi_riv_yat_and_d_dest_n_d_n_g",
+      "target": "llm_anthropomorphic_mental_notions_of_the_divine",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.78,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.78
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_kushan_god_identification_debate_gnoli_2009_versus_grenet_2010",
+      "label": "Kushan God Identification Debate: Gnoli 2009 versus Grenet 2010",
+      "nodes": [
+        "llm_debated_identification_of_a_kushan_god",
+        "llm_gnoli_2009_some_notes_upon_the_religious_significance_of_the_rabatak_inscription",
+        "llm_grenet_2010_iranian_gods_in_hindu_garb"
+      ],
+      "relation": "debate",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 8145,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 7922,
+    "output_tokens_details": {
+      "reasoning_tokens": 5178
+    },
+    "total_tokens": 16067
+  }
+}

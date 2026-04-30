@@ -1,0 +1,491 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_a_father_a_daughter_and_a_son_in_law_in_md",
+      "label": "A FATHER, A DAUGHTER, AND A SON-IN-LAW IN ZOROASTRIAN HERMENEUTICS<sup>1</sup>",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_a_father_a_daughter_and_a_son_in_law_in_zoroastrian_hermeneutics",
+      "label": "A Father, a Daughter, and a Son-in-Law in Zoroastrian Hermeneutics",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Yuhan Sohrab-Dinshaw Vevaina",
+      "contributor": null
+    },
+    {
+      "id": "llm_xw_d_dah_zoroastrian_next_of_kin_marriage",
+      "label": "Xw\u0113d\u014ddah (Zoroastrian next-of-kin marriage)",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_al_ya_q_b_t_r_kh_i_174",
+      "label": "al-Ya\u02bfq\u016bb\u012b, T\u0101r\u012bkh i, 174",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "al-Ya\u02bfq\u016bb\u012b",
+      "contributor": null
+    },
+    {
+      "id": "llm_pahlavi_evidence_for_xw_d_dah_as_meritorious_m_n_y_xrad_3_4_pr_8c_d_nkard_3_80_20_22",
+      "label": "Pahlavi Evidence for Xw\u0113d\u014ddah as Meritorious (M\u0113n\u014dy \u012b Xrad 3.4; PR 8c; D\u0113nkard 3.80.20\u201322)",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_late_antique_zoroastrian_literature",
+      "label": "Late Antique Zoroastrian Literature",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_non_literal_allegoresis_in_d_nkard_book_9",
+      "label": "Non-literal Allegoresis in D\u0113nkard Book 9",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_d_nkard_book_9",
+      "label": "D\u0113nkard Book 9",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_vahi_t_i_t_g_yasna_53_1_9",
+      "label": "Vahi\u0161t\u014di\u0161t\u012b G\u0101\u03b8\u0101 (Yasna 53.1\u20139)",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_war_tm_nsr_nask_dk_9_45_1_11",
+      "label": "War\u0161tm\u0101nsr Nask (Dk. 9.45.1\u201311)",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zardu_x_t_zara_u_tra",
+      "label": "Zardu(x)\u0161t / Zara\u03b8u\u0161tra",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_p_ru_ist_pouru_cist",
+      "label": "P\u014dru\u010dist / Pouru.cist\u0101",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_j_m_sp",
+      "label": "J\u0101m\u0101sp",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_a_father_a_daughter_and_a_son_in_law_in_md",
+      "target": "llm_a_father_a_daughter_and_a_son_in_law_in_zoroastrian_hermeneutics",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_father_a_daughter_and_a_son_in_law_in_md",
+      "target": "llm_al_ya_q_b_t_r_kh_i_174",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_father_a_daughter_and_a_son_in_law_in_md",
+      "target": "llm_d_nkard_book_9",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_father_a_daughter_and_a_son_in_law_in_md",
+      "target": "llm_j_m_sp",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_father_a_daughter_and_a_son_in_law_in_md",
+      "target": "llm_late_antique_zoroastrian_literature",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_father_a_daughter_and_a_son_in_law_in_md",
+      "target": "llm_non_literal_allegoresis_in_d_nkard_book_9",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_father_a_daughter_and_a_son_in_law_in_md",
+      "target": "llm_p_ru_ist_pouru_cist",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_father_a_daughter_and_a_son_in_law_in_md",
+      "target": "llm_pahlavi_evidence_for_xw_d_dah_as_meritorious_m_n_y_xrad_3_4_pr_8c_d_nkard_3_80_20_22",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_father_a_daughter_and_a_son_in_law_in_md",
+      "target": "llm_vahi_t_i_t_g_yasna_53_1_9",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_father_a_daughter_and_a_son_in_law_in_md",
+      "target": "llm_war_tm_nsr_nask_dk_9_45_1_11",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_father_a_daughter_and_a_son_in_law_in_md",
+      "target": "llm_xw_d_dah_zoroastrian_next_of_kin_marriage",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_father_a_daughter_and_a_son_in_law_in_md",
+      "target": "llm_zardu_x_t_zara_u_tra",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_a_father_a_daughter_and_a_son_in_law_in_zoroastrian_hermeneutics",
+      "target": "llm_xw_d_dah_zoroastrian_next_of_kin_marriage",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_a_father_a_daughter_and_a_son_in_law_in_zoroastrian_hermeneutics",
+      "target": "llm_al_ya_q_b_t_r_kh_i_174",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_al_ya_q_b_t_r_kh_i_174",
+      "target": "llm_xw_d_dah_zoroastrian_next_of_kin_marriage",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_a_father_a_daughter_and_a_son_in_law_in_zoroastrian_hermeneutics",
+      "target": "llm_pahlavi_evidence_for_xw_d_dah_as_meritorious_m_n_y_xrad_3_4_pr_8c_d_nkard_3_80_20_22",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_pahlavi_evidence_for_xw_d_dah_as_meritorious_m_n_y_xrad_3_4_pr_8c_d_nkard_3_80_20_22",
+      "target": "llm_xw_d_dah_zoroastrian_next_of_kin_marriage",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.97,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_late_antique_zoroastrian_literature",
+      "target": "llm_xw_d_dah_zoroastrian_next_of_kin_marriage",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.96,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_a_father_a_daughter_and_a_son_in_law_in_zoroastrian_hermeneutics",
+      "target": "llm_d_nkard_book_9",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_d_nkard_book_9",
+      "target": "llm_non_literal_allegoresis_in_d_nkard_book_9",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_war_tm_nsr_nask_dk_9_45_1_11",
+      "target": "llm_d_nkard_book_9",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_war_tm_nsr_nask_dk_9_45_1_11",
+      "target": "llm_vahi_t_i_t_g_yasna_53_1_9",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.97,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_vahi_t_i_t_g_yasna_53_1_9",
+      "target": "llm_non_literal_allegoresis_in_d_nkard_book_9",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_war_tm_nsr_nask_dk_9_45_1_11",
+      "target": "llm_non_literal_allegoresis_in_d_nkard_book_9",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_war_tm_nsr_nask_dk_9_45_1_11",
+      "target": "llm_zardu_x_t_zara_u_tra",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_war_tm_nsr_nask_dk_9_45_1_11",
+      "target": "llm_p_ru_ist_pouru_cist",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_war_tm_nsr_nask_dk_9_45_1_11",
+      "target": "llm_j_m_sp",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_p_ru_ist_pouru_cist",
+      "target": "llm_xw_d_dah_zoroastrian_next_of_kin_marriage",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_zardu_x_t_zara_u_tra",
+      "target": "llm_xw_d_dah_zoroastrian_next_of_kin_marriage",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_p_ru_ist_pouru_cist",
+      "target": "llm_j_m_sp",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.85
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_s_dg_r_war_tm_nsr_and_bag_nasks_interpret_the_vahi_t_i_t_incipit_through_non_literal_allegoresis",
+      "label": "S\u016bdg\u0101r, War\u0161tm\u0101nsr, and Bag Nasks interpret the Vahi\u0161t\u014di\u0161t\u012b incipit through non-literal allegoresis",
+      "nodes": [
+        "llm_d_nkard_book_9",
+        "llm_non_literal_allegoresis_in_d_nkard_book_9",
+        "llm_vahi_t_i_t_g_yasna_53_1_9",
+        "llm_war_tm_nsr_nask_dk_9_45_1_11"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md"
+    },
+    {
+      "id": "hyper_war_tm_nsr_marriage_sequence_p_ru_ist_as_daughter_wife_of_zardu_x_t_and_later_wife_of_j_m_sp",
+      "label": "War\u0161tm\u0101nsr marriage sequence: P\u014dru\u010dist as daughter-wife of Zardu(x)\u0161t and later wife of J\u0101m\u0101sp",
+      "nodes": [
+        "llm_j_m_sp",
+        "llm_p_ru_ist_pouru_cist",
+        "llm_war_tm_nsr_nask_dk_9_45_1_11",
+        "llm_xw_d_dah_zoroastrian_next_of_kin_marriage",
+        "llm_zardu_x_t_zara_u_tra"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 7912,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 10594,
+    "output_tokens_details": {
+      "reasoning_tokens": 7767
+    },
+    "total_tokens": 18506
+  }
+}

@@ -1,27 +1,21 @@
 ---
-source_file: "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2 2--a3638dff.md"
+source_file: "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md"
 type: "document"
-community: "Creation Cosmology"
-location: "chunk 1/3"
+community: "Ritual Practice"
+location: "chunk 2/3"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Creation_Cosmology
+  - community/Ritual_Practice
 ---
 
 # Marduk
 
 ## Connections
-- [[Anunnaki]] - `participates_in` [EXTRACTED]
-- [[Aruru]] - `participates_in` [EXTRACTED]
-- [[E-Sagila]] - `builds` [EXTRACTED]
-- [[Enlil]] - `contrasts_with` [INFERRED]
-- [[Fifty Names of Marduk]] - `is_identified_with` [INFERRED]
-- [[Kingu]] - `sacrifices` [EXTRACTED]
-- [[The Babylonian Legends of the Creation]] - `references` [EXTRACTED]
+- [[Creation of Mankind from Kingu's Blood]] - `participates_in` [EXTRACTED]
+- [[Marduk's Supremacy at E-Sagila and the Fifty Names]] - `rationale_for` [EXTRACTED]
 - [[The Babylonian Legends of the Creation_2]] - `references` [EXTRACTED]
-- [[The Babylonian Legends of the Creation_1]] - `references` [EXTRACTED]
 - [[The Seven Tablets of Creation]] - `references` [EXTRACTED]
-- [[Tiâmat]] - `contrasts_with` [INFERRED]
+- [[Tiâmat]] - `contrasts_with` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Creation_Cosmology
+#graphify/document #graphify/EXTRACTED #community/Ritual_Practice

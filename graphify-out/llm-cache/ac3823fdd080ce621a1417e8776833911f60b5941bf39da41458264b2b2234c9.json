@@ -1,0 +1,448 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_budge_e_a_w_babylonian_legends_of_the_creation_1921_2_092e1075_md",
+      "label": "The Babylonian Legends of the Creation",
+      "file_type": "document",
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_seven_tablets_of_creation_creation_series",
+      "label": "Seven Tablets of Creation / Creation Series",
+      "file_type": "document",
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_marduk_bel_marduk_nibiru_fifty_names",
+      "label": "Marduk / Bel-Marduk / Nibiru (Fifty Names)",
+      "file_type": "document",
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ti_mat_queen_of_the_abyss",
+      "label": "Ti\u00e2mat, Queen of the Abyss",
+      "file_type": "document",
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_kingu",
+      "label": "Kingu",
+      "file_type": "document",
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_mankind_the_black_headed",
+      "label": "Mankind / the Black-headed",
+      "file_type": "document",
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_anunnaki_and_igigi",
+      "label": "Anunnaki and Igigi",
+      "file_type": "document",
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_e_sagila_ziggurat_and_babylon_shrine",
+      "label": "E-Sagila Ziggurat and Babylon Shrine",
+      "file_type": "document",
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_up_shukkinaku_sovereignty_chamber_ritual",
+      "label": "Up-shukkinaku Sovereignty Chamber/Ritual",
+      "file_type": "document",
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ti_mat_s_split_body_as_upper_and_lower_waters_bm_fragment_s_2013",
+      "label": "Ti\u00e2mat's Split Body as Upper and Lower Waters (BM Fragment S.2013)",
+      "file_type": "document",
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_george_smith_s_genesis_parallels_refuted_chaldean_account_of_genesis_1876",
+      "label": "George Smith's Genesis Parallels Refuted (Chaldean Account of Genesis, 1876)",
+      "file_type": "document",
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_persian_period_zodiac_month_list_no_77_821_sidney_smith_c_j_gadd",
+      "label": "Persian-period Zodiac Month List No. 77,821 (Sidney Smith & C. J. Gadd)",
+      "file_type": "document",
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_budge_e_a_w_babylonian_legends_of_the_creation_1921_2_092e1075_md",
+      "target": "llm_anunnaki_and_igigi",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_budge_e_a_w_babylonian_legends_of_the_creation_1921_2_092e1075_md",
+      "target": "llm_e_sagila_ziggurat_and_babylon_shrine",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_budge_e_a_w_babylonian_legends_of_the_creation_1921_2_092e1075_md",
+      "target": "llm_george_smith_s_genesis_parallels_refuted_chaldean_account_of_genesis_1876",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_budge_e_a_w_babylonian_legends_of_the_creation_1921_2_092e1075_md",
+      "target": "llm_kingu",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_budge_e_a_w_babylonian_legends_of_the_creation_1921_2_092e1075_md",
+      "target": "llm_mankind_the_black_headed",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_budge_e_a_w_babylonian_legends_of_the_creation_1921_2_092e1075_md",
+      "target": "llm_marduk_bel_marduk_nibiru_fifty_names",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_budge_e_a_w_babylonian_legends_of_the_creation_1921_2_092e1075_md",
+      "target": "llm_persian_period_zodiac_month_list_no_77_821_sidney_smith_c_j_gadd",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_budge_e_a_w_babylonian_legends_of_the_creation_1921_2_092e1075_md",
+      "target": "llm_seven_tablets_of_creation_creation_series",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_budge_e_a_w_babylonian_legends_of_the_creation_1921_2_092e1075_md",
+      "target": "llm_ti_mat_queen_of_the_abyss",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_budge_e_a_w_babylonian_legends_of_the_creation_1921_2_092e1075_md",
+      "target": "llm_ti_mat_s_split_body_as_upper_and_lower_waters_bm_fragment_s_2013",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_budge_e_a_w_babylonian_legends_of_the_creation_1921_2_092e1075_md",
+      "target": "llm_up_shukkinaku_sovereignty_chamber_ritual",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_seven_tablets_of_creation_creation_series",
+      "target": "llm_marduk_bel_marduk_nibiru_fifty_names",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_seven_tablets_of_creation_creation_series",
+      "target": "llm_ti_mat_queen_of_the_abyss",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_seven_tablets_of_creation_creation_series",
+      "target": "llm_kingu",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_seven_tablets_of_creation_creation_series",
+      "target": "llm_e_sagila_ziggurat_and_babylon_shrine",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_marduk_bel_marduk_nibiru_fifty_names",
+      "target": "llm_ti_mat_queen_of_the_abyss",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_kingu",
+      "target": "llm_ti_mat_queen_of_the_abyss",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_kingu",
+      "target": "llm_mankind_the_black_headed",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_mankind_the_black_headed",
+      "target": "llm_anunnaki_and_igigi",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_anunnaki_and_igigi",
+      "target": "llm_e_sagila_ziggurat_and_babylon_shrine",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_marduk_bel_marduk_nibiru_fifty_names",
+      "target": "llm_e_sagila_ziggurat_and_babylon_shrine",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_up_shukkinaku_sovereignty_chamber_ritual",
+      "target": "llm_e_sagila_ziggurat_and_babylon_shrine",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_up_shukkinaku_sovereignty_chamber_ritual",
+      "target": "llm_marduk_bel_marduk_nibiru_fifty_names",
+      "relation": "conceptually_related_to",
+      "confidence": "AMBIGUOUS",
+      "confidence_score": 0.6,
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_ti_mat_s_split_body_as_upper_and_lower_waters_bm_fragment_s_2013",
+      "target": "llm_ti_mat_queen_of_the_abyss",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_ti_mat_s_split_body_as_upper_and_lower_waters_bm_fragment_s_2013",
+      "target": "llm_seven_tablets_of_creation_creation_series",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_george_smith_s_genesis_parallels_refuted_chaldean_account_of_genesis_1876",
+      "target": "llm_seven_tablets_of_creation_creation_series",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_persian_period_zodiac_month_list_no_77_821_sidney_smith_c_j_gadd",
+      "target": "llm_marduk_bel_marduk_nibiru_fifty_names",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_kingu_s_blood_ea_s_creation_of_mankind_and_service_of_the_gods",
+      "label": "Kingu's Blood, Ea's Creation of Mankind, and Service of the Gods",
+      "nodes": [
+        "llm_anunnaki_and_igigi",
+        "llm_kingu",
+        "llm_mankind_the_black_headed"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md"
+    },
+    {
+      "id": "hyper_e_sagila_babylon_shrine_construction_and_bel_marduk_sovereignty",
+      "label": "E-Sagila/Babylon Shrine Construction and Bel-Marduk Sovereignty",
+      "nodes": [
+        "llm_anunnaki_and_igigi",
+        "llm_e_sagila_ziggurat_and_babylon_shrine",
+        "llm_marduk_bel_marduk_nibiru_fifty_names",
+        "llm_up_shukkinaku_sovereignty_chamber_ritual"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.72,
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 7123,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 17013,
+    "output_tokens_details": {
+      "reasoning_tokens": 13984
+    },
+    "total_tokens": 24136
+  }
+}

@@ -1,0 +1,491 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "label": "A Thousand Judgements",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_normative_and_theological_dissent_in_early_zoroastrian_law_pahlavi_n_rangest_n_23",
+      "label": "Normative and Theological Dissent in Early Zoroastrian Law: Pahlavi N\u012brangest\u0101n 23",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Yishai Kiel and Prods Oktor Skj\u00e6rv\u00f8",
+      "contributor": null
+    },
+    {
+      "id": "llm_pahlavi_n_rangest_n_chapter_23",
+      "label": "Pahlavi N\u012brangest\u0101n Chapter 23",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_argument_deliberate_g_non_recitation_as_d_n_denial",
+      "label": "Argument: Deliberate G\u0101\u03b8\u0101 Non-Recitation as D\u0113n-Denial",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_g_s_recitation_in_yasna_ritual_sacrifice",
+      "label": "G\u0101\u03b8\u0101s Recitation in Yasna/Ritual Sacrifice",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_mazdayasnian_d_n_da_n",
+      "label": "Mazdayasnian D\u0113n / Da\u0113n\u0101",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_avestan_qsta_tar_maiti_and_pahlavi_an_ast_h",
+      "label": "Avestan qsta, tar\u014dmaiti, and Pahlavi an-ast\u012bh",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_tan_buhl_and_margarz_n_legal_sanctions",
+      "label": "Tan\u0101buhl and Margarz\u0101n Legal Sanctions",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_repentance_and_ritual_handling_n_g_n_ywar_w_j_dr_n",
+      "label": "Repentance and Ritual Handling: n\u014dg-n\u0101ywar, w\u0101j, dr\u014dn",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_medieval_zoroastrian_responses_on_apostasy_and_conversion",
+      "label": "Medieval Zoroastrian Responses on Apostasy and Conversion",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_islamic_laws_of_apostasy",
+      "label": "Islamic Laws of Apostasy",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_babylonian_talmudic_law_on_normative_and_theological_dissent",
+      "label": "Babylonian Talmudic Law on Normative and Theological Dissent",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_videvdat_19_6_back_praising_the_mazdayasnian_d_n",
+      "label": "Videvdat 19.6: Back-Praising the Mazdayasnian D\u0113n",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_argument_deliberate_g_non_recitation_as_d_n_denial",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_avestan_qsta_tar_maiti_and_pahlavi_an_ast_h",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_babylonian_talmudic_law_on_normative_and_theological_dissent",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_g_s_recitation_in_yasna_ritual_sacrifice",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_islamic_laws_of_apostasy",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_mazdayasnian_d_n_da_n",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_medieval_zoroastrian_responses_on_apostasy_and_conversion",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_normative_and_theological_dissent_in_early_zoroastrian_law_pahlavi_n_rangest_n_23",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_pahlavi_n_rangest_n_chapter_23",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_repentance_and_ritual_handling_n_g_n_ywar_w_j_dr_n",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_tan_buhl_and_margarz_n_legal_sanctions",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_videvdat_19_6_back_praising_the_mazdayasnian_d_n",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_normative_and_theological_dissent_in_early_zoroastrian_law_pahlavi_n_rangest_n_23",
+      "target": "llm_pahlavi_n_rangest_n_chapter_23",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_normative_and_theological_dissent_in_early_zoroastrian_law_pahlavi_n_rangest_n_23",
+      "target": "llm_islamic_laws_of_apostasy",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_normative_and_theological_dissent_in_early_zoroastrian_law_pahlavi_n_rangest_n_23",
+      "target": "llm_babylonian_talmudic_law_on_normative_and_theological_dissent",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_normative_and_theological_dissent_in_early_zoroastrian_law_pahlavi_n_rangest_n_23",
+      "target": "llm_medieval_zoroastrian_responses_on_apostasy_and_conversion",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_normative_and_theological_dissent_in_early_zoroastrian_law_pahlavi_n_rangest_n_23",
+      "target": "llm_videvdat_19_6_back_praising_the_mazdayasnian_d_n",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.75
+    },
+    {
+      "source": "llm_videvdat_19_6_back_praising_the_mazdayasnian_d_n",
+      "target": "llm_argument_deliberate_g_non_recitation_as_d_n_denial",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.8,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.75
+    },
+    {
+      "source": "llm_pahlavi_n_rangest_n_chapter_23",
+      "target": "llm_g_s_recitation_in_yasna_ritual_sacrifice",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_pahlavi_n_rangest_n_chapter_23",
+      "target": "llm_avestan_qsta_tar_maiti_and_pahlavi_an_ast_h",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_pahlavi_n_rangest_n_chapter_23",
+      "target": "llm_mazdayasnian_d_n_da_n",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_pahlavi_n_rangest_n_chapter_23",
+      "target": "llm_tan_buhl_and_margarz_n_legal_sanctions",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.96,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_pahlavi_n_rangest_n_chapter_23",
+      "target": "llm_repentance_and_ritual_handling_n_g_n_ywar_w_j_dr_n",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.75
+    },
+    {
+      "source": "llm_pahlavi_n_rangest_n_chapter_23",
+      "target": "llm_argument_deliberate_g_non_recitation_as_d_n_denial",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_avestan_qsta_tar_maiti_and_pahlavi_an_ast_h",
+      "target": "llm_argument_deliberate_g_non_recitation_as_d_n_denial",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_g_s_recitation_in_yasna_ritual_sacrifice",
+      "target": "llm_argument_deliberate_g_non_recitation_as_d_n_denial",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_mazdayasnian_d_n_da_n",
+      "target": "llm_argument_deliberate_g_non_recitation_as_d_n_denial",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_argument_deliberate_g_non_recitation_as_d_n_denial",
+      "target": "llm_tan_buhl_and_margarz_n_legal_sanctions",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_medieval_zoroastrian_responses_on_apostasy_and_conversion",
+      "target": "llm_pahlavi_n_rangest_n_chapter_23",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_medieval_zoroastrian_responses_on_apostasy_and_conversion",
+      "target": "llm_islamic_laws_of_apostasy",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.8
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_n_23_equivalence_of_ritual_neglect_and_theological_dissent",
+      "label": "N.23 Equivalence of Ritual Neglect and Theological Dissent",
+      "nodes": [
+        "llm_argument_deliberate_g_non_recitation_as_d_n_denial",
+        "llm_avestan_qsta_tar_maiti_and_pahlavi_an_ast_h",
+        "llm_g_s_recitation_in_yasna_ritual_sacrifice",
+        "llm_mazdayasnian_d_n_da_n",
+        "llm_tan_buhl_and_margarz_n_legal_sanctions"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md"
+    },
+    {
+      "id": "hyper_comparative_framework_zoroastrian_islamic_and_talmudic_apostasy_dissent_law",
+      "label": "Comparative Framework: Zoroastrian, Islamic, and Talmudic Apostasy/Dissent Law",
+      "nodes": [
+        "llm_babylonian_talmudic_law_on_normative_and_theological_dissent",
+        "llm_islamic_laws_of_apostasy",
+        "llm_medieval_zoroastrian_responses_on_apostasy_and_conversion",
+        "llm_pahlavi_n_rangest_n_chapter_23"
+      ],
+      "relation": "debate",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 8410,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 12865,
+    "output_tokens_details": {
+      "reasoning_tokens": 10358
+    },
+    "total_tokens": 21275
+  }
+}

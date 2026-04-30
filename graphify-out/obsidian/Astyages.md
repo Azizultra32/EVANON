@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[ASTYAGES, CYRUS AND ZOROASTER SOLVING A HISTORICAL DILEMMA]] - `references` [EXTRACTED]
-- [[Daḥhāk]] - `contrasts_with` [INFERRED]
-- [[Zoroaster]] - `references` [EXTRACTED]
+- [[Astyages Banished Zoroaster Hypothesis]] - `conceptually_related_to` [EXTRACTED]
+- [[Dahhāk  Azhi-dahāg  Bivarasp]] - `semantically_similar_to` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Mithraic_Studies

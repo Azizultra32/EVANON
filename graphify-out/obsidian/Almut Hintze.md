@@ -1,31 +1,24 @@
 ---
-source_file: "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori 2.md"
+source_file: "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md"
 type: "document"
-community: "Iranian Kingship"
+community: "Avestan Texts"
+location: "chunk 1/3"
 tags:
   - graphify/document
-  - graphify/INFERRED
-  - community/Iranian_Kingship
+  - graphify/EXTRACTED
+  - community/Avestan_Texts
 ---
 
 # Almut Hintze
 
 ## Connections
-- [[Avesta]] - `conceptually_related_to` [INFERRED]
-- [[Avestan]] - `conceptually_related_to` [INFERRED]
-- [[Gathas]] - `conceptually_related_to` [INFERRED]
+- [[A History of Persian Literature Volume XVII]] - `references` [EXTRACTED]
+- [[Avestan Literature]] - `references` [EXTRACTED]
+- [[Defeating Death Eschatology in Zoroastrianism, Judaism and Christianity]] - `participates_in` [EXTRACTED]
 - [[Gifts to a Magus]] - `references` [EXTRACTED]
-- [[Gifts to a Magus_1]] - `references` [EXTRACTED]
-- [[Gifts to a Magus_2]] - `references` [EXTRACTED]
-- [[Haoma]] - `conceptually_related_to` [INFERRED]
-- [[Indo-Iranian]] - `conceptually_related_to` [INFERRED]
-- [[Iranian]] - `conceptually_related_to` [INFERRED]
-- [[Pahlavi]] - `conceptually_related_to` [INFERRED]
-- [[Persian]] - `conceptually_related_to` [INFERRED]
-- [[Sacrifice]] - `conceptually_related_to` [INFERRED]
-- [[Yasna]] - `conceptually_related_to` [INFERRED]
-- [[Zarathustra  Zoroaster]] - `conceptually_related_to` [INFERRED]
-- [[Zoroastrian]] - `conceptually_related_to` [INFERRED]
-- [[Zoroastrianism]] - `conceptually_related_to` [INFERRED]
+- [[IRANO-JUDAICA VII_2]] - `references` [EXTRACTED]
+- [[On the Prophetic and Priestly Authority of Zarathustra]] - `participates_in` [EXTRACTED]
+- [[Yasna]] - `references` [EXTRACTED]
+- [[Yasna Haptan-hāiti]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/INFERRED #community/Iranian_Kingship
+#graphify/document #graphify/EXTRACTED #community/Avestan_Texts

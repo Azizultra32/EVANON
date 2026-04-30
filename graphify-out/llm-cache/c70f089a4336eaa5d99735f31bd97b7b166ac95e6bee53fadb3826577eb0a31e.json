@@ -1,0 +1,490 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_between_the_safavids_and_the_mughals_art_md",
+      "label": "BETWEEN THE SAFAVIDS AND THE MUGHALS: ART AND ARTISTS IN TRANSITION\\*",
+      "file_type": "document",
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_between_the_safavids_and_the_mughals_art_and_artists_in_transition",
+      "label": "Between the Safavids and the Mughals: Art and Artists in Transition",
+      "file_type": "document",
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Abolala Soudavar",
+      "contributor": null
+    },
+    {
+      "id": "llm_three_safavid_mughal_migratory_waves_1544_1585",
+      "label": "Three Safavid-Mughal Migratory Waves (1544-1585)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_hum_y_n",
+      "label": "Hum\u0101y\u016bn",
+      "file_type": "document",
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_sh_h_ahm_sb_i",
+      "label": "Sh\u0101h \u1e6cahm\u0101sb I",
+      "file_type": "document",
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_safavid_royal_library_atelier",
+      "label": "Safavid Royal Library-Atelier",
+      "file_type": "document",
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_mughal_library_atelier_and_school_of_painting",
+      "label": "Mughal Library-Atelier and School of Painting",
+      "file_type": "document",
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_m_r_sayyid_al_and_abd_al_amad",
+      "label": "M\u012br Sayyid 'Al\u012b and 'Abd al-\u1e62amad",
+      "file_type": "document",
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_farrukh_beyg",
+      "label": "Farrukh Beyg",
+      "file_type": "document",
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_1468_gulist_n_of_sa_d_fga_f1998_5_as_jousting_field",
+      "label": "1468 Gulist\u0101n of Sa'd\u012b (FGA, F1998.5) as Jousting Field",
+      "file_type": "document",
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_hum_y_n_s_invitation_to_m_r_mu_avvir_argument",
+      "label": "Hum\u0101y\u016bn's Invitation to M\u012br Mu\u1e63avvir Argument",
+      "file_type": "document",
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_b_d_q_i_munsh_yi_qazv_n",
+      "label": "B\u016bd\u0101q-i Munsh\u012b-yi Qazv\u012bn\u012b",
+      "file_type": "document",
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ahm_sb_s_waning_interest_and_eyesight_hypothesis",
+      "label": "\u1e6cahm\u0101sb's Waning Interest and Eyesight Hypothesis",
+      "file_type": "document",
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_between_the_safavids_and_the_mughals_art_md",
+      "target": "llm_1468_gulist_n_of_sa_d_fga_f1998_5_as_jousting_field",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_between_the_safavids_and_the_mughals_art_md",
+      "target": "llm_ahm_sb_s_waning_interest_and_eyesight_hypothesis",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_between_the_safavids_and_the_mughals_art_md",
+      "target": "llm_b_d_q_i_munsh_yi_qazv_n",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_between_the_safavids_and_the_mughals_art_md",
+      "target": "llm_between_the_safavids_and_the_mughals_art_and_artists_in_transition",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_between_the_safavids_and_the_mughals_art_md",
+      "target": "llm_farrukh_beyg",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_between_the_safavids_and_the_mughals_art_md",
+      "target": "llm_hum_y_n",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_between_the_safavids_and_the_mughals_art_md",
+      "target": "llm_hum_y_n_s_invitation_to_m_r_mu_avvir_argument",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_between_the_safavids_and_the_mughals_art_md",
+      "target": "llm_m_r_sayyid_al_and_abd_al_amad",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_between_the_safavids_and_the_mughals_art_md",
+      "target": "llm_mughal_library_atelier_and_school_of_painting",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_between_the_safavids_and_the_mughals_art_md",
+      "target": "llm_safavid_royal_library_atelier",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_between_the_safavids_and_the_mughals_art_md",
+      "target": "llm_sh_h_ahm_sb_i",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_between_the_safavids_and_the_mughals_art_md",
+      "target": "llm_three_safavid_mughal_migratory_waves_1544_1585",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_between_the_safavids_and_the_mughals_art_and_artists_in_transition",
+      "target": "llm_three_safavid_mughal_migratory_waves_1544_1585",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_between_the_safavids_and_the_mughals_art_and_artists_in_transition",
+      "target": "llm_farrukh_beyg",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_farrukh_beyg",
+      "target": "llm_three_safavid_mughal_migratory_waves_1544_1585",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_hum_y_n",
+      "target": "llm_three_safavid_mughal_migratory_waves_1544_1585",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_sh_h_ahm_sb_i",
+      "target": "llm_three_safavid_mughal_migratory_waves_1544_1585",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_safavid_royal_library_atelier",
+      "target": "llm_three_safavid_mughal_migratory_waves_1544_1585",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_mughal_library_atelier_and_school_of_painting",
+      "target": "llm_three_safavid_mughal_migratory_waves_1544_1585",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_m_r_sayyid_al_and_abd_al_amad",
+      "target": "llm_three_safavid_mughal_migratory_waves_1544_1585",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_m_r_sayyid_al_and_abd_al_amad",
+      "target": "llm_mughal_library_atelier_and_school_of_painting",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_hum_y_n",
+      "target": "llm_mughal_library_atelier_and_school_of_painting",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_sh_h_ahm_sb_i",
+      "target": "llm_safavid_royal_library_atelier",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_1468_gulist_n_of_sa_d_fga_f1998_5_as_jousting_field",
+      "target": "llm_sh_h_ahm_sb_i",
+      "relation": "conceptually_related_to",
+      "confidence": "AMBIGUOUS",
+      "confidence_score": 0.62,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.7
+    },
+    {
+      "source": "llm_1468_gulist_n_of_sa_d_fga_f1998_5_as_jousting_field",
+      "target": "llm_safavid_royal_library_atelier",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_1468_gulist_n_of_sa_d_fga_f1998_5_as_jousting_field",
+      "target": "llm_mughal_library_atelier_and_school_of_painting",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_hum_y_n_s_invitation_to_m_r_mu_avvir_argument",
+      "target": "llm_three_safavid_mughal_migratory_waves_1544_1585",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_hum_y_n_s_invitation_to_m_r_mu_avvir_argument",
+      "target": "llm_b_d_q_i_munsh_yi_qazv_n",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_hum_y_n_s_invitation_to_m_r_mu_avvir_argument",
+      "target": "llm_hum_y_n",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_ahm_sb_s_waning_interest_and_eyesight_hypothesis",
+      "target": "llm_three_safavid_mughal_migratory_waves_1544_1585",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_first_wave_transfer_of_safavid_artists_to_the_mughal_court",
+      "label": "First-Wave Transfer of Safavid Artists to the Mughal Court",
+      "nodes": [
+        "llm_hum_y_n",
+        "llm_m_r_sayyid_al_and_abd_al_amad",
+        "llm_mughal_library_atelier_and_school_of_painting",
+        "llm_safavid_royal_library_atelier",
+        "llm_sh_h_ahm_sb_i"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md"
+    },
+    {
+      "id": "hyper_debate_over_ahm_sb_s_disaffection_from_manuscript_painting",
+      "label": "Debate over \u1e6cahm\u0101sb's Disaffection from Manuscript Painting",
+      "nodes": [
+        "llm_ahm_sb_s_waning_interest_and_eyesight_hypothesis",
+        "llm_safavid_royal_library_atelier",
+        "llm_sh_h_ahm_sb_i"
+      ],
+      "relation": "debate",
+      "confidence": "INFERRED",
+      "confidence_score": 0.78,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 6484,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 7962,
+    "output_tokens_details": {
+      "reasoning_tokens": 5178
+    },
+    "total_tokens": 14446
+  }
+}

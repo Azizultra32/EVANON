@@ -1,0 +1,490 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "label": "ANCIENT IRANIAN MOTIFS AND ZOROASTRIAN ICONOGRAPHY",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_argument_modern_zoroastrian_iconography_recasts_ancient_iranian_royal_motifs",
+      "label": "Argument: Modern Zoroastrian Iconography Recasts Ancient Iranian Royal Motifs",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_nineteenth_century_indian_zoroastrians",
+      "label": "Nineteenth-Century Indian Zoroastrians",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_achaemenid_and_sasanian_art",
+      "label": "Achaemenid and Sasanian Art",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_mumbai_and_british_museum_zoroastrian_tile_sets",
+      "label": "Mumbai and British Museum Zoroastrian Tile Sets",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_rationale_shah_lohr_sp_on_mumbai_tiles_echoes_darius_at_bisotun",
+      "label": "Rationale: Shah Lohr\u0101sp on Mumbai Tiles Echoes Darius at Bisotun",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_darius_inscriptions_at_bisotun_and_naqsh_e_rostam_ahuramazda_and_martial_skill",
+      "label": "Darius Inscriptions at Bisotun and Naqsh-e Rostam: Ahuramazda and Martial Skill",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_rationale_zarathustra_image_borrows_mithra_shapur_ii_relief_at_t_q_e_bost_n",
+      "label": "Rationale: Zarathustra Image Borrows Mithra/Shapur II Relief at T\u0101q-e Bost\u0101n",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_rationale_burning_holy_fire_tashd_n_fr_neg_n_tongs_and_ladle_on_mumbai_tiles",
+      "label": "Rationale: Burning Holy Fire, \u0100tashd\u0101n/\u0100fr\u012bneg\u0101n, Tongs, and Ladle on Mumbai Tiles",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_rationale_persepolis_lamassu_varasya_gomez_and_t_q_e_bost_n_architectural_framework",
+      "label": "Rationale: Persepolis, Lamassu, Varasya/Gomez, and T\u0101q-e Bost\u0101n Architectural Framework",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_modi_atesh_behram_and_manekji_navroji_sett_fire_temple_entrances",
+      "label": "Modi Atesh Behram and Manekji Navroji Sett Fire Temple Entrances",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_druvasp_lorasp_link_and_gendered_divine_iconography_on_parthian_kushan_coins",
+      "label": "Druvasp\u0101/Lorasp\u014d Link and Gendered Divine Iconography on Parthian-Kushan Coins",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_key_citations_in_notes_55_61_kellens_curtis_bracey_kent_godrej_mistree_stewart_dastur_mistree",
+      "label": "Key Citations in Notes 55\u201361: Kellens; Curtis; Bracey; Kent; Godrej/Mistree; Stewart; Dastur/Mistree",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_achaemenid_and_sasanian_art",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_argument_modern_zoroastrian_iconography_recasts_ancient_iranian_royal_motifs",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_darius_inscriptions_at_bisotun_and_naqsh_e_rostam_ahuramazda_and_martial_skill",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_druvasp_lorasp_link_and_gendered_divine_iconography_on_parthian_kushan_coins",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_key_citations_in_notes_55_61_kellens_curtis_bracey_kent_godrej_mistree_stewart_dastur_mistree",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_modi_atesh_behram_and_manekji_navroji_sett_fire_temple_entrances",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_mumbai_and_british_museum_zoroastrian_tile_sets",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_nineteenth_century_indian_zoroastrians",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_rationale_burning_holy_fire_tashd_n_fr_neg_n_tongs_and_ladle_on_mumbai_tiles",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_rationale_persepolis_lamassu_varasya_gomez_and_t_q_e_bost_n_architectural_framework",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_rationale_shah_lohr_sp_on_mumbai_tiles_echoes_darius_at_bisotun",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_rationale_zarathustra_image_borrows_mithra_shapur_ii_relief_at_t_q_e_bost_n",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_nineteenth_century_indian_zoroastrians",
+      "target": "llm_argument_modern_zoroastrian_iconography_recasts_ancient_iranian_royal_motifs",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_argument_modern_zoroastrian_iconography_recasts_ancient_iranian_royal_motifs",
+      "target": "llm_achaemenid_and_sasanian_art",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_mumbai_and_british_museum_zoroastrian_tile_sets",
+      "target": "llm_argument_modern_zoroastrian_iconography_recasts_ancient_iranian_royal_motifs",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_rationale_shah_lohr_sp_on_mumbai_tiles_echoes_darius_at_bisotun",
+      "target": "llm_mumbai_and_british_museum_zoroastrian_tile_sets",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_rationale_shah_lohr_sp_on_mumbai_tiles_echoes_darius_at_bisotun",
+      "target": "llm_darius_inscriptions_at_bisotun_and_naqsh_e_rostam_ahuramazda_and_martial_skill",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_rationale_shah_lohr_sp_on_mumbai_tiles_echoes_darius_at_bisotun",
+      "target": "llm_argument_modern_zoroastrian_iconography_recasts_ancient_iranian_royal_motifs",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.92,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_darius_inscriptions_at_bisotun_and_naqsh_e_rostam_ahuramazda_and_martial_skill",
+      "target": "llm_key_citations_in_notes_55_61_kellens_curtis_bracey_kent_godrej_mistree_stewart_dastur_mistree",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_rationale_zarathustra_image_borrows_mithra_shapur_ii_relief_at_t_q_e_bost_n",
+      "target": "llm_mumbai_and_british_museum_zoroastrian_tile_sets",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_rationale_zarathustra_image_borrows_mithra_shapur_ii_relief_at_t_q_e_bost_n",
+      "target": "llm_achaemenid_and_sasanian_art",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.96,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_rationale_zarathustra_image_borrows_mithra_shapur_ii_relief_at_t_q_e_bost_n",
+      "target": "llm_argument_modern_zoroastrian_iconography_recasts_ancient_iranian_royal_motifs",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_rationale_burning_holy_fire_tashd_n_fr_neg_n_tongs_and_ladle_on_mumbai_tiles",
+      "target": "llm_mumbai_and_british_museum_zoroastrian_tile_sets",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_rationale_burning_holy_fire_tashd_n_fr_neg_n_tongs_and_ladle_on_mumbai_tiles",
+      "target": "llm_achaemenid_and_sasanian_art",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.96,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_rationale_burning_holy_fire_tashd_n_fr_neg_n_tongs_and_ladle_on_mumbai_tiles",
+      "target": "llm_argument_modern_zoroastrian_iconography_recasts_ancient_iranian_royal_motifs",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.92,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_rationale_persepolis_lamassu_varasya_gomez_and_t_q_e_bost_n_architectural_framework",
+      "target": "llm_mumbai_and_british_museum_zoroastrian_tile_sets",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_rationale_persepolis_lamassu_varasya_gomez_and_t_q_e_bost_n_architectural_framework",
+      "target": "llm_achaemenid_and_sasanian_art",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_modi_atesh_behram_and_manekji_navroji_sett_fire_temple_entrances",
+      "target": "llm_rationale_persepolis_lamassu_varasya_gomez_and_t_q_e_bost_n_architectural_framework",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_druvasp_lorasp_link_and_gendered_divine_iconography_on_parthian_kushan_coins",
+      "target": "llm_key_citations_in_notes_55_61_kellens_curtis_bracey_kent_godrej_mistree_stewart_dastur_mistree",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_druvasp_lorasp_link_and_gendered_divine_iconography_on_parthian_kushan_coins",
+      "target": "llm_argument_modern_zoroastrian_iconography_recasts_ancient_iranian_royal_motifs",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.62,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.55
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_king_prophet_and_sacred_fire_program_on_the_tiles",
+      "label": "King, Prophet, and Sacred Fire Program on the Tiles",
+      "nodes": [
+        "llm_mumbai_and_british_museum_zoroastrian_tile_sets",
+        "llm_rationale_burning_holy_fire_tashd_n_fr_neg_n_tongs_and_ladle_on_mumbai_tiles",
+        "llm_rationale_shah_lohr_sp_on_mumbai_tiles_echoes_darius_at_bisotun",
+        "llm_rationale_zarathustra_image_borrows_mithra_shapur_ii_relief_at_t_q_e_bost_n"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.96,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md"
+    },
+    {
+      "id": "hyper_achaemenid_sasanian_motifs_recast_as_modern_zoroastrian_vocabulary",
+      "label": "Achaemenid-Sasanian Motifs Recast as Modern Zoroastrian Vocabulary",
+      "nodes": [
+        "llm_achaemenid_and_sasanian_art",
+        "llm_argument_modern_zoroastrian_iconography_recasts_ancient_iranian_royal_motifs",
+        "llm_nineteenth_century_indian_zoroastrians",
+        "llm_rationale_persepolis_lamassu_varasya_gomez_and_t_q_e_bost_n_architectural_framework"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 7524,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 12109,
+    "output_tokens_details": {
+      "reasoning_tokens": 9156
+    },
+    "total_tokens": 19633
+  }
+}

@@ -1,0 +1,492 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "label": "--- Monotheism the Zoroastrian Way",
+      "file_type": "document",
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ahura_mazd_ohrmazd",
+      "label": "Ahura Mazd\u0101 / Ohrmazd",
+      "file_type": "document",
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_mazdayasnians_zoroastrians",
+      "label": "Mazdayasnians / Zoroastrians",
+      "file_type": "document",
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_spiritual_creation",
+      "label": "Spiritual Creation",
+      "file_type": "document",
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ama_sp_ntas_as_life_producing_spiritual_beings",
+      "label": "Ama\u0161\u0101 Sp\u0259ntas as Life-Producing Spiritual Beings",
+      "file_type": "document",
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_material_world_as_pro_cosmic_good_creation",
+      "label": "Material World as Pro-Cosmic Good Creation",
+      "file_type": "document",
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_creatio_ex_deo_argument_not_creatio_ex_nihilo",
+      "label": "Creatio ex deo Argument, Not Creatio ex nihilo",
+      "file_type": "document",
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_yazatas_spiritual_and_material_objects_of_worship",
+      "label": "Yazatas, Spiritual and Material Objects of Worship",
+      "file_type": "document",
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_v_d_vd_d_purity_laws",
+      "label": "V\u012bd\u0113vd\u0101d Purity Laws",
+      "file_type": "document",
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_angra_mainyu_ahreman",
+      "label": "Angra Mainyu / Ahreman",
+      "file_type": "document",
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_da_uua_and_da_uua_iiasna",
+      "label": "Da\u0113uua and da\u0113uua-iiasna",
+      "file_type": "document",
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_avesta_yasna_citations_y_37_1_and_y_32_3",
+      "label": "Avesta/Yasna Citations: Y 37.1 and Y 32.3",
+      "file_type": "document",
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_coherence_of_monotheism_dualism_and_polytheism_in_zoroastrian_theology",
+      "label": "Coherence of Monotheism, Dualism, and Polytheism in Zoroastrian Theology",
+      "file_type": "document",
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "target": "llm_ahura_mazd_ohrmazd",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "target": "llm_ama_sp_ntas_as_life_producing_spiritual_beings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "target": "llm_angra_mainyu_ahreman",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "target": "llm_avesta_yasna_citations_y_37_1_and_y_32_3",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "target": "llm_coherence_of_monotheism_dualism_and_polytheism_in_zoroastrian_theology",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "target": "llm_creatio_ex_deo_argument_not_creatio_ex_nihilo",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "target": "llm_da_uua_and_da_uua_iiasna",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "target": "llm_material_world_as_pro_cosmic_good_creation",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "target": "llm_mazdayasnians_zoroastrians",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "target": "llm_spiritual_creation",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "target": "llm_v_d_vd_d_purity_laws",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "target": "llm_yazatas_spiritual_and_material_objects_of_worship",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_spiritual_creation",
+      "target": "llm_ahura_mazd_ohrmazd",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_material_world_as_pro_cosmic_good_creation",
+      "target": "llm_spiritual_creation",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_ama_sp_ntas_as_life_producing_spiritual_beings",
+      "target": "llm_spiritual_creation",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_ama_sp_ntas_as_life_producing_spiritual_beings",
+      "target": "llm_material_world_as_pro_cosmic_good_creation",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_spiritual_creation",
+      "target": "llm_creatio_ex_deo_argument_not_creatio_ex_nihilo",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.92,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_material_world_as_pro_cosmic_good_creation",
+      "target": "llm_creatio_ex_deo_argument_not_creatio_ex_nihilo",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.92,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_creatio_ex_deo_argument_not_creatio_ex_nihilo",
+      "target": "llm_avesta_yasna_citations_y_37_1_and_y_32_3",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_yazatas_spiritual_and_material_objects_of_worship",
+      "target": "llm_ahura_mazd_ohrmazd",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.96,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_mazdayasnians_zoroastrians",
+      "target": "llm_ahura_mazd_ohrmazd",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.96,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_mazdayasnians_zoroastrians",
+      "target": "llm_yazatas_spiritual_and_material_objects_of_worship",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_material_world_as_pro_cosmic_good_creation",
+      "target": "llm_v_d_vd_d_purity_laws",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_v_d_vd_d_purity_laws",
+      "target": "llm_ahura_mazd_ohrmazd",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_mazdayasnians_zoroastrians",
+      "target": "llm_angra_mainyu_ahreman",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_angra_mainyu_ahreman",
+      "target": "llm_da_uua_and_da_uua_iiasna",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_da_uua_and_da_uua_iiasna",
+      "target": "llm_avesta_yasna_citations_y_37_1_and_y_32_3",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_da_uua_and_da_uua_iiasna",
+      "target": "llm_yazatas_spiritual_and_material_objects_of_worship",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_creatio_ex_deo_argument_not_creatio_ex_nihilo",
+      "target": "llm_coherence_of_monotheism_dualism_and_polytheism_in_zoroastrian_theology",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_angra_mainyu_ahreman",
+      "target": "llm_coherence_of_monotheism_dualism_and_polytheism_in_zoroastrian_theology",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.92,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_ahura_mazd_to_material_creation_chain",
+      "label": "Ahura Mazd\u0101-to-Material Creation Chain",
+      "nodes": [
+        "llm_ahura_mazd_ohrmazd",
+        "llm_ama_sp_ntas_as_life_producing_spiritual_beings",
+        "llm_creatio_ex_deo_argument_not_creatio_ex_nihilo",
+        "llm_material_world_as_pro_cosmic_good_creation",
+        "llm_spiritual_creation"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md"
+    },
+    {
+      "id": "hyper_interlock_of_monotheism_dualism_and_polytheism",
+      "label": "Interlock of Monotheism, Dualism, and Polytheism",
+      "nodes": [
+        "llm_ahura_mazd_ohrmazd",
+        "llm_angra_mainyu_ahreman",
+        "llm_coherence_of_monotheism_dualism_and_polytheism_in_zoroastrian_theology",
+        "llm_da_uua_and_da_uua_iiasna",
+        "llm_yazatas_spiritual_and_material_objects_of_worship"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.93,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 7748,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 11400,
+    "output_tokens_details": {
+      "reasoning_tokens": 8804
+    },
+    "total_tokens": 19148
+  }
+}

@@ -1,0 +1,490 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "label": "Achaemenid History Derailed by AvestologyAssessing *La religion des Ach\u00e9m\u00e9nides: confrontation des sources*",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_achaemenid_history_derailed_by_avestology_abolala_soudavar_2013",
+      "label": "Achaemenid History Derailed by Avestology (Abolala Soudavar, 2013)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Abolala Soudavar",
+      "contributor": null
+    },
+    {
+      "id": "llm_kellens_1998_proto_yasna_a_b_fixation_canonization_and_decanonization_model",
+      "label": "Kellens 1998: Proto-Yasna A/B, Fixation, Canonization, and \u201cDecanonization\u201d Model",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "J. Kellens",
+      "contributor": null
+    },
+    {
+      "id": "llm_post_alexander_priestly_manipulation_and_re_canonization_claim",
+      "label": "Post-Alexander Priestly Manipulation and Re-canonization Claim",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_darius_calendar_evidence_bayayadish_mithra_as_baya_and_ahura_mazd_supremacy",
+      "label": "Darius\u2019 Calendar Evidence: bayayadish, Mithra as baya, and Ahura Mazd\u0101 Supremacy",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_oxus_treasure_warrior_priests_with_weapon_and_barsom_5th_4th_c_bc",
+      "label": "Oxus Treasure Warrior Priests with Weapon and barsom (5th\u20134th c. BC)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_gershevitch_1995_no_philological_method_to_measure_language_evolution_speed",
+      "label": "Gershevitch 1995: No Philological Method to Measure Language Evolution Speed",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Ilya Gershevitch",
+      "contributor": null
+    },
+    {
+      "id": "llm_arachosian_theory_of_avestan_origin_eastern_school",
+      "label": "Arachosian Theory of Avestan Origin / Eastern School",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_raga_and_median_priestly_language_as_alternative_to_arachosia",
+      "label": "Raga and Median Priestly Language as Alternative to Arachosia",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_yasna_19_18_zarathushtra_s_raga_and_four_chiefs",
+      "label": "Yasna 19.18: Zarathushtra\u2019s Raga and Four Chiefs",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_khvarenah_cycle_in_yt_19_and_yt_5_apam_nap_t_an_hit_afr_siy_b_and_artaxerxes_ii",
+      "label": "Khvarenah Cycle in Yt 19 and Yt 5: Apam Nap\u0101t, An\u0101hit\u0101, Afr\u0101siy\u0101b, and Artaxerxes II",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_panaino_calendar_debate_egyptian_365_day_calendar_avestan_school_and_day_names",
+      "label": "Panaino Calendar Debate: Egyptian 365-day Calendar, Avestan School, and Day Names",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Panaino",
+      "contributor": null
+    },
+    {
+      "id": "llm_persian_sources_and_the_258_axiom",
+      "label": "Persian Sources and the 258 Axiom",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "target": "llm_achaemenid_history_derailed_by_avestology_abolala_soudavar_2013",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "target": "llm_arachosian_theory_of_avestan_origin_eastern_school",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "target": "llm_darius_calendar_evidence_bayayadish_mithra_as_baya_and_ahura_mazd_supremacy",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "target": "llm_gershevitch_1995_no_philological_method_to_measure_language_evolution_speed",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "target": "llm_kellens_1998_proto_yasna_a_b_fixation_canonization_and_decanonization_model",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "target": "llm_khvarenah_cycle_in_yt_19_and_yt_5_apam_nap_t_an_hit_afr_siy_b_and_artaxerxes_ii",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "target": "llm_oxus_treasure_warrior_priests_with_weapon_and_barsom_5th_4th_c_bc",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "target": "llm_panaino_calendar_debate_egyptian_365_day_calendar_avestan_school_and_day_names",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "target": "llm_persian_sources_and_the_258_axiom",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "target": "llm_post_alexander_priestly_manipulation_and_re_canonization_claim",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "target": "llm_raga_and_median_priestly_language_as_alternative_to_arachosia",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "target": "llm_yasna_19_18_zarathushtra_s_raga_and_four_chiefs",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_achaemenid_history_derailed_by_avestology_abolala_soudavar_2013",
+      "target": "llm_kellens_1998_proto_yasna_a_b_fixation_canonization_and_decanonization_model",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_achaemenid_history_derailed_by_avestology_abolala_soudavar_2013",
+      "target": "llm_gershevitch_1995_no_philological_method_to_measure_language_evolution_speed",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_achaemenid_history_derailed_by_avestology_abolala_soudavar_2013",
+      "target": "llm_darius_calendar_evidence_bayayadish_mithra_as_baya_and_ahura_mazd_supremacy",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_achaemenid_history_derailed_by_avestology_abolala_soudavar_2013",
+      "target": "llm_panaino_calendar_debate_egyptian_365_day_calendar_avestan_school_and_day_names",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.97,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_achaemenid_history_derailed_by_avestology_abolala_soudavar_2013",
+      "target": "llm_persian_sources_and_the_258_axiom",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_kellens_1998_proto_yasna_a_b_fixation_canonization_and_decanonization_model",
+      "target": "llm_post_alexander_priestly_manipulation_and_re_canonization_claim",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.92,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_darius_calendar_evidence_bayayadish_mithra_as_baya_and_ahura_mazd_supremacy",
+      "target": "llm_post_alexander_priestly_manipulation_and_re_canonization_claim",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.91,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_oxus_treasure_warrior_priests_with_weapon_and_barsom_5th_4th_c_bc",
+      "target": "llm_post_alexander_priestly_manipulation_and_re_canonization_claim",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_gershevitch_1995_no_philological_method_to_measure_language_evolution_speed",
+      "target": "llm_kellens_1998_proto_yasna_a_b_fixation_canonization_and_decanonization_model",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_kellens_1998_proto_yasna_a_b_fixation_canonization_and_decanonization_model",
+      "target": "llm_arachosian_theory_of_avestan_origin_eastern_school",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_arachosian_theory_of_avestan_origin_eastern_school",
+      "target": "llm_raga_and_median_priestly_language_as_alternative_to_arachosia",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.93,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_raga_and_median_priestly_language_as_alternative_to_arachosia",
+      "target": "llm_yasna_19_18_zarathushtra_s_raga_and_four_chiefs",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.96,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_yasna_19_18_zarathushtra_s_raga_and_four_chiefs",
+      "target": "llm_raga_and_median_priestly_language_as_alternative_to_arachosia",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_khvarenah_cycle_in_yt_19_and_yt_5_apam_nap_t_an_hit_afr_siy_b_and_artaxerxes_ii",
+      "target": "llm_post_alexander_priestly_manipulation_and_re_canonization_claim",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_khvarenah_cycle_in_yt_19_and_yt_5_apam_nap_t_an_hit_afr_siy_b_and_artaxerxes_ii",
+      "target": "llm_kellens_1998_proto_yasna_a_b_fixation_canonization_and_decanonization_model",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.84,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_kellens_1998_proto_yasna_a_b_fixation_canonization_and_decanonization_model",
+      "target": "llm_panaino_calendar_debate_egyptian_365_day_calendar_avestan_school_and_day_names",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_panaino_calendar_debate_egyptian_365_day_calendar_avestan_school_and_day_names",
+      "target": "llm_post_alexander_priestly_manipulation_and_re_canonization_claim",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.87,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_darius_calendar_evidence_bayayadish_mithra_as_baya_and_ahura_mazd_supremacy",
+      "target": "llm_panaino_calendar_debate_egyptian_365_day_calendar_avestan_school_and_day_names",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.8,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.8
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_debate_over_avestan_dating_canonization_and_post_alexander_reconfiguration",
+      "label": "Debate over Avestan Dating, Canonization, and Post-Alexander Reconfiguration",
+      "nodes": [
+        "llm_darius_calendar_evidence_bayayadish_mithra_as_baya_and_ahura_mazd_supremacy",
+        "llm_kellens_1998_proto_yasna_a_b_fixation_canonization_and_decanonization_model",
+        "llm_khvarenah_cycle_in_yt_19_and_yt_5_apam_nap_t_an_hit_afr_siy_b_and_artaxerxes_ii",
+        "llm_panaino_calendar_debate_egyptian_365_day_calendar_avestan_school_and_day_names",
+        "llm_post_alexander_priestly_manipulation_and_re_canonization_claim"
+      ],
+      "relation": "debate",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md"
+    },
+    {
+      "id": "hyper_arachosia_versus_raga_media_in_locating_zoroaster_and_avestan_traditions",
+      "label": "Arachosia versus Raga/Media in Locating Zoroaster and Avestan Traditions",
+      "nodes": [
+        "llm_arachosian_theory_of_avestan_origin_eastern_school",
+        "llm_raga_and_median_priestly_language_as_alternative_to_arachosia",
+        "llm_yasna_19_18_zarathushtra_s_raga_and_four_chiefs"
+      ],
+      "relation": "debate",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 6261,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 9035,
+    "output_tokens_details": {
+      "reasoning_tokens": 6214
+    },
+    "total_tokens": 15296
+  }
+}

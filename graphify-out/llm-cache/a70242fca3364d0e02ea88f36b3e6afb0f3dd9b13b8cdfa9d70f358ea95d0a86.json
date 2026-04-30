@@ -1,0 +1,491 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_md",
+      "label": "IRANO-JUDAICA VII",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zoroastrian_cosmology_as_integral_eschatology",
+      "label": "Zoroastrian Cosmology as Integral Eschatology",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ahura_mazd_s_creation_and_final_perfection",
+      "label": "Ahura Mazd\u0101\u2019s Creation and Final Perfection",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_angra_mainyu_destructive_force_as_external_evil",
+      "label": "Angra Mainyu / Destructive Force as External Evil",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_astvatereta_the_victorious_sa_yant_perfector",
+      "label": "Astvatereta, the Victorious Sa\u014d\u0161yant / Perfector",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zamy_d_ya_t_yt_19_89_96",
+      "label": "Zamy\u0101d Ya\u0161t Yt 19.89\u201396",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_final_resurrection_universal_judgement_and_molten_metal_purification",
+      "label": "Final Resurrection, Universal Judgement, and Molten-Metal Purification",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_shaked_1971_two_creations_explain_individual_and_universal_judgements",
+      "label": "Shaked 1971: Two Creations Explain Individual and Universal Judgements",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_sudre_and_kusti_as_daily_reminder_of_good_thoughts_words_and_deeds",
+      "label": "Sudre and Kusti as Daily Reminder of Good Thoughts, Words, and Deeds",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_argument_zoroastrian_influence_through_daily_oral_contact_in_aramaic",
+      "label": "Argument: Zoroastrian Influence through Daily Oral Contact in Aramaic",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_smith_1963_1990_and_barr_1985_persian_propagandist_or_special_study_model",
+      "label": "Smith 1963/1990 and Barr 1985: Persian Propagandist or Special Study Model",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_meme_complex_criterion_for_zoroastrian_influence_dawkins_1989_stausberg_2007",
+      "label": "Meme-Complex Criterion for Zoroastrian Influence (Dawkins 1989; Stausberg 2007)",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_pre_exilic_jewish_sheol_and_this_worldly_eschatology_job_7_7_10_1_sam_2_6",
+      "label": "Pre-Exilic Jewish Sheol and This-Worldly Eschatology (Job 7:7\u201310; 1 Sam 2:6)",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_md",
+      "target": "llm_ahura_mazd_s_creation_and_final_perfection",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_md",
+      "target": "llm_angra_mainyu_destructive_force_as_external_evil",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_md",
+      "target": "llm_argument_zoroastrian_influence_through_daily_oral_contact_in_aramaic",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_md",
+      "target": "llm_astvatereta_the_victorious_sa_yant_perfector",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_md",
+      "target": "llm_final_resurrection_universal_judgement_and_molten_metal_purification",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_md",
+      "target": "llm_meme_complex_criterion_for_zoroastrian_influence_dawkins_1989_stausberg_2007",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_md",
+      "target": "llm_pre_exilic_jewish_sheol_and_this_worldly_eschatology_job_7_7_10_1_sam_2_6",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_md",
+      "target": "llm_shaked_1971_two_creations_explain_individual_and_universal_judgements",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_md",
+      "target": "llm_smith_1963_1990_and_barr_1985_persian_propagandist_or_special_study_model",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_md",
+      "target": "llm_sudre_and_kusti_as_daily_reminder_of_good_thoughts_words_and_deeds",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_md",
+      "target": "llm_zamy_d_ya_t_yt_19_89_96",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_md",
+      "target": "llm_zoroastrian_cosmology_as_integral_eschatology",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zoroastrian_cosmology_as_integral_eschatology",
+      "target": "llm_ahura_mazd_s_creation_and_final_perfection",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.96,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_ahura_mazd_s_creation_and_final_perfection",
+      "target": "llm_angra_mainyu_destructive_force_as_external_evil",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zoroastrian_cosmology_as_integral_eschatology",
+      "target": "llm_angra_mainyu_destructive_force_as_external_evil",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.93,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_astvatereta_the_victorious_sa_yant_perfector",
+      "target": "llm_angra_mainyu_destructive_force_as_external_evil",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_astvatereta_the_victorious_sa_yant_perfector",
+      "target": "llm_final_resurrection_universal_judgement_and_molten_metal_purification",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.96,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zamy_d_ya_t_yt_19_89_96",
+      "target": "llm_astvatereta_the_victorious_sa_yant_perfector",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zamy_d_ya_t_yt_19_89_96",
+      "target": "llm_angra_mainyu_destructive_force_as_external_evil",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zamy_d_ya_t_yt_19_89_96",
+      "target": "llm_final_resurrection_universal_judgement_and_molten_metal_purification",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_final_resurrection_universal_judgement_and_molten_metal_purification",
+      "target": "llm_zoroastrian_cosmology_as_integral_eschatology",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_shaked_1971_two_creations_explain_individual_and_universal_judgements",
+      "target": "llm_zoroastrian_cosmology_as_integral_eschatology",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_shaked_1971_two_creations_explain_individual_and_universal_judgements",
+      "target": "llm_final_resurrection_universal_judgement_and_molten_metal_purification",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.92,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_sudre_and_kusti_as_daily_reminder_of_good_thoughts_words_and_deeds",
+      "target": "llm_zoroastrian_cosmology_as_integral_eschatology",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.89,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_sudre_and_kusti_as_daily_reminder_of_good_thoughts_words_and_deeds",
+      "target": "llm_argument_zoroastrian_influence_through_daily_oral_contact_in_aramaic",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.78,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_argument_zoroastrian_influence_through_daily_oral_contact_in_aramaic",
+      "target": "llm_smith_1963_1990_and_barr_1985_persian_propagandist_or_special_study_model",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_argument_zoroastrian_influence_through_daily_oral_contact_in_aramaic",
+      "target": "llm_meme_complex_criterion_for_zoroastrian_influence_dawkins_1989_stausberg_2007",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_meme_complex_criterion_for_zoroastrian_influence_dawkins_1989_stausberg_2007",
+      "target": "llm_zoroastrian_cosmology_as_integral_eschatology",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.93,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_pre_exilic_jewish_sheol_and_this_worldly_eschatology_job_7_7_10_1_sam_2_6",
+      "target": "llm_zoroastrian_cosmology_as_integral_eschatology",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_pre_exilic_jewish_sheol_and_this_worldly_eschatology_job_7_7_10_1_sam_2_6",
+      "target": "llm_final_resurrection_universal_judgement_and_molten_metal_purification",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.8
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_zoroastrian_end_time_sequence_evil_defeated_dead_raised_creation_perfected",
+      "label": "Zoroastrian End-Time Sequence: Evil Defeated, Dead Raised, Creation Perfected",
+      "nodes": [
+        "llm_ahura_mazd_s_creation_and_final_perfection",
+        "llm_angra_mainyu_destructive_force_as_external_evil",
+        "llm_astvatereta_the_victorious_sa_yant_perfector",
+        "llm_final_resurrection_universal_judgement_and_molten_metal_purification",
+        "llm_zoroastrian_cosmology_as_integral_eschatology"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md"
+    },
+    {
+      "id": "hyper_debate_over_zoroastrian_influence_on_jewish_eschatology",
+      "label": "Debate over Zoroastrian Influence on Jewish Eschatology",
+      "nodes": [
+        "llm_argument_zoroastrian_influence_through_daily_oral_contact_in_aramaic",
+        "llm_meme_complex_criterion_for_zoroastrian_influence_dawkins_1989_stausberg_2007",
+        "llm_pre_exilic_jewish_sheol_and_this_worldly_eschatology_job_7_7_10_1_sam_2_6",
+        "llm_smith_1963_1990_and_barr_1985_persian_propagandist_or_special_study_model"
+      ],
+      "relation": "debate",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.84,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 6201,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 9519,
+    "output_tokens_details": {
+      "reasoning_tokens": 6732
+    },
+    "total_tokens": 15720
+  }
+}

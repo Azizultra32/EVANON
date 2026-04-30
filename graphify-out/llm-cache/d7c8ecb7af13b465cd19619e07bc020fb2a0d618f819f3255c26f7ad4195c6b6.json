@@ -1,0 +1,479 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "label": "ABSTRACT:",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_traces_of_iran_s_culture_in_europe_america_china_india_and_arabia",
+      "label": "Traces of Iran's Culture in Europe, America, China, India, and Arabia",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Prof. M.S. Tajar",
+      "contributor": null
+    },
+    {
+      "id": "llm_prof_m_s_tajar",
+      "label": "Prof. M.S. Tajar",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_iran_ancient_persia",
+      "label": "Iran / Ancient Persia",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_argument_iranian_civilization_as_a_forgotten_global_cultural_source",
+      "label": "Argument: Iranian civilization as a forgotten global cultural source",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_rationale_cited_authorities_on_persian_civilizational_primacy_jorjani_arthur_pope_calmar_hegel",
+      "label": "Rationale: cited authorities on Persian civilizational primacy (Jorjani, Arthur Pope, Calmar, Hegel)",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_claim_greek_philosophers_were_trained_under_persian_magi_and_zoroastrian_philosophy",
+      "label": "Claim: Greek philosophers were trained under Persian Magi and Zoroastrian philosophy",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_claim_cyrus_the_great_as_jewish_messiah_biblical_prophets_in_persia_isaiah_45_1_ezra_1",
+      "label": "Claim: Cyrus the Great as Jewish Messiah; biblical prophets in Persia (Isaiah 45:1; Ezra 1)",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_claim_christian_and_catholic_rituals_adapted_from_mithraism",
+      "label": "Claim: Christian and Catholic rituals adapted from Mithraism",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_claim_saka_saxon_celt_catalan_and_caucasus_groups_trace_to_iranian_tribes",
+      "label": "Claim: Saka, Saxon, Celt, Catalan, and Caucasus groups trace to Iranian tribes",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_avestan_and_persian_words_in_english_and_european_languages",
+      "label": "Avestan and Persian words in English and European languages",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_claim_persian_islamic_influences_in_moorish_spain_through_ali_zaryab_and_tariq_bin_ziyad",
+      "label": "Claim: Persian-Islamic influences in Moorish Spain through Ali Zaryab and Tariq bin Ziyad",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_claim_an_shigao_persian_ashkani_prince_monk_introduced_buddhism_to_china",
+      "label": "Claim: An Shigao, Persian Ashkani prince-monk, introduced Buddhism to China",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "target": "llm_argument_iranian_civilization_as_a_forgotten_global_cultural_source",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "target": "llm_avestan_and_persian_words_in_english_and_european_languages",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "target": "llm_claim_an_shigao_persian_ashkani_prince_monk_introduced_buddhism_to_china",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "target": "llm_claim_christian_and_catholic_rituals_adapted_from_mithraism",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "target": "llm_claim_cyrus_the_great_as_jewish_messiah_biblical_prophets_in_persia_isaiah_45_1_ezra_1",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "target": "llm_claim_greek_philosophers_were_trained_under_persian_magi_and_zoroastrian_philosophy",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "target": "llm_claim_persian_islamic_influences_in_moorish_spain_through_ali_zaryab_and_tariq_bin_ziyad",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "target": "llm_claim_saka_saxon_celt_catalan_and_caucasus_groups_trace_to_iranian_tribes",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "target": "llm_iran_ancient_persia",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "target": "llm_prof_m_s_tajar",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "target": "llm_rationale_cited_authorities_on_persian_civilizational_primacy_jorjani_arthur_pope_calmar_hegel",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "target": "llm_traces_of_iran_s_culture_in_europe_america_china_india_and_arabia",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_prof_m_s_tajar",
+      "target": "llm_traces_of_iran_s_culture_in_europe_america_china_india_and_arabia",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_traces_of_iran_s_culture_in_europe_america_china_india_and_arabia",
+      "target": "llm_iran_ancient_persia",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_traces_of_iran_s_culture_in_europe_america_china_india_and_arabia",
+      "target": "llm_argument_iranian_civilization_as_a_forgotten_global_cultural_source",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_argument_iranian_civilization_as_a_forgotten_global_cultural_source",
+      "target": "llm_iran_ancient_persia",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_traces_of_iran_s_culture_in_europe_america_china_india_and_arabia",
+      "target": "llm_rationale_cited_authorities_on_persian_civilizational_primacy_jorjani_arthur_pope_calmar_hegel",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_rationale_cited_authorities_on_persian_civilizational_primacy_jorjani_arthur_pope_calmar_hegel",
+      "target": "llm_argument_iranian_civilization_as_a_forgotten_global_cultural_source",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_claim_greek_philosophers_were_trained_under_persian_magi_and_zoroastrian_philosophy",
+      "target": "llm_argument_iranian_civilization_as_a_forgotten_global_cultural_source",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.88
+    },
+    {
+      "source": "llm_claim_cyrus_the_great_as_jewish_messiah_biblical_prophets_in_persia_isaiah_45_1_ezra_1",
+      "target": "llm_argument_iranian_civilization_as_a_forgotten_global_cultural_source",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_claim_christian_and_catholic_rituals_adapted_from_mithraism",
+      "target": "llm_argument_iranian_civilization_as_a_forgotten_global_cultural_source",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_claim_saka_saxon_celt_catalan_and_caucasus_groups_trace_to_iranian_tribes",
+      "target": "llm_argument_iranian_civilization_as_a_forgotten_global_cultural_source",
+      "relation": "rationale_for",
+      "confidence": "AMBIGUOUS",
+      "confidence_score": 0.62,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.62
+    },
+    {
+      "source": "llm_avestan_and_persian_words_in_english_and_european_languages",
+      "target": "llm_claim_saka_saxon_celt_catalan_and_caucasus_groups_trace_to_iranian_tribes",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.86
+    },
+    {
+      "source": "llm_claim_persian_islamic_influences_in_moorish_spain_through_ali_zaryab_and_tariq_bin_ziyad",
+      "target": "llm_argument_iranian_civilization_as_a_forgotten_global_cultural_source",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_claim_an_shigao_persian_ashkani_prince_monk_introduced_buddhism_to_china",
+      "target": "llm_argument_iranian_civilization_as_a_forgotten_global_cultural_source",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.86
+    },
+    {
+      "source": "llm_claim_greek_philosophers_were_trained_under_persian_magi_and_zoroastrian_philosophy",
+      "target": "llm_iran_ancient_persia",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_claim_christian_and_catholic_rituals_adapted_from_mithraism",
+      "target": "llm_iran_ancient_persia",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_claim_persian_islamic_influences_in_moorish_spain_through_ali_zaryab_and_tariq_bin_ziyad",
+      "target": "llm_iran_ancient_persia",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.88
+    },
+    {
+      "source": "llm_claim_an_shigao_persian_ashkani_prince_monk_introduced_buddhism_to_china",
+      "target": "llm_iran_ancient_persia",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.86
+    },
+    {
+      "source": "llm_claim_cyrus_the_great_as_jewish_messiah_biblical_prophets_in_persia_isaiah_45_1_ezra_1",
+      "target": "llm_iran_ancient_persia",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_rationales_forming_the_article_s_global_iranian_influence_argument",
+      "label": "Rationales forming the article's global Iranian influence argument",
+      "nodes": [
+        "llm_argument_iranian_civilization_as_a_forgotten_global_cultural_source",
+        "llm_claim_an_shigao_persian_ashkani_prince_monk_introduced_buddhism_to_china",
+        "llm_claim_christian_and_catholic_rituals_adapted_from_mithraism",
+        "llm_claim_cyrus_the_great_as_jewish_messiah_biblical_prophets_in_persia_isaiah_45_1_ezra_1",
+        "llm_claim_greek_philosophers_were_trained_under_persian_magi_and_zoroastrian_philosophy",
+        "llm_claim_persian_islamic_influences_in_moorish_spain_through_ali_zaryab_and_tariq_bin_ziyad",
+        "llm_claim_saka_saxon_celt_catalan_and_caucasus_groups_trace_to_iranian_tribes"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 7287,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 7301,
+    "output_tokens_details": {
+      "reasoning_tokens": 4660
+    },
+    "total_tokens": 14588
+  }
+}

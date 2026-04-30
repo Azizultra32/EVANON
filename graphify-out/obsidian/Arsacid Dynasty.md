@@ -12,7 +12,8 @@ tags:
 # Arsacid Dynasty
 
 ## Connections
-- [[Sasanian Empire]] - `precedes` [EXTRACTED]
+- [[Kayānid Sacred Historiography and xwarrah]] - `participates_in` [EXTRACTED]
+- [[Middle Iranian Invention of Avestan Sanctuaries Thesis]] - `participates_in` [EXTRACTED]
 - [[“Building a New Vision of the Past in the Sasanian Empire The Sanctuaries of Kayānsih and the Great Fires of Iran”]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Iranian_Kingship

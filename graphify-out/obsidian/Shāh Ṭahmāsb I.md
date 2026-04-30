@@ -12,9 +12,9 @@ tags:
 # Shāh Ṭahmāsb I
 
 ## Connections
+- [[1468 Gulistān of Sa'dī (FGA, F1998.5) as Jousting Field]] - `conceptually_related_to` [AMBIGUOUS]
 - [[BETWEEN THE SAFAVIDS AND THE MUGHALS ART AND ARTISTS IN TRANSITION]] - `references` [EXTRACTED]
-- [[Humāyūn]] - `references` [EXTRACTED]
-- [[Safavid Painting]] - `conceptually_related_to` [INFERRED]
-- [[Timurid Painting]] - `conceptually_related_to` [INFERRED]
+- [[Safavid Royal Library-Atelier]] - `conceptually_related_to` [EXTRACTED]
+- [[Three Safavid-Mughal Migratory Waves (1544-1585)]] - `participates_in` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/BETWEEN_THE_SAFAVIDS_AND_THE_MUGHALS:_ART_AND_AR

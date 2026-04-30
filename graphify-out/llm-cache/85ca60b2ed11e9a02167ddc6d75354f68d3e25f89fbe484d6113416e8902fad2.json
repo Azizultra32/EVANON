@@ -1,0 +1,491 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_md",
+      "label": "**THE AURA OF KINGS**",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_the_aura_of_kings",
+      "label": "The Aura of Kings",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_khvarnah_farr_iranian_royal_glory",
+      "label": "Khvarnah / Farr (Iranian Royal Glory)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_argument_dual_legitimacy_symbolism",
+      "label": "Argument: Dual Legitimacy Symbolism",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_winged_sun_disk_symbol_assyrian_egyptian_achaemenid",
+      "label": "Winged Sun-Disk Symbol (Assyrian, Egyptian, Achaemenid)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ahura_mazd",
+      "label": "Ahura-Mazd\u0101",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_lotus_sunflower_and_aquatic_signs_of_farr",
+      "label": "Lotus, Sunflower, and Aquatic Signs of Farr",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_darius_and_xerxes_canopied_throne_relief_at_persepolis",
+      "label": "Darius and Xerxes Canopied Throne Relief at Persepolis",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_susa_glazed_brick_khvarnah_panels",
+      "label": "Susa Glazed Brick Khvarnah Panels",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_mughal_royal_farr_symbolism_sh_hjah_n_and_jah_ng_r",
+      "label": "Mughal Royal Farr Symbolism (Sh\u0101hjah\u0101n and Jah\u0101ng\u012br)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_abol_fazl",
+      "label": "Abol-fazl",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_mithraic_symbolism_and_tauroctony",
+      "label": "Mithraic Symbolism and Tauroctony",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_an_hit_apam_nap_t",
+      "label": "An\u0101hit\u0101 / Apam-Nap\u0101t",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_md",
+      "target": "llm_abol_fazl",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_md",
+      "target": "llm_ahura_mazd",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_md",
+      "target": "llm_an_hit_apam_nap_t",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_md",
+      "target": "llm_argument_dual_legitimacy_symbolism",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_md",
+      "target": "llm_darius_and_xerxes_canopied_throne_relief_at_persepolis",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_md",
+      "target": "llm_khvarnah_farr_iranian_royal_glory",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_md",
+      "target": "llm_lotus_sunflower_and_aquatic_signs_of_farr",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_md",
+      "target": "llm_mithraic_symbolism_and_tauroctony",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_md",
+      "target": "llm_mughal_royal_farr_symbolism_sh_hjah_n_and_jah_ng_r",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_md",
+      "target": "llm_susa_glazed_brick_khvarnah_panels",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_md",
+      "target": "llm_the_aura_of_kings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_md",
+      "target": "llm_winged_sun_disk_symbol_assyrian_egyptian_achaemenid",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_the_aura_of_kings",
+      "target": "llm_khvarnah_farr_iranian_royal_glory",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_the_aura_of_kings",
+      "target": "llm_argument_dual_legitimacy_symbolism",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_the_aura_of_kings",
+      "target": "llm_winged_sun_disk_symbol_assyrian_egyptian_achaemenid",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.94
+    },
+    {
+      "source": "llm_the_aura_of_kings",
+      "target": "llm_abol_fazl",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_winged_sun_disk_symbol_assyrian_egyptian_achaemenid",
+      "target": "llm_khvarnah_farr_iranian_royal_glory",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.96,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.96
+    },
+    {
+      "source": "llm_winged_sun_disk_symbol_assyrian_egyptian_achaemenid",
+      "target": "llm_ahura_mazd",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.94
+    },
+    {
+      "source": "llm_lotus_sunflower_and_aquatic_signs_of_farr",
+      "target": "llm_khvarnah_farr_iranian_royal_glory",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_darius_and_xerxes_canopied_throne_relief_at_persepolis",
+      "target": "llm_khvarnah_farr_iranian_royal_glory",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.96,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.96
+    },
+    {
+      "source": "llm_darius_and_xerxes_canopied_throne_relief_at_persepolis",
+      "target": "llm_ahura_mazd",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.94
+    },
+    {
+      "source": "llm_darius_and_xerxes_canopied_throne_relief_at_persepolis",
+      "target": "llm_argument_dual_legitimacy_symbolism",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.74,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.74
+    },
+    {
+      "source": "llm_susa_glazed_brick_khvarnah_panels",
+      "target": "llm_khvarnah_farr_iranian_royal_glory",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.97,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.97
+    },
+    {
+      "source": "llm_susa_glazed_brick_khvarnah_panels",
+      "target": "llm_lotus_sunflower_and_aquatic_signs_of_farr",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_mughal_royal_farr_symbolism_sh_hjah_n_and_jah_ng_r",
+      "target": "llm_khvarnah_farr_iranian_royal_glory",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_abol_fazl",
+      "target": "llm_mughal_royal_farr_symbolism_sh_hjah_n_and_jah_ng_r",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.84,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.84
+    },
+    {
+      "source": "llm_mithraic_symbolism_and_tauroctony",
+      "target": "llm_khvarnah_farr_iranian_royal_glory",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.76,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.76
+    },
+    {
+      "source": "llm_an_hit_apam_nap_t",
+      "target": "llm_khvarnah_farr_iranian_royal_glory",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.73,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.73
+    },
+    {
+      "source": "llm_argument_dual_legitimacy_symbolism",
+      "target": "llm_ahura_mazd",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.84,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.84
+    },
+    {
+      "source": "llm_argument_dual_legitimacy_symbolism",
+      "target": "llm_khvarnah_farr_iranian_royal_glory",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.78,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.78
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_persepolis_canopied_throne_legitimacy_ensemble",
+      "label": "Persepolis Canopied Throne Legitimacy Ensemble",
+      "nodes": [
+        "llm_ahura_mazd",
+        "llm_darius_and_xerxes_canopied_throne_relief_at_persepolis",
+        "llm_khvarnah_farr_iranian_royal_glory",
+        "llm_lotus_sunflower_and_aquatic_signs_of_farr",
+        "llm_winged_sun_disk_symbol_assyrian_egyptian_achaemenid"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md"
+    },
+    {
+      "id": "hyper_dual_legitimacy_ahura_mazd_supremacy_and_khvarnah_symbolism",
+      "label": "Dual Legitimacy: Ahura-Mazd\u0101 Supremacy and Khvarnah Symbolism",
+      "nodes": [
+        "llm_ahura_mazd",
+        "llm_argument_dual_legitimacy_symbolism",
+        "llm_khvarnah_farr_iranian_royal_glory",
+        "llm_winged_sun_disk_symbol_assyrian_egyptian_achaemenid"
+      ],
+      "relation": "debate",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 6342,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 13946,
+    "output_tokens_details": {
+      "reasoning_tokens": 11370
+    },
+    "total_tokens": 20288
+  }
+}

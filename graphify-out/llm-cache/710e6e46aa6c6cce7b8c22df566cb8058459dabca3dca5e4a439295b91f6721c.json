@@ -1,0 +1,480 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "label": "A Thousand Judgements",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_pahlavi_n_rangest_n_23",
+      "label": "Pahlavi N\u012brangest\u0101n 23",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_denial_of_the_d_n_as_apostasy",
+      "label": "Denial of the d\u0113n as apostasy",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_tan_buhl_to_margarz_n_sin_progression",
+      "label": "tan\u0101buhl-to-margarz\u0101n sin progression",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_pahlavi_videvdad_7_52",
+      "label": "Pahlavi Videvdad 7.52",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_m_d_son_of_a_wahist_questions_rea_4_250",
+      "label": "\u0112m\u0113d son of A\u0161wahist, Questions (REA 4.250)",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_pahlavi_riv_yat_7_2",
+      "label": "Pahlavi Riv\u0101yat 7.2",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_m_nu_cihr_d_dest_n_d_n_g_40",
+      "label": "M\u0101nu\u0161cihr, D\u0101dest\u0101n \u012b d\u0113n\u012bg 40",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_islamic_apostasy_jurisprudence_ibn_qud_ma_and_dissenting_jurists",
+      "label": "Islamic apostasy jurisprudence (Ibn Qud\u0101ma and dissenting jurists)",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_r_n_s_grift_r_rationale_on_thought_utterance_denial",
+      "label": "R\u014d\u0161n's grift\u0101r rationale on thought/utterance denial",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ravina_rav_hisda_thought_utterance_debate_bt_berakhot_20b",
+      "label": "Ravina\u2013Rav Hisda thought/utterance debate (BT Berakhot 20b)",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_durfarrbay_raf_53_kust_g_untying_and_repentance",
+      "label": "\u0100durfarrbay RAF 53: kust\u012bg-untying and repentance",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_meh_d_dest_n_h_as_higher_law_overriding_regular_law",
+      "label": "meh-d\u0101dest\u0101n\u012bh as higher law overriding regular law",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_denial_of_the_d_n_as_apostasy",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_durfarrbay_raf_53_kust_g_untying_and_repentance",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_islamic_apostasy_jurisprudence_ibn_qud_ma_and_dissenting_jurists",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_m_d_son_of_a_wahist_questions_rea_4_250",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_m_nu_cihr_d_dest_n_d_n_g_40",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_meh_d_dest_n_h_as_higher_law_overriding_regular_law",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_pahlavi_n_rangest_n_23",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_pahlavi_riv_yat_7_2",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_pahlavi_videvdad_7_52",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_r_n_s_grift_r_rationale_on_thought_utterance_denial",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_ravina_rav_hisda_thought_utterance_debate_bt_berakhot_20b",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_tan_buhl_to_margarz_n_sin_progression",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_pahlavi_n_rangest_n_23",
+      "target": "llm_denial_of_the_d_n_as_apostasy",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_denial_of_the_d_n_as_apostasy",
+      "target": "llm_tan_buhl_to_margarz_n_sin_progression",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_pahlavi_videvdad_7_52",
+      "target": "llm_tan_buhl_to_margarz_n_sin_progression",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_m_d_son_of_a_wahist_questions_rea_4_250",
+      "target": "llm_pahlavi_n_rangest_n_23",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_m_d_son_of_a_wahist_questions_rea_4_250",
+      "target": "llm_tan_buhl_to_margarz_n_sin_progression",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_pahlavi_riv_yat_7_2",
+      "target": "llm_denial_of_the_d_n_as_apostasy",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_pahlavi_riv_yat_7_2",
+      "target": "llm_m_d_son_of_a_wahist_questions_rea_4_250",
+      "relation": "contrasts_with",
+      "confidence": "AMBIGUOUS",
+      "confidence_score": 0.55,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.6
+    },
+    {
+      "source": "llm_m_nu_cihr_d_dest_n_d_n_g_40",
+      "target": "llm_m_d_son_of_a_wahist_questions_rea_4_250",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_m_nu_cihr_d_dest_n_d_n_g_40",
+      "target": "llm_pahlavi_riv_yat_7_2",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_islamic_apostasy_jurisprudence_ibn_qud_ma_and_dissenting_jurists",
+      "target": "llm_denial_of_the_d_n_as_apostasy",
+      "relation": "semantically_similar_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_islamic_apostasy_jurisprudence_ibn_qud_ma_and_dissenting_jurists",
+      "target": "llm_tan_buhl_to_margarz_n_sin_progression",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_pahlavi_n_rangest_n_23",
+      "target": "llm_r_n_s_grift_r_rationale_on_thought_utterance_denial",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_r_n_s_grift_r_rationale_on_thought_utterance_denial",
+      "target": "llm_tan_buhl_to_margarz_n_sin_progression",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_r_n_s_grift_r_rationale_on_thought_utterance_denial",
+      "target": "llm_ravina_rav_hisda_thought_utterance_debate_bt_berakhot_20b",
+      "relation": "semantically_similar_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_durfarrbay_raf_53_kust_g_untying_and_repentance",
+      "target": "llm_denial_of_the_d_n_as_apostasy",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_durfarrbay_raf_53_kust_g_untying_and_repentance",
+      "target": "llm_pahlavi_n_rangest_n_23",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.75
+    },
+    {
+      "source": "llm_pahlavi_n_rangest_n_23",
+      "target": "llm_meh_d_dest_n_h_as_higher_law_overriding_regular_law",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_debate_over_apostasy_death_penalty_and_grace_periods",
+      "label": "Debate over apostasy, death-penalty, and grace periods",
+      "nodes": [
+        "llm_islamic_apostasy_jurisprudence_ibn_qud_ma_and_dissenting_jurists",
+        "llm_m_d_son_of_a_wahist_questions_rea_4_250",
+        "llm_m_nu_cihr_d_dest_n_d_n_g_40",
+        "llm_pahlavi_n_rangest_n_23",
+        "llm_pahlavi_riv_yat_7_2"
+      ],
+      "relation": "debate",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md"
+    },
+    {
+      "id": "hyper_debate_over_whether_thought_is_legally_akin_to_utterance",
+      "label": "Debate over whether thought is legally akin to utterance",
+      "nodes": [
+        "llm_pahlavi_n_rangest_n_23",
+        "llm_r_n_s_grift_r_rationale_on_thought_utterance_denial",
+        "llm_ravina_rav_hisda_thought_utterance_debate_bt_berakhot_20b"
+      ],
+      "relation": "debate",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 7905,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 11261,
+    "output_tokens_details": {
+      "reasoning_tokens": 8804
+    },
+    "total_tokens": 19166
+  }
+}

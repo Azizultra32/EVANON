@@ -51,12 +51,14 @@ graphify-zoro-ocr-status
 - Input used: `graphify-input/ocr-markdown`
 - OCR Markdown files included: 52
 - Graph output: `graphify-out/`
-- Current graph size: 612 nodes, 1,685 edges, 36 hyperedges, 21 communities
-- LLM extraction chunks: 142/142 succeeded
-- LLM token usage: 885,633 input tokens, 237,077 output tokens
-- Final LLM failures: 0
+- Current graph size: 1,492 nodes, 3,962 graph links, 272 hyperedges
+- LLM extraction chunks: 141/142 succeeded
+- LLM token usage: 919,614 input tokens, 1,718,022 output tokens
+- Final LLM failures: 1 documented in `graphify-out/llm-failures.json`
 - Runtime query layer verified with `graphify query`, `graphify explain`, and `graphify path`.
-- Note: this graph was built before the latest-model upgrade. Future rebuilds use OpenAI Responses API, `gpt-5.5`, `LLM_REASONING_EFFORT=xhigh`, and `LLM_MAX_OUTPUT_TOKENS=30000`.
+- Current accepted model: `gpt-5.5` through OpenAI Responses API.
+- Current accepted reasoning effort: `xhigh`.
+- Acceptance policy: one transient failed chunk is acceptable when documented; the graph remains valid and queryable.
 
 Build or rebuild the graph:
 
@@ -65,10 +67,19 @@ cd /Users/ali/GRAPHIFY-zoroastrianism
 source .venv/bin/activate
 find graphify-input/ocr-markdown -type l -delete
 find raw/ocr -maxdepth 1 -type f -name '*.md' -exec ln -sf "$PWD/{}" graphify-input/ocr-markdown/ \;
-graphify-zoro-llm --input graphify-input/ocr-markdown --workers 4
+graphify-zoro-llm --input graphify-input/ocr-markdown --workers 2 --timeout 1200
 ```
 
 The LLM cache is in `graphify-out/llm-cache/`; reruns should be cheap unless new OCR Markdown files are added or `--force` is used.
+
+Unattended finalization:
+
+```bash
+cd /Users/ali/GRAPHIFY-zoroastrianism
+scripts/graphify_worker.sh
+```
+
+The worker writes `graphify-out/worker-status.json`, `docs/query-smoke-tests.md`, commits graph artifacts, and pushes to `origin main`.
 
 Safe model/API smoke test without overwriting graph outputs:
 

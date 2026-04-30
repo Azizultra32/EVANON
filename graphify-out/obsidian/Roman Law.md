@@ -13,6 +13,6 @@ tags:
 
 ## Connections
 - [[Gazelle AcademicNew Title – Political Philosophy]] - `references` [EXTRACTED]
-- [[Philippe Nemo]] - `references` [EXTRACTED]
+- [[Three Sources of Political Thought Thesis]] - `conceptually_related_to` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Gazelle_AcademicNew_Title_–_Political_Philosophy

@@ -12,12 +12,8 @@ tags:
 # Mithras
 
 ## Connections
-- [[THE AURA OF KINGS_3]] - `references` [EXTRACTED]
 - [[02239118]] - `references` [EXTRACTED]
-- [[Bas-relief of Mithras]] - `represents` [EXTRACTED]
-- [[Farr]] - `associated_with` [INFERRED]
-- [[Patriarchal Religion]] - `is_a` [INFERRED]
-- [[Spring Equinox]] - `associated_with` [EXTRACTED]
-- [[Tertullian]] - `discusses` [EXTRACTED]
+- [[Mithriac Ceremonies and Mysteries]] - `participates_in` [EXTRACTED]
+- [[YorkMicklegate Bas-relief of Mithras (dug up 1747)]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Mithraic_Studies

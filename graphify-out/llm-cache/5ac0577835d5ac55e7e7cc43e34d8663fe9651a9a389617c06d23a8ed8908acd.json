@@ -1,0 +1,490 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_2_md",
+      "label": "MORE THAN MEN, LESS THAN GODS",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_darius_i",
+      "label": "Darius I",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_achaemenid_royal_ideology",
+      "label": "Achaemenid Royal Ideology",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_persepolitan_glyptic",
+      "label": "Persepolitan Glyptic",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_winged_symbol_figure_in_the_winged_ring",
+      "label": "Winged Symbol / Figure in the Winged Ring",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_court_style_in_persepolitan_glyptic",
+      "label": "Court Style in Persepolitan Glyptic",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_partial_figure_ness_and_elevation",
+      "label": "Partial Figure-ness and Elevation",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_type_i_darics",
+      "label": "Type-I Darics",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_naq_e_rustam_tomb_relief",
+      "label": "Naq\u0161-e Rustam Tomb Relief",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_achaemenid_fire_structures_and_zoroastrian_fire_worship_debate",
+      "label": "Achaemenid Fire Structures and Zoroastrian Fire-Worship Debate",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_tower_structure_so_called_tower_altar",
+      "label": "Tower Structure / So-called Tower Altar",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_stepped_structure_so_called_stepped_altar",
+      "label": "Stepped Structure / So-called Stepped Altar",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_crescent_inscribed_disk_as_lunar_deity_symbol",
+      "label": "Crescent-inscribed Disk as Lunar Deity Symbol",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_2_md",
+      "target": "llm_achaemenid_fire_structures_and_zoroastrian_fire_worship_debate",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_2_md",
+      "target": "llm_achaemenid_royal_ideology",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_2_md",
+      "target": "llm_court_style_in_persepolitan_glyptic",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_2_md",
+      "target": "llm_crescent_inscribed_disk_as_lunar_deity_symbol",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_2_md",
+      "target": "llm_darius_i",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_2_md",
+      "target": "llm_naq_e_rustam_tomb_relief",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_2_md",
+      "target": "llm_partial_figure_ness_and_elevation",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_2_md",
+      "target": "llm_persepolitan_glyptic",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_2_md",
+      "target": "llm_stepped_structure_so_called_stepped_altar",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_2_md",
+      "target": "llm_tower_structure_so_called_tower_altar",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_2_md",
+      "target": "llm_type_i_darics",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_2_md",
+      "target": "llm_winged_symbol_figure_in_the_winged_ring",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_naq_e_rustam_tomb_relief",
+      "target": "llm_darius_i",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.97,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_persepolitan_glyptic",
+      "target": "llm_winged_symbol_figure_in_the_winged_ring",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_winged_symbol_figure_in_the_winged_ring",
+      "target": "llm_achaemenid_royal_ideology",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.96,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_court_style_in_persepolitan_glyptic",
+      "target": "llm_persepolitan_glyptic",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.93,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_court_style_in_persepolitan_glyptic",
+      "target": "llm_winged_symbol_figure_in_the_winged_ring",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.92,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_court_style_in_persepolitan_glyptic",
+      "target": "llm_achaemenid_royal_ideology",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_partial_figure_ness_and_elevation",
+      "target": "llm_winged_symbol_figure_in_the_winged_ring",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_partial_figure_ness_and_elevation",
+      "target": "llm_achaemenid_royal_ideology",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.91,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_type_i_darics",
+      "target": "llm_partial_figure_ness_and_elevation",
+      "relation": "semantically_similar_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_achaemenid_fire_structures_and_zoroastrian_fire_worship_debate",
+      "target": "llm_naq_e_rustam_tomb_relief",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.96,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_tower_structure_so_called_tower_altar",
+      "target": "llm_achaemenid_fire_structures_and_zoroastrian_fire_worship_debate",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_stepped_structure_so_called_stepped_altar",
+      "target": "llm_achaemenid_fire_structures_and_zoroastrian_fire_worship_debate",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_tower_structure_so_called_tower_altar",
+      "target": "llm_stepped_structure_so_called_stepped_altar",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_tower_structure_so_called_tower_altar",
+      "target": "llm_achaemenid_royal_ideology",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.91,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_naq_e_rustam_tomb_relief",
+      "target": "llm_stepped_structure_so_called_stepped_altar",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.97,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_naq_e_rustam_tomb_relief",
+      "target": "llm_tower_structure_so_called_tower_altar",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_crescent_inscribed_disk_as_lunar_deity_symbol",
+      "target": "llm_naq_e_rustam_tomb_relief",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.97,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_crescent_inscribed_disk_as_lunar_deity_symbol",
+      "target": "llm_winged_symbol_figure_in_the_winged_ring",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.8
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_naq_e_rustam_mixes_stepped_and_tower_structure_iconologies",
+      "label": "Naq\u0161-e Rustam Mixes Stepped and Tower Structure Iconologies",
+      "nodes": [
+        "llm_achaemenid_royal_ideology",
+        "llm_naq_e_rustam_tomb_relief",
+        "llm_stepped_structure_so_called_stepped_altar",
+        "llm_tower_structure_so_called_tower_altar"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md"
+    },
+    {
+      "id": "hyper_partial_royal_body_as_numinous_achaemenid_kingship",
+      "label": "Partial Royal Body as Numinous Achaemenid Kingship",
+      "nodes": [
+        "llm_achaemenid_royal_ideology",
+        "llm_partial_figure_ness_and_elevation",
+        "llm_type_i_darics",
+        "llm_winged_symbol_figure_in_the_winged_ring"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 5942,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 7697,
+    "output_tokens_details": {
+      "reasoning_tokens": 5178
+    },
+    "total_tokens": 13639
+  }
+}

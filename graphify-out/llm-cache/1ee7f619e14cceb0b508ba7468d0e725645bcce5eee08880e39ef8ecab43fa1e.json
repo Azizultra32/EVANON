@@ -1,0 +1,493 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_concepts_of_pollution_in_late_sasanian_i_md",
+      "label": "CONCEPTS OF POLLUTION IN LATE SASANIAN IRAN DOES POLLUTION NEED STAIRS, AND DOES IT FILL SPACE?",
+      "file_type": "document",
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zand_fragard_jud_d_w_d_d_td2_passages",
+      "label": "Zand \u012b fragard \u012b jud-d\u0113w-d\u0101d (TD2 passages)",
+      "file_type": "document",
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_pahlavi_videvdad_esp_5_44g_and_5_1_4",
+      "label": "Pahlavi Videvdad (esp. 5.44g and 5.1\u20134)",
+      "file_type": "document",
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_gumbad_ah_r_t_g_fire_temple_pollution_scenario_td2_pp_460_461",
+      "label": "Gumbad/\u010cah\u0101r-t\u0101g Fire-Temple Pollution Scenario (TD2 pp. 460\u2013461)",
+      "file_type": "document",
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_boyce_1987_ta_kada_and_huff_1990_ah_r_q_in_encyclop_dia_iranica",
+      "label": "Boyce 1987 \u2018\u0100ta\u0161kada\u2019 and Huff 1990 \u2018\u010cah\u0101r\u1e6d\u0101q\u2019 in Encyclop\u00e6dia Iranica",
+      "file_type": "document",
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_claim_tuh_g_h_as_empty_space_pollution_occupying_consolidated_three_dimensional_space",
+      "label": "Claim: tuh\u012bg\u012bh as Empty-Space Pollution Occupying Consolidated Three-Dimensional Space",
+      "file_type": "document",
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_da_t_nest_n_menstrual_hut_pollution_case_td2_p_573",
+      "label": "Da\u0161t\u0101nest\u0101n Menstrual Hut Pollution Case (TD2 p. 573)",
+      "file_type": "document",
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_m_dy_m_hite_school",
+      "label": "M\u0113dy\u014dm\u0101hite School",
+      "file_type": "document",
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_abargite_school_abarg",
+      "label": "Abargite School / Abarg",
+      "file_type": "document",
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_pi_ksilite_school_pi_ksil",
+      "label": "Pi\u0161ksilite School / Pi\u0161ksil",
+      "file_type": "document",
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_rationale_zand_redactor_expanded_tuh_g_h_beyond_the_recorded_school_positions",
+      "label": "Rationale: Zand Redactor Expanded tuh\u012bg\u012bh beyond the Recorded School Positions",
+      "file_type": "document",
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_hypothesis_greek_geometric_influence_via_athens_academy_philosophers_at_xosrow_i_s_court_after_529_ce",
+      "label": "Hypothesis: Greek Geometric Influence via Athens Academy Philosophers at Xosrow I\u2019s Court after 529 CE",
+      "file_type": "document",
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_shaki_2002_greece_iv_greek_influence_on_persian_thought",
+      "label": "Shaki 2002, \u2018Greece iv. Greek Influence on Persian Thought\u2019",
+      "file_type": "document",
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_concepts_of_pollution_in_late_sasanian_i_md",
+      "target": "llm_abargite_school_abarg",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_concepts_of_pollution_in_late_sasanian_i_md",
+      "target": "llm_boyce_1987_ta_kada_and_huff_1990_ah_r_q_in_encyclop_dia_iranica",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_concepts_of_pollution_in_late_sasanian_i_md",
+      "target": "llm_claim_tuh_g_h_as_empty_space_pollution_occupying_consolidated_three_dimensional_space",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_concepts_of_pollution_in_late_sasanian_i_md",
+      "target": "llm_da_t_nest_n_menstrual_hut_pollution_case_td2_p_573",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_concepts_of_pollution_in_late_sasanian_i_md",
+      "target": "llm_gumbad_ah_r_t_g_fire_temple_pollution_scenario_td2_pp_460_461",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_concepts_of_pollution_in_late_sasanian_i_md",
+      "target": "llm_hypothesis_greek_geometric_influence_via_athens_academy_philosophers_at_xosrow_i_s_court_after_529_ce",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_concepts_of_pollution_in_late_sasanian_i_md",
+      "target": "llm_m_dy_m_hite_school",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_concepts_of_pollution_in_late_sasanian_i_md",
+      "target": "llm_pahlavi_videvdad_esp_5_44g_and_5_1_4",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_concepts_of_pollution_in_late_sasanian_i_md",
+      "target": "llm_pi_ksilite_school_pi_ksil",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_concepts_of_pollution_in_late_sasanian_i_md",
+      "target": "llm_rationale_zand_redactor_expanded_tuh_g_h_beyond_the_recorded_school_positions",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_concepts_of_pollution_in_late_sasanian_i_md",
+      "target": "llm_shaki_2002_greece_iv_greek_influence_on_persian_thought",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_concepts_of_pollution_in_late_sasanian_i_md",
+      "target": "llm_zand_fragard_jud_d_w_d_d_td2_passages",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zand_fragard_jud_d_w_d_d_td2_passages",
+      "target": "llm_gumbad_ah_r_t_g_fire_temple_pollution_scenario_td2_pp_460_461",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_gumbad_ah_r_t_g_fire_temple_pollution_scenario_td2_pp_460_461",
+      "target": "llm_boyce_1987_ta_kada_and_huff_1990_ah_r_q_in_encyclop_dia_iranica",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_pahlavi_videvdad_esp_5_44g_and_5_1_4",
+      "target": "llm_gumbad_ah_r_t_g_fire_temple_pollution_scenario_td2_pp_460_461",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_pahlavi_videvdad_esp_5_44g_and_5_1_4",
+      "target": "llm_claim_tuh_g_h_as_empty_space_pollution_occupying_consolidated_three_dimensional_space",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_gumbad_ah_r_t_g_fire_temple_pollution_scenario_td2_pp_460_461",
+      "target": "llm_claim_tuh_g_h_as_empty_space_pollution_occupying_consolidated_three_dimensional_space",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_zand_fragard_jud_d_w_d_d_td2_passages",
+      "target": "llm_da_t_nest_n_menstrual_hut_pollution_case_td2_p_573",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_da_t_nest_n_menstrual_hut_pollution_case_td2_p_573",
+      "target": "llm_claim_tuh_g_h_as_empty_space_pollution_occupying_consolidated_three_dimensional_space",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_m_dy_m_hite_school",
+      "target": "llm_da_t_nest_n_menstrual_hut_pollution_case_td2_p_573",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_abargite_school_abarg",
+      "target": "llm_da_t_nest_n_menstrual_hut_pollution_case_td2_p_573",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_pi_ksilite_school_pi_ksil",
+      "target": "llm_da_t_nest_n_menstrual_hut_pollution_case_td2_p_573",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_m_dy_m_hite_school",
+      "target": "llm_claim_tuh_g_h_as_empty_space_pollution_occupying_consolidated_three_dimensional_space",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_pi_ksilite_school_pi_ksil",
+      "target": "llm_claim_tuh_g_h_as_empty_space_pollution_occupying_consolidated_three_dimensional_space",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.74,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.7
+    },
+    {
+      "source": "llm_abargite_school_abarg",
+      "target": "llm_pi_ksilite_school_pi_ksil",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_abargite_school_abarg",
+      "target": "llm_m_dy_m_hite_school",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_rationale_zand_redactor_expanded_tuh_g_h_beyond_the_recorded_school_positions",
+      "target": "llm_claim_tuh_g_h_as_empty_space_pollution_occupying_consolidated_three_dimensional_space",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.93,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_zand_fragard_jud_d_w_d_d_td2_passages",
+      "target": "llm_rationale_zand_redactor_expanded_tuh_g_h_beyond_the_recorded_school_positions",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_hypothesis_greek_geometric_influence_via_athens_academy_philosophers_at_xosrow_i_s_court_after_529_ce",
+      "target": "llm_claim_tuh_g_h_as_empty_space_pollution_occupying_consolidated_three_dimensional_space",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.72,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.7
+    },
+    {
+      "source": "llm_hypothesis_greek_geometric_influence_via_athens_academy_philosophers_at_xosrow_i_s_court_after_529_ce",
+      "target": "llm_shaki_2002_greece_iv_greek_influence_on_persian_thought",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_debate_on_menstrual_hut_pollution_onset_and_spatial_extent",
+      "label": "Debate on Menstrual Hut Pollution Onset and Spatial Extent",
+      "nodes": [
+        "llm_abargite_school_abarg",
+        "llm_claim_tuh_g_h_as_empty_space_pollution_occupying_consolidated_three_dimensional_space",
+        "llm_da_t_nest_n_menstrual_hut_pollution_case_td2_p_573",
+        "llm_m_dy_m_hite_school",
+        "llm_pi_ksilite_school_pi_ksil"
+      ],
+      "relation": "debate",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.92,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md"
+    },
+    {
+      "id": "hyper_formation_of_the_geometric_empty_space_pollution_argument",
+      "label": "Formation of the Geometric Empty-Space Pollution Argument",
+      "nodes": [
+        "llm_claim_tuh_g_h_as_empty_space_pollution_occupying_consolidated_three_dimensional_space",
+        "llm_gumbad_ah_r_t_g_fire_temple_pollution_scenario_td2_pp_460_461",
+        "llm_hypothesis_greek_geometric_influence_via_athens_academy_philosophers_at_xosrow_i_s_court_after_529_ce",
+        "llm_pahlavi_videvdad_esp_5_44g_and_5_1_4",
+        "llm_rationale_zand_redactor_expanded_tuh_g_h_beyond_the_recorded_school_positions",
+        "llm_zand_fragard_jud_d_w_d_d_td2_passages"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.76,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 7360,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 12642,
+    "output_tokens_details": {
+      "reasoning_tokens": 9840
+    },
+    "total_tokens": 20002
+  }
+}

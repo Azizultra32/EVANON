@@ -1,0 +1,492 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "label": "ASTYAGES, CYRUS AND ZOROASTER: SOLVING A HISTORICAL DILEMMA",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_darius_i",
+      "label": "Darius I",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_cyrus_the_great",
+      "label": "Cyrus the Great",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_astyages",
+      "label": "Astyages",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zoroaster_zarathushtra",
+      "label": "Zoroaster / Zarathushtra",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_fran_ois_vallat_s_achaemenid_lineage_and_banishment_thesis_vallat_2010_2011",
+      "label": "Fran\u00e7ois Vallat's Achaemenid Lineage and Banishment Thesis (Vallat 2010; 2011)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_astyages_banished_zoroaster_hypothesis",
+      "label": "Astyages Banished Zoroaster Hypothesis",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zoroastrian_priestly_rewriting_of_iranian_history",
+      "label": "Zoroastrian Priestly Rewriting of Iranian History",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_dahh_k_azhi_dah_g_bivarasp",
+      "label": "Dahh\u0101k / Azhi-dah\u0101g / Bivarasp",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_farvard_n_yasht_13_94_95",
+      "label": "Farvard\u012bn Yasht 13:94\u201395",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_late_date_of_zoroaster_and_the_258_axiom",
+      "label": "Late Date of Zoroaster and the 258 Axiom",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_median_mithra_apam_nap_t_khvarenah_ideology",
+      "label": "Median Mithra\u2013Apam Nap\u0101t Khvarenah Ideology",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_median_magi_and_persian_p_rs_fire_priest_feud",
+      "label": "Median Magi and Persian P\u0101rs\u0101 Fire-Priest Feud",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_astyages",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_astyages_banished_zoroaster_hypothesis",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_cyrus_the_great",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_dahh_k_azhi_dah_g_bivarasp",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_darius_i",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_farvard_n_yasht_13_94_95",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_fran_ois_vallat_s_achaemenid_lineage_and_banishment_thesis_vallat_2010_2011",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_late_date_of_zoroaster_and_the_258_axiom",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_median_magi_and_persian_p_rs_fire_priest_feud",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_median_mithra_apam_nap_t_khvarenah_ideology",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_zoroaster_zarathushtra",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_zoroastrian_priestly_rewriting_of_iranian_history",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_fran_ois_vallat_s_achaemenid_lineage_and_banishment_thesis_vallat_2010_2011",
+      "target": "llm_darius_i",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_fran_ois_vallat_s_achaemenid_lineage_and_banishment_thesis_vallat_2010_2011",
+      "target": "llm_cyrus_the_great",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_fran_ois_vallat_s_achaemenid_lineage_and_banishment_thesis_vallat_2010_2011",
+      "target": "llm_zoroaster_zarathushtra",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_astyages_banished_zoroaster_hypothesis",
+      "target": "llm_fran_ois_vallat_s_achaemenid_lineage_and_banishment_thesis_vallat_2010_2011",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_astyages_banished_zoroaster_hypothesis",
+      "target": "llm_astyages",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_astyages_banished_zoroaster_hypothesis",
+      "target": "llm_zoroaster_zarathushtra",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_astyages_banished_zoroaster_hypothesis",
+      "target": "llm_zoroastrian_priestly_rewriting_of_iranian_history",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.92,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zoroastrian_priestly_rewriting_of_iranian_history",
+      "target": "llm_dahh_k_azhi_dah_g_bivarasp",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_dahh_k_azhi_dah_g_bivarasp",
+      "target": "llm_astyages",
+      "relation": "semantically_similar_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.84,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zoroastrian_priestly_rewriting_of_iranian_history",
+      "target": "llm_cyrus_the_great",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.87,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_farvard_n_yasht_13_94_95",
+      "target": "llm_zoroaster_zarathushtra",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_farvard_n_yasht_13_94_95",
+      "target": "llm_median_mithra_apam_nap_t_khvarenah_ideology",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_farvard_n_yasht_13_94_95",
+      "target": "llm_late_date_of_zoroaster_and_the_258_axiom",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_late_date_of_zoroaster_and_the_258_axiom",
+      "target": "llm_astyages_banished_zoroaster_hypothesis",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.76,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_cyrus_the_great",
+      "target": "llm_median_mithra_apam_nap_t_khvarenah_ideology",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_darius_i",
+      "target": "llm_median_mithra_apam_nap_t_khvarenah_ideology",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.93,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_median_magi_and_persian_p_rs_fire_priest_feud",
+      "target": "llm_darius_i",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_median_magi_and_persian_p_rs_fire_priest_feud",
+      "target": "llm_zoroaster_zarathushtra",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.78,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_debate_over_who_drove_zoroaster_from_his_land",
+      "label": "Debate over Who Drove Zoroaster from His Land",
+      "nodes": [
+        "llm_astyages",
+        "llm_astyages_banished_zoroaster_hypothesis",
+        "llm_cyrus_the_great",
+        "llm_fran_ois_vallat_s_achaemenid_lineage_and_banishment_thesis_vallat_2010_2011",
+        "llm_zoroaster_zarathushtra"
+      ],
+      "relation": "debate",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.91,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md"
+    },
+    {
+      "id": "hyper_astyages_dahh_k_cyrus_erasure_explanatory_chain",
+      "label": "Astyages\u2013Dahh\u0101k\u2013Cyrus Erasure Explanatory Chain",
+      "nodes": [
+        "llm_astyages",
+        "llm_astyages_banished_zoroaster_hypothesis",
+        "llm_cyrus_the_great",
+        "llm_dahh_k_azhi_dah_g_bivarasp",
+        "llm_zoroastrian_priestly_rewriting_of_iranian_history"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 6353,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 12037,
+    "output_tokens_details": {
+      "reasoning_tokens": 9322
+    },
+    "total_tokens": 18390
+  }
+}

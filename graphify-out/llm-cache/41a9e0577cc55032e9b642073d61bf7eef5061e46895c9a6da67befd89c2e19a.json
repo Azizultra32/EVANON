@@ -1,0 +1,470 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_387906351_majorityrights_com_the_coming_persian_war_jason_reza_jorjani_md",
+      "label": "The Coming Persian War",
+      "file_type": "document",
+      "source_file": "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_the_coming_persian_war_article",
+      "label": "The Coming Persian War article",
+      "file_type": "document",
+      "source_file": "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_jason_reza_jorjani",
+      "label": "Jason Reza Jorjani",
+      "file_type": "document",
+      "source_file": "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_michael_and_x_as_political_intermediaries",
+      "label": "Michael and \u201cX\u201d as political intermediaries",
+      "file_type": "document",
+      "source_file": "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_alt_right_corporation_plan_linking_npi_arktos_and_red_ice",
+      "label": "Alt-Right Corporation plan linking NPI, Arktos, and Red Ice",
+      "file_type": "document",
+      "source_file": "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_trump_administration_iran_policy_and_white_house_access_plan",
+      "label": "Trump Administration Iran policy and White House access plan",
+      "file_type": "document",
+      "source_file": "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_alleged_black_budget_micro_cities_migrant_containment_project",
+      "label": "Alleged black-budget \u201cmicro cities\u201d migrant-containment project",
+      "file_type": "document",
+      "source_file": "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_persian_renaissance_foundation",
+      "label": "Persian Renaissance Foundation",
+      "file_type": "document",
+      "source_file": "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_iranian_united_front_jebhey_ir_ngar_y_n",
+      "label": "Iranian United Front / Jebhey\u00e9 Ir\u00e2ngar\u00e2y\u00e2n",
+      "file_type": "document",
+      "source_file": "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_pan_iranism_eranshahr_and_greater_iran_persianate_world",
+      "label": "Pan-Iranism, Eranshahr, and Greater Iran / Persianate World",
+      "file_type": "document",
+      "source_file": "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_neo_zoroastrianism_and_pre_islamic_persian_values",
+      "label": "Neo-Zoroastrianism and Pre-Islamic Persian values",
+      "file_type": "document",
+      "source_file": "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_claim_pro_saudi_divide_and_conquer_strategy_against_iran_s_persian_identity",
+      "label": "Claim: pro-Saudi divide-and-conquer strategy against Iran\u2019s Persian identity",
+      "file_type": "document",
+      "source_file": "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_claim_new_york_times_patrik_hermansson_video_and_radio_zamaneh_coverage_discredited_jorjani_and_the_coalition",
+      "label": "Claim: New York Times, Patrik Hermansson video, and Radio Zamaneh coverage discredited Jorjani and the coalition",
+      "file_type": "document",
+      "source_file": "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_387906351_majorityrights_com_the_coming_persian_war_jason_reza_jorjani_md",
+      "target": "llm_alleged_black_budget_micro_cities_migrant_containment_project",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_387906351_majorityrights_com_the_coming_persian_war_jason_reza_jorjani_md",
+      "target": "llm_alt_right_corporation_plan_linking_npi_arktos_and_red_ice",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_387906351_majorityrights_com_the_coming_persian_war_jason_reza_jorjani_md",
+      "target": "llm_claim_new_york_times_patrik_hermansson_video_and_radio_zamaneh_coverage_discredited_jorjani_and_the_coalition",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_387906351_majorityrights_com_the_coming_persian_war_jason_reza_jorjani_md",
+      "target": "llm_claim_pro_saudi_divide_and_conquer_strategy_against_iran_s_persian_identity",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_387906351_majorityrights_com_the_coming_persian_war_jason_reza_jorjani_md",
+      "target": "llm_iranian_united_front_jebhey_ir_ngar_y_n",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_387906351_majorityrights_com_the_coming_persian_war_jason_reza_jorjani_md",
+      "target": "llm_jason_reza_jorjani",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_387906351_majorityrights_com_the_coming_persian_war_jason_reza_jorjani_md",
+      "target": "llm_michael_and_x_as_political_intermediaries",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_387906351_majorityrights_com_the_coming_persian_war_jason_reza_jorjani_md",
+      "target": "llm_neo_zoroastrianism_and_pre_islamic_persian_values",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_387906351_majorityrights_com_the_coming_persian_war_jason_reza_jorjani_md",
+      "target": "llm_pan_iranism_eranshahr_and_greater_iran_persianate_world",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_387906351_majorityrights_com_the_coming_persian_war_jason_reza_jorjani_md",
+      "target": "llm_persian_renaissance_foundation",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_387906351_majorityrights_com_the_coming_persian_war_jason_reza_jorjani_md",
+      "target": "llm_the_coming_persian_war_article",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_387906351_majorityrights_com_the_coming_persian_war_jason_reza_jorjani_md",
+      "target": "llm_trump_administration_iran_policy_and_white_house_access_plan",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_the_coming_persian_war_article",
+      "target": "llm_jason_reza_jorjani",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_jason_reza_jorjani",
+      "target": "llm_persian_renaissance_foundation",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_persian_renaissance_foundation",
+      "target": "llm_iranian_united_front_jebhey_ir_ngar_y_n",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_iranian_united_front_jebhey_ir_ngar_y_n",
+      "target": "llm_pan_iranism_eranshahr_and_greater_iran_persianate_world",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_persian_renaissance_foundation",
+      "target": "llm_neo_zoroastrianism_and_pre_islamic_persian_values",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.92,
+      "source_file": "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_trump_administration_iran_policy_and_white_house_access_plan",
+      "target": "llm_persian_renaissance_foundation",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_claim_pro_saudi_divide_and_conquer_strategy_against_iran_s_persian_identity",
+      "target": "llm_the_coming_persian_war_article",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.93,
+      "source_file": "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_trump_administration_iran_policy_and_white_house_access_plan",
+      "target": "llm_claim_pro_saudi_divide_and_conquer_strategy_against_iran_s_persian_identity",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_claim_pro_saudi_divide_and_conquer_strategy_against_iran_s_persian_identity",
+      "target": "llm_pan_iranism_eranshahr_and_greater_iran_persianate_world",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_michael_and_x_as_political_intermediaries",
+      "target": "llm_alt_right_corporation_plan_linking_npi_arktos_and_red_ice",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_jason_reza_jorjani",
+      "target": "llm_alt_right_corporation_plan_linking_npi_arktos_and_red_ice",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_alt_right_corporation_plan_linking_npi_arktos_and_red_ice",
+      "target": "llm_trump_administration_iran_policy_and_white_house_access_plan",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_alleged_black_budget_micro_cities_migrant_containment_project",
+      "target": "llm_alt_right_corporation_plan_linking_npi_arktos_and_red_ice",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_michael_and_x_as_political_intermediaries",
+      "target": "llm_alleged_black_budget_micro_cities_migrant_containment_project",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_claim_new_york_times_patrik_hermansson_video_and_radio_zamaneh_coverage_discredited_jorjani_and_the_coalition",
+      "target": "llm_iranian_united_front_jebhey_ir_ngar_y_n",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_the_coming_persian_war_article",
+      "target": "llm_claim_new_york_times_patrik_hermansson_video_and_radio_zamaneh_coverage_discredited_jorjani_and_the_coalition",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.96,
+      "source_file": "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_proposed_route_from_alt_right_leadership_to_white_house_influence_over_iran_policy",
+      "label": "Proposed route from Alt-Right leadership to White House influence over Iran policy",
+      "nodes": [
+        "llm_alt_right_corporation_plan_linking_npi_arktos_and_red_ice",
+        "llm_jason_reza_jorjani",
+        "llm_michael_and_x_as_political_intermediaries",
+        "llm_trump_administration_iran_policy_and_white_house_access_plan"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md"
+    },
+    {
+      "id": "hyper_debate_over_greater_iran_persian_civilizational_identity_versus_separatist_partition",
+      "label": "Debate over Greater Iran/Persian civilizational identity versus separatist partition",
+      "nodes": [
+        "llm_claim_pro_saudi_divide_and_conquer_strategy_against_iran_s_persian_identity",
+        "llm_neo_zoroastrianism_and_pre_islamic_persian_values",
+        "llm_pan_iranism_eranshahr_and_greater_iran_persianate_world",
+        "llm_trump_administration_iran_policy_and_white_house_access_plan"
+      ],
+      "relation": "debate",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 5604,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 5352,
+    "output_tokens_details": {
+      "reasoning_tokens": 2588
+    },
+    "total_tokens": 10956
+  }
+}

@@ -1,0 +1,431 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "label": "Dialogue Between Cultures & Exchange of Knowledge And Cultural Ideas",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_claim_indo_iran_bilateral_relations_are_ancient_continuous_and_worth_preserving",
+      "label": "Claim: Indo-Iran bilateral relations are ancient, continuous, and worth preserving",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_harappan_trade_with_persia_babylon_and_sumer_in_the_indus_valley_age",
+      "label": "Harappan trade with Persia, Babylon, and Sumer in the Indus Valley age",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_shared_indo_persian_aryan_origin_and_migration_from_central_asia_or_northern_region",
+      "label": "Shared Indo-Persian Aryan origin and migration from Central Asia or northern region",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_vedic_religion_of_ancient_india",
+      "label": "Vedic religion of ancient India",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zoroastrianism_of_pre_islamic_iran_founded_by_zarathustra",
+      "label": "Zoroastrianism of pre-Islamic Iran, founded by Zarathustra",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_achaemenid_and_sassanid_links_with_india_including_cyrus_ashoka_inscriptional_similarity",
+      "label": "Achaemenid and Sassanid links with India, including Cyrus-Ashoka inscriptional similarity",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zoroastrian_migration_to_india_after_the_advent_of_islam_in_iran",
+      "label": "Zoroastrian migration to India after the advent of Islam in Iran",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_mughal_safavid_cultural_relations_and_persian_literary_migration_to_india",
+      "label": "Mughal-Safavid cultural relations and Persian literary migration to India",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_qajar_and_pahlavi_period_setbacks_in_indo_iran_relations",
+      "label": "Qajar and Pahlavi period setbacks in Indo-Iran relations",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_independent_india_and_islamic_republic_of_iran_cultural_exchange_programmes",
+      "label": "Independent India and Islamic Republic of Iran cultural exchange programmes",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_jawaharlal_nehru_the_discovery_of_india",
+      "label": "Jawaharlal Nehru, The Discovery of India",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Jawaharlal Nehru",
+      "contributor": null
+    },
+    {
+      "id": "llm_a_l_basham_the_wonder_that_was_india",
+      "label": "A. L. Basham, The Wonder That Was India",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "A. L. Basham",
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_a_l_basham_the_wonder_that_was_india",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_achaemenid_and_sassanid_links_with_india_including_cyrus_ashoka_inscriptional_similarity",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_claim_indo_iran_bilateral_relations_are_ancient_continuous_and_worth_preserving",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_harappan_trade_with_persia_babylon_and_sumer_in_the_indus_valley_age",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_independent_india_and_islamic_republic_of_iran_cultural_exchange_programmes",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_jawaharlal_nehru_the_discovery_of_india",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_mughal_safavid_cultural_relations_and_persian_literary_migration_to_india",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_qajar_and_pahlavi_period_setbacks_in_indo_iran_relations",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_shared_indo_persian_aryan_origin_and_migration_from_central_asia_or_northern_region",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_vedic_religion_of_ancient_india",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_zoroastrian_migration_to_india_after_the_advent_of_islam_in_iran",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_zoroastrianism_of_pre_islamic_iran_founded_by_zarathustra",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_harappan_trade_with_persia_babylon_and_sumer_in_the_indus_valley_age",
+      "target": "llm_claim_indo_iran_bilateral_relations_are_ancient_continuous_and_worth_preserving",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.93,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_shared_indo_persian_aryan_origin_and_migration_from_central_asia_or_northern_region",
+      "target": "llm_claim_indo_iran_bilateral_relations_are_ancient_continuous_and_worth_preserving",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zoroastrianism_of_pre_islamic_iran_founded_by_zarathustra",
+      "target": "llm_vedic_religion_of_ancient_india",
+      "relation": "semantically_similar_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_vedic_religion_of_ancient_india",
+      "target": "llm_shared_indo_persian_aryan_origin_and_migration_from_central_asia_or_northern_region",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zoroastrianism_of_pre_islamic_iran_founded_by_zarathustra",
+      "target": "llm_shared_indo_persian_aryan_origin_and_migration_from_central_asia_or_northern_region",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_achaemenid_and_sassanid_links_with_india_including_cyrus_ashoka_inscriptional_similarity",
+      "target": "llm_claim_indo_iran_bilateral_relations_are_ancient_continuous_and_worth_preserving",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.91,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zoroastrian_migration_to_india_after_the_advent_of_islam_in_iran",
+      "target": "llm_claim_indo_iran_bilateral_relations_are_ancient_continuous_and_worth_preserving",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.84,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_mughal_safavid_cultural_relations_and_persian_literary_migration_to_india",
+      "target": "llm_claim_indo_iran_bilateral_relations_are_ancient_continuous_and_worth_preserving",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.91,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_qajar_and_pahlavi_period_setbacks_in_indo_iran_relations",
+      "target": "llm_mughal_safavid_cultural_relations_and_persian_literary_migration_to_india",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_qajar_and_pahlavi_period_setbacks_in_indo_iran_relations",
+      "target": "llm_independent_india_and_islamic_republic_of_iran_cultural_exchange_programmes",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_independent_india_and_islamic_republic_of_iran_cultural_exchange_programmes",
+      "target": "llm_claim_indo_iran_bilateral_relations_are_ancient_continuous_and_worth_preserving",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_claim_indo_iran_bilateral_relations_are_ancient_continuous_and_worth_preserving",
+      "target": "llm_jawaharlal_nehru_the_discovery_of_india",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.8,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_claim_indo_iran_bilateral_relations_are_ancient_continuous_and_worth_preserving",
+      "target": "llm_a_l_basham_the_wonder_that_was_india",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.8,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_evidence_chain_for_ancient_and_continuing_indo_iran_relations",
+      "label": "Evidence chain for ancient and continuing Indo-Iran relations",
+      "nodes": [
+        "llm_achaemenid_and_sassanid_links_with_india_including_cyrus_ashoka_inscriptional_similarity",
+        "llm_claim_indo_iran_bilateral_relations_are_ancient_continuous_and_worth_preserving",
+        "llm_harappan_trade_with_persia_babylon_and_sumer_in_the_indus_valley_age",
+        "llm_independent_india_and_islamic_republic_of_iran_cultural_exchange_programmes",
+        "llm_mughal_safavid_cultural_relations_and_persian_literary_migration_to_india",
+        "llm_shared_indo_persian_aryan_origin_and_migration_from_central_asia_or_northern_region",
+        "llm_vedic_religion_of_ancient_india",
+        "llm_zoroastrian_migration_to_india_after_the_advent_of_islam_in_iran",
+        "llm_zoroastrianism_of_pre_islamic_iran_founded_by_zarathustra"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 7128,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 11584,
+    "output_tokens_details": {
+      "reasoning_tokens": 9322
+    },
+    "total_tokens": 18712
+  }
+}

@@ -1,24 +1,19 @@
 ---
-source_file: "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md"
+source_file: "raw/ocr/Ancient_Iran_Cosmology_Mythology_History 3.md"
 type: "document"
-community: "Zoroastrian Theology"
-location: "chunk 1/3"
+community: "Iranian Kingship"
+location: "chunk 2/3"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Zoroastrian_Theology
+  - community/Iranian_Kingship
 ---
 
 # Yazatas
 
 ## Connections
-- [[--- Monotheism the Zoroastrian Way]] - `references` [EXTRACTED]
-- [[Ahura Mazdā]] - `references` [EXTRACTED]
-- [[Amesha Spentas]] - `includes` [EXTRACTED]
-- [[Ancient Iran Cosmology, Mythology, History]] - `references` [EXTRACTED]
-- [[Ancient Iran Cosmology, Mythology, History_1]] - `references` [EXTRACTED]
+- [[Ahura-Mazda]] - `conceptually_related_to` [EXTRACTED]
 - [[Ancient Iran Cosmology, Mythology, History_2]] - `references` [EXTRACTED]
-- [[Fravashis]] - `conceptually_related_to` [EXTRACTED]
-- [[Spenta Armaiti]] - `participates_in` [EXTRACTED]
+- [[Ancient Iran Cosmology, Mythology, History_3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Zoroastrian_Theology
+#graphify/document #graphify/EXTRACTED #community/Iranian_Kingship

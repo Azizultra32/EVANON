@@ -13,8 +13,8 @@ tags:
 
 ## Connections
 - [[BETWEEN THE SAFAVIDS AND THE MUGHALS ART AND ARTISTS IN TRANSITION]] - `references` [EXTRACTED]
-- [[Farrukh Beyg]] - `participates_in` [INFERRED]
-- [[Mughal Royal Library]] - `references` [EXTRACTED]
-- [[Shāh Ṭahmāsb I]] - `references` [EXTRACTED]
+- [[Humāyūn's Invitation to Mīr Muṣavvir Argument]] - `conceptually_related_to` [EXTRACTED]
+- [[Mughal Library-Atelier and School of Painting]] - `conceptually_related_to` [EXTRACTED]
+- [[Three Safavid-Mughal Migratory Waves (1544-1585)]] - `participates_in` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/BETWEEN_THE_SAFAVIDS_AND_THE_MUGHALS:_ART_AND_AR

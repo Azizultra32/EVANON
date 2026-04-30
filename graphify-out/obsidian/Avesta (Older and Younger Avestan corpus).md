@@ -1,0 +1,20 @@
+---
+source_file: "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md"
+type: "document"
+community: "Avestan Texts"
+location: "chunk 1/3"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Avestan_Texts
+---
+
+# Avesta (Older and Younger Avestan corpus)
+
+## Connections
+- [[Defeating Death Eschatology in Zoroastrianism, Judaism and Christianity]] - `references` [EXTRACTED]
+- [[IRANO-JUDAICA VII]] - `references` [EXTRACTED]
+- [[Kellens's cultic interpretation of Avestan eschatology (Kellens 1991; 1994)]] - `conceptually_related_to` [EXTRACTED]
+- [[Pahlavi  Middle Persian Zoroastrian Texts]] - `references` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Avestan_Texts

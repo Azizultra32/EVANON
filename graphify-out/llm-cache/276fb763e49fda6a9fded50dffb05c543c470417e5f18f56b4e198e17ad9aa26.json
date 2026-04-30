@@ -1,0 +1,490 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_md",
+      "label": "MORE THAN MEN, LESS THAN GODS",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_by_the_favor_of_auramazd_kingship_and_the_divine_in_the_early_achaemenid_period",
+      "label": "By the Favor of Auramazd\u0101: Kingship and the Divine in the Early Achaemenid Period",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Mark B. Garrison",
+      "contributor": null
+    },
+    {
+      "id": "llm_early_achaemenid_kingship_and_the_divine",
+      "label": "Early Achaemenid Kingship and the Divine",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_darius_i_522_486_b_c",
+      "label": "Darius I (522\u2013486 B.C.)",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_auramazd",
+      "label": "Auramazd\u0101",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_no_definitive_evidence_for_a_living_achaemenid_royal_cult_outside_egypt",
+      "label": "No Definitive Evidence for a Living Achaemenid Royal Cult outside Egypt",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_royal_cult_evidence_criteria_temples_priesthoods_prayers_offerings_statues_divine_status_images",
+      "label": "Royal Cult Evidence Criteria: temples, priesthoods, prayers, offerings, statues, divine-status images",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_darius_i_s_imperial_program_in_texts_and_images",
+      "label": "Darius I's Imperial Program in Texts and Images",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_achaemenid_heartland_f_rs_pars_an_an_susa_media",
+      "label": "Achaemenid Heartland: F\u0101rs/Pars, An\u0161an, Susa, Media",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_persepolis_fortification_and_treasury_archives",
+      "label": "Persepolis Fortification and Treasury Archives",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_herodotean_and_avestan_models_of_achaemenid_monarchic_ideology",
+      "label": "Herodotean and Avestan Models of Achaemenid Monarchic Ideology",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_briant_2002_id_ologie_monarchique",
+      "label": "Briant 2002: id\u00e9ologie monarchique",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Pierre Briant",
+      "contributor": null
+    },
+    {
+      "id": "llm_root_1979_conceptual_foundations_for_achaemenid_art",
+      "label": "Root 1979: Conceptual Foundations for Achaemenid Art",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Margaret Cool Root",
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_md",
+      "target": "llm_achaemenid_heartland_f_rs_pars_an_an_susa_media",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_md",
+      "target": "llm_auramazd",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_md",
+      "target": "llm_briant_2002_id_ologie_monarchique",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_md",
+      "target": "llm_by_the_favor_of_auramazd_kingship_and_the_divine_in_the_early_achaemenid_period",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_md",
+      "target": "llm_darius_i_522_486_b_c",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_md",
+      "target": "llm_darius_i_s_imperial_program_in_texts_and_images",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_md",
+      "target": "llm_early_achaemenid_kingship_and_the_divine",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_md",
+      "target": "llm_herodotean_and_avestan_models_of_achaemenid_monarchic_ideology",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_md",
+      "target": "llm_no_definitive_evidence_for_a_living_achaemenid_royal_cult_outside_egypt",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_md",
+      "target": "llm_persepolis_fortification_and_treasury_archives",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_md",
+      "target": "llm_root_1979_conceptual_foundations_for_achaemenid_art",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_md",
+      "target": "llm_royal_cult_evidence_criteria_temples_priesthoods_prayers_offerings_statues_divine_status_images",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_by_the_favor_of_auramazd_kingship_and_the_divine_in_the_early_achaemenid_period",
+      "target": "llm_early_achaemenid_kingship_and_the_divine",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_by_the_favor_of_auramazd_kingship_and_the_divine_in_the_early_achaemenid_period",
+      "target": "llm_darius_i_522_486_b_c",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_by_the_favor_of_auramazd_kingship_and_the_divine_in_the_early_achaemenid_period",
+      "target": "llm_no_definitive_evidence_for_a_living_achaemenid_royal_cult_outside_egypt",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_by_the_favor_of_auramazd_kingship_and_the_divine_in_the_early_achaemenid_period",
+      "target": "llm_darius_i_s_imperial_program_in_texts_and_images",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_by_the_favor_of_auramazd_kingship_and_the_divine_in_the_early_achaemenid_period",
+      "target": "llm_achaemenid_heartland_f_rs_pars_an_an_susa_media",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_by_the_favor_of_auramazd_kingship_and_the_divine_in_the_early_achaemenid_period",
+      "target": "llm_persepolis_fortification_and_treasury_archives",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_by_the_favor_of_auramazd_kingship_and_the_divine_in_the_early_achaemenid_period",
+      "target": "llm_briant_2002_id_ologie_monarchique",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_by_the_favor_of_auramazd_kingship_and_the_divine_in_the_early_achaemenid_period",
+      "target": "llm_root_1979_conceptual_foundations_for_achaemenid_art",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_darius_i_522_486_b_c",
+      "target": "llm_darius_i_s_imperial_program_in_texts_and_images",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_early_achaemenid_kingship_and_the_divine",
+      "target": "llm_auramazd",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_royal_cult_evidence_criteria_temples_priesthoods_prayers_offerings_statues_divine_status_images",
+      "target": "llm_no_definitive_evidence_for_a_living_achaemenid_royal_cult_outside_egypt",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_no_definitive_evidence_for_a_living_achaemenid_royal_cult_outside_egypt",
+      "target": "llm_early_achaemenid_kingship_and_the_divine",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_darius_i_s_imperial_program_in_texts_and_images",
+      "target": "llm_early_achaemenid_kingship_and_the_divine",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.92,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_persepolis_fortification_and_treasury_archives",
+      "target": "llm_darius_i_s_imperial_program_in_texts_and_images",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_achaemenid_heartland_f_rs_pars_an_an_susa_media",
+      "target": "llm_darius_i_s_imperial_program_in_texts_and_images",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_briant_2002_id_ologie_monarchique",
+      "target": "llm_darius_i_s_imperial_program_in_texts_and_images",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.83,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_root_1979_conceptual_foundations_for_achaemenid_art",
+      "target": "llm_darius_i_s_imperial_program_in_texts_and_images",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.83,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_herodotean_and_avestan_models_of_achaemenid_monarchic_ideology",
+      "target": "llm_early_achaemenid_kingship_and_the_divine",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_darius_era_heartland_evidence_base",
+      "label": "Darius-Era Heartland Evidence Base",
+      "nodes": [
+        "llm_achaemenid_heartland_f_rs_pars_an_an_susa_media",
+        "llm_by_the_favor_of_auramazd_kingship_and_the_divine_in_the_early_achaemenid_period",
+        "llm_darius_i_522_486_b_c",
+        "llm_darius_i_s_imperial_program_in_texts_and_images",
+        "llm_persepolis_fortification_and_treasury_archives"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md"
+    },
+    {
+      "id": "hyper_living_royal_cult_qualification_in_achaemenid_context",
+      "label": "Living Royal Cult Qualification in Achaemenid Context",
+      "nodes": [
+        "llm_early_achaemenid_kingship_and_the_divine",
+        "llm_no_definitive_evidence_for_a_living_achaemenid_royal_cult_outside_egypt",
+        "llm_royal_cult_evidence_criteria_temples_priesthoods_prayers_offerings_statues_divine_status_images"
+      ],
+      "relation": "debate",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 5578,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 14092,
+    "output_tokens_details": {
+      "reasoning_tokens": 11394
+    },
+    "total_tokens": 19670
+  }
+}

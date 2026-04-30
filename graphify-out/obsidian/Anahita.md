@@ -1,21 +1,19 @@
 ---
-source_file: "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md"
+source_file: "raw/ocr/Academia Summary — Aura of Kings; Legitimacy and Divine Sanction in Iranian Kingship .md"
 type: "document"
 community: "Mithraic Studies"
-location: "chunk 1/3"
+location: "chunk 1/1"
 tags:
   - graphify/document
-  - graphify/INFERRED
+  - graphify/EXTRACTED
   - community/Mithraic_Studies
 ---
 
 # Anahita
 
 ## Connections
-- [[THE AURA OF KINGS_1]] - `references` [EXTRACTED]
-- [[AND MAN CREATED GOD KINGS, PRIESTS AND GODS ON SASANIAN INVESTITURE RELIEFS]] - `references` [EXTRACTED]
-- [[Lotus Flower]] - `conceptually_related_to` [INFERRED]
-- [[Narseh]] - `conceptually_related_to` [INFERRED]
-- [[Priest-King]] - `conceptually_related_to` [INFERRED]
+- [[Aura of Kings; Legitimacy and Divine Sanction in Iranian Kingship]] - `references` [EXTRACTED]
+- [[Khvarnah  Farr (Divine Glory)]] - `conceptually_related_to` [EXTRACTED]
+- [[Narseh Investiture and Chihr-of-Gods Program]] - `participates_in` [EXTRACTED]
 
-#graphify/document #graphify/INFERRED #community/Mithraic_Studies
+#graphify/document #graphify/EXTRACTED #community/Mithraic_Studies

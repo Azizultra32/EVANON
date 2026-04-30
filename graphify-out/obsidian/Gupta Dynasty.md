@@ -12,9 +12,8 @@ tags:
 # Gupta Dynasty
 
 ## Connections
-- [[Cultural Interaction]] - `participates_in` [INFERRED]
 - [[Dialogue Between Cultures & Exchange of Knowledge And Cultural Ideas]] - `references` [EXTRACTED]
-- [[Dialogue Between Cultures & Exchange of Knowledge And Cultural Ideas_1]] - `references` [EXTRACTED]
-- [[Indian Culture]] - `participates_in` [INFERRED]
+- [[Indo-Iranian cultural and knowledge exchange]] - `conceptually_related_to` [EXTRACTED]
+- [[Sasanian Dynasty]] - `conceptually_related_to` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Iranian_Kingship

@@ -1,0 +1,489 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "label": "Encounters by the Rivers of Babylon",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_old_avesta_intertexts_yh_36_6_7_g_th_51_22_51_13_53_8_9",
+      "label": "Old Avesta Intertexts (YH 36.6\u20137; G\u0101th\u0101 51.22, 51.13, 53.8\u20139)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_achaemenid_royal_inscriptions_xerxes_persepolis_h_darius_susa_k",
+      "label": "Achaemenid Royal Inscriptions (Xerxes Persepolis h; Darius Susa k)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_argument_old_persian_zand_of_the_old_avesta_and_oral_young_avesta_tradition",
+      "label": "Argument: Old Persian zand of the Old Avesta and Oral Young Avesta Tradition",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_d_n_as_authoritative_oral_sacred_priestly_tradition",
+      "label": "d\u0113n as Authoritative Oral/Sacred Priestly Tradition",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_kartir_s_sasanian_inscriptions_and_priestly_career",
+      "label": "Kartir\u2019s Sasanian Inscriptions and Priestly Career",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_written_avesta_and_avestan_script",
+      "label": "Written Avesta and Avestan Script",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_d_nkard_analysis_of_the_twenty_one_avesta_nasks",
+      "label": "D\u0113nkard Analysis of the Twenty-One Avesta Nasks",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_pahlavi_videvdad_pollution_purification_legal_zand",
+      "label": "Pahlavi Videvdad: Pollution/Purification Legal Zand",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_torah_pollution_rules_as_comparative_parallel",
+      "label": "Torah Pollution Rules as Comparative Parallel",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_pahlavi_g_th_4_51_13_and_5_53_8_9_afterlife_commentaries",
+      "label": "Pahlavi G\u0101th\u0101 4.51.13 and 5.53.8\u20139 Afterlife Commentaries",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_videvdad_5_4_pollution_formula_order_destroyed_souls_howling_bodies_forfeit",
+      "label": "Videvdad 5.4 Pollution Formula: Order Destroyed, Souls Howling, Bodies Forfeit",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zand_fragard_jud_d_w_d_d_td2_p_542",
+      "label": "Zand \u012b fragard \u012b Jud-d\u0113w-d\u0101d [TD2, p. 542]",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "target": "llm_achaemenid_royal_inscriptions_xerxes_persepolis_h_darius_susa_k",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "target": "llm_argument_old_persian_zand_of_the_old_avesta_and_oral_young_avesta_tradition",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "target": "llm_d_n_as_authoritative_oral_sacred_priestly_tradition",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "target": "llm_d_nkard_analysis_of_the_twenty_one_avesta_nasks",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "target": "llm_kartir_s_sasanian_inscriptions_and_priestly_career",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "target": "llm_old_avesta_intertexts_yh_36_6_7_g_th_51_22_51_13_53_8_9",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "target": "llm_pahlavi_g_th_4_51_13_and_5_53_8_9_afterlife_commentaries",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "target": "llm_pahlavi_videvdad_pollution_purification_legal_zand",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "target": "llm_torah_pollution_rules_as_comparative_parallel",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "target": "llm_videvdad_5_4_pollution_formula_order_destroyed_souls_howling_bodies_forfeit",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "target": "llm_written_avesta_and_avestan_script",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "target": "llm_zand_fragard_jud_d_w_d_d_td2_p_542",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_achaemenid_royal_inscriptions_xerxes_persepolis_h_darius_susa_k",
+      "target": "llm_old_avesta_intertexts_yh_36_6_7_g_th_51_22_51_13_53_8_9",
+      "relation": "semantically_similar_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_old_avesta_intertexts_yh_36_6_7_g_th_51_22_51_13_53_8_9",
+      "target": "llm_argument_old_persian_zand_of_the_old_avesta_and_oral_young_avesta_tradition",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_achaemenid_royal_inscriptions_xerxes_persepolis_h_darius_susa_k",
+      "target": "llm_argument_old_persian_zand_of_the_old_avesta_and_oral_young_avesta_tradition",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_argument_old_persian_zand_of_the_old_avesta_and_oral_young_avesta_tradition",
+      "target": "llm_d_n_as_authoritative_oral_sacred_priestly_tradition",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_achaemenid_royal_inscriptions_xerxes_persepolis_h_darius_susa_k",
+      "target": "llm_d_n_as_authoritative_oral_sacred_priestly_tradition",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.8,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.7
+    },
+    {
+      "source": "llm_kartir_s_sasanian_inscriptions_and_priestly_career",
+      "target": "llm_d_n_as_authoritative_oral_sacred_priestly_tradition",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_written_avesta_and_avestan_script",
+      "target": "llm_d_n_as_authoritative_oral_sacred_priestly_tradition",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.7
+    },
+    {
+      "source": "llm_d_nkard_analysis_of_the_twenty_one_avesta_nasks",
+      "target": "llm_written_avesta_and_avestan_script",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_d_nkard_analysis_of_the_twenty_one_avesta_nasks",
+      "target": "llm_d_n_as_authoritative_oral_sacred_priestly_tradition",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_pahlavi_videvdad_pollution_purification_legal_zand",
+      "target": "llm_d_n_as_authoritative_oral_sacred_priestly_tradition",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_pahlavi_videvdad_pollution_purification_legal_zand",
+      "target": "llm_torah_pollution_rules_as_comparative_parallel",
+      "relation": "semantically_similar_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_pahlavi_videvdad_pollution_purification_legal_zand",
+      "target": "llm_videvdad_5_4_pollution_formula_order_destroyed_souls_howling_bodies_forfeit",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_videvdad_5_4_pollution_formula_order_destroyed_souls_howling_bodies_forfeit",
+      "target": "llm_old_avesta_intertexts_yh_36_6_7_g_th_51_22_51_13_53_8_9",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_old_avesta_intertexts_yh_36_6_7_g_th_51_22_51_13_53_8_9",
+      "target": "llm_videvdad_5_4_pollution_formula_order_destroyed_souls_howling_bodies_forfeit",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_pahlavi_g_th_4_51_13_and_5_53_8_9_afterlife_commentaries",
+      "target": "llm_old_avesta_intertexts_yh_36_6_7_g_th_51_22_51_13_53_8_9",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_pahlavi_g_th_4_51_13_and_5_53_8_9_afterlife_commentaries",
+      "target": "llm_videvdad_5_4_pollution_formula_order_destroyed_souls_howling_bodies_forfeit",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.75
+    },
+    {
+      "source": "llm_zand_fragard_jud_d_w_d_d_td2_p_542",
+      "target": "llm_videvdad_5_4_pollution_formula_order_destroyed_souls_howling_bodies_forfeit",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_zand_fragard_jud_d_w_d_d_td2_p_542",
+      "target": "llm_pahlavi_videvdad_pollution_purification_legal_zand",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_evidence_debate_for_an_old_persian_zand_in_achaemenid_inscriptions",
+      "label": "Evidence Debate for an Old Persian zand in Achaemenid Inscriptions",
+      "nodes": [
+        "llm_achaemenid_royal_inscriptions_xerxes_persepolis_h_darius_susa_k",
+        "llm_argument_old_persian_zand_of_the_old_avesta_and_oral_young_avesta_tradition",
+        "llm_old_avesta_intertexts_yh_36_6_7_g_th_51_22_51_13_53_8_9"
+      ],
+      "relation": "debate",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md"
+    },
+    {
+      "id": "hyper_afterlife_location_of_booing_out_of_paradise_versus_in_hell",
+      "label": "Afterlife Location of Booing: Out of Paradise versus In Hell",
+      "nodes": [
+        "llm_pahlavi_g_th_4_51_13_and_5_53_8_9_afterlife_commentaries",
+        "llm_pahlavi_videvdad_pollution_purification_legal_zand",
+        "llm_videvdad_5_4_pollution_formula_order_destroyed_souls_howling_bodies_forfeit",
+        "llm_zand_fragard_jud_d_w_d_d_td2_p_542"
+      ],
+      "relation": "debate",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 6401,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 13105,
+    "output_tokens_details": {
+      "reasoning_tokens": 10358
+    },
+    "total_tokens": 19506
+  }
+}

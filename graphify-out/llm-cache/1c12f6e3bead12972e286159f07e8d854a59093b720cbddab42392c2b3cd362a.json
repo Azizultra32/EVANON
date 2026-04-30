@@ -1,0 +1,491 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "label": "Achaemenid History Derailed by AvestologyAssessing *La religion des Ach\u00e9m\u00e9nides: confrontation des sources*",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_y_19_18_leadership_hierarchy_house_village_tribe_nation_zarathushtra",
+      "label": "Y 19.18 Leadership Hierarchy (house, village, tribe, nation, Zarathushtra)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_yt_10_115_mithra_hierarchy_and_bivar_2005_khshathra_pati_reconstruction",
+      "label": "Yt 10.115 Mithra Hierarchy and Bivar 2005 khshathra-pati Reconstruction",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zoroaster_as_super_king_and_possessor_of_aryan_khvarenah",
+      "label": "Zoroaster as Super-King and Possessor of Aryan khvarenah",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_achaemenid_king_of_kings_ideology_khsh_yathiya_khsh_yathiy_n_m",
+      "label": "Achaemenid King of Kings Ideology (khsh\u0101yathiya khsh\u0101yathiy\u0101n\u0101m)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zamyad_yasht_khvarenah_cycle_yt_19_35_44_jamshid_mithra_fereydun_garsh_sp",
+      "label": "Zamyad Yasht khvarenah Cycle (Yt 19.35\u201344: Jamshid, Mithra, Fereydun, Garsh\u0101sp)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_argument_zoroastrian_priestly_manipulation_after_alexander_seleucid_era",
+      "label": "Argument: Zoroastrian Priestly Manipulation after Alexander/Seleucid Era",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_tremblay_s_avesta_anomaly_no_king_term_and_no_magu_only_da_hhu_paiti_a_ravan",
+      "label": "Tremblay's Avesta Anomaly: no king term and no magu, only da\u012bhhu.paiti/a\u03b8ravan",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_magophonia_as_antagonism_between_p_rsas_and_median_magi",
+      "label": "Magophonia as Antagonism between p\u0101rsas and Median magi",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_pasargadae_p_rsa_kadag_in_xenophon_pliny_curtius_and_herodotus",
+      "label": "Pasargadae/P\u0101rsa-kadag in Xenophon, Pliny, Curtius, and Herodotus",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_anti_dogmatic_argument_against_kellens_skjaervo_avestan_antiquity_and_achaemenid_zoroastrianism",
+      "label": "Anti-dogmatic Argument against Kellens/Skjaervo Avestan Antiquity and Achaemenid Zoroastrianism",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_henckelman_fortification_treasury_tablet_statistics_and_garrison_seal_iconography",
+      "label": "Henckelman Fortification/Treasury Tablet Statistics and Garrison Seal Iconography",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_gnoli_2000_and_the_258_axiom_for_a_sixth_century_zoroaster",
+      "label": "Gnoli 2000 and the 258 Axiom for a Sixth-Century Zoroaster",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "target": "llm_achaemenid_king_of_kings_ideology_khsh_yathiya_khsh_yathiy_n_m",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "target": "llm_anti_dogmatic_argument_against_kellens_skjaervo_avestan_antiquity_and_achaemenid_zoroastrianism",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "target": "llm_argument_zoroastrian_priestly_manipulation_after_alexander_seleucid_era",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "target": "llm_gnoli_2000_and_the_258_axiom_for_a_sixth_century_zoroaster",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "target": "llm_henckelman_fortification_treasury_tablet_statistics_and_garrison_seal_iconography",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "target": "llm_magophonia_as_antagonism_between_p_rsas_and_median_magi",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "target": "llm_pasargadae_p_rsa_kadag_in_xenophon_pliny_curtius_and_herodotus",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "target": "llm_tremblay_s_avesta_anomaly_no_king_term_and_no_magu_only_da_hhu_paiti_a_ravan",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "target": "llm_y_19_18_leadership_hierarchy_house_village_tribe_nation_zarathushtra",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "target": "llm_yt_10_115_mithra_hierarchy_and_bivar_2005_khshathra_pati_reconstruction",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "target": "llm_zamyad_yasht_khvarenah_cycle_yt_19_35_44_jamshid_mithra_fereydun_garsh_sp",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "target": "llm_zoroaster_as_super_king_and_possessor_of_aryan_khvarenah",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_y_19_18_leadership_hierarchy_house_village_tribe_nation_zarathushtra",
+      "target": "llm_zoroaster_as_super_king_and_possessor_of_aryan_khvarenah",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zoroaster_as_super_king_and_possessor_of_aryan_khvarenah",
+      "target": "llm_y_19_18_leadership_hierarchy_house_village_tribe_nation_zarathushtra",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_yt_10_115_mithra_hierarchy_and_bivar_2005_khshathra_pati_reconstruction",
+      "target": "llm_y_19_18_leadership_hierarchy_house_village_tribe_nation_zarathushtra",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_yt_10_115_mithra_hierarchy_and_bivar_2005_khshathra_pati_reconstruction",
+      "target": "llm_argument_zoroastrian_priestly_manipulation_after_alexander_seleucid_era",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zoroaster_as_super_king_and_possessor_of_aryan_khvarenah",
+      "target": "llm_achaemenid_king_of_kings_ideology_khsh_yathiya_khsh_yathiy_n_m",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.96,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zoroaster_as_super_king_and_possessor_of_aryan_khvarenah",
+      "target": "llm_argument_zoroastrian_priestly_manipulation_after_alexander_seleucid_era",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zamyad_yasht_khvarenah_cycle_yt_19_35_44_jamshid_mithra_fereydun_garsh_sp",
+      "target": "llm_zoroaster_as_super_king_and_possessor_of_aryan_khvarenah",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zamyad_yasht_khvarenah_cycle_yt_19_35_44_jamshid_mithra_fereydun_garsh_sp",
+      "target": "llm_argument_zoroastrian_priestly_manipulation_after_alexander_seleucid_era",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_argument_zoroastrian_priestly_manipulation_after_alexander_seleucid_era",
+      "target": "llm_anti_dogmatic_argument_against_kellens_skjaervo_avestan_antiquity_and_achaemenid_zoroastrianism",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_tremblay_s_avesta_anomaly_no_king_term_and_no_magu_only_da_hhu_paiti_a_ravan",
+      "target": "llm_anti_dogmatic_argument_against_kellens_skjaervo_avestan_antiquity_and_achaemenid_zoroastrianism",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.78,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_magophonia_as_antagonism_between_p_rsas_and_median_magi",
+      "target": "llm_tremblay_s_avesta_anomaly_no_king_term_and_no_magu_only_da_hhu_paiti_a_ravan",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_pasargadae_p_rsa_kadag_in_xenophon_pliny_curtius_and_herodotus",
+      "target": "llm_magophonia_as_antagonism_between_p_rsas_and_median_magi",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_magophonia_as_antagonism_between_p_rsas_and_median_magi",
+      "target": "llm_pasargadae_p_rsa_kadag_in_xenophon_pliny_curtius_and_herodotus",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_henckelman_fortification_treasury_tablet_statistics_and_garrison_seal_iconography",
+      "target": "llm_anti_dogmatic_argument_against_kellens_skjaervo_avestan_antiquity_and_achaemenid_zoroastrianism",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_anti_dogmatic_argument_against_kellens_skjaervo_avestan_antiquity_and_achaemenid_zoroastrianism",
+      "target": "llm_henckelman_fortification_treasury_tablet_statistics_and_garrison_seal_iconography",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_gnoli_2000_and_the_258_axiom_for_a_sixth_century_zoroaster",
+      "target": "llm_anti_dogmatic_argument_against_kellens_skjaervo_avestan_antiquity_and_achaemenid_zoroastrianism",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.91,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_anti_dogmatic_argument_against_kellens_skjaervo_avestan_antiquity_and_achaemenid_zoroastrianism",
+      "target": "llm_gnoli_2000_and_the_258_axiom_for_a_sixth_century_zoroaster",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_gnoli_2000_and_the_258_axiom_for_a_sixth_century_zoroaster",
+      "target": "llm_argument_zoroastrian_priestly_manipulation_after_alexander_seleucid_era",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_zoroaster_as_super_king_versus_achaemenid_kingship",
+      "label": "Zoroaster as Super-King versus Achaemenid Kingship",
+      "nodes": [
+        "llm_achaemenid_king_of_kings_ideology_khsh_yathiya_khsh_yathiy_n_m",
+        "llm_argument_zoroastrian_priestly_manipulation_after_alexander_seleucid_era",
+        "llm_y_19_18_leadership_hierarchy_house_village_tribe_nation_zarathushtra",
+        "llm_yt_10_115_mithra_hierarchy_and_bivar_2005_khshathra_pati_reconstruction",
+        "llm_zoroaster_as_super_king_and_possessor_of_aryan_khvarenah"
+      ],
+      "relation": "debate",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md"
+    },
+    {
+      "id": "hyper_evidence_cluster_against_avestan_antiquity_achaemenid_zoroastrianism_dogma",
+      "label": "Evidence Cluster against Avestan Antiquity/Achaemenid Zoroastrianism Dogma",
+      "nodes": [
+        "llm_anti_dogmatic_argument_against_kellens_skjaervo_avestan_antiquity_and_achaemenid_zoroastrianism",
+        "llm_gnoli_2000_and_the_258_axiom_for_a_sixth_century_zoroaster",
+        "llm_henckelman_fortification_treasury_tablet_statistics_and_garrison_seal_iconography",
+        "llm_tremblay_s_avesta_anomaly_no_king_term_and_no_magu_only_da_hhu_paiti_a_ravan"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 6413,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 13812,
+    "output_tokens_details": {
+      "reasoning_tokens": 10847
+    },
+    "total_tokens": 20225
+  }
+}

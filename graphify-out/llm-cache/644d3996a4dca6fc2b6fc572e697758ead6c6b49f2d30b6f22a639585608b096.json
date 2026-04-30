@@ -1,0 +1,440 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "label": "ABSTRACT:",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_avestan_pahlavi_persian_lexicon",
+      "label": "Avestan/Pahlavi/Persian Lexicon",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_arabic_language",
+      "label": "Arabic Language",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_hadith_tradition",
+      "label": "Hadith Tradition",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_the_holy_qur_an",
+      "label": "The Holy Qur'an",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_argument_avestan_persian_words_in_arabic_hadith_and_qur_an",
+      "label": "Argument: Avestan/Persian Words in Arabic, Hadith, and Qur'an",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_rationale_200_non_arabic_words_repeated_in_4_000_qur_anic_places",
+      "label": "Rationale: >200 Non-Arabic Words Repeated in ~4,000 Qur'anic Places",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_cited_linguists_al_suyuti_al_jawaliqi_raghib_esfahani_ady_shir_al_munjid_dehkhoda_shushtari_khorram_shahi",
+      "label": "Cited Linguists: al-Suyuti, al-Jawaliqi, Raghib Esfahani, Ady Shir, Al-Munjid, Dehkhoda, Shushtari, Khorram-Shahi",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_english_and_european_languages_greek_french_spanish_portuguese_slavic_russian",
+      "label": "English and European Languages (Greek, French, Spanish, Portuguese, Slavic/Russian)",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_argument_more_than_1_000_avestan_pahlavi_persian_words_in_english",
+      "label": "Argument: More Than 1,000 Avestan/Pahlavi/Persian Words in English",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_rationale_shared_aryan_roots_explain_persian_words_in_european_languages",
+      "label": "Rationale: Shared Aryan Roots Explain Persian Words in European Languages",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_argument_countries_and_cities_worldwide_have_persian_names",
+      "label": "Argument: Countries and Cities Worldwide Have Persian Names",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_rationale_persian_empire_rule_naming_and_satrapies_of_territories",
+      "label": "Rationale: Persian Empire Rule, Naming, and Satrapies of Territories",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "target": "llm_arabic_language",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "target": "llm_argument_avestan_persian_words_in_arabic_hadith_and_qur_an",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "target": "llm_argument_countries_and_cities_worldwide_have_persian_names",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "target": "llm_argument_more_than_1_000_avestan_pahlavi_persian_words_in_english",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "target": "llm_avestan_pahlavi_persian_lexicon",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "target": "llm_cited_linguists_al_suyuti_al_jawaliqi_raghib_esfahani_ady_shir_al_munjid_dehkhoda_shushtari_khorram_shahi",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "target": "llm_english_and_european_languages_greek_french_spanish_portuguese_slavic_russian",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "target": "llm_hadith_tradition",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "target": "llm_rationale_200_non_arabic_words_repeated_in_4_000_qur_anic_places",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "target": "llm_rationale_persian_empire_rule_naming_and_satrapies_of_territories",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "target": "llm_rationale_shared_aryan_roots_explain_persian_words_in_european_languages",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "target": "llm_the_holy_qur_an",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_argument_avestan_persian_words_in_arabic_hadith_and_qur_an",
+      "target": "llm_avestan_pahlavi_persian_lexicon",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_argument_avestan_persian_words_in_arabic_hadith_and_qur_an",
+      "target": "llm_arabic_language",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_argument_avestan_persian_words_in_arabic_hadith_and_qur_an",
+      "target": "llm_hadith_tradition",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_argument_avestan_persian_words_in_arabic_hadith_and_qur_an",
+      "target": "llm_the_holy_qur_an",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_rationale_200_non_arabic_words_repeated_in_4_000_qur_anic_places",
+      "target": "llm_argument_avestan_persian_words_in_arabic_hadith_and_qur_an",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_rationale_200_non_arabic_words_repeated_in_4_000_qur_anic_places",
+      "target": "llm_cited_linguists_al_suyuti_al_jawaliqi_raghib_esfahani_ady_shir_al_munjid_dehkhoda_shushtari_khorram_shahi",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_rationale_200_non_arabic_words_repeated_in_4_000_qur_anic_places",
+      "target": "llm_the_holy_qur_an",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_argument_more_than_1_000_avestan_pahlavi_persian_words_in_english",
+      "target": "llm_avestan_pahlavi_persian_lexicon",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_argument_more_than_1_000_avestan_pahlavi_persian_words_in_english",
+      "target": "llm_english_and_european_languages_greek_french_spanish_portuguese_slavic_russian",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_rationale_shared_aryan_roots_explain_persian_words_in_european_languages",
+      "target": "llm_argument_more_than_1_000_avestan_pahlavi_persian_words_in_english",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_argument_more_than_1_000_avestan_pahlavi_persian_words_in_english",
+      "target": "llm_argument_avestan_persian_words_in_arabic_hadith_and_qur_an",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.8,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_argument_countries_and_cities_worldwide_have_persian_names",
+      "target": "llm_avestan_pahlavi_persian_lexicon",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_rationale_persian_empire_rule_naming_and_satrapies_of_territories",
+      "target": "llm_argument_countries_and_cities_worldwide_have_persian_names",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_debate_over_persian_words_in_arabic_scripture_and_european_languages",
+      "label": "Debate over Persian Words in Arabic, Scripture, and European Languages",
+      "nodes": [
+        "llm_arabic_language",
+        "llm_argument_avestan_persian_words_in_arabic_hadith_and_qur_an",
+        "llm_argument_more_than_1_000_avestan_pahlavi_persian_words_in_english",
+        "llm_avestan_pahlavi_persian_lexicon",
+        "llm_english_and_european_languages_greek_french_spanish_portuguese_slavic_russian"
+      ],
+      "relation": "debate",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md"
+    },
+    {
+      "id": "hyper_persian_global_toponymy_argument",
+      "label": "Persian Global Toponymy Argument",
+      "nodes": [
+        "llm_argument_countries_and_cities_worldwide_have_persian_names",
+        "llm_avestan_pahlavi_persian_lexicon",
+        "llm_rationale_persian_empire_rule_naming_and_satrapies_of_territories"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 8937,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 10746,
+    "output_tokens_details": {
+      "reasoning_tokens": 8515
+    },
+    "total_tokens": 19683
+  }
+}

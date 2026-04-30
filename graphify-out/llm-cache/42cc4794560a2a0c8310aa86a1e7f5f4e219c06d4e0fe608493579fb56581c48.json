@@ -1,0 +1,490 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_and_man_created_god_kings_priests_and_go_md",
+      "label": "AND MAN CREATED GOD? KINGS, PRIESTS AND GODS ON SASANIAN INVESTITURE RELIEFS",
+      "file_type": "document",
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_sasanian_investiture_reliefs",
+      "label": "Sasanian Investiture Reliefs",
+      "file_type": "document",
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ardashir_i_investiture_relief_at_naqsh_i_rustam",
+      "label": "Ardashir I Investiture Relief at Naqsh-i Rustam",
+      "file_type": "document",
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_shapur_i_reliefs_at_naqsh_i_radjab_and_bishapur_i",
+      "label": "Shapur I Reliefs at Naqsh-i Radjab and Bishapur I",
+      "file_type": "document",
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ardashir_ii_relief_at_taq_i_bustan_i",
+      "label": "Ardashir II Relief at Taq-i Bustan I",
+      "file_type": "document",
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_khusrow_ii_relief_in_the_large_iwan_at_taq_i_bustan_iii",
+      "label": "Khusrow II Relief in the Large Iwan at Taq-i Bustan III",
+      "file_type": "document",
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ahura_mazda_identification_and_regalia",
+      "label": "Ahura Mazda Identification and Regalia",
+      "file_type": "document",
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_mithra_and_anahita_in_taq_i_bustan_investiture_iconography",
+      "label": "Mithra and Anahita in Taq-i Bustan Investiture Iconography",
+      "file_type": "document",
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_beribboned_investiture_ring_diadem_interpretive_debate",
+      "label": "Beribboned Investiture Ring/Diadem Interpretive Debate",
+      "file_type": "document",
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_trilingual_inscriptions_on_ardashir_i_relief_at_naqsh_i_rustam",
+      "label": "Trilingual Inscriptions on Ardashir I Relief at Naqsh-i Rustam",
+      "file_type": "document",
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_barsom_reconstruction_at_taq_i_bustan_iii",
+      "label": "Barsom Reconstruction at Taq-i Bustan III",
+      "file_type": "document",
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_defeated_demon_ahriman_motif",
+      "label": "Defeated Demon/Ahriman Motif",
+      "file_type": "document",
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_visible_plate_sources_herrmann_et_al_1983_fukai_et_al_1983_kleiss_1976_seidl_1986_flandin_coste_1843_54_fukai_horiuchi_1972",
+      "label": "Visible Plate Sources: Herrmann et al. 1983; Fukai et al. 1983; Kleiss 1976; Seidl 1986; Flandin & Coste 1843-54; Fukai & Horiuchi 1972",
+      "file_type": "document",
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_and_man_created_god_kings_priests_and_go_md",
+      "target": "llm_ahura_mazda_identification_and_regalia",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_and_man_created_god_kings_priests_and_go_md",
+      "target": "llm_ardashir_i_investiture_relief_at_naqsh_i_rustam",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_and_man_created_god_kings_priests_and_go_md",
+      "target": "llm_ardashir_ii_relief_at_taq_i_bustan_i",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_and_man_created_god_kings_priests_and_go_md",
+      "target": "llm_barsom_reconstruction_at_taq_i_bustan_iii",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_and_man_created_god_kings_priests_and_go_md",
+      "target": "llm_beribboned_investiture_ring_diadem_interpretive_debate",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_and_man_created_god_kings_priests_and_go_md",
+      "target": "llm_defeated_demon_ahriman_motif",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_and_man_created_god_kings_priests_and_go_md",
+      "target": "llm_khusrow_ii_relief_in_the_large_iwan_at_taq_i_bustan_iii",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_and_man_created_god_kings_priests_and_go_md",
+      "target": "llm_mithra_and_anahita_in_taq_i_bustan_investiture_iconography",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_and_man_created_god_kings_priests_and_go_md",
+      "target": "llm_sasanian_investiture_reliefs",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_and_man_created_god_kings_priests_and_go_md",
+      "target": "llm_shapur_i_reliefs_at_naqsh_i_radjab_and_bishapur_i",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_and_man_created_god_kings_priests_and_go_md",
+      "target": "llm_trilingual_inscriptions_on_ardashir_i_relief_at_naqsh_i_rustam",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_and_man_created_god_kings_priests_and_go_md",
+      "target": "llm_visible_plate_sources_herrmann_et_al_1983_fukai_et_al_1983_kleiss_1976_seidl_1986_flandin_coste_1843_54_fukai_horiuchi_1972",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_ardashir_i_investiture_relief_at_naqsh_i_rustam",
+      "target": "llm_sasanian_investiture_reliefs",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_shapur_i_reliefs_at_naqsh_i_radjab_and_bishapur_i",
+      "target": "llm_sasanian_investiture_reliefs",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_ardashir_ii_relief_at_taq_i_bustan_i",
+      "target": "llm_sasanian_investiture_reliefs",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_khusrow_ii_relief_in_the_large_iwan_at_taq_i_bustan_iii",
+      "target": "llm_sasanian_investiture_reliefs",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_ahura_mazda_identification_and_regalia",
+      "target": "llm_sasanian_investiture_reliefs",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_beribboned_investiture_ring_diadem_interpretive_debate",
+      "target": "llm_sasanian_investiture_reliefs",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_trilingual_inscriptions_on_ardashir_i_relief_at_naqsh_i_rustam",
+      "target": "llm_ahura_mazda_identification_and_regalia",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_trilingual_inscriptions_on_ardashir_i_relief_at_naqsh_i_rustam",
+      "target": "llm_ardashir_i_investiture_relief_at_naqsh_i_rustam",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_ahura_mazda_identification_and_regalia",
+      "target": "llm_shapur_i_reliefs_at_naqsh_i_radjab_and_bishapur_i",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_ahura_mazda_identification_and_regalia",
+      "target": "llm_khusrow_ii_relief_in_the_large_iwan_at_taq_i_bustan_iii",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_mithra_and_anahita_in_taq_i_bustan_investiture_iconography",
+      "target": "llm_ardashir_ii_relief_at_taq_i_bustan_i",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.82
+    },
+    {
+      "source": "llm_mithra_and_anahita_in_taq_i_bustan_investiture_iconography",
+      "target": "llm_khusrow_ii_relief_in_the_large_iwan_at_taq_i_bustan_iii",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_barsom_reconstruction_at_taq_i_bustan_iii",
+      "target": "llm_khusrow_ii_relief_in_the_large_iwan_at_taq_i_bustan_iii",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_barsom_reconstruction_at_taq_i_bustan_iii",
+      "target": "llm_beribboned_investiture_ring_diadem_interpretive_debate",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.75
+    },
+    {
+      "source": "llm_defeated_demon_ahriman_motif",
+      "target": "llm_ahura_mazda_identification_and_regalia",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_defeated_demon_ahriman_motif",
+      "target": "llm_ardashir_i_investiture_relief_at_naqsh_i_rustam",
+      "relation": "conceptually_related_to",
+      "confidence": "AMBIGUOUS",
+      "confidence_score": 0.65,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.65
+    },
+    {
+      "source": "llm_defeated_demon_ahriman_motif",
+      "target": "llm_shapur_i_reliefs_at_naqsh_i_radjab_and_bishapur_i",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_sasanian_investiture_reliefs",
+      "target": "llm_visible_plate_sources_herrmann_et_al_1983_fukai_et_al_1983_kleiss_1976_seidl_1986_flandin_coste_1843_54_fukai_horiuchi_1972",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_taq_i_bustan_divine_investiture_program",
+      "label": "Taq-i Bustan Divine Investiture Program",
+      "nodes": [
+        "llm_ahura_mazda_identification_and_regalia",
+        "llm_ardashir_ii_relief_at_taq_i_bustan_i",
+        "llm_beribboned_investiture_ring_diadem_interpretive_debate",
+        "llm_khusrow_ii_relief_in_the_large_iwan_at_taq_i_bustan_iii",
+        "llm_mithra_and_anahita_in_taq_i_bustan_investiture_iconography"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md"
+    },
+    {
+      "id": "hyper_ring_diadem_versus_barsom_interpretive_debate",
+      "label": "Ring/Diadem versus Barsom Interpretive Debate",
+      "nodes": [
+        "llm_barsom_reconstruction_at_taq_i_bustan_iii",
+        "llm_beribboned_investiture_ring_diadem_interpretive_debate",
+        "llm_khusrow_ii_relief_in_the_large_iwan_at_taq_i_bustan_iii"
+      ],
+      "relation": "debate",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 6376,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 12247,
+    "output_tokens_details": {
+      "reasoning_tokens": 9322
+    },
+    "total_tokens": 18623
+  }
+}

@@ -65,5 +65,5 @@
   "needs_graph": true,
   "warning": "Large corpus: 52 files \u00b7 ~1,006,114 words. Semantic extraction will be expensive (many Claude tokens). Consider running on a subfolder, or use --no-semantic to run AST-only.",
   "skipped_sensitive": [],
-  "graphifyignore_patterns": 0
+  "graphifyignore_patterns": 10
 }

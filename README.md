@@ -101,7 +101,7 @@ cd /Users/ali/GRAPHIFY-zoroastrianism
 source .venv/bin/activate
 find graphify-input/ocr-markdown -type l -delete
 find raw/ocr -maxdepth 1 -type f -name '*.md' -exec ln -sf "$PWD/{}" graphify-input/ocr-markdown/ \;
-graphify-zoro-llm --input graphify-input/ocr-markdown --workers 4
+graphify-zoro-llm --input graphify-input/ocr-markdown --workers 2 --timeout 1200
 ```
 
 Main outputs:
@@ -118,15 +118,16 @@ Main outputs:
 Current LLM build:
 
 - 52 OCR Markdown files included.
-- 142/142 chunks succeeded.
-- 612 semantic nodes.
-- 1,685 graph edges in `graph.json`.
-- 36 hyperedges.
-- 21 communities.
-- Token usage: 885,633 input tokens, 237,077 output tokens.
-- No final LLM failures.
+- Model: `gpt-5.5`
+- Reasoning effort: `xhigh`
+- 141/142 chunks succeeded.
+- 1 chunk failed with a transient OpenAI HTTP 520 and is documented in `graphify-out/llm-failures.json`.
+- 1,492 semantic nodes.
+- 3,962 graph edges in `graph.json`.
+- 272 hyperedges.
+- Token usage: 919,614 input tokens, 1,718,022 output tokens.
 
-The current graph was built before the model upgrade, using the earlier configured model. The graph builder is now configured for OpenAI's Responses API, `gpt-5.5`, `LLM_REASONING_EFFORT=xhigh`, and `LLM_MAX_OUTPUT_TOKENS=30000` for future full rebuilds.
+The accepted graph is the `gpt-5.5` / `xhigh` rebuild. One failed chunk out of 142 does not invalidate the graph; it is kept as an explicit documented failure so the project can move forward.
 
 The LLM pass samples very large documents into representative chunks rather than sending every byte of every long PDF. It is still the semantic Graphify layer: entities, relations, communities, inferred edges, reports, HTML, SVG, GraphML, and Obsidian notes are generated from LLM extraction output.
 
@@ -171,6 +172,13 @@ Smoke tests already verified:
 - `graphify explain "Ahura Mazdā"` works.
 - `graphify query "What does the LLM graph say about Mithra and kingship?"` works.
 - `graphify path "Mithra" "Ahura Mazda"` works.
+- Latest saved query smoke report: `docs/query-smoke-tests.md`.
+
+## Persistent Worker
+
+The repo includes `scripts/graphify_worker.sh` for unattended finalization. It accepts a graph when at least 99% of chunks succeeded and all failures are documented, writes `graphify-out/worker-status.json`, runs query smoke tests, commits graph artifacts, and pushes `origin main`.
+
+The user LaunchAgent at `/Users/ali/Library/LaunchAgents/com.evanon.graphify-zoro-llm.plist` points to this worker and writes local logs under `logs/`.
 
 ## Add More PDFs Later
 

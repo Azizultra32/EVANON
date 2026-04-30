@@ -1,0 +1,492 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "label": "\u201cBuilding a New Vision of the Past in the Sasanian Empire: The Sanctuaries of Kay\u0101nsih and the Great Fires of Iran\u201d\\*",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_sanctuary_of_dur_gu_nasp_takht_i_suleiman",
+      "label": "Sanctuary of \u0100dur Gu\u0161nasp / Takht-i Suleiman",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_lake_kay_ns_h_kuh_e_khv_jeh_sanctuary",
+      "label": "Lake Kay\u0101ns\u012bh / Kuh-e Khv\u0101jeh Sanctuary",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_avestan_sites_of_memory",
+      "label": "\u2018Avestan\u2019 Sites of Memory",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_great_fires_of_iran",
+      "label": "Great Fires of Iran",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_avesta",
+      "label": "Avesta",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_later_middle_persian_commentarial_tradition",
+      "label": "Later Middle Persian Commentarial Tradition",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_sasanian_dynasty_and_king_of_kings",
+      "label": "Sasanian Dynasty and King of Kings",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_khosrow_i_an_ag_ruw_n",
+      "label": "Khosrow I An\u014d\u0161ag-ruw\u0101n",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_procopius_persica_2_24_1",
+      "label": "Procopius, Persica 2.24.1",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_dating_evidence_for_dur_gu_nasp_coins_seals_and_procopius",
+      "label": "Dating Evidence for \u0100dur Gu\u0161nasp: Coins, Seals, and Procopius",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_royal_ritual_design_chah_r_t_gh_ayv_n_and_audience_hall",
+      "label": "Royal Ritual Design: Chah\u0101r T\u0101gh, Ayv\u0101n, and Audience Hall",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_argument_avestan_topography_as_middle_iranian_not_achaemenid_royal_construction",
+      "label": "Argument: \u2018Avestan\u2019 Topography as Middle Iranian, Not Achaemenid, Royal Construction",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_argument_avestan_topography_as_middle_iranian_not_achaemenid_royal_construction",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_avesta",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_avestan_sites_of_memory",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_dating_evidence_for_dur_gu_nasp_coins_seals_and_procopius",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_great_fires_of_iran",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_khosrow_i_an_ag_ruw_n",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_lake_kay_ns_h_kuh_e_khv_jeh_sanctuary",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_later_middle_persian_commentarial_tradition",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_procopius_persica_2_24_1",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_royal_ritual_design_chah_r_t_gh_ayv_n_and_audience_hall",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_sanctuary_of_dur_gu_nasp_takht_i_suleiman",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_sasanian_dynasty_and_king_of_kings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_sanctuary_of_dur_gu_nasp_takht_i_suleiman",
+      "target": "llm_great_fires_of_iran",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_sanctuary_of_dur_gu_nasp_takht_i_suleiman",
+      "target": "llm_avestan_sites_of_memory",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_lake_kay_ns_h_kuh_e_khv_jeh_sanctuary",
+      "target": "llm_avestan_sites_of_memory",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_avestan_sites_of_memory",
+      "target": "llm_avesta",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_avesta",
+      "target": "llm_great_fires_of_iran",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_later_middle_persian_commentarial_tradition",
+      "target": "llm_great_fires_of_iran",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_later_middle_persian_commentarial_tradition",
+      "target": "llm_avesta",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_sasanian_dynasty_and_king_of_kings",
+      "target": "llm_sanctuary_of_dur_gu_nasp_takht_i_suleiman",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_khosrow_i_an_ag_ruw_n",
+      "target": "llm_sanctuary_of_dur_gu_nasp_takht_i_suleiman",
+      "relation": "participates_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.75
+    },
+    {
+      "source": "llm_procopius_persica_2_24_1",
+      "target": "llm_sanctuary_of_dur_gu_nasp_takht_i_suleiman",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_dating_evidence_for_dur_gu_nasp_coins_seals_and_procopius",
+      "target": "llm_procopius_persica_2_24_1",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_dating_evidence_for_dur_gu_nasp_coins_seals_and_procopius",
+      "target": "llm_sanctuary_of_dur_gu_nasp_takht_i_suleiman",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_dating_evidence_for_dur_gu_nasp_coins_seals_and_procopius",
+      "target": "llm_argument_avestan_topography_as_middle_iranian_not_achaemenid_royal_construction",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_royal_ritual_design_chah_r_t_gh_ayv_n_and_audience_hall",
+      "target": "llm_sanctuary_of_dur_gu_nasp_takht_i_suleiman",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_royal_ritual_design_chah_r_t_gh_ayv_n_and_audience_hall",
+      "target": "llm_sasanian_dynasty_and_king_of_kings",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_royal_ritual_design_chah_r_t_gh_ayv_n_and_audience_hall",
+      "target": "llm_argument_avestan_topography_as_middle_iranian_not_achaemenid_royal_construction",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_lake_kay_ns_h_kuh_e_khv_jeh_sanctuary",
+      "target": "llm_argument_avestan_topography_as_middle_iranian_not_achaemenid_royal_construction",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_argument_avestan_topography_as_middle_iranian_not_achaemenid_royal_construction",
+      "target": "llm_avestan_sites_of_memory",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_sasanian_refashioning_of_avestan_sacred_topography",
+      "label": "Sasanian Refashioning of Avestan Sacred Topography",
+      "nodes": [
+        "llm_argument_avestan_topography_as_middle_iranian_not_achaemenid_royal_construction",
+        "llm_avesta",
+        "llm_avestan_sites_of_memory",
+        "llm_lake_kay_ns_h_kuh_e_khv_jeh_sanctuary",
+        "llm_sanctuary_of_dur_gu_nasp_takht_i_suleiman",
+        "llm_sasanian_dynasty_and_king_of_kings"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md"
+    },
+    {
+      "id": "hyper_dur_gu_nasp_dating_and_patronage_assemblage",
+      "label": "\u0100dur Gu\u0161nasp Dating and Patronage Assemblage",
+      "nodes": [
+        "llm_dating_evidence_for_dur_gu_nasp_coins_seals_and_procopius",
+        "llm_khosrow_i_an_ag_ruw_n",
+        "llm_procopius_persica_2_24_1",
+        "llm_sanctuary_of_dur_gu_nasp_takht_i_suleiman"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.78,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 7207,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 9378,
+    "output_tokens_details": {
+      "reasoning_tokens": 6732
+    },
+    "total_tokens": 16585
+  }
+}

@@ -1,0 +1,494 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_adiqi_beyks_navai_manuscript_md",
+      "label": "\u015eADIQ\u012a BEYK'S NAV\u0100'\u012a MANUSCRIPT",
+      "file_type": "document",
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_diq_beyk_s_nav_manuscript",
+      "label": "\u015e\u0101diq\u012b Beyk's Nav\u0101'\u012b Manuscript",
+      "file_type": "document",
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_diq_beyk",
+      "label": "\u015e\u0101diq\u012b Beyk",
+      "file_type": "document",
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_am_r_kh_n_mowsill_qizilb_sh_governor_of_hamad_n",
+      "label": "Am\u012br Kh\u0101n Mowsill\u016b, Qizilb\u0101sh Governor of Hamad\u0101n",
+      "file_type": "document",
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_m_rz_al",
+      "label": "M\u012brz\u0101 \u02bfAl\u012b",
+      "file_type": "document",
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_mu_affar_al",
+      "label": "Mu\u1e93affar-\u02bfAl\u012b",
+      "file_type": "document",
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_the_kh_n_and_the_qalandar",
+      "label": "The kh\u0101n and the qalandar",
+      "file_type": "document",
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_the_king_and_the_dervish",
+      "label": "The king and the dervish",
+      "file_type": "document",
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_qalandar_rescue_metaphor_rationale_nav_poem_iskandar_beyk_2003",
+      "label": "Qalandar Rescue Metaphor Rationale (Nav\u0101'\u012b poem; Iskandar Beyk 2003)",
+      "file_type": "document",
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_claim_nav_manuscript_as_a_circa_1572_consolation_gift",
+      "label": "Claim: Nav\u0101'\u012b Manuscript as a Circa-1572 Consolation Gift",
+      "file_type": "document",
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_1572_hamad_n_demotion_evidence_qum_1980_b_d_q_2008",
+      "label": "1572 Hamad\u0101n Demotion Evidence (Qum\u012b 1980; B\u016bd\u0101q 2008)",
+      "file_type": "document",
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_m_r_an_dervish_calligrapher_and_diq_s_first_mentor",
+      "label": "M\u012br \u015ean'\u012b, Dervish Calligrapher and \u015e\u0101diq\u012b's First Mentor",
+      "file_type": "document",
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_anthony_welch_s_1568_1576_diq_chronology_welch_1976",
+      "label": "Anthony Welch's 1568-1576 \u015e\u0101diq\u012b Chronology (Welch 1976)",
+      "file_type": "document",
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_adiqi_beyks_navai_manuscript_md",
+      "target": "llm_1572_hamad_n_demotion_evidence_qum_1980_b_d_q_2008",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_adiqi_beyks_navai_manuscript_md",
+      "target": "llm_am_r_kh_n_mowsill_qizilb_sh_governor_of_hamad_n",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_adiqi_beyks_navai_manuscript_md",
+      "target": "llm_anthony_welch_s_1568_1576_diq_chronology_welch_1976",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_adiqi_beyks_navai_manuscript_md",
+      "target": "llm_claim_nav_manuscript_as_a_circa_1572_consolation_gift",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_adiqi_beyks_navai_manuscript_md",
+      "target": "llm_diq_beyk",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_adiqi_beyks_navai_manuscript_md",
+      "target": "llm_diq_beyk_s_nav_manuscript",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_adiqi_beyks_navai_manuscript_md",
+      "target": "llm_m_r_an_dervish_calligrapher_and_diq_s_first_mentor",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_adiqi_beyks_navai_manuscript_md",
+      "target": "llm_m_rz_al",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_adiqi_beyks_navai_manuscript_md",
+      "target": "llm_mu_affar_al",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_adiqi_beyks_navai_manuscript_md",
+      "target": "llm_qalandar_rescue_metaphor_rationale_nav_poem_iskandar_beyk_2003",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_adiqi_beyks_navai_manuscript_md",
+      "target": "llm_the_kh_n_and_the_qalandar",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_adiqi_beyks_navai_manuscript_md",
+      "target": "llm_the_king_and_the_dervish",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_the_kh_n_and_the_qalandar",
+      "target": "llm_diq_beyk_s_nav_manuscript",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_the_king_and_the_dervish",
+      "target": "llm_diq_beyk_s_nav_manuscript",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_m_rz_al",
+      "target": "llm_the_kh_n_and_the_qalandar",
+      "relation": "participates_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.78,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_mu_affar_al",
+      "target": "llm_the_king_and_the_dervish",
+      "relation": "participates_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.76,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_diq_beyk",
+      "target": "llm_diq_beyk_s_nav_manuscript",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_mu_affar_al",
+      "target": "llm_diq_beyk",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_m_r_an_dervish_calligrapher_and_diq_s_first_mentor",
+      "target": "llm_diq_beyk",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_the_king_and_the_dervish",
+      "target": "llm_m_r_an_dervish_calligrapher_and_diq_s_first_mentor",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_qalandar_rescue_metaphor_rationale_nav_poem_iskandar_beyk_2003",
+      "target": "llm_the_kh_n_and_the_qalandar",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_qalandar_rescue_metaphor_rationale_nav_poem_iskandar_beyk_2003",
+      "target": "llm_diq_beyk",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_qalandar_rescue_metaphor_rationale_nav_poem_iskandar_beyk_2003",
+      "target": "llm_am_r_kh_n_mowsill_qizilb_sh_governor_of_hamad_n",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_qalandar_rescue_metaphor_rationale_nav_poem_iskandar_beyk_2003",
+      "target": "llm_claim_nav_manuscript_as_a_circa_1572_consolation_gift",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_1572_hamad_n_demotion_evidence_qum_1980_b_d_q_2008",
+      "target": "llm_am_r_kh_n_mowsill_qizilb_sh_governor_of_hamad_n",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_1572_hamad_n_demotion_evidence_qum_1980_b_d_q_2008",
+      "target": "llm_claim_nav_manuscript_as_a_circa_1572_consolation_gift",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_claim_nav_manuscript_as_a_circa_1572_consolation_gift",
+      "target": "llm_diq_beyk_s_nav_manuscript",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_claim_nav_manuscript_as_a_circa_1572_consolation_gift",
+      "target": "llm_diq_beyk",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_claim_nav_manuscript_as_a_circa_1572_consolation_gift",
+      "target": "llm_am_r_kh_n_mowsill_qizilb_sh_governor_of_hamad_n",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_claim_nav_manuscript_as_a_circa_1572_consolation_gift",
+      "target": "llm_anthony_welch_s_1568_1576_diq_chronology_welch_1976",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.8,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_consolation_gift_argument_bundle",
+      "label": "Consolation Gift Argument Bundle",
+      "nodes": [
+        "llm_1572_hamad_n_demotion_evidence_qum_1980_b_d_q_2008",
+        "llm_am_r_kh_n_mowsill_qizilb_sh_governor_of_hamad_n",
+        "llm_claim_nav_manuscript_as_a_circa_1572_consolation_gift",
+        "llm_diq_beyk",
+        "llm_diq_beyk_s_nav_manuscript",
+        "llm_qalandar_rescue_metaphor_rationale_nav_poem_iskandar_beyk_2003"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md"
+    },
+    {
+      "id": "hyper_painter_attribution_bundle_for_the_nav_manuscript",
+      "label": "Painter Attribution Bundle for the Nav\u0101'\u012b Manuscript",
+      "nodes": [
+        "llm_diq_beyk",
+        "llm_diq_beyk_s_nav_manuscript",
+        "llm_m_rz_al",
+        "llm_mu_affar_al",
+        "llm_the_kh_n_and_the_qalandar",
+        "llm_the_king_and_the_dervish"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.76,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 7019,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 13399,
+    "output_tokens_details": {
+      "reasoning_tokens": 10781
+    },
+    "total_tokens": 20418
+  }
+}

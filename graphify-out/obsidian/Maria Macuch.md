@@ -1,5 +1,5 @@
 ---
-source_file: "raw/ocr/A_Thousand_Judgements.md"
+source_file: "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md"
 type: "document"
 community: "Avestan Texts"
 location: "chunk 1/3"
@@ -12,7 +12,7 @@ tags:
 # Maria Macuch
 
 ## Connections
-- [[A Thousand Judgements]] - `references` [EXTRACTED]
-- [[A Thousand Judgements_1]] - `honored_in` [EXTRACTED]
+- [[A History of Persian Literature Volume XVII]] - `references` [EXTRACTED]
+- [[A History of Persian Literature XVII The Literature of Pre-Islamic Iran]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Avestan_Texts

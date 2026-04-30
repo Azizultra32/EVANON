@@ -1,0 +1,19 @@
+---
+source_file: "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md"
+type: "document"
+community: "BETWEEN THE SAFAVIDS AND THE MUGHALS: ART AND AR"
+location: "chunk 2/3"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/BETWEEN_THE_SAFAVIDS_AND_THE_MUGHALS:_ART_AND_AR
+---
+
+# Muḥammadī 1580s Dating Evidence (Moses fol.109a; Ṣifāt al-ʿāshiqīn AHT no.90, 1582)
+
+## Connections
+- [[BETWEEN THE SAFAVIDS AND THE MUGHALS ART AND ARTISTS IN TRANSITION]] - `references` [EXTRACTED]
+- [[Muḥammadī]] - `conceptually_related_to` [EXTRACTED]
+- [[Topkapı Haft awrang (TKS H.1483, copied by Muḥibb ʿAlī, 1570–72)]] - `rationale_for` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/BETWEEN_THE_SAFAVIDS_AND_THE_MUGHALS:_ART_AND_AR

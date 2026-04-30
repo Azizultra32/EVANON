@@ -1,0 +1,490 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_50263688_contribution_of_persia_to_the_world_civilization_doc_xp_md",
+      "label": "Contribution of Persia to the World Civilization",
+      "file_type": "document",
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_contribution_of_persia_to_the_world_civilization",
+      "label": "Contribution of Persia to the World Civilization",
+      "file_type": "document",
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_argument_persian_firsts_and_greatest_contributions_to_islamic_sciences_and_world_civilization",
+      "label": "Argument: Persian 'firsts' and 'greatest' contributions to Islamic sciences and world civilization",
+      "file_type": "document",
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_sibawayh_of_shiraz_and_persian_arabic_language_scholarship",
+      "label": "Sibawayh of Shiraz and Persian Arabic-language scholarship",
+      "file_type": "document",
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_abu_ali_sina_avicenna_and_al_qanun_canon_of_medicine",
+      "label": "Abu Ali Sina (Avicenna) and Al-Qanun / Canon of Medicine",
+      "file_type": "document",
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_al_khwarizmi_al_jabr_arabic_numerals_and_logarithm_etymology",
+      "label": "Al-Khwarizmi, Al-Jabr, Arabic numerals, and logarithm etymology",
+      "file_type": "document",
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_nasir_al_din_tusi_and_the_maragheh_observatory",
+      "label": "Nasir al-Din Tusi and the Maragheh Observatory",
+      "file_type": "document",
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_abu_rayhan_biruni_as_father_of_geodesy",
+      "label": "Abu Rayhan Biruni as father of Geodesy",
+      "file_type": "document",
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_caliph_al_ma_mun_and_the_house_of_wisdom_in_baghdad",
+      "label": "Caliph al-Ma'mun and the House of Wisdom in Baghdad",
+      "file_type": "document",
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_qawwali_barzanji_as_persian_origin_sufi_chanting",
+      "label": "Qawwali / Barzanji as Persian-origin Sufi chanting",
+      "file_type": "document",
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_persian_as_second_language_of_islamic_propagation_namaz_ruzah_ustad_terms",
+      "label": "Persian as second language of Islamic propagation; Namaz, Ruzah, Ustad terms",
+      "file_type": "document",
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_seyyid_jamal_ad_din_asadabadi_al_afghani_and_back_to_islam_revivalism",
+      "label": "Seyyid Jamal ad-Din Asadabadi / al-Afghani and Back-to-Islam revivalism",
+      "file_type": "document",
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_visible_citations_parsi_names_persian_letters_international_herald_tribune_bbc_history_channel",
+      "label": "Visible citations: Parsi Names; Persian Letters; International Herald Tribune; BBC; History Channel",
+      "file_type": "document",
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_50263688_contribution_of_persia_to_the_world_civilization_doc_xp_md",
+      "target": "llm_abu_ali_sina_avicenna_and_al_qanun_canon_of_medicine",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_50263688_contribution_of_persia_to_the_world_civilization_doc_xp_md",
+      "target": "llm_abu_rayhan_biruni_as_father_of_geodesy",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_50263688_contribution_of_persia_to_the_world_civilization_doc_xp_md",
+      "target": "llm_al_khwarizmi_al_jabr_arabic_numerals_and_logarithm_etymology",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_50263688_contribution_of_persia_to_the_world_civilization_doc_xp_md",
+      "target": "llm_argument_persian_firsts_and_greatest_contributions_to_islamic_sciences_and_world_civilization",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_50263688_contribution_of_persia_to_the_world_civilization_doc_xp_md",
+      "target": "llm_caliph_al_ma_mun_and_the_house_of_wisdom_in_baghdad",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_50263688_contribution_of_persia_to_the_world_civilization_doc_xp_md",
+      "target": "llm_contribution_of_persia_to_the_world_civilization",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_50263688_contribution_of_persia_to_the_world_civilization_doc_xp_md",
+      "target": "llm_nasir_al_din_tusi_and_the_maragheh_observatory",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_50263688_contribution_of_persia_to_the_world_civilization_doc_xp_md",
+      "target": "llm_persian_as_second_language_of_islamic_propagation_namaz_ruzah_ustad_terms",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_50263688_contribution_of_persia_to_the_world_civilization_doc_xp_md",
+      "target": "llm_qawwali_barzanji_as_persian_origin_sufi_chanting",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_50263688_contribution_of_persia_to_the_world_civilization_doc_xp_md",
+      "target": "llm_seyyid_jamal_ad_din_asadabadi_al_afghani_and_back_to_islam_revivalism",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_50263688_contribution_of_persia_to_the_world_civilization_doc_xp_md",
+      "target": "llm_sibawayh_of_shiraz_and_persian_arabic_language_scholarship",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_50263688_contribution_of_persia_to_the_world_civilization_doc_xp_md",
+      "target": "llm_visible_citations_parsi_names_persian_letters_international_herald_tribune_bbc_history_channel",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_contribution_of_persia_to_the_world_civilization",
+      "target": "llm_argument_persian_firsts_and_greatest_contributions_to_islamic_sciences_and_world_civilization",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_contribution_of_persia_to_the_world_civilization",
+      "target": "llm_visible_citations_parsi_names_persian_letters_international_herald_tribune_bbc_history_channel",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_sibawayh_of_shiraz_and_persian_arabic_language_scholarship",
+      "target": "llm_argument_persian_firsts_and_greatest_contributions_to_islamic_sciences_and_world_civilization",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.93,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_abu_ali_sina_avicenna_and_al_qanun_canon_of_medicine",
+      "target": "llm_argument_persian_firsts_and_greatest_contributions_to_islamic_sciences_and_world_civilization",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.96,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_al_khwarizmi_al_jabr_arabic_numerals_and_logarithm_etymology",
+      "target": "llm_argument_persian_firsts_and_greatest_contributions_to_islamic_sciences_and_world_civilization",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.96,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_nasir_al_din_tusi_and_the_maragheh_observatory",
+      "target": "llm_argument_persian_firsts_and_greatest_contributions_to_islamic_sciences_and_world_civilization",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_abu_rayhan_biruni_as_father_of_geodesy",
+      "target": "llm_argument_persian_firsts_and_greatest_contributions_to_islamic_sciences_and_world_civilization",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.92,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_caliph_al_ma_mun_and_the_house_of_wisdom_in_baghdad",
+      "target": "llm_argument_persian_firsts_and_greatest_contributions_to_islamic_sciences_and_world_civilization",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_qawwali_barzanji_as_persian_origin_sufi_chanting",
+      "target": "llm_argument_persian_firsts_and_greatest_contributions_to_islamic_sciences_and_world_civilization",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.91,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_persian_as_second_language_of_islamic_propagation_namaz_ruzah_ustad_terms",
+      "target": "llm_argument_persian_firsts_and_greatest_contributions_to_islamic_sciences_and_world_civilization",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_seyyid_jamal_ad_din_asadabadi_al_afghani_and_back_to_islam_revivalism",
+      "target": "llm_argument_persian_firsts_and_greatest_contributions_to_islamic_sciences_and_world_civilization",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_sibawayh_of_shiraz_and_persian_arabic_language_scholarship",
+      "target": "llm_visible_citations_parsi_names_persian_letters_international_herald_tribune_bbc_history_channel",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.7
+    },
+    {
+      "source": "llm_abu_ali_sina_avicenna_and_al_qanun_canon_of_medicine",
+      "target": "llm_visible_citations_parsi_names_persian_letters_international_herald_tribune_bbc_history_channel",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.7
+    },
+    {
+      "source": "llm_al_khwarizmi_al_jabr_arabic_numerals_and_logarithm_etymology",
+      "target": "llm_visible_citations_parsi_names_persian_letters_international_herald_tribune_bbc_history_channel",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.84,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.7
+    },
+    {
+      "source": "llm_nasir_al_din_tusi_and_the_maragheh_observatory",
+      "target": "llm_visible_citations_parsi_names_persian_letters_international_herald_tribune_bbc_history_channel",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.83,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.7
+    },
+    {
+      "source": "llm_abu_rayhan_biruni_as_father_of_geodesy",
+      "target": "llm_visible_citations_parsi_names_persian_letters_international_herald_tribune_bbc_history_channel",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.65
+    },
+    {
+      "source": "llm_seyyid_jamal_ad_din_asadabadi_al_afghani_and_back_to_islam_revivalism",
+      "target": "llm_visible_citations_parsi_names_persian_letters_international_herald_tribune_bbc_history_channel",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.84,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.65
+    },
+    {
+      "source": "llm_qawwali_barzanji_as_persian_origin_sufi_chanting",
+      "target": "llm_persian_as_second_language_of_islamic_propagation_namaz_ruzah_ustad_terms",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.55
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_persian_science_medicine_mathematics_astronomy_and_geodesy_examples",
+      "label": "Persian science, medicine, mathematics, astronomy, and geodesy examples",
+      "nodes": [
+        "llm_abu_ali_sina_avicenna_and_al_qanun_canon_of_medicine",
+        "llm_abu_rayhan_biruni_as_father_of_geodesy",
+        "llm_al_khwarizmi_al_jabr_arabic_numerals_and_logarithm_etymology",
+        "llm_nasir_al_din_tusi_and_the_maragheh_observatory"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md"
+    },
+    {
+      "id": "hyper_persian_cultural_and_religious_transmission_across_the_islamic_world",
+      "label": "Persian cultural and religious transmission across the Islamic world",
+      "nodes": [
+        "llm_caliph_al_ma_mun_and_the_house_of_wisdom_in_baghdad",
+        "llm_persian_as_second_language_of_islamic_propagation_namaz_ruzah_ustad_terms",
+        "llm_qawwali_barzanji_as_persian_origin_sufi_chanting",
+        "llm_seyyid_jamal_ad_din_asadabadi_al_afghani_and_back_to_islam_revivalism"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 6605,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 9272,
+    "output_tokens_details": {
+      "reasoning_tokens": 6204
+    },
+    "total_tokens": 15877
+  }
+}

@@ -11,13 +11,17 @@ tags:
 # MITHRAIC SOCIETIES: FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY
 
 ## Connections
-- [[Ahura Mazda]] - `references` [EXTRACTED]
-- [[Apam-Napāt]] - `references` [EXTRACTED]
-- [[Cyrus]] - `references` [EXTRACTED]
-- [[Darius]] - `references` [EXTRACTED]
-- [[Initiation Rites]] - `references` [EXTRACTED]
-- [[Mithra]] - `references` [EXTRACTED]
+- [[Ahura Mazdā]] - `references` [EXTRACTED]
+- [[Apam Napāt as Underwater Guardian of Khvarenah]] - `references` [EXTRACTED]
+- [[Avesta]] - `references` [EXTRACTED]
+- [[Beck's Star Talk Universalist Approach]] - `references` [EXTRACTED]
+- [[Cyrus–Darius Achaemenid Ideology]] - `references` [EXTRACTED]
+- [[Khvarenah]] - `references` [EXTRACTED]
+- [[Khvarenah Patronage and Avesta Harmonization Argument]] - `references` [EXTRACTED]
+- [[Koranic `ahd allāh as Covenant with God]] - `references` [EXTRACTED]
+- [[Mithra as LordGod of Covenants]] - `references` [EXTRACTED]
 - [[Mithraic Societies]] - `references` [EXTRACTED]
-- [[Zoroastrianism]] - `references` [EXTRACTED]
+- [[Mithraic Solar, Serpent, Lion, Lamp, and Water Symbols]] - `references` [EXTRACTED]
+- [[Oath-Centered Brotherhood, not Mithra-Worship]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Mithraic_Studies

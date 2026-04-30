@@ -1,5 +1,5 @@
 ---
-source_file: "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md"
+source_file: "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md"
 type: "document"
 community: "Iranian Kingship"
 location: "chunk 2/3"
@@ -12,14 +12,11 @@ tags:
 # Pahlavi Videvdad
 
 ## Connections
-- [[Abarg]] - `references` [EXTRACTED]
 - [[CONCEPTS OF POLLUTION IN LATE SASANIAN IRAN DOES POLLUTION NEED STAIRS, AND DOES IT FILL SPACE]] - `references` [EXTRACTED]
-- [[Concepts of Pollution in Late Sasanian Iran]] - `references` [EXTRACTED]
-- [[Dēn]] - `conceptually_related_to` [INFERRED]
-- [[Empty Space]] - `conceptually_related_to` [INFERRED]
-- [[Encounters by the Rivers of Babylon]] - `references` [EXTRACTED]
-- [[Ritual Pollution]] - `conceptually_related_to` [INFERRED]
-- [[Skjærvø]] - `references` [EXTRACTED]
-- [[SōšyansSōšāns]] - `references` [EXTRACTED]
+- [[Pahlavi Videvdad 5.44 One-Door YazišnRitual-Materials House Case]] - `references` [EXTRACTED]
+- [[Pahlavi Videvdad 6.5 RoofStairs Corpse-Pollution Case]] - `references` [EXTRACTED]
+- [[Rabbinic-Affinity Method HalakhaAggada, Parsimony, and Consistency (Spiegel 1856; Secunda; Vevaina)]] - `conceptually_related_to` [EXTRACTED]
+- [[Redactional-Dating Rationale ZFJD Later Than Pahlavi Videvdad via Authority Telescoping and AbargMēdyōmāhPišksil Schools]] - `conceptually_related_to` [EXTRACTED]
+- [[Young Avestan Videvdad]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Iranian_Kingship

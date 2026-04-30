@@ -1,0 +1,478 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "label": "A History of Persian Literature Volume XVII",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_chapter_1_avestan_literature",
+      "label": "Chapter 1: Avestan Literature",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_indo_european_poetic_language_in_the_gathas",
+      "label": "Indo-European Poetic Language in the Gathas",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_yasna_and_h_m_ya_t_yasn_ix_xi",
+      "label": "Yasna and H\u014dm Ya\u0161t (Yasn IX\u2013XI)",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_niy_yi_n_devotional_text",
+      "label": "Niy\u0101yi\u0161n Devotional Text",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_n_rangest_n_n_rangist_n_ritual_prescriptions",
+      "label": "N\u0113rangest\u0101n/N\u012brangist\u0101n Ritual Prescriptions",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zarathustra_and_the_homeland_question",
+      "label": "Zarathustra and the Homeland Question",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_unvala_1924_neryosangh_s_sanskrit_version_of_the_h_m_ya_t",
+      "label": "Unvala 1924: Neryosangh's Sanskrit Version of the H\u014dm Ya\u0161t",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_taraf_1981_der_awesta_text_niy_yi_with_pahlavi_and_sanskrit_translation",
+      "label": "Taraf 1981: Der Awesta-Text Niy\u0101yi\u0161 with Pahlavi and Sanskrit Translation",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_waag_1941_n_rangist_n_avestan_treatise_on_ritual_prescriptions",
+      "label": "Waag 1941: N\u012brangist\u0101n, Avestan Treatise on Ritual Prescriptions",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_watkins_1995_how_to_kill_a_dragon_aspects_of_indo_european_poetics",
+      "label": "Watkins 1995: How to Kill a Dragon\u2014Aspects of Indo-European Poetics",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_witzel_2000_the_home_of_the_aryans",
+      "label": "Witzel 2000: The Home of the Aryans",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_widengren_1968_the_problem_of_the_sassanid_avesta",
+      "label": "Widengren 1968: The Problem of the Sassanid Avesta",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "target": "llm_chapter_1_avestan_literature",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "target": "llm_indo_european_poetic_language_in_the_gathas",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "target": "llm_n_rangest_n_n_rangist_n_ritual_prescriptions",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "target": "llm_niy_yi_n_devotional_text",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "target": "llm_taraf_1981_der_awesta_text_niy_yi_with_pahlavi_and_sanskrit_translation",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "target": "llm_unvala_1924_neryosangh_s_sanskrit_version_of_the_h_m_ya_t",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "target": "llm_waag_1941_n_rangist_n_avestan_treatise_on_ritual_prescriptions",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "target": "llm_watkins_1995_how_to_kill_a_dragon_aspects_of_indo_european_poetics",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "target": "llm_widengren_1968_the_problem_of_the_sassanid_avesta",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "target": "llm_witzel_2000_the_home_of_the_aryans",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "target": "llm_yasna_and_h_m_ya_t_yasn_ix_xi",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "target": "llm_zarathustra_and_the_homeland_question",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_chapter_1_avestan_literature",
+      "target": "llm_indo_european_poetic_language_in_the_gathas",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_chapter_1_avestan_literature",
+      "target": "llm_yasna_and_h_m_ya_t_yasn_ix_xi",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_chapter_1_avestan_literature",
+      "target": "llm_niy_yi_n_devotional_text",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_chapter_1_avestan_literature",
+      "target": "llm_n_rangest_n_n_rangist_n_ritual_prescriptions",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_chapter_1_avestan_literature",
+      "target": "llm_zarathustra_and_the_homeland_question",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_chapter_1_avestan_literature",
+      "target": "llm_unvala_1924_neryosangh_s_sanskrit_version_of_the_h_m_ya_t",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_chapter_1_avestan_literature",
+      "target": "llm_taraf_1981_der_awesta_text_niy_yi_with_pahlavi_and_sanskrit_translation",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_chapter_1_avestan_literature",
+      "target": "llm_waag_1941_n_rangist_n_avestan_treatise_on_ritual_prescriptions",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_chapter_1_avestan_literature",
+      "target": "llm_watkins_1995_how_to_kill_a_dragon_aspects_of_indo_european_poetics",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_chapter_1_avestan_literature",
+      "target": "llm_witzel_2000_the_home_of_the_aryans",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_chapter_1_avestan_literature",
+      "target": "llm_widengren_1968_the_problem_of_the_sassanid_avesta",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_unvala_1924_neryosangh_s_sanskrit_version_of_the_h_m_ya_t",
+      "target": "llm_yasna_and_h_m_ya_t_yasn_ix_xi",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_taraf_1981_der_awesta_text_niy_yi_with_pahlavi_and_sanskrit_translation",
+      "target": "llm_niy_yi_n_devotional_text",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_waag_1941_n_rangist_n_avestan_treatise_on_ritual_prescriptions",
+      "target": "llm_n_rangest_n_n_rangist_n_ritual_prescriptions",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_watkins_1995_how_to_kill_a_dragon_aspects_of_indo_european_poetics",
+      "target": "llm_indo_european_poetic_language_in_the_gathas",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.78,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_witzel_2000_the_home_of_the_aryans",
+      "target": "llm_zarathustra_and_the_homeland_question",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.7
+    },
+    {
+      "source": "llm_indo_european_poetic_language_in_the_gathas",
+      "target": "llm_yasna_and_h_m_ya_t_yasn_ix_xi",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.8
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_avestan_ritual_and_devotional_text_cluster",
+      "label": "Avestan Ritual and Devotional Text Cluster",
+      "nodes": [
+        "llm_n_rangest_n_n_rangist_n_ritual_prescriptions",
+        "llm_niy_yi_n_devotional_text",
+        "llm_yasna_and_h_m_ya_t_yasn_ix_xi"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md"
+    },
+    {
+      "id": "hyper_interpretive_debates_in_avestan_studies",
+      "label": "Interpretive Debates in Avestan Studies",
+      "nodes": [
+        "llm_indo_european_poetic_language_in_the_gathas",
+        "llm_widengren_1968_the_problem_of_the_sassanid_avesta",
+        "llm_zarathustra_and_the_homeland_question"
+      ],
+      "relation": "debate",
+      "confidence": "INFERRED",
+      "confidence_score": 0.74,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 8548,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 15165,
+    "output_tokens_details": {
+      "reasoning_tokens": 12513
+    },
+    "total_tokens": 23713
+  }
+}

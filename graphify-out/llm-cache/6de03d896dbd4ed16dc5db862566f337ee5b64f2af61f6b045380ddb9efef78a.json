@@ -1,0 +1,489 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "label": "Dialogue Between Cultures & Exchange of Knowledge And Cultural Ideas",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_cultural_remnants_of_ancient_iran_in_turkish_classical_works_of_the_xi_xii_centuries",
+      "label": "Cultural Remnants of Ancient Iran in Turkish Classical Works of the XI-XII Centuries",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Zubaida Shadkam",
+      "contributor": null
+    },
+    {
+      "id": "llm_argument_ancient_iranian_culture_shaped_xi_xii_c_turkish_classical_works_after_islam",
+      "label": "Argument: Ancient Iranian Culture Shaped XI-XII c. Turkish Classical Works after Islam",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_islamization_of_central_asian_turks_since_the_ixth_century",
+      "label": "Islamization of Central Asian Turks since the IXth Century",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_rationale_islam_in_middle_asia_spread_by_iranians_traders_and_travelers_rather_than_arabs",
+      "label": "Rationale: Islam in Middle Asia Spread by Iranians, Traders, and Travelers rather than Arabs",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_pahlavi_and_sassanid_ethical_practical_wisdom_literature",
+      "label": "Pahlavi and Sassanid Ethical-Practical Wisdom Literature",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_minoye_kherad_minouch_of_wisdom",
+      "label": "Minoye Kherad / Minouch of Wisdom",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_kutadgu_bilig_knowledge_of_happiness",
+      "label": "Kutadgu Bilig (Knowledge of Happiness)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_yusuf_khass_hajib_balasaguni",
+      "label": "Yusuf Khass Hajib Balasaguni",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_atabat_al_haqayeq_hebat_al_haghayegh",
+      "label": "Atabat al-Haqayeq / Hebat al-Haghayegh",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_divan_i_hikmat_of_khawaja_ahmad_yasawi",
+      "label": "Divan-i Hikmat of Khawaja Ahmad Yasawi",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ferdowsi_s_shahnameh",
+      "label": "Ferdowsi's Shahnameh",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_abolfazl_khatibi_s_shahnameh_minoye_kherad_comparison",
+      "label": "Abolfazl Khatibi's Shahnameh-Minoye Kherad Comparison",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_abolfazl_khatibi_s_shahnameh_minoye_kherad_comparison",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_argument_ancient_iranian_culture_shaped_xi_xii_c_turkish_classical_works_after_islam",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_atabat_al_haqayeq_hebat_al_haghayegh",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_cultural_remnants_of_ancient_iran_in_turkish_classical_works_of_the_xi_xii_centuries",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_divan_i_hikmat_of_khawaja_ahmad_yasawi",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_ferdowsi_s_shahnameh",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_islamization_of_central_asian_turks_since_the_ixth_century",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_kutadgu_bilig_knowledge_of_happiness",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_minoye_kherad_minouch_of_wisdom",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_pahlavi_and_sassanid_ethical_practical_wisdom_literature",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_rationale_islam_in_middle_asia_spread_by_iranians_traders_and_travelers_rather_than_arabs",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_yusuf_khass_hajib_balasaguni",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_cultural_remnants_of_ancient_iran_in_turkish_classical_works_of_the_xi_xii_centuries",
+      "target": "llm_argument_ancient_iranian_culture_shaped_xi_xii_c_turkish_classical_works_after_islam",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_cultural_remnants_of_ancient_iran_in_turkish_classical_works_of_the_xi_xii_centuries",
+      "target": "llm_islamization_of_central_asian_turks_since_the_ixth_century",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_cultural_remnants_of_ancient_iran_in_turkish_classical_works_of_the_xi_xii_centuries",
+      "target": "llm_pahlavi_and_sassanid_ethical_practical_wisdom_literature",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_cultural_remnants_of_ancient_iran_in_turkish_classical_works_of_the_xi_xii_centuries",
+      "target": "llm_minoye_kherad_minouch_of_wisdom",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_cultural_remnants_of_ancient_iran_in_turkish_classical_works_of_the_xi_xii_centuries",
+      "target": "llm_kutadgu_bilig_knowledge_of_happiness",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_cultural_remnants_of_ancient_iran_in_turkish_classical_works_of_the_xi_xii_centuries",
+      "target": "llm_atabat_al_haqayeq_hebat_al_haghayegh",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.82
+    },
+    {
+      "source": "llm_cultural_remnants_of_ancient_iran_in_turkish_classical_works_of_the_xi_xii_centuries",
+      "target": "llm_divan_i_hikmat_of_khawaja_ahmad_yasawi",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.82
+    },
+    {
+      "source": "llm_cultural_remnants_of_ancient_iran_in_turkish_classical_works_of_the_xi_xii_centuries",
+      "target": "llm_abolfazl_khatibi_s_shahnameh_minoye_kherad_comparison",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.82
+    },
+    {
+      "source": "llm_rationale_islam_in_middle_asia_spread_by_iranians_traders_and_travelers_rather_than_arabs",
+      "target": "llm_islamization_of_central_asian_turks_since_the_ixth_century",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.92,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.92
+    },
+    {
+      "source": "llm_rationale_islam_in_middle_asia_spread_by_iranians_traders_and_travelers_rather_than_arabs",
+      "target": "llm_argument_ancient_iranian_culture_shaped_xi_xii_c_turkish_classical_works_after_islam",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_pahlavi_and_sassanid_ethical_practical_wisdom_literature",
+      "target": "llm_argument_ancient_iranian_culture_shaped_xi_xii_c_turkish_classical_works_after_islam",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.75
+    },
+    {
+      "source": "llm_minoye_kherad_minouch_of_wisdom",
+      "target": "llm_pahlavi_and_sassanid_ethical_practical_wisdom_literature",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.96,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.96
+    },
+    {
+      "source": "llm_minoye_kherad_minouch_of_wisdom",
+      "target": "llm_argument_ancient_iranian_culture_shaped_xi_xii_c_turkish_classical_works_after_islam",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_kutadgu_bilig_knowledge_of_happiness",
+      "target": "llm_argument_ancient_iranian_culture_shaped_xi_xii_c_turkish_classical_works_after_islam",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_kutadgu_bilig_knowledge_of_happiness",
+      "target": "llm_yusuf_khass_hajib_balasaguni",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.94
+    },
+    {
+      "source": "llm_abolfazl_khatibi_s_shahnameh_minoye_kherad_comparison",
+      "target": "llm_ferdowsi_s_shahnameh",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.88
+    },
+    {
+      "source": "llm_abolfazl_khatibi_s_shahnameh_minoye_kherad_comparison",
+      "target": "llm_minoye_kherad_minouch_of_wisdom",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.88
+    },
+    {
+      "source": "llm_abolfazl_khatibi_s_shahnameh_minoye_kherad_comparison",
+      "target": "llm_argument_ancient_iranian_culture_shaped_xi_xii_c_turkish_classical_works_after_islam",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.75
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_khatibi_and_subsequent_dialogic_resemblance_comparison",
+      "label": "Khatibi and Subsequent Dialogic Resemblance Comparison",
+      "nodes": [
+        "llm_abolfazl_khatibi_s_shahnameh_minoye_kherad_comparison",
+        "llm_ferdowsi_s_shahnameh",
+        "llm_kutadgu_bilig_knowledge_of_happiness",
+        "llm_minoye_kherad_minouch_of_wisdom"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.78,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md"
+    },
+    {
+      "id": "hyper_xi_xii_c_central_asian_turkish_classical_works_after_islam",
+      "label": "XI-XII c. Central Asian Turkish Classical Works after Islam",
+      "nodes": [
+        "llm_atabat_al_haqayeq_hebat_al_haghayegh",
+        "llm_divan_i_hikmat_of_khawaja_ahmad_yasawi",
+        "llm_kutadgu_bilig_knowledge_of_happiness"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 6319,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 15128,
+    "output_tokens_details": {
+      "reasoning_tokens": 12410
+    },
+    "total_tokens": 21447
+  }
+}

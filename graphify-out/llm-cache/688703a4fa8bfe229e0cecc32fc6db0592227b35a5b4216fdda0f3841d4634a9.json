@@ -1,0 +1,491 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_2_2_md",
+      "label": "Bulletin of the Asia Institute",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_elemental_aniconism_elements_celestial_bodies_natural_entities",
+      "label": "Elemental Aniconism (Elements, Celestial Bodies, Natural Entities)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_divine_anthropomorphism_in_iranian_art",
+      "label": "Divine Anthropomorphism in Iranian Art",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_mesopotamian_non_anthropomorphic_icons_as_rationale_for_iranian_aniconism_t_ornan",
+      "label": "Mesopotamian Non-anthropomorphic Icons as Rationale for Iranian Aniconism (T. Ornan)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_irano_elamite_acculturation_and_heterogeneous_pars_cults_henkelman_persepolis_foundation_archive",
+      "label": "Irano-Elamite Acculturation and Heterogeneous Pars Cults (Henkelman, Persepolis Foundation Archive)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_figure_in_the_winged_disk_as_ahura_mazd_behistun_relief",
+      "label": "Figure in the Winged Disk as Ahura Mazd\u0101 (Behistun Relief)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_assyrian_winged_disk_iconography_of_a_ur_and_shamash",
+      "label": "Assyrian Winged Disk Iconography of A\u0161\u0161ur and Shamash",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_herodotus_on_scythian_aniconism_and_ares_as_akinakes",
+      "label": "Herodotus on Scythian Aniconism and Ares as Akinakes",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_kushan_and_sogdian_anthropomorphization_of_iranian_deities_surkh_kotal_rabatak",
+      "label": "Kushan and Sogdian Anthropomorphization of Iranian Deities (Surkh-Kotal; Rabatak)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_berossus_curtius_rufus_and_strabo_on_iranian_cultic_statues_and_processions",
+      "label": "Berossus, Curtius Rufus, and Strabo on Iranian Cultic Statues and Processions",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_sasanian_deity_images_semi_aniconism_and_mary_boyce_s_iconoclasm_debate",
+      "label": "Sasanian Deity Images, Semi-aniconism, and Mary Boyce's Iconoclasm Debate",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zoroastrian_m_n_g_and_g_t_g_modes_of_being",
+      "label": "Zoroastrian m\u0113n\u014dg and g\u0113t\u012bg Modes of Being",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_avesta_and_middle_persian_anthropomorphic_visions_of_ohrmazd_and_the_am_a_sp_nta",
+      "label": "Avesta and Middle Persian Anthropomorphic Visions of Ohrmazd and the Am\u0259\u0161a Sp\u0259nta",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_2_2_md",
+      "target": "llm_assyrian_winged_disk_iconography_of_a_ur_and_shamash",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_2_2_md",
+      "target": "llm_avesta_and_middle_persian_anthropomorphic_visions_of_ohrmazd_and_the_am_a_sp_nta",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_2_2_md",
+      "target": "llm_berossus_curtius_rufus_and_strabo_on_iranian_cultic_statues_and_processions",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_2_2_md",
+      "target": "llm_divine_anthropomorphism_in_iranian_art",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_2_2_md",
+      "target": "llm_elemental_aniconism_elements_celestial_bodies_natural_entities",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_2_2_md",
+      "target": "llm_figure_in_the_winged_disk_as_ahura_mazd_behistun_relief",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_2_2_md",
+      "target": "llm_herodotus_on_scythian_aniconism_and_ares_as_akinakes",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_2_2_md",
+      "target": "llm_irano_elamite_acculturation_and_heterogeneous_pars_cults_henkelman_persepolis_foundation_archive",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_2_2_md",
+      "target": "llm_kushan_and_sogdian_anthropomorphization_of_iranian_deities_surkh_kotal_rabatak",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_2_2_md",
+      "target": "llm_mesopotamian_non_anthropomorphic_icons_as_rationale_for_iranian_aniconism_t_ornan",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_2_2_md",
+      "target": "llm_sasanian_deity_images_semi_aniconism_and_mary_boyce_s_iconoclasm_debate",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_2_2_md",
+      "target": "llm_zoroastrian_m_n_g_and_g_t_g_modes_of_being",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_mesopotamian_non_anthropomorphic_icons_as_rationale_for_iranian_aniconism_t_ornan",
+      "target": "llm_elemental_aniconism_elements_celestial_bodies_natural_entities",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_irano_elamite_acculturation_and_heterogeneous_pars_cults_henkelman_persepolis_foundation_archive",
+      "target": "llm_mesopotamian_non_anthropomorphic_icons_as_rationale_for_iranian_aniconism_t_ornan",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_assyrian_winged_disk_iconography_of_a_ur_and_shamash",
+      "target": "llm_figure_in_the_winged_disk_as_ahura_mazd_behistun_relief",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.93,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_figure_in_the_winged_disk_as_ahura_mazd_behistun_relief",
+      "target": "llm_divine_anthropomorphism_in_iranian_art",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_figure_in_the_winged_disk_as_ahura_mazd_behistun_relief",
+      "target": "llm_sasanian_deity_images_semi_aniconism_and_mary_boyce_s_iconoclasm_debate",
+      "relation": "semantically_similar_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.79,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_herodotus_on_scythian_aniconism_and_ares_as_akinakes",
+      "target": "llm_elemental_aniconism_elements_celestial_bodies_natural_entities",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.83,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_herodotus_on_scythian_aniconism_and_ares_as_akinakes",
+      "target": "llm_divine_anthropomorphism_in_iranian_art",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.77,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_kushan_and_sogdian_anthropomorphization_of_iranian_deities_surkh_kotal_rabatak",
+      "target": "llm_divine_anthropomorphism_in_iranian_art",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_berossus_curtius_rufus_and_strabo_on_iranian_cultic_statues_and_processions",
+      "target": "llm_divine_anthropomorphism_in_iranian_art",
+      "relation": "rationale_for",
+      "confidence": "AMBIGUOUS",
+      "confidence_score": 0.7,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_sasanian_deity_images_semi_aniconism_and_mary_boyce_s_iconoclasm_debate",
+      "target": "llm_divine_anthropomorphism_in_iranian_art",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_sasanian_deity_images_semi_aniconism_and_mary_boyce_s_iconoclasm_debate",
+      "target": "llm_kushan_and_sogdian_anthropomorphization_of_iranian_deities_surkh_kotal_rabatak",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.81,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zoroastrian_m_n_g_and_g_t_g_modes_of_being",
+      "target": "llm_elemental_aniconism_elements_celestial_bodies_natural_entities",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zoroastrian_m_n_g_and_g_t_g_modes_of_being",
+      "target": "llm_divine_anthropomorphism_in_iranian_art",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_avesta_and_middle_persian_anthropomorphic_visions_of_ohrmazd_and_the_am_a_sp_nta",
+      "target": "llm_zoroastrian_m_n_g_and_g_t_g_modes_of_being",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.91,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_avesta_and_middle_persian_anthropomorphic_visions_of_ohrmazd_and_the_am_a_sp_nta",
+      "target": "llm_divine_anthropomorphism_in_iranian_art",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.89,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_elemental_aniconism_elements_celestial_bodies_natural_entities",
+      "target": "llm_divine_anthropomorphism_in_iranian_art",
+      "relation": "contrasts_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.74,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_divine_anthropomorphism_in_iranian_art",
+      "target": "llm_berossus_curtius_rufus_and_strabo_on_iranian_cultic_statues_and_processions",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_divine_anthropomorphism_in_iranian_art",
+      "target": "llm_herodotus_on_scythian_aniconism_and_ares_as_akinakes",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.93,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_mesopotamian_and_elamite_transmission_debate_for_iranian_aniconism",
+      "label": "Mesopotamian and Elamite Transmission Debate for Iranian Aniconism",
+      "nodes": [
+        "llm_elemental_aniconism_elements_celestial_bodies_natural_entities",
+        "llm_irano_elamite_acculturation_and_heterogeneous_pars_cults_henkelman_persepolis_foundation_archive",
+        "llm_mesopotamian_non_anthropomorphic_icons_as_rationale_for_iranian_aniconism_t_ornan"
+      ],
+      "relation": "debate",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.84,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md"
+    },
+    {
+      "id": "hyper_visual_and_textual_evidence_for_iranian_divine_anthropomorphism",
+      "label": "Visual and Textual Evidence for Iranian Divine Anthropomorphism",
+      "nodes": [
+        "llm_avesta_and_middle_persian_anthropomorphic_visions_of_ohrmazd_and_the_am_a_sp_nta",
+        "llm_berossus_curtius_rufus_and_strabo_on_iranian_cultic_statues_and_processions",
+        "llm_divine_anthropomorphism_in_iranian_art",
+        "llm_figure_in_the_winged_disk_as_ahura_mazd_behistun_relief",
+        "llm_kushan_and_sogdian_anthropomorphization_of_iranian_deities_surkh_kotal_rabatak",
+        "llm_sasanian_deity_images_semi_aniconism_and_mary_boyce_s_iconoclasm_debate"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 6178,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 19105,
+    "output_tokens_details": {
+      "reasoning_tokens": 16056
+    },
+    "total_tokens": 25283
+  }
+}

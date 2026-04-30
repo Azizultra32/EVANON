@@ -1,0 +1,475 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_md",
+      "label": "MORE THAN MEN, LESS THAN GODS",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_by_the_favor_of_auramazd_kingship_and_the_divine_in_the_early_achaemenid_period",
+      "label": "\u201cBy the Favor of Auramazd\u0101\u201d: Kingship and the Divine in the Early Achaemenid Period",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_auramazd",
+      "label": "Auramazd\u0101",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_darius_i",
+      "label": "Darius I",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_achaemenid_monarchic_ideology",
+      "label": "Achaemenid Monarchic Ideology",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_imperial_program_in_the_visual_arts_during_the_reign_of_darius_i",
+      "label": "Imperial Program in the Visual Arts during the Reign of Darius I",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_naq_e_rustam",
+      "label": "Naq\u0161-e Rustam",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_persepolitan_glyptic",
+      "label": "Persepolitan Glyptic",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_persepolis_fortification_archive",
+      "label": "Persepolis Fortification Archive",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_figure_in_the_winged_ring_winged_disk_deity_motif",
+      "label": "Figure in the Winged Ring / Winged Disk Deity Motif",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_pfs_389_old_persian_inscription_d_rayaush_p_rs_with_winged_sun_disk",
+      "label": "PFS 389* Old Persian Inscription \u201cD\u0101rayaush P\u0101rs\u0101\u201d with Winged Sun Disk",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_pfs_75_lunar_libation_scene_with_crescent_and_pedestal_altar",
+      "label": "PFS 75 Lunar Libation Scene with Crescent and Pedestal Altar",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_persepolis_apadana_and_palace_of_darius_stairway_fa_ades",
+      "label": "Persepolis Apadana and Palace of Darius Stairway Fa\u00e7ades",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_md",
+      "target": "llm_achaemenid_monarchic_ideology",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_md",
+      "target": "llm_auramazd",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_md",
+      "target": "llm_by_the_favor_of_auramazd_kingship_and_the_divine_in_the_early_achaemenid_period",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_md",
+      "target": "llm_darius_i",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_md",
+      "target": "llm_figure_in_the_winged_ring_winged_disk_deity_motif",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_md",
+      "target": "llm_imperial_program_in_the_visual_arts_during_the_reign_of_darius_i",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_md",
+      "target": "llm_naq_e_rustam",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_md",
+      "target": "llm_persepolis_apadana_and_palace_of_darius_stairway_fa_ades",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_md",
+      "target": "llm_persepolis_fortification_archive",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_md",
+      "target": "llm_persepolitan_glyptic",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_md",
+      "target": "llm_pfs_389_old_persian_inscription_d_rayaush_p_rs_with_winged_sun_disk",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_md",
+      "target": "llm_pfs_75_lunar_libation_scene_with_crescent_and_pedestal_altar",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_by_the_favor_of_auramazd_kingship_and_the_divine_in_the_early_achaemenid_period",
+      "target": "llm_auramazd",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_by_the_favor_of_auramazd_kingship_and_the_divine_in_the_early_achaemenid_period",
+      "target": "llm_achaemenid_monarchic_ideology",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.96,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_by_the_favor_of_auramazd_kingship_and_the_divine_in_the_early_achaemenid_period",
+      "target": "llm_imperial_program_in_the_visual_arts_during_the_reign_of_darius_i",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.96,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_imperial_program_in_the_visual_arts_during_the_reign_of_darius_i",
+      "target": "llm_darius_i",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_by_the_favor_of_auramazd_kingship_and_the_divine_in_the_early_achaemenid_period",
+      "target": "llm_naq_e_rustam",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_by_the_favor_of_auramazd_kingship_and_the_divine_in_the_early_achaemenid_period",
+      "target": "llm_persepolitan_glyptic",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_by_the_favor_of_auramazd_kingship_and_the_divine_in_the_early_achaemenid_period",
+      "target": "llm_figure_in_the_winged_ring_winged_disk_deity_motif",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.92,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_naq_e_rustam",
+      "target": "llm_persepolitan_glyptic",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_persepolitan_glyptic",
+      "target": "llm_persepolis_fortification_archive",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_pfs_389_old_persian_inscription_d_rayaush_p_rs_with_winged_sun_disk",
+      "target": "llm_persepolis_fortification_archive",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.96,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_pfs_389_old_persian_inscription_d_rayaush_p_rs_with_winged_sun_disk",
+      "target": "llm_figure_in_the_winged_ring_winged_disk_deity_motif",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_pfs_389_old_persian_inscription_d_rayaush_p_rs_with_winged_sun_disk",
+      "target": "llm_darius_i",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_pfs_389_old_persian_inscription_d_rayaush_p_rs_with_winged_sun_disk",
+      "target": "llm_achaemenid_monarchic_ideology",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.76,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_pfs_75_lunar_libation_scene_with_crescent_and_pedestal_altar",
+      "target": "llm_persepolis_fortification_archive",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_pfs_75_lunar_libation_scene_with_crescent_and_pedestal_altar",
+      "target": "llm_persepolitan_glyptic",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_pfs_75_lunar_libation_scene_with_crescent_and_pedestal_altar",
+      "target": "llm_imperial_program_in_the_visual_arts_during_the_reign_of_darius_i",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.7
+    },
+    {
+      "source": "llm_persepolis_apadana_and_palace_of_darius_stairway_fa_ades",
+      "target": "llm_imperial_program_in_the_visual_arts_during_the_reign_of_darius_i",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.74,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.75
+    },
+    {
+      "source": "llm_figure_in_the_winged_ring_winged_disk_deity_motif",
+      "target": "llm_auramazd",
+      "relation": "conceptually_related_to",
+      "confidence": "AMBIGUOUS",
+      "confidence_score": 0.55,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.55
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_extended_dialogue_between_naq_e_rustam_and_persepolitan_glyptic_in_the_achaemenid_visual_program",
+      "label": "Extended Dialogue between Naq\u0161-e Rustam and Persepolitan Glyptic in the Achaemenid Visual Program",
+      "nodes": [
+        "llm_imperial_program_in_the_visual_arts_during_the_reign_of_darius_i",
+        "llm_naq_e_rustam",
+        "llm_persepolitan_glyptic"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.93,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 6404,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 10269,
+    "output_tokens_details": {
+      "reasoning_tokens": 7768
+    },
+    "total_tokens": 16673
+  }
+}

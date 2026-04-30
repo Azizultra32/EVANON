@@ -1,12 +1,12 @@
 ---
 source_file: "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md"
 type: "document"
-community: "Avestan Texts"
+community: "--- Abraham and Nimrod in the Shadow of Zarathus"
 location: "chunk 2/3"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Avestan_Texts
+  - community/---_Abraham_and_Nimrod_in_the_Shadow_of_Zarathus
 ---
 
 # Haran
@@ -14,5 +14,6 @@ tags:
 ## Connections
 - [[--- Abraham and Nimrod in the Shadow of Zarathustra]] - `references` [EXTRACTED]
 - [[Abraham]] - `contrasts_with` [EXTRACTED]
+- [[Genesis Rabbah 3811 Abraham and Nimrod Furnace Account]] - `participates_in` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Avestan_Texts
+#graphify/document #graphify/EXTRACTED #community/---_Abraham_and_Nimrod_in_the_Shadow_of_Zarathus

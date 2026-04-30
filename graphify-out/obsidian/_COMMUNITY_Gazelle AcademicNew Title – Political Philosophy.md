@@ -1,26 +1,28 @@
 ---
 type: community
-cohesion: 0.35
-members: 11
+cohesion: 0.32
+members: 13
 ---
 
 # Gazelle AcademicNew Title – Political Philosophy
 
-**Cohesion:** 0.35 - loosely connected
-**Members:** 11 nodes
+**Cohesion:** 0.32 - loosely connected
+**Members:** 13 nodes
 
 ## Members
-- [[Christian Gospels]] - document - raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md
-- [[Cicero]] - document - raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md
+- [[A History of Political Ideas From Antiquity to the Middle Ages]] - document - raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md
+- [[Canon Law]] - document - raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md
+- [[Christian Thinkers (Paul, Augustine, Thomas Aquinas)]] - document - raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md
+- [[Christian Thought Gospels, Biblical Texts, and Christians under the Roman Empire]] - document - raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md
+- [[Evolving Jurisdiction Governing the People]] - document - raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md
 - [[Gazelle AcademicNew Title – Political Philosophy]] - document - raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md
-- [[Greek City-State]] - document - raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md
+- [[Greek City-State Thinkers (Plato, Aristotle, Xenophon, Stoics)]] - document - raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md
+- [[Kenneth Casler]] - document - raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md
 - [[Philippe Nemo]] - document - raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md
+- [[Pre-Greek Prepolitical Societies]] - document - raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md
 - [[Roman Law]] - document - raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md
-- [[Saint Augustine]] - document - raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md
-- [[Saint Paul]] - document - raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md
-- [[Seneca]] - document - raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md
-- [[Tacitus]] - document - raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md
-- [[Thomas Aquinas]] - document - raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md
+- [[Roman Political Writers (Cicero, Seneca, Tacitus)]] - document - raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md
+- [[Three Sources of Political Thought Thesis]] - document - raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md
 
 ## Live Query (requires Dataview plugin)
 

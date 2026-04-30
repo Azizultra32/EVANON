@@ -1,0 +1,439 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "label": "ASTYAGES, CYRUS AND ZOROASTER: SOLVING A HISTORICAL DILEMMA",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ardashir_khwarrah_fire_tower_t_rb_l_in_ibn_al_balkh_and_al_i_akhr",
+      "label": "Ardashir-Khwarrah Fire Tower/T\u012brb\u0101l in Ibn al-Balkh\u012b and al-I\u1e63\u1e6dakhr\u012b",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_persian_association_of_fire_light_and_khvarenah",
+      "label": "Persian Association of Fire, Light, and Khvarenah",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_p_o_skjaervo_s_cihr_amnesia_theory_skjaervo_2007_34_37",
+      "label": "P.O. Skjaervo's Cihr Amnesia Theory (Skjaervo 2007:34\u201337)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_continuity_from_darius_ahura_mazd_slogan_to_sasanian_cihr_khvarenah_propaganda",
+      "label": "Continuity from Darius' Ahura Mazd\u0101 Slogan to Sasanian Cihr/Khvarenah Propaganda",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_achaemenid_lotus_sunflower_motifs_for_mithra_apam_nap_t_and_an_hit",
+      "label": "Achaemenid Lotus-Sunflower Motifs for Mithra, Apam Nap\u0101t, and An\u0101hit\u0101",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_king_s_personal_fire_vs_fire_temple_argument",
+      "label": "King\u2019s Personal Fire vs. Fire Temple Argument",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ka_ba_of_zardusht_as_bun_kh_nak_fundamental_fire_house",
+      "label": "Ka'ba of Zardusht as Bun-Kh\u0101nak Fundamental Fire House",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_pasargadae_liar_darius_forgery_theory_stronach_and_gopnik_2009",
+      "label": "Pasargadae \u201cLiar Darius\u201d Forgery Theory (Stronach and Gopnik 2009)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_pasargadae_rehabilitated_authenticity_of_cyrus_inscriptions_and_reliefs",
+      "label": "Pasargadae Rehabilitated: Authenticity of Cyrus' Inscriptions and Reliefs",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_cma_inscription_i_cyrus_achaemenid_king",
+      "label": "CMa Inscription: \u201cI, Cyrus, Achaemenid King\u201d",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_shilhak_inshushinak_repeated_founder_inscriptions_malbran_labat_1996_no_4",
+      "label": "Shilhak-Inshushinak Repeated Founder Inscriptions (Malbran-Labat 1996 no. 4)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zind_n_i_pasargadae_and_cyrus_college_of_magi_xenophon_cyr_8_1_23",
+      "label": "Zind\u0101n-i Pasargadae and Cyrus' College of Magi (Xenophon, Cyr. 8.1.23)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_achaemenid_lotus_sunflower_motifs_for_mithra_apam_nap_t_and_an_hit",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_ardashir_khwarrah_fire_tower_t_rb_l_in_ibn_al_balkh_and_al_i_akhr",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_cma_inscription_i_cyrus_achaemenid_king",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_continuity_from_darius_ahura_mazd_slogan_to_sasanian_cihr_khvarenah_propaganda",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_ka_ba_of_zardusht_as_bun_kh_nak_fundamental_fire_house",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_king_s_personal_fire_vs_fire_temple_argument",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_p_o_skjaervo_s_cihr_amnesia_theory_skjaervo_2007_34_37",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_pasargadae_liar_darius_forgery_theory_stronach_and_gopnik_2009",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_pasargadae_rehabilitated_authenticity_of_cyrus_inscriptions_and_reliefs",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_persian_association_of_fire_light_and_khvarenah",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_shilhak_inshushinak_repeated_founder_inscriptions_malbran_labat_1996_no_4",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_zind_n_i_pasargadae_and_cyrus_college_of_magi_xenophon_cyr_8_1_23",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_ardashir_khwarrah_fire_tower_t_rb_l_in_ibn_al_balkh_and_al_i_akhr",
+      "target": "llm_persian_association_of_fire_light_and_khvarenah",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_persian_association_of_fire_light_and_khvarenah",
+      "target": "llm_continuity_from_darius_ahura_mazd_slogan_to_sasanian_cihr_khvarenah_propaganda",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_p_o_skjaervo_s_cihr_amnesia_theory_skjaervo_2007_34_37",
+      "target": "llm_continuity_from_darius_ahura_mazd_slogan_to_sasanian_cihr_khvarenah_propaganda",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_achaemenid_lotus_sunflower_motifs_for_mithra_apam_nap_t_and_an_hit",
+      "target": "llm_king_s_personal_fire_vs_fire_temple_argument",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.88
+    },
+    {
+      "source": "llm_ka_ba_of_zardusht_as_bun_kh_nak_fundamental_fire_house",
+      "target": "llm_king_s_personal_fire_vs_fire_temple_argument",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_king_s_personal_fire_vs_fire_temple_argument",
+      "target": "llm_continuity_from_darius_ahura_mazd_slogan_to_sasanian_cihr_khvarenah_propaganda",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.75
+    },
+    {
+      "source": "llm_pasargadae_liar_darius_forgery_theory_stronach_and_gopnik_2009",
+      "target": "llm_pasargadae_rehabilitated_authenticity_of_cyrus_inscriptions_and_reliefs",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_pasargadae_liar_darius_forgery_theory_stronach_and_gopnik_2009",
+      "target": "llm_cma_inscription_i_cyrus_achaemenid_king",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_cma_inscription_i_cyrus_achaemenid_king",
+      "target": "llm_pasargadae_rehabilitated_authenticity_of_cyrus_inscriptions_and_reliefs",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_shilhak_inshushinak_repeated_founder_inscriptions_malbran_labat_1996_no_4",
+      "target": "llm_cma_inscription_i_cyrus_achaemenid_king",
+      "relation": "semantically_similar_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_shilhak_inshushinak_repeated_founder_inscriptions_malbran_labat_1996_no_4",
+      "target": "llm_pasargadae_rehabilitated_authenticity_of_cyrus_inscriptions_and_reliefs",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_zind_n_i_pasargadae_and_cyrus_college_of_magi_xenophon_cyr_8_1_23",
+      "target": "llm_pasargadae_rehabilitated_authenticity_of_cyrus_inscriptions_and_reliefs",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_zind_n_i_pasargadae_and_cyrus_college_of_magi_xenophon_cyr_8_1_23",
+      "target": "llm_ka_ba_of_zardusht_as_bun_kh_nak_fundamental_fire_house",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_pasargadae_authenticity_debate",
+      "label": "Pasargadae Authenticity Debate",
+      "nodes": [
+        "llm_cma_inscription_i_cyrus_achaemenid_king",
+        "llm_pasargadae_liar_darius_forgery_theory_stronach_and_gopnik_2009",
+        "llm_pasargadae_rehabilitated_authenticity_of_cyrus_inscriptions_and_reliefs",
+        "llm_shilhak_inshushinak_repeated_founder_inscriptions_malbran_labat_1996_no_4"
+      ],
+      "relation": "debate",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md"
+    },
+    {
+      "id": "hyper_pasargadae_to_naqsh_i_rustam_sacred_fire_institutional_shift_model",
+      "label": "Pasargadae-to-Naqsh-i Rustam Sacred Fire Institutional Shift Model",
+      "nodes": [
+        "llm_ka_ba_of_zardusht_as_bun_kh_nak_fundamental_fire_house",
+        "llm_king_s_personal_fire_vs_fire_temple_argument",
+        "llm_zind_n_i_pasargadae_and_cyrus_college_of_magi_xenophon_cyr_8_1_23"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.78,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 6509,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 10195,
+    "output_tokens_details": {
+      "reasoning_tokens": 7768
+    },
+    "total_tokens": 16704
+  }
+}

@@ -1,0 +1,449 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_502231919_traces_of_iran_2_md",
+      "label": "ABSTRACT:",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_avestan_persian_lexical_heritage_argument",
+      "label": "Avestan/Persian Lexical Heritage Argument",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_claim_avestan_persian_loanwords_in_arabic_and_hadith",
+      "label": "Claim: Avestan/Persian Loanwords in Arabic and Hadith",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_claim_200_avestan_persian_words_in_the_qur_an_repeated_in_4_000_places",
+      "label": "Claim: 200+ Avestan/Persian Words in the Qur'an, Repeated in 4,000 Places",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_loanword_authorities_al_suyuti_al_jawaliqi_raghib_esfahani_ady_shir_al_munjid_dehkhoda_shushtari_khorram_shahi",
+      "label": "Loanword Authorities: al-Suyuti, al-Jawaliqi, Raghib Esfahani, Ady Shir, al-Munjid, Dehkhoda, Shushtari, Khorram-Shahi",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_qur_anic_examples_firdaus_pardis_fil_pil_deen_daena_seraat_sarak_mihrab_mithra_aba",
+      "label": "Qur'anic Examples: Firdaus/Pardis, Fil/Pil, Deen/Daena, Seraat/Sarak, Mihrab/Mithra-Aba",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_claim_1_000_avestan_pahlavi_persian_words_in_english",
+      "label": "Claim: 1,000+ Avestan/Pahlavi/Persian Words in English",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_rationale_shared_aryan_roots_of_persian_and_european_languages",
+      "label": "Rationale: Shared Aryan Roots of Persian and European Languages",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zakariyya_razi_rhazes",
+      "label": "Zakariyya Razi / Rhazes",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_claim_alcohol_ultimately_derives_from_persian_al_gol",
+      "label": "Claim: Alcohol Ultimately Derives from Persian al-Gol",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_claim_persian_toponyms_for_countries_cities_and_capitals",
+      "label": "Claim: Persian Toponyms for Countries, Cities, and Capitals",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_rationale_persian_empire_conquests_satrapies_and_naming_of_lands",
+      "label": "Rationale: Persian Empire Conquests, Satrapies, and Naming of Lands",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_m_s_tajar_online_research_on_persian_words_and_contribution_of_persia_to_world_civilization",
+      "label": "M.S. Tajar Online Research on Persian Words and Contribution of Persia to World Civilization",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_md",
+      "target": "llm_avestan_persian_lexical_heritage_argument",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_md",
+      "target": "llm_claim_1_000_avestan_pahlavi_persian_words_in_english",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_md",
+      "target": "llm_claim_200_avestan_persian_words_in_the_qur_an_repeated_in_4_000_places",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_md",
+      "target": "llm_claim_alcohol_ultimately_derives_from_persian_al_gol",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_md",
+      "target": "llm_claim_avestan_persian_loanwords_in_arabic_and_hadith",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_md",
+      "target": "llm_claim_persian_toponyms_for_countries_cities_and_capitals",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_md",
+      "target": "llm_loanword_authorities_al_suyuti_al_jawaliqi_raghib_esfahani_ady_shir_al_munjid_dehkhoda_shushtari_khorram_shahi",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_md",
+      "target": "llm_m_s_tajar_online_research_on_persian_words_and_contribution_of_persia_to_world_civilization",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_md",
+      "target": "llm_qur_anic_examples_firdaus_pardis_fil_pil_deen_daena_seraat_sarak_mihrab_mithra_aba",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_md",
+      "target": "llm_rationale_persian_empire_conquests_satrapies_and_naming_of_lands",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_md",
+      "target": "llm_rationale_shared_aryan_roots_of_persian_and_european_languages",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_md",
+      "target": "llm_zakariyya_razi_rhazes",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_avestan_persian_lexical_heritage_argument",
+      "target": "llm_claim_avestan_persian_loanwords_in_arabic_and_hadith",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_avestan_persian_lexical_heritage_argument",
+      "target": "llm_claim_200_avestan_persian_words_in_the_qur_an_repeated_in_4_000_places",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_avestan_persian_lexical_heritage_argument",
+      "target": "llm_claim_1_000_avestan_pahlavi_persian_words_in_english",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.92,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_avestan_persian_lexical_heritage_argument",
+      "target": "llm_claim_persian_toponyms_for_countries_cities_and_capitals",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_loanword_authorities_al_suyuti_al_jawaliqi_raghib_esfahani_ady_shir_al_munjid_dehkhoda_shushtari_khorram_shahi",
+      "target": "llm_claim_200_avestan_persian_words_in_the_qur_an_repeated_in_4_000_places",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_claim_200_avestan_persian_words_in_the_qur_an_repeated_in_4_000_places",
+      "target": "llm_loanword_authorities_al_suyuti_al_jawaliqi_raghib_esfahani_ady_shir_al_munjid_dehkhoda_shushtari_khorram_shahi",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_qur_anic_examples_firdaus_pardis_fil_pil_deen_daena_seraat_sarak_mihrab_mithra_aba",
+      "target": "llm_claim_200_avestan_persian_words_in_the_qur_an_repeated_in_4_000_places",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_claim_200_avestan_persian_words_in_the_qur_an_repeated_in_4_000_places",
+      "target": "llm_claim_avestan_persian_loanwords_in_arabic_and_hadith",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_rationale_shared_aryan_roots_of_persian_and_european_languages",
+      "target": "llm_claim_1_000_avestan_pahlavi_persian_words_in_english",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.92,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_claim_alcohol_ultimately_derives_from_persian_al_gol",
+      "target": "llm_claim_1_000_avestan_pahlavi_persian_words_in_english",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.78,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zakariyya_razi_rhazes",
+      "target": "llm_claim_alcohol_ultimately_derives_from_persian_al_gol",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_claim_1_000_avestan_pahlavi_persian_words_in_english",
+      "target": "llm_m_s_tajar_online_research_on_persian_words_and_contribution_of_persia_to_world_civilization",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_rationale_persian_empire_conquests_satrapies_and_naming_of_lands",
+      "target": "llm_claim_persian_toponyms_for_countries_cities_and_capitals",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.93,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_claim_persian_toponyms_for_countries_cities_and_capitals",
+      "target": "llm_m_s_tajar_online_research_on_persian_words_and_contribution_of_persia_to_world_civilization",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_global_persian_linguistic_and_toponymic_heritage_claim_cluster",
+      "label": "Global Persian Linguistic and Toponymic Heritage Claim Cluster",
+      "nodes": [
+        "llm_claim_1_000_avestan_pahlavi_persian_words_in_english",
+        "llm_claim_200_avestan_persian_words_in_the_qur_an_repeated_in_4_000_places",
+        "llm_claim_avestan_persian_loanwords_in_arabic_and_hadith",
+        "llm_claim_persian_toponyms_for_countries_cities_and_capitals"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md"
+    },
+    {
+      "id": "hyper_qur_anic_persian_loanword_authorities_and_examples",
+      "label": "Qur'anic Persian Loanword Authorities and Examples",
+      "nodes": [
+        "llm_claim_200_avestan_persian_words_in_the_qur_an_repeated_in_4_000_places",
+        "llm_loanword_authorities_al_suyuti_al_jawaliqi_raghib_esfahani_ady_shir_al_munjid_dehkhoda_shushtari_khorram_shahi",
+        "llm_qur_anic_examples_firdaus_pardis_fil_pil_deen_daena_seraat_sarak_mihrab_mithra_aba"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.91,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 8927,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 13774,
+    "output_tokens_details": {
+      "reasoning_tokens": 11394
+    },
+    "total_tokens": 22701
+  }
+}

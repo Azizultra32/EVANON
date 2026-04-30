@@ -1,0 +1,493 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_50263688_contribution_of_persia_to_the_world_civilization_doc_xp_md",
+      "label": "Contribution of Persia to the World Civilization",
+      "file_type": "document",
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_chunk_2_persian_origin_civilizational_claim_catalogue",
+      "label": "Chunk 2 Persian-Origin Civilizational Claim Catalogue",
+      "file_type": "document",
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_persia_greater_persia",
+      "label": "Persia / Greater Persia",
+      "file_type": "document",
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_gardeshgari_iran_periodical_cited_for_multiple_origin_claims",
+      "label": "Gardeshgari (Iran periodical cited for multiple origin claims)",
+      "file_type": "document",
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_other_visible_cited_sources_iran_land_and_the_people_national_geographic_channel_parsi_names_iht_webster_insight_dk_bbc_discovery_pdi_village_voice_nehru",
+      "label": "Other visible cited sources: Iran: Land and the People; National Geographic Channel; Parsi Names; IHT; Webster/Insight/DK; BBC/Discovery/PDI; Village Voice/Nehru",
+      "file_type": "document",
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_irano_european_renaming_argument_for_indo_european_languages",
+      "label": "\u201cIrano-European\u201d Renaming Argument for Indo-European Languages",
+      "file_type": "document",
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_iranian_plateau_as_source_of_saxons_sumerians_egyptians_and_pharaohs_claims",
+      "label": "Iranian Plateau as Source of Saxons, Sumerians, Egyptians, and Pharaohs Claims",
+      "file_type": "document",
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_persian_invention_and_engineering_claims_skull_surgery_windmills_qanat_baad_gir_wheel_locks",
+      "label": "Persian Invention and Engineering Claims: Skull Surgery, Windmills, Qanat, Baad-gir, Wheel, Locks",
+      "file_type": "document",
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_persian_architecture_and_art_transmission_claims_byzantine_domes_tilework_penrose_patterns_blue_jars_taj_mahal",
+      "label": "Persian Architecture and Art Transmission Claims: Byzantine Domes, Tilework/Penrose Patterns, Blue Jars, Taj Mahal",
+      "file_type": "document",
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_persian_etymology_as_origin_rationale",
+      "label": "Persian Etymology as Origin-Rationale",
+      "file_type": "document",
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_nowruz_and_sizdeh_bedar_new_year_traditions",
+      "label": "Nowruz and Sizdeh Bedar New Year Traditions",
+      "file_type": "document",
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_mithraism_mitra_sun_god_worship_persian_origin_claim",
+      "label": "Mithraism / Mitra Sun-God Worship Persian-Origin Claim",
+      "file_type": "document",
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_parsi_zoroastrian_diaspora_contributions",
+      "label": "Parsi Zoroastrian Diaspora Contributions",
+      "file_type": "document",
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_50263688_contribution_of_persia_to_the_world_civilization_doc_xp_md",
+      "target": "llm_chunk_2_persian_origin_civilizational_claim_catalogue",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_50263688_contribution_of_persia_to_the_world_civilization_doc_xp_md",
+      "target": "llm_gardeshgari_iran_periodical_cited_for_multiple_origin_claims",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_50263688_contribution_of_persia_to_the_world_civilization_doc_xp_md",
+      "target": "llm_iranian_plateau_as_source_of_saxons_sumerians_egyptians_and_pharaohs_claims",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_50263688_contribution_of_persia_to_the_world_civilization_doc_xp_md",
+      "target": "llm_irano_european_renaming_argument_for_indo_european_languages",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_50263688_contribution_of_persia_to_the_world_civilization_doc_xp_md",
+      "target": "llm_mithraism_mitra_sun_god_worship_persian_origin_claim",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_50263688_contribution_of_persia_to_the_world_civilization_doc_xp_md",
+      "target": "llm_nowruz_and_sizdeh_bedar_new_year_traditions",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_50263688_contribution_of_persia_to_the_world_civilization_doc_xp_md",
+      "target": "llm_other_visible_cited_sources_iran_land_and_the_people_national_geographic_channel_parsi_names_iht_webster_insight_dk_bbc_discovery_pdi_village_voice_nehru",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_50263688_contribution_of_persia_to_the_world_civilization_doc_xp_md",
+      "target": "llm_parsi_zoroastrian_diaspora_contributions",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_50263688_contribution_of_persia_to_the_world_civilization_doc_xp_md",
+      "target": "llm_persia_greater_persia",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_50263688_contribution_of_persia_to_the_world_civilization_doc_xp_md",
+      "target": "llm_persian_architecture_and_art_transmission_claims_byzantine_domes_tilework_penrose_patterns_blue_jars_taj_mahal",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_50263688_contribution_of_persia_to_the_world_civilization_doc_xp_md",
+      "target": "llm_persian_etymology_as_origin_rationale",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_50263688_contribution_of_persia_to_the_world_civilization_doc_xp_md",
+      "target": "llm_persian_invention_and_engineering_claims_skull_surgery_windmills_qanat_baad_gir_wheel_locks",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_chunk_2_persian_origin_civilizational_claim_catalogue",
+      "target": "llm_persia_greater_persia",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_irano_european_renaming_argument_for_indo_european_languages",
+      "target": "llm_persia_greater_persia",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_iranian_plateau_as_source_of_saxons_sumerians_egyptians_and_pharaohs_claims",
+      "target": "llm_persia_greater_persia",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_persian_invention_and_engineering_claims_skull_surgery_windmills_qanat_baad_gir_wheel_locks",
+      "target": "llm_persia_greater_persia",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.96,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_persian_architecture_and_art_transmission_claims_byzantine_domes_tilework_penrose_patterns_blue_jars_taj_mahal",
+      "target": "llm_persia_greater_persia",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.96,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_nowruz_and_sizdeh_bedar_new_year_traditions",
+      "target": "llm_persia_greater_persia",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_mithraism_mitra_sun_god_worship_persian_origin_claim",
+      "target": "llm_persia_greater_persia",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.93,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_parsi_zoroastrian_diaspora_contributions",
+      "target": "llm_persia_greater_persia",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_chunk_2_persian_origin_civilizational_claim_catalogue",
+      "target": "llm_gardeshgari_iran_periodical_cited_for_multiple_origin_claims",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.99,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_chunk_2_persian_origin_civilizational_claim_catalogue",
+      "target": "llm_other_visible_cited_sources_iran_land_and_the_people_national_geographic_channel_parsi_names_iht_webster_insight_dk_bbc_discovery_pdi_village_voice_nehru",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.92,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_irano_european_renaming_argument_for_indo_european_languages",
+      "target": "llm_gardeshgari_iran_periodical_cited_for_multiple_origin_claims",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.99,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_iranian_plateau_as_source_of_saxons_sumerians_egyptians_and_pharaohs_claims",
+      "target": "llm_gardeshgari_iran_periodical_cited_for_multiple_origin_claims",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_persian_invention_and_engineering_claims_skull_surgery_windmills_qanat_baad_gir_wheel_locks",
+      "target": "llm_other_visible_cited_sources_iran_land_and_the_people_national_geographic_channel_parsi_names_iht_webster_insight_dk_bbc_discovery_pdi_village_voice_nehru",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_persian_architecture_and_art_transmission_claims_byzantine_domes_tilework_penrose_patterns_blue_jars_taj_mahal",
+      "target": "llm_other_visible_cited_sources_iran_land_and_the_people_national_geographic_channel_parsi_names_iht_webster_insight_dk_bbc_discovery_pdi_village_voice_nehru",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_nowruz_and_sizdeh_bedar_new_year_traditions",
+      "target": "llm_other_visible_cited_sources_iran_land_and_the_people_national_geographic_channel_parsi_names_iht_webster_insight_dk_bbc_discovery_pdi_village_voice_nehru",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.75
+    },
+    {
+      "source": "llm_mithraism_mitra_sun_god_worship_persian_origin_claim",
+      "target": "llm_other_visible_cited_sources_iran_land_and_the_people_national_geographic_channel_parsi_names_iht_webster_insight_dk_bbc_discovery_pdi_village_voice_nehru",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.84,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.75
+    },
+    {
+      "source": "llm_persian_etymology_as_origin_rationale",
+      "target": "llm_irano_european_renaming_argument_for_indo_european_languages",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_persian_etymology_as_origin_rationale",
+      "target": "llm_persian_architecture_and_art_transmission_claims_byzantine_domes_tilework_penrose_patterns_blue_jars_taj_mahal",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.68,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.6
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_persian_origin_claims_across_language_migration_invention_architecture_and_etymology",
+      "label": "Persian-Origin Claims Across Language, Migration, Invention, Architecture, and Etymology",
+      "nodes": [
+        "llm_chunk_2_persian_origin_civilizational_claim_catalogue",
+        "llm_iranian_plateau_as_source_of_saxons_sumerians_egyptians_and_pharaohs_claims",
+        "llm_irano_european_renaming_argument_for_indo_european_languages",
+        "llm_persia_greater_persia",
+        "llm_persian_architecture_and_art_transmission_claims_byzantine_domes_tilework_penrose_patterns_blue_jars_taj_mahal",
+        "llm_persian_etymology_as_origin_rationale",
+        "llm_persian_invention_and_engineering_claims_skull_surgery_windmills_qanat_baad_gir_wheel_locks"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.84,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md"
+    },
+    {
+      "id": "hyper_persian_religion_calendar_and_zoroastrian_diaspora_cluster",
+      "label": "Persian Religion, Calendar, and Zoroastrian Diaspora Cluster",
+      "nodes": [
+        "llm_mithraism_mitra_sun_god_worship_persian_origin_claim",
+        "llm_nowruz_and_sizdeh_bedar_new_year_traditions",
+        "llm_parsi_zoroastrian_diaspora_contributions",
+        "llm_persia_greater_persia"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.74,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 6690,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 13804,
+    "output_tokens_details": {
+      "reasoning_tokens": 10876
+    },
+    "total_tokens": 20494
+  }
+}

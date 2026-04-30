@@ -1,0 +1,480 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "label": "ABSTRACT:",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_argument_waves_of_iranian_influence_in_the_indian_subcontinent",
+      "label": "Argument: Waves of Iranian Influence in the Indian Subcontinent",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_claim_aryan_brahmin_migration_four_caste_system_sanskrit_avestan_links_and_devas",
+      "label": "Claim: Aryan/Brahmin Migration, Four-Caste System, Sanskrit/Avestan Links, and Devas",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_parsi_zoroastrian_contributions_in_india_khoma_rostam_dadabhai_naoroji_zubin_mehta_homi_bhabha_jamshid_nusherwanjee",
+      "label": "Parsi/Zoroastrian Contributions in India: Khoma Rostam, Dadabhai Naoroji, Zubin Mehta, Homi Bhabha, Jamshid Nusherwanjee",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zoroastrian_threefold_ethic_humata_hukhta_huvarashta",
+      "label": "Zoroastrian Threefold Ethic: Humata, Hukhta, Huvarashta",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_persian_sufi_islam_in_india_chishti_hajwiri_ganj_shakar_nizamuddin_auliya_baba_farid_shah_hamadan",
+      "label": "Persian Sufi Islam in India: Chishti, Hajwiri, Ganj Shakar, Nizamuddin Auliya, Baba Farid, Shah Hamadan",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_claimed_persian_zoroastrian_links_of_sikhism_and_guru_nanak",
+      "label": "Claimed Persian/Zoroastrian Links of Sikhism and Guru Nanak",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_urdu_as_persianized_literary_culture_ghalib_hali_mir_anees_mir_taqi_mir_bidel_muhammad_iqbal",
+      "label": "Urdu as Persianized Literary Culture: Ghalib, Hali, Mir Anees, Mir Taqi Mir, Bidel, Muhammad Iqbal",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_persianate_indian_arts_qawwali_amir_khusrow_and_bollywood_parsi_film_heritage",
+      "label": "Persianate Indian Arts: Qawwali, Amir Khusrow, and Bollywood/Parsi Film Heritage",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_claimed_persianate_roots_of_indian_food_fashion_swastika_diwali_barasat_and_nowruz",
+      "label": "Claimed Persianate Roots of Indian Food, Fashion, Swastika, Diwali, Barasat, and Nowruz",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_claim_taj_mahal_as_a_persian_islamic_monument",
+      "label": "Claim: Taj Mahal as a Persian Islamic Monument",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_argument_persian_empire_in_arab_lands_and_cyrus_s_liberation_of_jews_from_babylon",
+      "label": "Argument: Persian Empire in Arab Lands and Cyrus\u2019s Liberation of Jews from Babylon",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_visible_references_time_magazine_feb_1979_dr_zardosht_sotudeh_lecture_the_persian_letters_iran_quarterly_village_voice_nov_19_2002_nehru_letters_bbc_report_oct_5_2000_aljazeera_report_feb_12_2010_maududi_qur_an_commentary_a_a_deh_khoda_history_of_karachi_p_116",
+      "label": "Visible References: Time Magazine Feb. 1979; Dr. Zardosht Sotudeh Lecture; The Persian Letters/Iran Quarterly; Village Voice Nov. 19 2002; Nehru Letters; BBC Report Oct. 5 2000; Al",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "target": "llm_argument_persian_empire_in_arab_lands_and_cyrus_s_liberation_of_jews_from_babylon",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "target": "llm_argument_waves_of_iranian_influence_in_the_indian_subcontinent",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "target": "llm_claim_aryan_brahmin_migration_four_caste_system_sanskrit_avestan_links_and_devas",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "target": "llm_claim_taj_mahal_as_a_persian_islamic_monument",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "target": "llm_claimed_persian_zoroastrian_links_of_sikhism_and_guru_nanak",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "target": "llm_claimed_persianate_roots_of_indian_food_fashion_swastika_diwali_barasat_and_nowruz",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "target": "llm_parsi_zoroastrian_contributions_in_india_khoma_rostam_dadabhai_naoroji_zubin_mehta_homi_bhabha_jamshid_nusherwanjee",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "target": "llm_persian_sufi_islam_in_india_chishti_hajwiri_ganj_shakar_nizamuddin_auliya_baba_farid_shah_hamadan",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "target": "llm_persianate_indian_arts_qawwali_amir_khusrow_and_bollywood_parsi_film_heritage",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "target": "llm_urdu_as_persianized_literary_culture_ghalib_hali_mir_anees_mir_taqi_mir_bidel_muhammad_iqbal",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "target": "llm_visible_references_time_magazine_feb_1979_dr_zardosht_sotudeh_lecture_the_persian_letters_iran_quarterly_village_voice_nov_19_2002_nehru_letters_bbc_report_oct_5_2000_aljazeera_report_feb_12_2010_maududi_qur_an_commentary_a_a_deh_khoda_history_of_karachi_p_116",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "target": "llm_zoroastrian_threefold_ethic_humata_hukhta_huvarashta",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_claim_aryan_brahmin_migration_four_caste_system_sanskrit_avestan_links_and_devas",
+      "target": "llm_argument_waves_of_iranian_influence_in_the_indian_subcontinent",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_parsi_zoroastrian_contributions_in_india_khoma_rostam_dadabhai_naoroji_zubin_mehta_homi_bhabha_jamshid_nusherwanjee",
+      "target": "llm_argument_waves_of_iranian_influence_in_the_indian_subcontinent",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_zoroastrian_threefold_ethic_humata_hukhta_huvarashta",
+      "target": "llm_parsi_zoroastrian_contributions_in_india_khoma_rostam_dadabhai_naoroji_zubin_mehta_homi_bhabha_jamshid_nusherwanjee",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_persian_sufi_islam_in_india_chishti_hajwiri_ganj_shakar_nizamuddin_auliya_baba_farid_shah_hamadan",
+      "target": "llm_argument_waves_of_iranian_influence_in_the_indian_subcontinent",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_claimed_persian_zoroastrian_links_of_sikhism_and_guru_nanak",
+      "target": "llm_argument_waves_of_iranian_influence_in_the_indian_subcontinent",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.88
+    },
+    {
+      "source": "llm_urdu_as_persianized_literary_culture_ghalib_hali_mir_anees_mir_taqi_mir_bidel_muhammad_iqbal",
+      "target": "llm_argument_waves_of_iranian_influence_in_the_indian_subcontinent",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_persianate_indian_arts_qawwali_amir_khusrow_and_bollywood_parsi_film_heritage",
+      "target": "llm_argument_waves_of_iranian_influence_in_the_indian_subcontinent",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_claimed_persianate_roots_of_indian_food_fashion_swastika_diwali_barasat_and_nowruz",
+      "target": "llm_argument_waves_of_iranian_influence_in_the_indian_subcontinent",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.88
+    },
+    {
+      "source": "llm_claim_taj_mahal_as_a_persian_islamic_monument",
+      "target": "llm_argument_waves_of_iranian_influence_in_the_indian_subcontinent",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_argument_persian_empire_in_arab_lands_and_cyrus_s_liberation_of_jews_from_babylon",
+      "target": "llm_argument_waves_of_iranian_influence_in_the_indian_subcontinent",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.75
+    },
+    {
+      "source": "llm_persianate_indian_arts_qawwali_amir_khusrow_and_bollywood_parsi_film_heritage",
+      "target": "llm_persian_sufi_islam_in_india_chishti_hajwiri_ganj_shakar_nizamuddin_auliya_baba_farid_shah_hamadan",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_urdu_as_persianized_literary_culture_ghalib_hali_mir_anees_mir_taqi_mir_bidel_muhammad_iqbal",
+      "target": "llm_persianate_indian_arts_qawwali_amir_khusrow_and_bollywood_parsi_film_heritage",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_claim_taj_mahal_as_a_persian_islamic_monument",
+      "target": "llm_visible_references_time_magazine_feb_1979_dr_zardosht_sotudeh_lecture_the_persian_letters_iran_quarterly_village_voice_nov_19_2002_nehru_letters_bbc_report_oct_5_2000_aljazeera_report_feb_12_2010_maududi_qur_an_commentary_a_a_deh_khoda_history_of_karachi_p_116",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_parsi_zoroastrian_contributions_in_india_khoma_rostam_dadabhai_naoroji_zubin_mehta_homi_bhabha_jamshid_nusherwanjee",
+      "target": "llm_visible_references_time_magazine_feb_1979_dr_zardosht_sotudeh_lecture_the_persian_letters_iran_quarterly_village_voice_nov_19_2002_nehru_letters_bbc_report_oct_5_2000_aljazeera_report_feb_12_2010_maududi_qur_an_commentary_a_a_deh_khoda_history_of_karachi_p_116",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_urdu_as_persianized_literary_culture_ghalib_hali_mir_anees_mir_taqi_mir_bidel_muhammad_iqbal",
+      "target": "llm_visible_references_time_magazine_feb_1979_dr_zardosht_sotudeh_lecture_the_persian_letters_iran_quarterly_village_voice_nov_19_2002_nehru_letters_bbc_report_oct_5_2000_aljazeera_report_feb_12_2010_maududi_qur_an_commentary_a_a_deh_khoda_history_of_karachi_p_116",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_claimed_persian_zoroastrian_links_of_sikhism_and_guru_nanak",
+      "target": "llm_visible_references_time_magazine_feb_1979_dr_zardosht_sotudeh_lecture_the_persian_letters_iran_quarterly_village_voice_nov_19_2002_nehru_letters_bbc_report_oct_5_2000_aljazeera_report_feb_12_2010_maududi_qur_an_commentary_a_a_deh_khoda_history_of_karachi_p_116",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.8,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_argument_persian_empire_in_arab_lands_and_cyrus_s_liberation_of_jews_from_babylon",
+      "target": "llm_visible_references_time_magazine_feb_1979_dr_zardosht_sotudeh_lecture_the_persian_letters_iran_quarterly_village_voice_nov_19_2002_nehru_letters_bbc_report_oct_5_2000_aljazeera_report_feb_12_2010_maududi_qur_an_commentary_a_a_deh_khoda_history_of_karachi_p_116",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_argument_waves_of_iranian_influence_in_the_indian_subcontinent",
+      "target": "llm_visible_references_time_magazine_feb_1979_dr_zardosht_sotudeh_lecture_the_persian_letters_iran_quarterly_village_voice_nov_19_2002_nehru_letters_bbc_report_oct_5_2000_aljazeera_report_feb_12_2010_maududi_qur_an_commentary_a_a_deh_khoda_history_of_karachi_p_116",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.8,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.8
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_forms_of_persianate_influence_in_india_in_the_excerpt",
+      "label": "Forms of Persianate Influence in India in the Excerpt",
+      "nodes": [
+        "llm_claim_aryan_brahmin_migration_four_caste_system_sanskrit_avestan_links_and_devas",
+        "llm_claim_taj_mahal_as_a_persian_islamic_monument",
+        "llm_claimed_persian_zoroastrian_links_of_sikhism_and_guru_nanak",
+        "llm_claimed_persianate_roots_of_indian_food_fashion_swastika_diwali_barasat_and_nowruz",
+        "llm_parsi_zoroastrian_contributions_in_india_khoma_rostam_dadabhai_naoroji_zubin_mehta_homi_bhabha_jamshid_nusherwanjee",
+        "llm_persian_sufi_islam_in_india_chishti_hajwiri_ganj_shakar_nizamuddin_auliya_baba_farid_shah_hamadan",
+        "llm_persianate_indian_arts_qawwali_amir_khusrow_and_bollywood_parsi_film_heritage",
+        "llm_urdu_as_persianized_literary_culture_ghalib_hali_mir_anees_mir_taqi_mir_bidel_muhammad_iqbal"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.87,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 6558,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 12118,
+    "output_tokens_details": {
+      "reasoning_tokens": 9322
+    },
+    "total_tokens": 18676
+  }
+}

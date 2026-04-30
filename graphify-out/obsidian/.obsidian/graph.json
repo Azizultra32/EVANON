@@ -8,21 +8,21 @@
       }
     },
     {
-      "query": "tag:#community/Avestan_Texts",
+      "query": "tag:#community/Mithraic_Studies",
       "color": {
         "a": 1,
         "rgb": 15896107
       }
     },
     {
-      "query": "tag:#community/Iranian_Kingship",
+      "query": "tag:#community/Mithraic_Studies",
       "color": {
         "a": 1,
         "rgb": 14767961
       }
     },
     {
-      "query": "tag:#community/Iranian_Kingship",
+      "query": "tag:#community/Avestan_Texts",
       "color": {
         "a": 1,
         "rgb": 7780274
@@ -36,14 +36,14 @@
       }
     },
     {
-      "query": "tag:#community/Mithraic_Studies",
+      "query": "tag:#community/Avestan_Texts",
       "color": {
         "a": 1,
         "rgb": 15583560
       }
     },
     {
-      "query": "tag:#community/Afterlife_Doctrine",
+      "query": "tag:#community/Mithraic_Studies",
       "color": {
         "a": 1,
         "rgb": 11565729
@@ -57,7 +57,7 @@
       }
     },
     {
-      "query": "tag:#community/Iranian_Kingship",
+      "query": "tag:#community/Ritual_Practice",
       "color": {
         "a": 1,
         "rgb": 10253663
@@ -71,14 +71,14 @@
       }
     },
     {
-      "query": "tag:#community/PROBLEMS_OF_ARMENIAN_PREHISTORY",
+      "query": "tag:#community/Iranian_Kingship",
       "color": {
         "a": 1,
         "rgb": 5142951
       }
     },
     {
-      "query": "tag:#community/Iranian_Kingship",
+      "query": "tag:#community/Mithraic_Studies",
       "color": {
         "a": 1,
         "rgb": 15896107
@@ -99,7 +99,77 @@
       }
     },
     {
-      "query": "tag:#community/Creation_Cosmology",
+      "query": "tag:#community/Avestan_Texts",
+      "color": {
+        "a": 1,
+        "rgb": 5873999
+      }
+    },
+    {
+      "query": "tag:#community/Avestan_Texts",
+      "color": {
+        "a": 1,
+        "rgb": 15583560
+      }
+    },
+    {
+      "query": "tag:#community/Mithraic_Studies",
+      "color": {
+        "a": 1,
+        "rgb": 11565729
+      }
+    },
+    {
+      "query": "tag:#community/Mithraic_Studies",
+      "color": {
+        "a": 1,
+        "rgb": 16752039
+      }
+    },
+    {
+      "query": "tag:#community/Iranian_Kingship",
+      "color": {
+        "a": 1,
+        "rgb": 10253663
+      }
+    },
+    {
+      "query": "tag:#community/Mithraic_Studies",
+      "color": {
+        "a": 1,
+        "rgb": 12234924
+      }
+    },
+    {
+      "query": "tag:#community/Iranian_Kingship",
+      "color": {
+        "a": 1,
+        "rgb": 5142951
+      }
+    },
+    {
+      "query": "tag:#community/Iranian_Kingship",
+      "color": {
+        "a": 1,
+        "rgb": 15896107
+      }
+    },
+    {
+      "query": "tag:#community/---_Abraham_and_Nimrod_in_the_Shadow_of_Zarathus",
+      "color": {
+        "a": 1,
+        "rgb": 14767961
+      }
+    },
+    {
+      "query": "tag:#community/Mithraic_Studies",
+      "color": {
+        "a": 1,
+        "rgb": 7780274
+      }
+    },
+    {
+      "query": "tag:#community/Avestan_Texts",
       "color": {
         "a": 1,
         "rgb": 5873999
@@ -120,31 +190,17 @@
       }
     },
     {
-      "query": "tag:#community/Avestan_Texts",
+      "query": "tag:#community/Mithraic_Studies",
       "color": {
         "a": 1,
         "rgb": 16752039
       }
     },
     {
-      "query": "tag:#community/Zoroastrian_Theology",
-      "color": {
-        "a": 1,
-        "rgb": 10253663
-      }
-    },
-    {
       "query": "tag:#community/Gazelle_AcademicNew_Title_\u2013_Political_Philosophy",
       "color": {
         "a": 1,
-        "rgb": 12234924
-      }
-    },
-    {
-      "query": "tag:#community/Mithraic_Studies",
-      "color": {
-        "a": 1,
-        "rgb": 5142951
+        "rgb": 10253663
       }
     }
   ]

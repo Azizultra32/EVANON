@@ -1,0 +1,492 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "label": "Encounters by the Rivers of Babylon",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zoroastrian_oral_tradition_in_the_iranian_empire",
+      "label": "Zoroastrian Oral Tradition in the Iranian Empire",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_avesta_and_pahlavi_exegesis",
+      "label": "Avesta and Pahlavi Exegesis",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_babylonian_rabbis_and_talmudic_texts",
+      "label": "Babylonian Rabbis and Talmudic Texts",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_rationale_similarities_and_interaction_between_iranian_and_jewish_religious_scholars",
+      "label": "Rationale: Similarities and Interaction between Iranian and Jewish Religious Scholars",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_argument_for_irano_jewish_symbiosis",
+      "label": "Argument for Irano-Jewish Symbiosis",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ritual_pollution_by_nas_y_dead_matter",
+      "label": "Ritual Pollution by nas\u0101y (Dead Matter)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_spatial_transmission_of_corpse_pollution_and_barsom_contamination",
+      "label": "Spatial Transmission of Corpse Pollution and barsom Contamination",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_yist_n_yist_2_18_and_2_25",
+      "label": "\u0160\u0101yist n\u0113 \u0161\u0101yist 2.18 and 2.25",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_pahlavi_videvdad_6_5p_q",
+      "label": "Pahlavi Videvdad 6.5P\u2013Q",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zand_fragard_jud_d_w_d_d_td2_pp_453_455_481_483",
+      "label": "Zand \u012b fragard \u012b jud-d\u0113w-d\u0101d (TD2, pp. 453\u2013455, 481\u2013483)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_hamr_h_and_padr_h_direct_and_indirect_pollution",
+      "label": "hamr\u0113h and padr\u0113h (Direct and Indirect Pollution)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_pahlavi_videvdad_5_33_34_weasel_pollution_case",
+      "label": "Pahlavi Videvdad 5.33\u201334 Weasel Pollution Case",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "target": "llm_argument_for_irano_jewish_symbiosis",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "target": "llm_avesta_and_pahlavi_exegesis",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "target": "llm_babylonian_rabbis_and_talmudic_texts",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "target": "llm_hamr_h_and_padr_h_direct_and_indirect_pollution",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "target": "llm_pahlavi_videvdad_5_33_34_weasel_pollution_case",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "target": "llm_pahlavi_videvdad_6_5p_q",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "target": "llm_rationale_similarities_and_interaction_between_iranian_and_jewish_religious_scholars",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "target": "llm_ritual_pollution_by_nas_y_dead_matter",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "target": "llm_spatial_transmission_of_corpse_pollution_and_barsom_contamination",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "target": "llm_yist_n_yist_2_18_and_2_25",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "target": "llm_zand_fragard_jud_d_w_d_d_td2_pp_453_455_481_483",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "target": "llm_zoroastrian_oral_tradition_in_the_iranian_empire",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zoroastrian_oral_tradition_in_the_iranian_empire",
+      "target": "llm_avesta_and_pahlavi_exegesis",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.98
+    },
+    {
+      "source": "llm_zoroastrian_oral_tradition_in_the_iranian_empire",
+      "target": "llm_babylonian_rabbis_and_talmudic_texts",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_avesta_and_pahlavi_exegesis",
+      "target": "llm_rationale_similarities_and_interaction_between_iranian_and_jewish_religious_scholars",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_babylonian_rabbis_and_talmudic_texts",
+      "target": "llm_rationale_similarities_and_interaction_between_iranian_and_jewish_religious_scholars",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_rationale_similarities_and_interaction_between_iranian_and_jewish_religious_scholars",
+      "target": "llm_argument_for_irano_jewish_symbiosis",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_zoroastrian_oral_tradition_in_the_iranian_empire",
+      "target": "llm_argument_for_irano_jewish_symbiosis",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.88
+    },
+    {
+      "source": "llm_pahlavi_videvdad_6_5p_q",
+      "target": "llm_spatial_transmission_of_corpse_pollution_and_barsom_contamination",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_yist_n_yist_2_18_and_2_25",
+      "target": "llm_spatial_transmission_of_corpse_pollution_and_barsom_contamination",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zand_fragard_jud_d_w_d_d_td2_pp_453_455_481_483",
+      "target": "llm_spatial_transmission_of_corpse_pollution_and_barsom_contamination",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_spatial_transmission_of_corpse_pollution_and_barsom_contamination",
+      "target": "llm_ritual_pollution_by_nas_y_dead_matter",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.98
+    },
+    {
+      "source": "llm_pahlavi_videvdad_6_5p_q",
+      "target": "llm_ritual_pollution_by_nas_y_dead_matter",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_yist_n_yist_2_18_and_2_25",
+      "target": "llm_zand_fragard_jud_d_w_d_d_td2_pp_453_455_481_483",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.92,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.92
+    },
+    {
+      "source": "llm_zand_fragard_jud_d_w_d_d_td2_pp_453_455_481_483",
+      "target": "llm_pahlavi_videvdad_6_5p_q",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_pahlavi_videvdad_5_33_34_weasel_pollution_case",
+      "target": "llm_ritual_pollution_by_nas_y_dead_matter",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_pahlavi_videvdad_5_33_34_weasel_pollution_case",
+      "target": "llm_hamr_h_and_padr_h_direct_and_indirect_pollution",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_hamr_h_and_padr_h_direct_and_indirect_pollution",
+      "target": "llm_ritual_pollution_by_nas_y_dead_matter",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.98
+    },
+    {
+      "source": "llm_zand_fragard_jud_d_w_d_d_td2_pp_453_455_481_483",
+      "target": "llm_pahlavi_videvdad_5_33_34_weasel_pollution_case",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_zand_fragard_jud_d_w_d_d_td2_pp_453_455_481_483",
+      "target": "llm_hamr_h_and_padr_h_direct_and_indirect_pollution",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.95
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_pahlavi_corpse_pollution_commentary_cluster",
+      "label": "Pahlavi Corpse-Pollution Commentary Cluster",
+      "nodes": [
+        "llm_pahlavi_videvdad_6_5p_q",
+        "llm_ritual_pollution_by_nas_y_dead_matter",
+        "llm_spatial_transmission_of_corpse_pollution_and_barsom_contamination",
+        "llm_yist_n_yist_2_18_and_2_25",
+        "llm_zand_fragard_jud_d_w_d_d_td2_pp_453_455_481_483"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md"
+    },
+    {
+      "id": "hyper_research_program_for_irano_jewish_symbiosis",
+      "label": "Research Program for Irano-Jewish Symbiosis",
+      "nodes": [
+        "llm_argument_for_irano_jewish_symbiosis",
+        "llm_avesta_and_pahlavi_exegesis",
+        "llm_babylonian_rabbis_and_talmudic_texts",
+        "llm_rationale_similarities_and_interaction_between_iranian_and_jewish_religious_scholars",
+        "llm_zoroastrian_oral_tradition_in_the_iranian_empire"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 7680,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 13728,
+    "output_tokens_details": {
+      "reasoning_tokens": 10869
+    },
+    "total_tokens": 21408
+  }
+}

@@ -1,0 +1,479 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "label": "A Thousand Judgements",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_pahlavi_n_rangest_n_chapter_23",
+      "label": "Pahlavi N\u012brangest\u0101n Chapter 23",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_n_23_11_conversion_between_non_zoroastrian_laws_and_margarz_n_liability",
+      "label": "N.23.11: Conversion between Non-Zoroastrian Laws and Margarz\u0101n Liability",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_hierarchy_of_non_zoroastrian_legal_systems",
+      "label": "Hierarchy of Non-Zoroastrian Legal Systems",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ab_an_fa_and_m_lik_b_anas_no_death_penalty_for_non_islamic_to_non_islamic_conversion",
+      "label": "Ab\u016b \u1e24an\u012bfa and M\u0101lik b. Anas: No Death Penalty for Non-Islamic-to-Non-Islamic Conversion",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_a_mad_b_anbal_penalty_for_downgrading_to_an_inferior_non_islamic_religion",
+      "label": "A\u1e25mad b. \u1e24anbal: Penalty for Downgrading to an Inferior Non-Islamic Religion",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_g_gu_nasp_in_pahlavi_videvdad_3_42_and_5_38",
+      "label": "G\u014dgu\u0161nasp in Pahlavi Videvdad 3.42 and 5.38",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_n_23_12_w_j_and_dr_n_in_encounters_with_jud_ristag_n",
+      "label": "N.23.12: W\u0101j and Dr\u014dn in Encounters with jud-ristag\u0101n",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_w_j_ritual",
+      "label": "W\u0101j Ritual",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_dr_n_sacrifice",
+      "label": "Dr\u014dn Sacrifice",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_d_nkard_6_233_cf_3_197_9_on_dr_n_sacrifice_and_royal_command",
+      "label": "D\u0113nkard 6.233 (cf. 3.197.9) on Dr\u014dn Sacrifice and Royal Command",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_babylonian_talmud_sanhedrin_61b_abaye_and_rava_on_idolatry_from_love_or_fear",
+      "label": "Babylonian Talmud Sanhedrin 61b: Abaye and Rava on Idolatry from Love or Fear",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_shared_babylonian_rabbinic_zoroastrian_intellectual_atmosphere",
+      "label": "Shared Babylonian Rabbinic-Zoroastrian Intellectual Atmosphere",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_a_mad_b_anbal_penalty_for_downgrading_to_an_inferior_non_islamic_religion",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_ab_an_fa_and_m_lik_b_anas_no_death_penalty_for_non_islamic_to_non_islamic_conversion",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_babylonian_talmud_sanhedrin_61b_abaye_and_rava_on_idolatry_from_love_or_fear",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_d_nkard_6_233_cf_3_197_9_on_dr_n_sacrifice_and_royal_command",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_dr_n_sacrifice",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_g_gu_nasp_in_pahlavi_videvdad_3_42_and_5_38",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_hierarchy_of_non_zoroastrian_legal_systems",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_n_23_11_conversion_between_non_zoroastrian_laws_and_margarz_n_liability",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_n_23_12_w_j_and_dr_n_in_encounters_with_jud_ristag_n",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_pahlavi_n_rangest_n_chapter_23",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_shared_babylonian_rabbinic_zoroastrian_intellectual_atmosphere",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_w_j_ritual",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_n_23_11_conversion_between_non_zoroastrian_laws_and_margarz_n_liability",
+      "target": "llm_pahlavi_n_rangest_n_chapter_23",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_n_23_12_w_j_and_dr_n_in_encounters_with_jud_ristag_n",
+      "target": "llm_pahlavi_n_rangest_n_chapter_23",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_hierarchy_of_non_zoroastrian_legal_systems",
+      "target": "llm_n_23_11_conversion_between_non_zoroastrian_laws_and_margarz_n_liability",
+      "relation": "rationale_for",
+      "confidence": "AMBIGUOUS",
+      "confidence_score": 0.65,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_n_23_11_conversion_between_non_zoroastrian_laws_and_margarz_n_liability",
+      "target": "llm_ab_an_fa_and_m_lik_b_anas_no_death_penalty_for_non_islamic_to_non_islamic_conversion",
+      "relation": "semantically_similar_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_n_23_11_conversion_between_non_zoroastrian_laws_and_margarz_n_liability",
+      "target": "llm_a_mad_b_anbal_penalty_for_downgrading_to_an_inferior_non_islamic_religion",
+      "relation": "semantically_similar_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_ab_an_fa_and_m_lik_b_anas_no_death_penalty_for_non_islamic_to_non_islamic_conversion",
+      "target": "llm_a_mad_b_anbal_penalty_for_downgrading_to_an_inferior_non_islamic_religion",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_hierarchy_of_non_zoroastrian_legal_systems",
+      "target": "llm_a_mad_b_anbal_penalty_for_downgrading_to_an_inferior_non_islamic_religion",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_n_23_11_conversion_between_non_zoroastrian_laws_and_margarz_n_liability",
+      "target": "llm_g_gu_nasp_in_pahlavi_videvdad_3_42_and_5_38",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_g_gu_nasp_in_pahlavi_videvdad_3_42_and_5_38",
+      "target": "llm_hierarchy_of_non_zoroastrian_legal_systems",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_n_23_12_w_j_and_dr_n_in_encounters_with_jud_ristag_n",
+      "target": "llm_w_j_ritual",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_n_23_12_w_j_and_dr_n_in_encounters_with_jud_ristag_n",
+      "target": "llm_dr_n_sacrifice",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_n_23_12_w_j_and_dr_n_in_encounters_with_jud_ristag_n",
+      "target": "llm_d_nkard_6_233_cf_3_197_9_on_dr_n_sacrifice_and_royal_command",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_d_nkard_6_233_cf_3_197_9_on_dr_n_sacrifice_and_royal_command",
+      "target": "llm_dr_n_sacrifice",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_n_23_12_w_j_and_dr_n_in_encounters_with_jud_ristag_n",
+      "target": "llm_d_nkard_6_233_cf_3_197_9_on_dr_n_sacrifice_and_royal_command",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.72,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.7
+    },
+    {
+      "source": "llm_babylonian_talmud_sanhedrin_61b_abaye_and_rava_on_idolatry_from_love_or_fear",
+      "target": "llm_pahlavi_n_rangest_n_chapter_23",
+      "relation": "semantically_similar_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_babylonian_talmud_sanhedrin_61b_abaye_and_rava_on_idolatry_from_love_or_fear",
+      "target": "llm_shared_babylonian_rabbinic_zoroastrian_intellectual_atmosphere",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.77,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_pahlavi_n_rangest_n_chapter_23",
+      "target": "llm_shared_babylonian_rabbinic_zoroastrian_intellectual_atmosphere",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.77,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.8
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_comparative_debate_on_conversion_between_non_dominant_religions",
+      "label": "Comparative Debate on Conversion Between Non-Dominant Religions",
+      "nodes": [
+        "llm_a_mad_b_anbal_penalty_for_downgrading_to_an_inferior_non_islamic_religion",
+        "llm_ab_an_fa_and_m_lik_b_anas_no_death_penalty_for_non_islamic_to_non_islamic_conversion",
+        "llm_hierarchy_of_non_zoroastrian_legal_systems",
+        "llm_n_23_11_conversion_between_non_zoroastrian_laws_and_margarz_n_liability"
+      ],
+      "relation": "debate",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md"
+    },
+    {
+      "id": "hyper_comparative_legal_taxonomies_suggest_a_shared_babylonian_intellectual_atmosphere",
+      "label": "Comparative Legal Taxonomies Suggest a Shared Babylonian Intellectual Atmosphere",
+      "nodes": [
+        "llm_babylonian_talmud_sanhedrin_61b_abaye_and_rava_on_idolatry_from_love_or_fear",
+        "llm_pahlavi_n_rangest_n_chapter_23",
+        "llm_shared_babylonian_rabbinic_zoroastrian_intellectual_atmosphere"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 8474,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 13432,
+    "output_tokens_details": {
+      "reasoning_tokens": 10841
+    },
+    "total_tokens": 21906
+  }
+}

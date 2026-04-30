@@ -1,0 +1,479 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "label": "Dialogue Between Cultures & Exchange of Knowledge And Cultural Ideas",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_dialogue_between_cultures_exchange_of_knowledge_and_cultural_ideas_proceedings",
+      "label": "Dialogue Between Cultures & Exchange of Knowledge and Cultural Ideas (Proceedings)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": "Editors: Prof. Rekibuddin Ahmed; Dr. Owahedur Zaman"
+    },
+    {
+      "id": "llm_arta_and_a_a_in_proper_names_and_the_range_of_their_political_and_religious_concepts",
+      "label": "Arta and A\u0161a in proper names and the range of their political and religious concepts",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Mojtaba Doroodi; Sanaz Mohajelin",
+      "contributor": null
+    },
+    {
+      "id": "llm_indo_iranian_cultural_and_knowledge_exchange",
+      "label": "Indo-Iranian cultural and knowledge exchange",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_sasanian_dynasty",
+      "label": "Sasanian Dynasty",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_gupta_dynasty",
+      "label": "Gupta Dynasty",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_vedic_literature_veda",
+      "label": "Vedic Literature / Veda",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_khosrau_i_noshirvan",
+      "label": "Khosrau I (Noshirvan)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_academy_of_gundishapur",
+      "label": "Academy of Gundishapur",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_pahlavi_translations_of_plato_and_aristotle",
+      "label": "Pahlavi translations of Plato and Aristotle",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Plato; Aristotle",
+      "contributor": null
+    },
+    {
+      "id": "llm_chaturanga_shatranj_chess_transmission_from_india_to_persia",
+      "label": "Chaturanga\u2013Shatranj chess transmission from India to Persia",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_panchatantra_kalila_wa_dimna_translation_chain",
+      "label": "Panchatantra\u2013Kalila wa Dimna translation chain",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": "Burzoy-e-Tabib; Abdullah ibn al-Muqaffa"
+    },
+    {
+      "id": "llm_argument_persia_iran_as_intermediary_for_east_west_cultural_transmission",
+      "label": "Argument: Persia/Iran as intermediary for East\u2013West cultural transmission",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_academy_of_gundishapur",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_argument_persia_iran_as_intermediary_for_east_west_cultural_transmission",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_arta_and_a_a_in_proper_names_and_the_range_of_their_political_and_religious_concepts",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_chaturanga_shatranj_chess_transmission_from_india_to_persia",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_dialogue_between_cultures_exchange_of_knowledge_and_cultural_ideas_proceedings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_gupta_dynasty",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_indo_iranian_cultural_and_knowledge_exchange",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_khosrau_i_noshirvan",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_pahlavi_translations_of_plato_and_aristotle",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_panchatantra_kalila_wa_dimna_translation_chain",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_sasanian_dynasty",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_vedic_literature_veda",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_dialogue_between_cultures_exchange_of_knowledge_and_cultural_ideas_proceedings",
+      "target": "llm_arta_and_a_a_in_proper_names_and_the_range_of_their_political_and_religious_concepts",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_dialogue_between_cultures_exchange_of_knowledge_and_cultural_ideas_proceedings",
+      "target": "llm_indo_iranian_cultural_and_knowledge_exchange",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.96,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_indo_iranian_cultural_and_knowledge_exchange",
+      "target": "llm_sasanian_dynasty",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.93,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_indo_iranian_cultural_and_knowledge_exchange",
+      "target": "llm_gupta_dynasty",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.93,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_sasanian_dynasty",
+      "target": "llm_gupta_dynasty",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_vedic_literature_veda",
+      "target": "llm_indo_iranian_cultural_and_knowledge_exchange",
+      "relation": "participates_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.72,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.7
+    },
+    {
+      "source": "llm_argument_persia_iran_as_intermediary_for_east_west_cultural_transmission",
+      "target": "llm_indo_iranian_cultural_and_knowledge_exchange",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_khosrau_i_noshirvan",
+      "target": "llm_sasanian_dynasty",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_khosrau_i_noshirvan",
+      "target": "llm_academy_of_gundishapur",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.91,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_academy_of_gundishapur",
+      "target": "llm_sasanian_dynasty",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.89,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_pahlavi_translations_of_plato_and_aristotle",
+      "target": "llm_academy_of_gundishapur",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_pahlavi_translations_of_plato_and_aristotle",
+      "target": "llm_argument_persia_iran_as_intermediary_for_east_west_cultural_transmission",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.7
+    },
+    {
+      "source": "llm_chaturanga_shatranj_chess_transmission_from_india_to_persia",
+      "target": "llm_indo_iranian_cultural_and_knowledge_exchange",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_chaturanga_shatranj_chess_transmission_from_india_to_persia",
+      "target": "llm_argument_persia_iran_as_intermediary_for_east_west_cultural_transmission",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.78,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.75
+    },
+    {
+      "source": "llm_khosrau_i_noshirvan",
+      "target": "llm_chaturanga_shatranj_chess_transmission_from_india_to_persia",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.84,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_panchatantra_kalila_wa_dimna_translation_chain",
+      "target": "llm_indo_iranian_cultural_and_knowledge_exchange",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_panchatantra_kalila_wa_dimna_translation_chain",
+      "target": "llm_argument_persia_iran_as_intermediary_for_east_west_cultural_transmission",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.8
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_sasanian_and_gupta_dynasties_as_the_historical_frame_for_indo_iranian_exchange",
+      "label": "Sasanian and Gupta dynasties as the historical frame for Indo-Iranian exchange",
+      "nodes": [
+        "llm_gupta_dynasty",
+        "llm_indo_iranian_cultural_and_knowledge_exchange",
+        "llm_sasanian_dynasty"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md"
+    },
+    {
+      "id": "hyper_chess_and_panchatantra_as_examples_supporting_persia_s_intermediary_role",
+      "label": "Chess and Panchatantra as examples supporting Persia's intermediary role",
+      "nodes": [
+        "llm_argument_persia_iran_as_intermediary_for_east_west_cultural_transmission",
+        "llm_chaturanga_shatranj_chess_transmission_from_india_to_persia",
+        "llm_indo_iranian_cultural_and_knowledge_exchange",
+        "llm_panchatantra_kalila_wa_dimna_translation_chain"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 5779,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 10834,
+    "output_tokens_details": {
+      "reasoning_tokens": 8286
+    },
+    "total_tokens": 16613
+  }
+}

@@ -1,0 +1,490 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_3_md",
+      "label": "IRANO-JUDAICA VII",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_defeating_death_eschatology_in_zoroastrianism_judaism_and_christianity",
+      "label": "Defeating Death: Eschatology in Zoroastrianism, Judaism and Christianity",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Almut Hintze",
+      "contributor": null
+    },
+    {
+      "id": "llm_zoroastrian_eschatology",
+      "label": "Zoroastrian Eschatology",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_jewish_christian_and_islamic_eschatology",
+      "label": "Jewish, Christian and Islamic Eschatology",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_eschatological_sequence_individual_judgement_universal_judgement_heaven_hell_resurrection_perfector",
+      "label": "Eschatological Sequence: individual judgement, universal judgement, heaven/hell, resurrection, perfector",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_israelite_texts_before_persian_contact_in_the_mid_sixth_century_bce",
+      "label": "Israelite Texts before Persian Contact in the mid-sixth century BCE",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_avesta_including_older_avesta_gathas_and_yasna_44_3",
+      "label": "Avesta, including Older Avesta, Gathas and Yasna 44.3",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_pahlavi_texts_in_middle_persian_including_bundahi_n",
+      "label": "Pahlavi Texts in Middle Persian, including Bundahi\u0161n",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_jean_kellens_s_ritualist_interpretation_of_avestan_eschatology_kellens_1991_1994",
+      "label": "Jean Kellens\u2019s Ritualist Interpretation of Avestan Eschatology (Kellens 1991; 1994)",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Jean Kellens",
+      "contributor": null
+    },
+    {
+      "id": "llm_doctrinal_continuity_from_avesta_to_pahlavi_texts_hultg_rd_1983_shaked_2005_hintze",
+      "label": "Doctrinal Continuity from Avesta to Pahlavi Texts (Hultg\u00e5rd 1983; Shaked 2005; Hintze)",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zoroastrian_cross_fertilization_argument_for_jewish_and_christian_eschatology",
+      "label": "Zoroastrian Cross-Fertilization Argument for Jewish and Christian Eschatology",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Almut Hintze",
+      "contributor": null
+    },
+    {
+      "id": "llm_ahura_mazd_as_creator_of_spiritual_and_physical_life",
+      "label": "Ahura Mazd\u0101 as Creator of Spiritual and Physical Life",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_am_a_sp_tas_life_giving_immortals_including_truth_good_thought_right_mindedness_and_rule",
+      "label": "Am\u0259\u0161a Sp\u0259\u1e47tas: Life-giving Immortals, including Truth, Good Thought, Right-mindedness and Rule",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_3_md",
+      "target": "llm_ahura_mazd_as_creator_of_spiritual_and_physical_life",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_3_md",
+      "target": "llm_am_a_sp_tas_life_giving_immortals_including_truth_good_thought_right_mindedness_and_rule",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_3_md",
+      "target": "llm_avesta_including_older_avesta_gathas_and_yasna_44_3",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_3_md",
+      "target": "llm_defeating_death_eschatology_in_zoroastrianism_judaism_and_christianity",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_3_md",
+      "target": "llm_doctrinal_continuity_from_avesta_to_pahlavi_texts_hultg_rd_1983_shaked_2005_hintze",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_3_md",
+      "target": "llm_eschatological_sequence_individual_judgement_universal_judgement_heaven_hell_resurrection_perfector",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_3_md",
+      "target": "llm_israelite_texts_before_persian_contact_in_the_mid_sixth_century_bce",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_3_md",
+      "target": "llm_jean_kellens_s_ritualist_interpretation_of_avestan_eschatology_kellens_1991_1994",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_3_md",
+      "target": "llm_jewish_christian_and_islamic_eschatology",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_3_md",
+      "target": "llm_pahlavi_texts_in_middle_persian_including_bundahi_n",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_3_md",
+      "target": "llm_zoroastrian_cross_fertilization_argument_for_jewish_and_christian_eschatology",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_3_md",
+      "target": "llm_zoroastrian_eschatology",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_defeating_death_eschatology_in_zoroastrianism_judaism_and_christianity",
+      "target": "llm_zoroastrian_eschatology",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_defeating_death_eschatology_in_zoroastrianism_judaism_and_christianity",
+      "target": "llm_jewish_christian_and_islamic_eschatology",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_defeating_death_eschatology_in_zoroastrianism_judaism_and_christianity",
+      "target": "llm_jean_kellens_s_ritualist_interpretation_of_avestan_eschatology_kellens_1991_1994",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_defeating_death_eschatology_in_zoroastrianism_judaism_and_christianity",
+      "target": "llm_doctrinal_continuity_from_avesta_to_pahlavi_texts_hultg_rd_1983_shaked_2005_hintze",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_zoroastrian_eschatology",
+      "target": "llm_jewish_christian_and_islamic_eschatology",
+      "relation": "semantically_similar_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_zoroastrian_eschatology",
+      "target": "llm_eschatological_sequence_individual_judgement_universal_judgement_heaven_hell_resurrection_perfector",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_jewish_christian_and_islamic_eschatology",
+      "target": "llm_eschatological_sequence_individual_judgement_universal_judgement_heaven_hell_resurrection_perfector",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_israelite_texts_before_persian_contact_in_the_mid_sixth_century_bce",
+      "target": "llm_eschatological_sequence_individual_judgement_universal_judgement_heaven_hell_resurrection_perfector",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_israelite_texts_before_persian_contact_in_the_mid_sixth_century_bce",
+      "target": "llm_zoroastrian_cross_fertilization_argument_for_jewish_and_christian_eschatology",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_avesta_including_older_avesta_gathas_and_yasna_44_3",
+      "target": "llm_zoroastrian_eschatology",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_pahlavi_texts_in_middle_persian_including_bundahi_n",
+      "target": "llm_zoroastrian_eschatology",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_avesta_including_older_avesta_gathas_and_yasna_44_3",
+      "target": "llm_doctrinal_continuity_from_avesta_to_pahlavi_texts_hultg_rd_1983_shaked_2005_hintze",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_pahlavi_texts_in_middle_persian_including_bundahi_n",
+      "target": "llm_doctrinal_continuity_from_avesta_to_pahlavi_texts_hultg_rd_1983_shaked_2005_hintze",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_doctrinal_continuity_from_avesta_to_pahlavi_texts_hultg_rd_1983_shaked_2005_hintze",
+      "target": "llm_zoroastrian_cross_fertilization_argument_for_jewish_and_christian_eschatology",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_jean_kellens_s_ritualist_interpretation_of_avestan_eschatology_kellens_1991_1994",
+      "target": "llm_doctrinal_continuity_from_avesta_to_pahlavi_texts_hultg_rd_1983_shaked_2005_hintze",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_jean_kellens_s_ritualist_interpretation_of_avestan_eschatology_kellens_1991_1994",
+      "target": "llm_avesta_including_older_avesta_gathas_and_yasna_44_3",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_ahura_mazd_as_creator_of_spiritual_and_physical_life",
+      "target": "llm_zoroastrian_eschatology",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_ahura_mazd_as_creator_of_spiritual_and_physical_life",
+      "target": "llm_am_a_sp_tas_life_giving_immortals_including_truth_good_thought_right_mindedness_and_rule",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.95
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_shared_last_things_pattern_across_zoroastrian_and_abrahamic_traditions",
+      "label": "Shared Last Things Pattern across Zoroastrian and Abrahamic Traditions",
+      "nodes": [
+        "llm_eschatological_sequence_individual_judgement_universal_judgement_heaven_hell_resurrection_perfector",
+        "llm_jewish_christian_and_islamic_eschatology",
+        "llm_zoroastrian_eschatology"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md"
+    },
+    {
+      "id": "hyper_debate_over_avesta_pahlavi_evidence_and_zoroastrian_influence_on_judaism",
+      "label": "Debate over Avesta, Pahlavi Evidence and Zoroastrian Influence on Judaism",
+      "nodes": [
+        "llm_avesta_including_older_avesta_gathas_and_yasna_44_3",
+        "llm_doctrinal_continuity_from_avesta_to_pahlavi_texts_hultg_rd_1983_shaked_2005_hintze",
+        "llm_jean_kellens_s_ritualist_interpretation_of_avestan_eschatology_kellens_1991_1994",
+        "llm_pahlavi_texts_in_middle_persian_including_bundahi_n",
+        "llm_zoroastrian_cross_fertilization_argument_for_jewish_and_christian_eschatology"
+      ],
+      "relation": "debate",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 6598,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 10285,
+    "output_tokens_details": {
+      "reasoning_tokens": 7552
+    },
+    "total_tokens": 16883
+  }
+}

@@ -1,0 +1,441 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_502231919_traces_of_iran_2_md",
+      "label": "ABSTRACT:",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_argument_iranian_cultural_influences_in_the_indian_subcontinent",
+      "label": "Argument: Iranian Cultural Influences in the Indian Subcontinent",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_aryan_brahmin_migration_and_sanskrit_avestan_inheritance",
+      "label": "Aryan/Brahmin Migration and Sanskrit-Avestan Inheritance",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_parsi_zoroastrian_contributions_in_india",
+      "label": "Parsi/Zoroastrian Contributions in India",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_humata_hukhta_huvarashta_good_thought_good_word_good_work",
+      "label": "Humata, Hukhta, Huvarashta (Good Thought, Good Word, Good Work)",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_persianized_sufi_islam_in_india",
+      "label": "Persianized Sufi Islam in India",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_urdu_as_persianate_language_persian_persianized_arabic_sanskrit",
+      "label": "Urdu as Persianate Language (Persian, Persianized Arabic, Sanskrit)",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_qawwali_as_persian_urdu_spiritual_music",
+      "label": "Qawwali as Persian/Urdu Spiritual Music",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_claim_taj_mahal_as_a_persian_islamic_monument",
+      "label": "Claim: Taj Mahal as a Persian Islamic Monument",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_dr_zardosht_sotudeh_lectures_internet",
+      "label": "Dr. Zardosht Sotudeh Lectures (Internet)",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Zardosht Sotudeh",
+      "contributor": null
+    },
+    {
+      "id": "llm_jawaharlal_nehru_the_letters_of_a_father_to_his_daughter",
+      "label": "Jawaharlal Nehru, The Letters of a Father to His Daughter",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Jawaharlal Nehru",
+      "contributor": null
+    },
+    {
+      "id": "llm_argument_persian_empire_rule_and_influence_in_arab_lands_before_islam",
+      "label": "Argument: Persian Empire Rule and Influence in Arab Lands before Islam",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_cyrus_the_great_s_conquest_of_babylon_and_liberation_of_jews",
+      "label": "Cyrus the Great's Conquest of Babylon and Liberation of Jews",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_md",
+      "target": "llm_argument_iranian_cultural_influences_in_the_indian_subcontinent",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_md",
+      "target": "llm_argument_persian_empire_rule_and_influence_in_arab_lands_before_islam",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_md",
+      "target": "llm_aryan_brahmin_migration_and_sanskrit_avestan_inheritance",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_md",
+      "target": "llm_claim_taj_mahal_as_a_persian_islamic_monument",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_md",
+      "target": "llm_cyrus_the_great_s_conquest_of_babylon_and_liberation_of_jews",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_md",
+      "target": "llm_dr_zardosht_sotudeh_lectures_internet",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_md",
+      "target": "llm_humata_hukhta_huvarashta_good_thought_good_word_good_work",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_md",
+      "target": "llm_jawaharlal_nehru_the_letters_of_a_father_to_his_daughter",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_md",
+      "target": "llm_parsi_zoroastrian_contributions_in_india",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_md",
+      "target": "llm_persianized_sufi_islam_in_india",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_md",
+      "target": "llm_qawwali_as_persian_urdu_spiritual_music",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_md",
+      "target": "llm_urdu_as_persianate_language_persian_persianized_arabic_sanskrit",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_aryan_brahmin_migration_and_sanskrit_avestan_inheritance",
+      "target": "llm_argument_iranian_cultural_influences_in_the_indian_subcontinent",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_parsi_zoroastrian_contributions_in_india",
+      "target": "llm_argument_iranian_cultural_influences_in_the_indian_subcontinent",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.92,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_humata_hukhta_huvarashta_good_thought_good_word_good_work",
+      "target": "llm_parsi_zoroastrian_contributions_in_india",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_persianized_sufi_islam_in_india",
+      "target": "llm_argument_iranian_cultural_influences_in_the_indian_subcontinent",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_urdu_as_persianate_language_persian_persianized_arabic_sanskrit",
+      "target": "llm_argument_iranian_cultural_influences_in_the_indian_subcontinent",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_qawwali_as_persian_urdu_spiritual_music",
+      "target": "llm_argument_iranian_cultural_influences_in_the_indian_subcontinent",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_qawwali_as_persian_urdu_spiritual_music",
+      "target": "llm_urdu_as_persianate_language_persian_persianized_arabic_sanskrit",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_claim_taj_mahal_as_a_persian_islamic_monument",
+      "target": "llm_argument_iranian_cultural_influences_in_the_indian_subcontinent",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_claim_taj_mahal_as_a_persian_islamic_monument",
+      "target": "llm_jawaharlal_nehru_the_letters_of_a_father_to_his_daughter",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.92,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_parsi_zoroastrian_contributions_in_india",
+      "target": "llm_dr_zardosht_sotudeh_lectures_internet",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_persianized_sufi_islam_in_india",
+      "target": "llm_urdu_as_persianate_language_persian_persianized_arabic_sanskrit",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.72,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.6
+    },
+    {
+      "source": "llm_cyrus_the_great_s_conquest_of_babylon_and_liberation_of_jews",
+      "target": "llm_argument_persian_empire_rule_and_influence_in_arab_lands_before_islam",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_argument_persian_empire_rule_and_influence_in_arab_lands_before_islam",
+      "target": "llm_argument_iranian_cultural_influences_in_the_indian_subcontinent",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.6
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_stated_waves_of_iranian_influence_in_india",
+      "label": "Stated Waves of Iranian Influence in India",
+      "nodes": [
+        "llm_argument_iranian_cultural_influences_in_the_indian_subcontinent",
+        "llm_aryan_brahmin_migration_and_sanskrit_avestan_inheritance",
+        "llm_parsi_zoroastrian_contributions_in_india",
+        "llm_persianized_sufi_islam_in_india",
+        "llm_urdu_as_persianate_language_persian_persianized_arabic_sanskrit"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md"
+    },
+    {
+      "id": "hyper_persianate_language_music_and_monumental_arts_in_india",
+      "label": "Persianate Language, Music, and Monumental Arts in India",
+      "nodes": [
+        "llm_argument_iranian_cultural_influences_in_the_indian_subcontinent",
+        "llm_claim_taj_mahal_as_a_persian_islamic_monument",
+        "llm_qawwali_as_persian_urdu_spiritual_music",
+        "llm_urdu_as_persianate_language_persian_persianized_arabic_sanskrit"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.76,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 6548,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 8997,
+    "output_tokens_details": {
+      "reasoning_tokens": 6732
+    },
+    "total_tokens": 15545
+  }
+}

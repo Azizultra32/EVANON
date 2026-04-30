@@ -1,0 +1,491 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "label": "PROBLEMS OF ARMENIAN PREHISTORY",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_problems_of_armenian_prehistory",
+      "label": "PROBLEMS OF ARMENIAN PREHISTORY",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_forefather_hayk_in_the_light_of_comparative_mythology",
+      "label": "Forefather Hayk in the Light of Comparative Mythology",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_indo_european_h2ner_t_s_and_the_d_nu_tribe_argument",
+      "label": "Indo-European *H2ner(t)-s* and the D\u0101nu Tribe Argument",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_kumme_kummanna_te_ub_tei_eba_and_greek_theseus",
+      "label": "Kumme, Kummanna, Te\u0161\u0161ub / Tei\u0161eba, and Greek Theseus",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_haldi_and_mithra_mher_god_or_hero_reborn_from_rock_stone",
+      "label": "Haldi and Mithra/Mher: God or Hero Reborn from Rock/Stone",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_state_pantheon_of_greater_armenia_aramazd_anahit_vahagn_mihr",
+      "label": "State Pantheon of Greater Armenia: Aramazd, Anahit, Vahagn, Mihr",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_armenian_elements_in_the_language_and_onomastics_of_urartu",
+      "label": "Armenian Elements in the Language and Onomastics of Urartu",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_problem_of_identification_of_the_proto_armenians_critical_review",
+      "label": "Problem of Identification of the Proto-Armenians: Critical Review",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_proto_armenians_in_the_armenian_highland_arimoi_hatti_hayasa_etiuni_hypotheses",
+      "label": "Proto-Armenians in the Armenian Highland: Arimoi, Hatti, Hayasa, Etiuni Hypotheses",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_first_capitals_armawir_and_armazi_early_ethnic_associations",
+      "label": "First Capitals Armawir and Armazi: Early Ethnic Associations",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_toporov_1977_indo_european_myth_in_ancient_armenian_tradition",
+      "label": "Toporov 1977: Indo-European Myth in Ancient Armenian Tradition",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zimansky_2001_ethno_linguistic_diversity_in_urartu",
+      "label": "Zimansky 2001: Ethno-Linguistic Diversity in Urartu",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_armenian_elements_in_the_language_and_onomastics_of_urartu",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_first_capitals_armawir_and_armazi_early_ethnic_associations",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_forefather_hayk_in_the_light_of_comparative_mythology",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_haldi_and_mithra_mher_god_or_hero_reborn_from_rock_stone",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_indo_european_h2ner_t_s_and_the_d_nu_tribe_argument",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_kumme_kummanna_te_ub_tei_eba_and_greek_theseus",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_problem_of_identification_of_the_proto_armenians_critical_review",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_problems_of_armenian_prehistory",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_proto_armenians_in_the_armenian_highland_arimoi_hatti_hayasa_etiuni_hypotheses",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_state_pantheon_of_greater_armenia_aramazd_anahit_vahagn_mihr",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_toporov_1977_indo_european_myth_in_ancient_armenian_tradition",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_zimansky_2001_ethno_linguistic_diversity_in_urartu",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_problems_of_armenian_prehistory",
+      "target": "llm_forefather_hayk_in_the_light_of_comparative_mythology",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_problems_of_armenian_prehistory",
+      "target": "llm_kumme_kummanna_te_ub_tei_eba_and_greek_theseus",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_problems_of_armenian_prehistory",
+      "target": "llm_haldi_and_mithra_mher_god_or_hero_reborn_from_rock_stone",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_problems_of_armenian_prehistory",
+      "target": "llm_state_pantheon_of_greater_armenia_aramazd_anahit_vahagn_mihr",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_problems_of_armenian_prehistory",
+      "target": "llm_armenian_elements_in_the_language_and_onomastics_of_urartu",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_problems_of_armenian_prehistory",
+      "target": "llm_problem_of_identification_of_the_proto_armenians_critical_review",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_problems_of_armenian_prehistory",
+      "target": "llm_proto_armenians_in_the_armenian_highland_arimoi_hatti_hayasa_etiuni_hypotheses",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_problems_of_armenian_prehistory",
+      "target": "llm_first_capitals_armawir_and_armazi_early_ethnic_associations",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_problems_of_armenian_prehistory",
+      "target": "llm_toporov_1977_indo_european_myth_in_ancient_armenian_tradition",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_problems_of_armenian_prehistory",
+      "target": "llm_zimansky_2001_ethno_linguistic_diversity_in_urartu",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_forefather_hayk_in_the_light_of_comparative_mythology",
+      "target": "llm_indo_european_h2ner_t_s_and_the_d_nu_tribe_argument",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_toporov_1977_indo_european_myth_in_ancient_armenian_tradition",
+      "target": "llm_forefather_hayk_in_the_light_of_comparative_mythology",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.78,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.78
+    },
+    {
+      "source": "llm_kumme_kummanna_te_ub_tei_eba_and_greek_theseus",
+      "target": "llm_state_pantheon_of_greater_armenia_aramazd_anahit_vahagn_mihr",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.75
+    },
+    {
+      "source": "llm_haldi_and_mithra_mher_god_or_hero_reborn_from_rock_stone",
+      "target": "llm_state_pantheon_of_greater_armenia_aramazd_anahit_vahagn_mihr",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.86
+    },
+    {
+      "source": "llm_armenian_elements_in_the_language_and_onomastics_of_urartu",
+      "target": "llm_problem_of_identification_of_the_proto_armenians_critical_review",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.82
+    },
+    {
+      "source": "llm_proto_armenians_in_the_armenian_highland_arimoi_hatti_hayasa_etiuni_hypotheses",
+      "target": "llm_problem_of_identification_of_the_proto_armenians_critical_review",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_first_capitals_armawir_and_armazi_early_ethnic_associations",
+      "target": "llm_problem_of_identification_of_the_proto_armenians_critical_review",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_zimansky_2001_ethno_linguistic_diversity_in_urartu",
+      "target": "llm_armenian_elements_in_the_language_and_onomastics_of_urartu",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.8
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_proto_armenian_origin_debate_urartu_evidence_highland_hypotheses_and_early_capitals",
+      "label": "Proto-Armenian Origin Debate: Urartu Evidence, Highland Hypotheses, and Early Capitals",
+      "nodes": [
+        "llm_armenian_elements_in_the_language_and_onomastics_of_urartu",
+        "llm_first_capitals_armawir_and_armazi_early_ethnic_associations",
+        "llm_problem_of_identification_of_the_proto_armenians_critical_review",
+        "llm_proto_armenians_in_the_armenian_highland_arimoi_hatti_hayasa_etiuni_hypotheses"
+      ],
+      "relation": "debate",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md"
+    },
+    {
+      "id": "hyper_comparative_mythology_and_pantheon_reconstruction_in_armenian_prehistory",
+      "label": "Comparative Mythology and Pantheon Reconstruction in Armenian Prehistory",
+      "nodes": [
+        "llm_forefather_hayk_in_the_light_of_comparative_mythology",
+        "llm_haldi_and_mithra_mher_god_or_hero_reborn_from_rock_stone",
+        "llm_indo_european_h2ner_t_s_and_the_d_nu_tribe_argument",
+        "llm_kumme_kummanna_te_ub_tei_eba_and_greek_theseus",
+        "llm_state_pantheon_of_greater_armenia_aramazd_anahit_vahagn_mihr"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.77,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 9753,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 10162,
+    "output_tokens_details": {
+      "reasoning_tokens": 7243
+    },
+    "total_tokens": 19915
+  }
+}

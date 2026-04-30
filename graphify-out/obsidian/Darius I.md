@@ -1,8 +1,8 @@
 ---
-source_file: "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md"
+source_file: "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md"
 type: "document"
 community: "Iranian Kingship"
-location: "chunk 3/3"
+location: "chunk 1/3"
 tags:
   - graphify/document
   - graphify/EXTRACTED
@@ -12,25 +12,21 @@ tags:
 # Darius I
 
 ## Connections
-- [[Achaemenid History Derailed by AvestologyAssessing La religion des Achéménides confrontation des sources]] - `references` [EXTRACTED]
-- [[Achaemenid History Derailed by AvestologyAssessing La religion des Achéménides confrontation des sources_1]] - `references` [EXTRACTED]
-- [[Achaemenid Kingship]] - `references` [EXTRACTED]
-- [[Achaemenid Monarchic Ideology]] - `references` [EXTRACTED]
-- [[Ahura Mazda]] - `conceptually_related_to` [INFERRED]
-- [[Ahura Mazdā]] - `conceptually_related_to` [INFERRED]
-- [[Alexander's Conquest]] - `rationale_for` [INFERRED]
-- [[Ancient Iran Cosmology, Mythology, History_1]] - `references` [EXTRACTED]
-- [[Ancient Iran Cosmology, Mythology, History_2]] - `references` [EXTRACTED]
-- [[Cyrus the Great]] - `references` [EXTRACTED]
-- [[Elamite Culture]] - `participates_in` [INFERRED]
-- [[Imperial Program in Visual Arts]] - `participates_in` [EXTRACTED]
-- [[Kellens's 1998 Liturgical Tabulations]] - `references` [EXTRACTED]
-- [[Kellens's Concept of Fixation]] - `references` [EXTRACTED]
+- [[THE AURA OF KINGS_2]] - `references` [EXTRACTED]
+- [[THE AURA OF KINGS_4]] - `references` [EXTRACTED]
+- [[ASTYAGES, CYRUS AND ZOROASTER SOLVING A HISTORICAL DILEMMA]] - `references` [EXTRACTED]
+- [[Ahura Mazdā]] - `conceptually_related_to` [EXTRACTED]
+- [[Darius I's Imperial Visual Program in the Visual Arts]] - `references` [EXTRACTED]
+- [[François Vallat's Achaemenid Lineage and Banishment Thesis (Vallat 2010; 2011)]] - `conceptually_related_to` [EXTRACTED]
+- [[Imperial Program in the Visual Arts during the Reign of Darius I]] - `references` [EXTRACTED]
 - [[MORE THAN MEN, LESS THAN GODS]] - `references` [EXTRACTED]
 - [[MORE THAN MEN, LESS THAN GODS_1]] - `references` [EXTRACTED]
-- [[Mithra]] - `contrasts_with` [INFERRED]
-- [[Persepolis]] - `participates_in` [INFERRED]
-- [[Persian Calendar]] - `establishes` [EXTRACTED]
-- [[Shahname]] - `references` [EXTRACTED]
+- [[Median Magi and Persian Pārsā Fire-Priest Feud]] - `conceptually_related_to` [EXTRACTED]
+- [[Median Mithra–Apam Napāt Khvarenah Ideology]] - `contrasts_with` [EXTRACTED]
+- [[Mithrā]] - `contrasts_with` [EXTRACTED]
+- [[Naqš-e Rustam Tomb Relief]] - `references` [EXTRACTED]
+- [[PFS 389 Dārayaush Pārsā Inscribed Word]] - `references` [INFERRED]
+- [[PFS 389 Old Persian Inscription “Dārayaush Pārsā” with Winged Sun Disk]] - `references` [INFERRED]
+- [[Persepolis Apadana and Palace of Darius]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Iranian_Kingship

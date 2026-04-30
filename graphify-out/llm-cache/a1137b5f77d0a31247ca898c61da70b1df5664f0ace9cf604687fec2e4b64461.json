@@ -1,0 +1,491 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "label": "\u201cBuilding a New Vision of the Past in the Sasanian Empire: The Sanctuaries of Kay\u0101nsih and the Great Fires of Iran\u201d\\*",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_kuh_e_khv_jeh_sanctuary_complex",
+      "label": "Kuh-e Khv\u0101jeh Sanctuary Complex",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_kuh_e_khv_jeh_dating_debate_c14_limits_architecture_stucco_painting_ghanimati_2000_2001_kawami_1987",
+      "label": "Kuh-e Khv\u0101jeh Dating Debate: C14 Limits, Architecture, Stucco, Painting (Ghanimati 2000/2001; Kawami 1987)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_painted_gallery_bactrian_divine_iconography_oe_o_iva_nana_um_mao_orlango_g_bl_1984_kawami_1987",
+      "label": "Painted Gallery Bactrian Divine Iconography: Oe\u0161o/\u015aiva, Nana/Um\u0101, Mao, Orlango (G\u00f6bl 1984; Kawami 1987)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_sasanian_royal_visual_program_at_kuh_e_khv_jeh",
+      "label": "Sasanian Royal Visual Program at Kuh-e Khv\u0101jeh",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_sasanian_appropriation_of_avestan_topography_and_kay_ns_h_tradition",
+      "label": "Sasanian Appropriation of Avestan Topography and Kay\u0101ns\u012bh Tradition",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_three_great_fires_of_iran_dur_gu_nasp_dur_farnb_g_dur_burz_n_mihr",
+      "label": "Three Great Fires of Iran: \u0100dur Gu\u0161nasp, \u0100dur Farnb\u0101g, \u0100dur Burz\u0113n-Mihr",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_pahlavi_commentarial_tradition_on_great_fires_bundahi_n_18_z_dspram_3_84_86_d_nkard",
+      "label": "Pahlavi Commentarial Tradition on Great Fires (Bundahi\u0161n 18; Z\u0101dspram 3.84\u201386; D\u0113nkard)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_rationale_great_fires_not_named_in_the_avesta_and_lack_pre_parthian_primary_evidence",
+      "label": "Rationale: Great Fires Not Named in the Avesta and Lack Pre-Parthian Primary Evidence",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_dur_burz_n_mihr_arsacid_favored_fire_linked_to_r_wand_ra_uuan_and_wi_t_sp",
+      "label": "\u0100dur Burz\u0113n-Mihr: Arsacid-Favored Fire Linked to R\u0113wand/Ra\u0113uuan\u1e6d and Wi\u0161t\u0101sp",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_dur_gu_nasp_takht_e_solaym_n_excavated_great_fire_sanctuary",
+      "label": "\u0100dur Gu\u0161nasp / Takht-e Solaym\u0101n: Excavated Great Fire Sanctuary",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_dur_farnb_g_fire_linked_to_yima_and_reinstallation_legends",
+      "label": "\u0100dur Farnb\u0101g: Fire Linked to Yima and Reinstallation Legends",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_argument_sasanian_reordering_of_great_fire_prestige_and_anti_arsacid_memory",
+      "label": "Argument: Sasanian Reordering of Great Fire Prestige and Anti-Arsacid Memory",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_argument_sasanian_reordering_of_great_fire_prestige_and_anti_arsacid_memory",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_dur_burz_n_mihr_arsacid_favored_fire_linked_to_r_wand_ra_uuan_and_wi_t_sp",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_dur_farnb_g_fire_linked_to_yima_and_reinstallation_legends",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_dur_gu_nasp_takht_e_solaym_n_excavated_great_fire_sanctuary",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_kuh_e_khv_jeh_dating_debate_c14_limits_architecture_stucco_painting_ghanimati_2000_2001_kawami_1987",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_kuh_e_khv_jeh_sanctuary_complex",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_pahlavi_commentarial_tradition_on_great_fires_bundahi_n_18_z_dspram_3_84_86_d_nkard",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_painted_gallery_bactrian_divine_iconography_oe_o_iva_nana_um_mao_orlango_g_bl_1984_kawami_1987",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_rationale_great_fires_not_named_in_the_avesta_and_lack_pre_parthian_primary_evidence",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_sasanian_appropriation_of_avestan_topography_and_kay_ns_h_tradition",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_sasanian_royal_visual_program_at_kuh_e_khv_jeh",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_three_great_fires_of_iran_dur_gu_nasp_dur_farnb_g_dur_burz_n_mihr",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_kuh_e_khv_jeh_sanctuary_complex",
+      "target": "llm_sasanian_appropriation_of_avestan_topography_and_kay_ns_h_tradition",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.92,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_kuh_e_khv_jeh_dating_debate_c14_limits_architecture_stucco_painting_ghanimati_2000_2001_kawami_1987",
+      "target": "llm_kuh_e_khv_jeh_sanctuary_complex",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_kuh_e_khv_jeh_dating_debate_c14_limits_architecture_stucco_painting_ghanimati_2000_2001_kawami_1987",
+      "target": "llm_sasanian_appropriation_of_avestan_topography_and_kay_ns_h_tradition",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.76,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_painted_gallery_bactrian_divine_iconography_oe_o_iva_nana_um_mao_orlango_g_bl_1984_kawami_1987",
+      "target": "llm_kuh_e_khv_jeh_sanctuary_complex",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_painted_gallery_bactrian_divine_iconography_oe_o_iva_nana_um_mao_orlango_g_bl_1984_kawami_1987",
+      "target": "llm_sasanian_royal_visual_program_at_kuh_e_khv_jeh",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_sasanian_royal_visual_program_at_kuh_e_khv_jeh",
+      "target": "llm_kuh_e_khv_jeh_sanctuary_complex",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_sasanian_royal_visual_program_at_kuh_e_khv_jeh",
+      "target": "llm_sasanian_appropriation_of_avestan_topography_and_kay_ns_h_tradition",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.93,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_sasanian_appropriation_of_avestan_topography_and_kay_ns_h_tradition",
+      "target": "llm_three_great_fires_of_iran_dur_gu_nasp_dur_farnb_g_dur_burz_n_mihr",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_pahlavi_commentarial_tradition_on_great_fires_bundahi_n_18_z_dspram_3_84_86_d_nkard",
+      "target": "llm_three_great_fires_of_iran_dur_gu_nasp_dur_farnb_g_dur_burz_n_mihr",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_rationale_great_fires_not_named_in_the_avesta_and_lack_pre_parthian_primary_evidence",
+      "target": "llm_pahlavi_commentarial_tradition_on_great_fires_bundahi_n_18_z_dspram_3_84_86_d_nkard",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_rationale_great_fires_not_named_in_the_avesta_and_lack_pre_parthian_primary_evidence",
+      "target": "llm_argument_sasanian_reordering_of_great_fire_prestige_and_anti_arsacid_memory",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.89,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_dur_burz_n_mihr_arsacid_favored_fire_linked_to_r_wand_ra_uuan_and_wi_t_sp",
+      "target": "llm_three_great_fires_of_iran_dur_gu_nasp_dur_farnb_g_dur_burz_n_mihr",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_dur_gu_nasp_takht_e_solaym_n_excavated_great_fire_sanctuary",
+      "target": "llm_three_great_fires_of_iran_dur_gu_nasp_dur_farnb_g_dur_burz_n_mihr",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_dur_farnb_g_fire_linked_to_yima_and_reinstallation_legends",
+      "target": "llm_three_great_fires_of_iran_dur_gu_nasp_dur_farnb_g_dur_burz_n_mihr",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_dur_burz_n_mihr_arsacid_favored_fire_linked_to_r_wand_ra_uuan_and_wi_t_sp",
+      "target": "llm_dur_gu_nasp_takht_e_solaym_n_excavated_great_fire_sanctuary",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_dur_burz_n_mihr_arsacid_favored_fire_linked_to_r_wand_ra_uuan_and_wi_t_sp",
+      "target": "llm_dur_farnb_g_fire_linked_to_yima_and_reinstallation_legends",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_argument_sasanian_reordering_of_great_fire_prestige_and_anti_arsacid_memory",
+      "target": "llm_dur_gu_nasp_takht_e_solaym_n_excavated_great_fire_sanctuary",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_argument_sasanian_reordering_of_great_fire_prestige_and_anti_arsacid_memory",
+      "target": "llm_dur_farnb_g_fire_linked_to_yima_and_reinstallation_legends",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_three_great_fires_triad",
+      "label": "Three Great Fires Triad",
+      "nodes": [
+        "llm_dur_burz_n_mihr_arsacid_favored_fire_linked_to_r_wand_ra_uuan_and_wi_t_sp",
+        "llm_dur_farnb_g_fire_linked_to_yima_and_reinstallation_legends",
+        "llm_dur_gu_nasp_takht_e_solaym_n_excavated_great_fire_sanctuary",
+        "llm_three_great_fires_of_iran_dur_gu_nasp_dur_farnb_g_dur_burz_n_mihr"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md"
+    },
+    {
+      "id": "hyper_kuh_e_khv_jeh_as_early_sasanian_monumental_avestan_focus",
+      "label": "Kuh-e Khv\u0101jeh as Early Sasanian Monumental Avestan Focus",
+      "nodes": [
+        "llm_kuh_e_khv_jeh_dating_debate_c14_limits_architecture_stucco_painting_ghanimati_2000_2001_kawami_1987",
+        "llm_kuh_e_khv_jeh_sanctuary_complex",
+        "llm_painted_gallery_bactrian_divine_iconography_oe_o_iva_nana_um_mao_orlango_g_bl_1984_kawami_1987",
+        "llm_sasanian_appropriation_of_avestan_topography_and_kay_ns_h_tradition",
+        "llm_sasanian_royal_visual_program_at_kuh_e_khv_jeh"
+      ],
+      "relation": "debate",
+      "confidence": "INFERRED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 6281,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 10610,
+    "output_tokens_details": {
+      "reasoning_tokens": 7765
+    },
+    "total_tokens": 16891
+  }
+}

@@ -1,0 +1,492 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_502231919_traces_of_iran_md",
+      "label": "ABSTRACT:",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_traces_of_iran_s_culture_in_europe_america_china_india_and_arabia",
+      "label": "Traces of Iran's Culture in Europe, America, China, India, and Arabia",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Prof. M.S. Tajar",
+      "contributor": null
+    },
+    {
+      "id": "llm_thesis_iranian_civilization_as_a_global_source_of_cultural_influence",
+      "label": "Thesis: Iranian Civilization as a Global Source of Cultural Influence",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_jason_reza_jorjani_iranian_leviathan_and_prometheus_and_atlas",
+      "label": "Jason Reza Jorjani: Iranian Leviathan and Prometheus and Atlas",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Jason Reza Jorjani",
+      "contributor": null
+    },
+    {
+      "id": "llm_persian_magi_and_zoroastrian_influence_on_greek_philosophy",
+      "label": "Persian Magi and Zoroastrian Influence on Greek Philosophy",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_cyrus_the_great_as_jewish_savior_messiah_claim",
+      "label": "Cyrus the Great as Jewish Savior/Messiah Claim",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_bible_torah_isaiah_45_1_and_ezra_1",
+      "label": "Bible/Torah: Isaiah 45:1 and Ezra 1",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_mithraic_influence_on_christian_catholic_rituals",
+      "label": "Mithraic Influence on Christian/Catholic Rituals",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_an_shigao_ashkani_prince_introducing_buddhism_to_china",
+      "label": "An Shigao/Ashkani Prince Introducing Buddhism to China",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_avestan_persian_words_in_english_and_european_languages",
+      "label": "Avestan/Persian Words in English and European Languages",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_persian_islamic_cultural_influence_in_moorish_spain",
+      "label": "Persian-Islamic Cultural Influence in Moorish Spain",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ali_zaryab_and_persian_music_dance_traditions_in_spain",
+      "label": "Ali Zaryab and Persian Music/Dance Traditions in Spain",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_tariq_bin_ziyad_hamadani_and_the_711_conquest_of_spain",
+      "label": "Tariq bin Ziyad Hamadani and the 711 Conquest of Spain",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_md",
+      "target": "llm_ali_zaryab_and_persian_music_dance_traditions_in_spain",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_md",
+      "target": "llm_an_shigao_ashkani_prince_introducing_buddhism_to_china",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_md",
+      "target": "llm_avestan_persian_words_in_english_and_european_languages",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_md",
+      "target": "llm_bible_torah_isaiah_45_1_and_ezra_1",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_md",
+      "target": "llm_cyrus_the_great_as_jewish_savior_messiah_claim",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_md",
+      "target": "llm_jason_reza_jorjani_iranian_leviathan_and_prometheus_and_atlas",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_md",
+      "target": "llm_mithraic_influence_on_christian_catholic_rituals",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_md",
+      "target": "llm_persian_islamic_cultural_influence_in_moorish_spain",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_md",
+      "target": "llm_persian_magi_and_zoroastrian_influence_on_greek_philosophy",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_md",
+      "target": "llm_tariq_bin_ziyad_hamadani_and_the_711_conquest_of_spain",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_md",
+      "target": "llm_thesis_iranian_civilization_as_a_global_source_of_cultural_influence",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_md",
+      "target": "llm_traces_of_iran_s_culture_in_europe_america_china_india_and_arabia",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_traces_of_iran_s_culture_in_europe_america_china_india_and_arabia",
+      "target": "llm_thesis_iranian_civilization_as_a_global_source_of_cultural_influence",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_traces_of_iran_s_culture_in_europe_america_china_india_and_arabia",
+      "target": "llm_jason_reza_jorjani_iranian_leviathan_and_prometheus_and_atlas",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_jason_reza_jorjani_iranian_leviathan_and_prometheus_and_atlas",
+      "target": "llm_thesis_iranian_civilization_as_a_global_source_of_cultural_influence",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_jason_reza_jorjani_iranian_leviathan_and_prometheus_and_atlas",
+      "target": "llm_persian_magi_and_zoroastrian_influence_on_greek_philosophy",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.8,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.75
+    },
+    {
+      "source": "llm_persian_magi_and_zoroastrian_influence_on_greek_philosophy",
+      "target": "llm_thesis_iranian_civilization_as_a_global_source_of_cultural_influence",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_traces_of_iran_s_culture_in_europe_america_china_india_and_arabia",
+      "target": "llm_cyrus_the_great_as_jewish_savior_messiah_claim",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_traces_of_iran_s_culture_in_europe_america_china_india_and_arabia",
+      "target": "llm_bible_torah_isaiah_45_1_and_ezra_1",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_bible_torah_isaiah_45_1_and_ezra_1",
+      "target": "llm_cyrus_the_great_as_jewish_savior_messiah_claim",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_cyrus_the_great_as_jewish_savior_messiah_claim",
+      "target": "llm_thesis_iranian_civilization_as_a_global_source_of_cultural_influence",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_traces_of_iran_s_culture_in_europe_america_china_india_and_arabia",
+      "target": "llm_mithraic_influence_on_christian_catholic_rituals",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_mithraic_influence_on_christian_catholic_rituals",
+      "target": "llm_thesis_iranian_civilization_as_a_global_source_of_cultural_influence",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.84,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_traces_of_iran_s_culture_in_europe_america_china_india_and_arabia",
+      "target": "llm_an_shigao_ashkani_prince_introducing_buddhism_to_china",
+      "relation": "references",
+      "confidence": "AMBIGUOUS",
+      "confidence_score": 0.65,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.65
+    },
+    {
+      "source": "llm_an_shigao_ashkani_prince_introducing_buddhism_to_china",
+      "target": "llm_thesis_iranian_civilization_as_a_global_source_of_cultural_influence",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.7
+    },
+    {
+      "source": "llm_traces_of_iran_s_culture_in_europe_america_china_india_and_arabia",
+      "target": "llm_avestan_persian_words_in_english_and_european_languages",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_avestan_persian_words_in_english_and_european_languages",
+      "target": "llm_thesis_iranian_civilization_as_a_global_source_of_cultural_influence",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_ali_zaryab_and_persian_music_dance_traditions_in_spain",
+      "target": "llm_persian_islamic_cultural_influence_in_moorish_spain",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_tariq_bin_ziyad_hamadani_and_the_711_conquest_of_spain",
+      "target": "llm_persian_islamic_cultural_influence_in_moorish_spain",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_persian_islamic_cultural_influence_in_moorish_spain",
+      "target": "llm_thesis_iranian_civilization_as_a_global_source_of_cultural_influence",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_rationales_used_for_the_iranian_global_influence_thesis",
+      "label": "Rationales Used for the Iranian Global Influence Thesis",
+      "nodes": [
+        "llm_an_shigao_ashkani_prince_introducing_buddhism_to_china",
+        "llm_avestan_persian_words_in_english_and_european_languages",
+        "llm_cyrus_the_great_as_jewish_savior_messiah_claim",
+        "llm_mithraic_influence_on_christian_catholic_rituals",
+        "llm_persian_islamic_cultural_influence_in_moorish_spain",
+        "llm_persian_magi_and_zoroastrian_influence_on_greek_philosophy",
+        "llm_thesis_iranian_civilization_as_a_global_source_of_cultural_influence"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md"
+    },
+    {
+      "id": "hyper_persian_islamic_spain_transmission_claims",
+      "label": "Persian-Islamic Spain Transmission Claims",
+      "nodes": [
+        "llm_ali_zaryab_and_persian_music_dance_traditions_in_spain",
+        "llm_persian_islamic_cultural_influence_in_moorish_spain",
+        "llm_tariq_bin_ziyad_hamadani_and_the_711_conquest_of_spain"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 7267,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 12448,
+    "output_tokens_details": {
+      "reasoning_tokens": 9840
+    },
+    "total_tokens": 19715
+  }
+}

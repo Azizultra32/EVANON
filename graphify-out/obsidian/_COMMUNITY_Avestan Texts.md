@@ -1,35 +1,48 @@
 ---
 type: community
-cohesion: 0.18
-members: 20
+cohesion: 0.16
+members: 33
 ---
 
 # Avestan Texts
 
-**Cohesion:** 0.18 - loosely connected
-**Members:** 20 nodes
+**Cohesion:** 0.16 - loosely connected
+**Members:** 33 nodes
 
 ## Members
-- [[A Thousand Judgements]] - document - raw/ocr/A_Thousand_Judgements.md
-- [[A Thousand Judgements_1]] - document - raw/ocr/A_Thousand_Judgements.md
-- [[Apostasy]] - document - raw/ocr/A_Thousand_Judgements.md
-- [[Babylonian Talmud]] - document - raw/ocr/A_Thousand_Judgements.md
-- [[Cultural Exchanges between Rabbis and Dastwars]] - document - raw/ocr/A_Thousand_Judgements.md
-- [[IBN QUDĀMA]] - document - raw/ocr/A_Thousand_Judgements.md
-- [[Islamic Jurists]] - document - raw/ocr/A_Thousand_Judgements.md
-- [[Islamic Law]] - document - raw/ocr/A_Thousand_Judgements.md
-- [[Legal Principles in Rabbinic and Zoroastrian Texts]] - document - raw/ocr/A_Thousand_Judgements.md
-- [[Margarzān Sin]] - document - raw/ocr/A_Thousand_Judgements.md
-- [[Maria Macuch]] - document - raw/ocr/A_Thousand_Judgements.md
-- [[Normative Nonconformity]] - document - raw/ocr/A_Thousand_Judgements.md
-- [[Normative and Theological Dissent in Early Zoroastrian Law]] - document - raw/ocr/A_Thousand_Judgements.md
-- [[Pahlavi Nīrangestān]] - document - raw/ocr/A_Thousand_Judgements.md
-- [[Religious Conversion]] - document - raw/ocr/A_Thousand_Judgements.md
-- [[Talmudic Debate]] - document - raw/ocr/A_Thousand_Judgements.md
-- [[Talmudic Law]] - document - raw/ocr/A_Thousand_Judgements.md
-- [[Tanābuhl Sin]] - document - raw/ocr/A_Thousand_Judgements.md
-- [[Zoroastrian Jurists]] - document - raw/ocr/A_Thousand_Judgements.md
-- [[Zoroastrian Law]] - document - raw/ocr/A_Thousand_Judgements.md
+- [[--- Monotheism the Zoroastrian Way]] - document - raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md
+- [[Ahura Mazdā  Ohrmazd]] - document - raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md
+- [[Ahura Mazdā's Omniscience over Omnipotence]] - document - raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md
+- [[Amašā Spəntas as Life-Producing Spiritual Beings]] - document - raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md
+- [[Amesha Spentas  Amahraspands (Life-giving Immortals)]] - document - raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md
+- [[Angra Mainyu  Ahreman]] - document - raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md
+- [[Argument a Zoroastrian Form of Monotheism]] - document - raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md
+- [[Arəduuī Sūrā Anāhitā]] - document - raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md
+- [[AvestaYasna Citations Y 37.1 and Y 32.3]] - document - raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md
+- [[Avestan CreationWorship Passages (Vd 1; Y 9.8; Y 37.1–2; Y 58.4–5; Yt 1.1; Y 57.17; Y 30.4; Yt 19.18; Yt 5.1)]] - document - raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md
+- [[Claim Angra Mainyu's products are negative counter-creations]] - document - raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md
+- [[Claim Material creation derives from spiritual creation through the Amesha Spentas]] - document - raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md
+- [[Claim Subordinate Yazata worship preserves Ahura Mazdā’s primacy]] - document - raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md
+- [[Classification Debate Monotheism, Polytheism, Dualism, Henotheism]] - document - raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md
+- [[Coherence of Monotheism, Dualism, and Polytheism in Zoroastrian Theology]] - document - raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md
+- [[Creatio ex deo Argument, Not Creatio ex nihilo]] - document - raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md
+- [[Critique of Judeo-Christian MonotheismPolytheism Categories]] - document - raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md
+- [[Daēuua and daēuua-iiasna]] - document - raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md
+- [[Material Creation (gētīy; Ahura Mazdā’s world)]] - document - raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md
+- [[Material World as Pro-Cosmic Good Creation]] - document - raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md
+- [[Mazdayasnians  Zoroastrians]] - document - raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md
+- [[Monotheism the Zoroastrian Way]] - document - raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md
+- [[Pahlavi Creation Accounts (Bundahišn TD2 12.1–6, 14.1–2; Pahlavi Rivāyat Dd 46)]] - document - raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md
+- [[Spiritual Creation]] - document - raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md
+- [[Spiritual Creation (mēnōy; formskirb)]] - document - raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md
+- [[Spənta Mainiiu and Amesha Spentas (Life-Giving Immortals)]] - document - raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md
+- [[Textual Evidence Gathas, Yasna Haptanghaiti, Yašts, Pahlavi Sources]] - document - raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md
+- [[Vīdēvdād Purity Laws]] - document - raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md
+- [[Yazatas and Worshipped Sacred Beings]] - document - raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md
+- [[Yazatas as 'Worthy of Worship' (aoxtō.nāmana yasna)]] - document - raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md
+- [[Yazatas, Spiritual and Material Objects of Worship]] - document - raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md
+- [[Zoroastrian Creation Myth]] - document - raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md
+- [[Zoroastrianism]] - document - raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -39,10 +52,9 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Avestan Texts]]
-- 1 edge to [[_COMMUNITY_Mithraic Studies]]
+- 3 edges to [[_COMMUNITY_Iranian Kingship]]
+- 2 edges to [[_COMMUNITY_Avestan Texts]]
+- 2 edges to [[_COMMUNITY_Iranian Kingship]]
 
 ## Top bridge nodes
-- [[A Thousand Judgements]] - degree 21, connects to 2 communities
-- [[Pahlavi Nīrangestān]] - degree 7, connects to 1 community
-- [[Apostasy]] - degree 6, connects to 1 community
+- [[Zoroastrianism]] - degree 12, connects to 3 communities

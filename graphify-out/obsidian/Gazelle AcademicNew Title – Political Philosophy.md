@@ -11,15 +11,17 @@ tags:
 # Gazelle AcademicNew Title – Political Philosophy
 
 ## Connections
-- [[Christian Gospels]] - `references` [EXTRACTED]
-- [[Cicero]] - `references` [EXTRACTED]
-- [[Greek City-State]] - `references` [EXTRACTED]
+- [[A History of Political Ideas From Antiquity to the Middle Ages]] - `references` [EXTRACTED]
+- [[Canon Law]] - `references` [EXTRACTED]
+- [[Christian Thinkers (Paul, Augustine, Thomas Aquinas)]] - `references` [EXTRACTED]
+- [[Christian Thought Gospels, Biblical Texts, and Christians under the Roman Empire]] - `references` [EXTRACTED]
+- [[Evolving Jurisdiction Governing the People]] - `references` [EXTRACTED]
+- [[Greek City-State Thinkers (Plato, Aristotle, Xenophon, Stoics)]] - `references` [EXTRACTED]
+- [[Kenneth Casler]] - `references` [EXTRACTED]
 - [[Philippe Nemo]] - `references` [EXTRACTED]
+- [[Pre-Greek Prepolitical Societies]] - `references` [EXTRACTED]
 - [[Roman Law]] - `references` [EXTRACTED]
-- [[Saint Augustine]] - `references` [EXTRACTED]
-- [[Saint Paul]] - `references` [EXTRACTED]
-- [[Seneca]] - `references` [EXTRACTED]
-- [[Tacitus]] - `references` [EXTRACTED]
-- [[Thomas Aquinas]] - `references` [EXTRACTED]
+- [[Roman Political Writers (Cicero, Seneca, Tacitus)]] - `references` [EXTRACTED]
+- [[Three Sources of Political Thought Thesis]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Gazelle_AcademicNew_Title_–_Political_Philosophy

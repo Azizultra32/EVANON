@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[CONCEPTS OF POLLUTION IN LATE SASANIAN IRAN DOES POLLUTION NEED STAIRS, AND DOES IT FILL SPACE]] - `references` [EXTRACTED]
-- [[Concepts of Pollution in Late Sasanian Iran]] - `conceptually_related_to` [EXTRACTED]
-- [[Videvdad]] - `conceptually_related_to` [INFERRED]
+- [[Concepts of Pollution in Late Sasanian Iran Does Pollution Need Stairs, and Does It Fill Space]] - `references` [EXTRACTED]
+- [[Corpse-Pollution]] - `conceptually_related_to` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Iranian_Kingship

@@ -1,0 +1,492 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_between_the_safavids_and_the_mughals_art_md",
+      "label": "BETWEEN THE SAFAVIDS AND THE MUGHALS: ART AND ARTISTS IN TRANSITION\\*",
+      "file_type": "document",
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_farrukh_beyg",
+      "label": "Farrukh Beyg",
+      "file_type": "document",
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_topkap_haft_awrang_tks_h_1483_copied_by_mu_ibb_al_1570_72",
+      "label": "Topkap\u0131 Haft awrang (TKS H.1483, copied by Mu\u1e25ibb \u02bfAl\u012b, 1570\u201372)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_stylistic_attribution_rationale_elongated_faces_striated_beards_protruding_jaws_cloud_band_fibulae",
+      "label": "Stylistic Attribution Rationale: elongated faces, striated beards, protruding jaws, cloud-band fibulae",
+      "file_type": "document",
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_farrukh_beyg_s_safavid_period_works_group_two_learned_men_shepherd_with_a_goat_freer_haft_awrang_aht_no_72",
+      "label": "Farrukh Beyg's Safavid-period Works Group (Two learned men, Shepherd with a goat, Freer Haft awrang, AHT no.72)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_mu_ammad",
+      "label": "Mu\u1e25ammad\u012b",
+      "file_type": "document",
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_mu_ammad_1580s_dating_evidence_moses_fol_109a_if_t_al_shiq_n_aht_no_90_1582",
+      "label": "Mu\u1e25ammad\u012b 1580s Dating Evidence (Moses fol.109a; \u1e62if\u0101t al-\u02bf\u0101shiq\u012bn AHT no.90, 1582)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_mirz_salm_n_safavid_vizier",
+      "label": "Mirz\u0101 Salm\u0101n, Safavid vizier",
+      "file_type": "document",
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_amza_mirz_safavid_heir_apparent",
+      "label": "\u1e24amza Mirz\u0101, Safavid heir apparent",
+      "file_type": "document",
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_third_wave_patronage_migration_argument_loss_of_safavid_patronage_and_mughal_demand",
+      "label": "Third-Wave Patronage Migration Argument: loss of Safavid patronage and Mughal demand",
+      "file_type": "document",
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_mughal_court_in_india",
+      "label": "Mughal Court in India",
+      "file_type": "document",
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_akbar_n_ma_and_iskandar_beyg_notices_on_farrukh_beyg",
+      "label": "Akbar-n\u0101ma and Iskandar Beyg notices on Farrukh Beyg",
+      "file_type": "document",
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_farrukh_usayn_vs_farrukh_beyg_identity_debate_seyller_skelton_zuh_r_q_z_ahmad",
+      "label": "Farrukh-\u1e24usayn vs. Farrukh Beyg Identity Debate (Seyller, Skelton, Zuh\u016br\u012b, Q\u0101z\u012b Ahmad)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_between_the_safavids_and_the_mughals_art_md",
+      "target": "llm_akbar_n_ma_and_iskandar_beyg_notices_on_farrukh_beyg",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_between_the_safavids_and_the_mughals_art_md",
+      "target": "llm_amza_mirz_safavid_heir_apparent",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_between_the_safavids_and_the_mughals_art_md",
+      "target": "llm_farrukh_beyg",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_between_the_safavids_and_the_mughals_art_md",
+      "target": "llm_farrukh_beyg_s_safavid_period_works_group_two_learned_men_shepherd_with_a_goat_freer_haft_awrang_aht_no_72",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_between_the_safavids_and_the_mughals_art_md",
+      "target": "llm_farrukh_usayn_vs_farrukh_beyg_identity_debate_seyller_skelton_zuh_r_q_z_ahmad",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_between_the_safavids_and_the_mughals_art_md",
+      "target": "llm_mirz_salm_n_safavid_vizier",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_between_the_safavids_and_the_mughals_art_md",
+      "target": "llm_mu_ammad",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_between_the_safavids_and_the_mughals_art_md",
+      "target": "llm_mu_ammad_1580s_dating_evidence_moses_fol_109a_if_t_al_shiq_n_aht_no_90_1582",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_between_the_safavids_and_the_mughals_art_md",
+      "target": "llm_mughal_court_in_india",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_between_the_safavids_and_the_mughals_art_md",
+      "target": "llm_stylistic_attribution_rationale_elongated_faces_striated_beards_protruding_jaws_cloud_band_fibulae",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_between_the_safavids_and_the_mughals_art_md",
+      "target": "llm_third_wave_patronage_migration_argument_loss_of_safavid_patronage_and_mughal_demand",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_between_the_safavids_and_the_mughals_art_md",
+      "target": "llm_topkap_haft_awrang_tks_h_1483_copied_by_mu_ibb_al_1570_72",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_topkap_haft_awrang_tks_h_1483_copied_by_mu_ibb_al_1570_72",
+      "target": "llm_farrukh_beyg",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.96,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_topkap_haft_awrang_tks_h_1483_copied_by_mu_ibb_al_1570_72",
+      "target": "llm_mu_ammad",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.88
+    },
+    {
+      "source": "llm_stylistic_attribution_rationale_elongated_faces_striated_beards_protruding_jaws_cloud_band_fibulae",
+      "target": "llm_topkap_haft_awrang_tks_h_1483_copied_by_mu_ibb_al_1570_72",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_stylistic_attribution_rationale_elongated_faces_striated_beards_protruding_jaws_cloud_band_fibulae",
+      "target": "llm_farrukh_beyg_s_safavid_period_works_group_two_learned_men_shepherd_with_a_goat_freer_haft_awrang_aht_no_72",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.89,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.92
+    },
+    {
+      "source": "llm_farrukh_beyg_s_safavid_period_works_group_two_learned_men_shepherd_with_a_goat_freer_haft_awrang_aht_no_72",
+      "target": "llm_farrukh_beyg",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_mu_ammad_1580s_dating_evidence_moses_fol_109a_if_t_al_shiq_n_aht_no_90_1582",
+      "target": "llm_topkap_haft_awrang_tks_h_1483_copied_by_mu_ibb_al_1570_72",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_mu_ammad_1580s_dating_evidence_moses_fol_109a_if_t_al_shiq_n_aht_no_90_1582",
+      "target": "llm_mu_ammad",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.86
+    },
+    {
+      "source": "llm_mirz_salm_n_safavid_vizier",
+      "target": "llm_amza_mirz_safavid_heir_apparent",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.92,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.94
+    },
+    {
+      "source": "llm_mirz_salm_n_safavid_vizier",
+      "target": "llm_topkap_haft_awrang_tks_h_1483_copied_by_mu_ibb_al_1570_72",
+      "relation": "conceptually_related_to",
+      "confidence": "AMBIGUOUS",
+      "confidence_score": 0.62,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.67
+    },
+    {
+      "source": "llm_amza_mirz_safavid_heir_apparent",
+      "target": "llm_topkap_haft_awrang_tks_h_1483_copied_by_mu_ibb_al_1570_72",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.86
+    },
+    {
+      "source": "llm_farrukh_beyg",
+      "target": "llm_amza_mirz_safavid_heir_apparent",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_farrukh_beyg",
+      "target": "llm_mughal_court_in_india",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.96,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_third_wave_patronage_migration_argument_loss_of_safavid_patronage_and_mughal_demand",
+      "target": "llm_farrukh_beyg",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.96
+    },
+    {
+      "source": "llm_mirz_salm_n_safavid_vizier",
+      "target": "llm_third_wave_patronage_migration_argument_loss_of_safavid_patronage_and_mughal_demand",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.91,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.93
+    },
+    {
+      "source": "llm_third_wave_patronage_migration_argument_loss_of_safavid_patronage_and_mughal_demand",
+      "target": "llm_mughal_court_in_india",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.92
+    },
+    {
+      "source": "llm_third_wave_patronage_migration_argument_loss_of_safavid_patronage_and_mughal_demand",
+      "target": "llm_akbar_n_ma_and_iskandar_beyg_notices_on_farrukh_beyg",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.88
+    },
+    {
+      "source": "llm_akbar_n_ma_and_iskandar_beyg_notices_on_farrukh_beyg",
+      "target": "llm_farrukh_beyg",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.93,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_farrukh_usayn_vs_farrukh_beyg_identity_debate_seyller_skelton_zuh_r_q_z_ahmad",
+      "target": "llm_farrukh_beyg",
+      "relation": "conceptually_related_to",
+      "confidence": "AMBIGUOUS",
+      "confidence_score": 0.68,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.7
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_topkap_haft_awrang_attribution_and_dating_debate",
+      "label": "Topkap\u0131 Haft awrang Attribution and Dating Debate",
+      "nodes": [
+        "llm_farrukh_beyg",
+        "llm_mu_ammad",
+        "llm_mu_ammad_1580s_dating_evidence_moses_fol_109a_if_t_al_shiq_n_aht_no_90_1582",
+        "llm_stylistic_attribution_rationale_elongated_faces_striated_beards_protruding_jaws_cloud_band_fibulae",
+        "llm_topkap_haft_awrang_tks_h_1483_copied_by_mu_ibb_al_1570_72"
+      ],
+      "relation": "debate",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md"
+    },
+    {
+      "id": "hyper_third_wave_patronage_migration_network",
+      "label": "Third-Wave Patronage Migration Network",
+      "nodes": [
+        "llm_amza_mirz_safavid_heir_apparent",
+        "llm_farrukh_beyg",
+        "llm_mirz_salm_n_safavid_vizier",
+        "llm_mughal_court_in_india",
+        "llm_third_wave_patronage_migration_argument_loss_of_safavid_patronage_and_mughal_demand"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.84,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 6472,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 12429,
+    "output_tokens_details": {
+      "reasoning_tokens": 9658
+    },
+    "total_tokens": 18901
+  }
+}

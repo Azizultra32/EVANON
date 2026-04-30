@@ -1,0 +1,492 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_2_md",
+      "label": "IRANO-JUDAICA VII",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_defeating_death_eschatology_in_zoroastrianism_judaism_and_christianity",
+      "label": "Defeating Death: Eschatology in Zoroastrianism, Judaism and Christianity",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zoroastrian_eschatology",
+      "label": "Zoroastrian Eschatology",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_jewish_eschatology",
+      "label": "Jewish Eschatology",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_hellenistic_psyche_soma_dualism_in_greek_jewish_literature",
+      "label": "Hellenistic psyche/soma Dualism in Greek Jewish Literature",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_rabbinic_body_soul_linkage",
+      "label": "Rabbinic Body-Soul Linkage",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_two_judgements_and_afterlife_timing_gehenna_garden_of_eden_and_resurrection",
+      "label": "Two Judgements and Afterlife Timing: Gehenna/Garden of Eden and Resurrection",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_second_temple_post_biblical_jewish_literature",
+      "label": "Second Temple Post-Biblical Jewish Literature",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_hebrew_bible",
+      "label": "Hebrew Bible",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zarathustra",
+      "label": "Zarathustra",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_claim_jewish_eschatology_assimilated_a_type_first_formulated_by_zarathustra",
+      "label": "Claim: Jewish Eschatology Assimilated a Type First Formulated by Zarathustra",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_rationale_deutero_isaiah_restoration_hope_transposed_to_life_beyond_the_grave",
+      "label": "Rationale: Deutero-Isaiah Restoration Hope Transposed to Life Beyond the Grave",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_key_cited_scholarship_ivry_1971_72_urbach_1979_shaked_1971_feldman_1988_1996_kimelman_2006_elledge_2013",
+      "label": "Key Cited Scholarship: Ivry 1971\u201372; Urbach 1979; Shaked 1971; Feldman 1988/1996; Kimelman 2006; Elledge 2013",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_2_md",
+      "target": "llm_claim_jewish_eschatology_assimilated_a_type_first_formulated_by_zarathustra",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_2_md",
+      "target": "llm_defeating_death_eschatology_in_zoroastrianism_judaism_and_christianity",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_2_md",
+      "target": "llm_hebrew_bible",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_2_md",
+      "target": "llm_hellenistic_psyche_soma_dualism_in_greek_jewish_literature",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_2_md",
+      "target": "llm_jewish_eschatology",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_2_md",
+      "target": "llm_key_cited_scholarship_ivry_1971_72_urbach_1979_shaked_1971_feldman_1988_1996_kimelman_2006_elledge_2013",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_2_md",
+      "target": "llm_rabbinic_body_soul_linkage",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_2_md",
+      "target": "llm_rationale_deutero_isaiah_restoration_hope_transposed_to_life_beyond_the_grave",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_2_md",
+      "target": "llm_second_temple_post_biblical_jewish_literature",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_2_md",
+      "target": "llm_two_judgements_and_afterlife_timing_gehenna_garden_of_eden_and_resurrection",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_2_md",
+      "target": "llm_zarathustra",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_2_md",
+      "target": "llm_zoroastrian_eschatology",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_defeating_death_eschatology_in_zoroastrianism_judaism_and_christianity",
+      "target": "llm_zoroastrian_eschatology",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_defeating_death_eschatology_in_zoroastrianism_judaism_and_christianity",
+      "target": "llm_jewish_eschatology",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_defeating_death_eschatology_in_zoroastrianism_judaism_and_christianity",
+      "target": "llm_key_cited_scholarship_ivry_1971_72_urbach_1979_shaked_1971_feldman_1988_1996_kimelman_2006_elledge_2013",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_key_cited_scholarship_ivry_1971_72_urbach_1979_shaked_1971_feldman_1988_1996_kimelman_2006_elledge_2013",
+      "target": "llm_hellenistic_psyche_soma_dualism_in_greek_jewish_literature",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_key_cited_scholarship_ivry_1971_72_urbach_1979_shaked_1971_feldman_1988_1996_kimelman_2006_elledge_2013",
+      "target": "llm_rabbinic_body_soul_linkage",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_key_cited_scholarship_ivry_1971_72_urbach_1979_shaked_1971_feldman_1988_1996_kimelman_2006_elledge_2013",
+      "target": "llm_two_judgements_and_afterlife_timing_gehenna_garden_of_eden_and_resurrection",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_hellenistic_psyche_soma_dualism_in_greek_jewish_literature",
+      "target": "llm_jewish_eschatology",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_jewish_eschatology",
+      "target": "llm_hellenistic_psyche_soma_dualism_in_greek_jewish_literature",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_rabbinic_body_soul_linkage",
+      "target": "llm_hellenistic_psyche_soma_dualism_in_greek_jewish_literature",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_two_judgements_and_afterlife_timing_gehenna_garden_of_eden_and_resurrection",
+      "target": "llm_jewish_eschatology",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_claim_jewish_eschatology_assimilated_a_type_first_formulated_by_zarathustra",
+      "target": "llm_zoroastrian_eschatology",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_claim_jewish_eschatology_assimilated_a_type_first_formulated_by_zarathustra",
+      "target": "llm_jewish_eschatology",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_claim_jewish_eschatology_assimilated_a_type_first_formulated_by_zarathustra",
+      "target": "llm_zarathustra",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_claim_jewish_eschatology_assimilated_a_type_first_formulated_by_zarathustra",
+      "target": "llm_second_temple_post_biblical_jewish_literature",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_second_temple_post_biblical_jewish_literature",
+      "target": "llm_hebrew_bible",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_rationale_deutero_isaiah_restoration_hope_transposed_to_life_beyond_the_grave",
+      "target": "llm_claim_jewish_eschatology_assimilated_a_type_first_formulated_by_zarathustra",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.88
+    },
+    {
+      "source": "llm_rationale_deutero_isaiah_restoration_hope_transposed_to_life_beyond_the_grave",
+      "target": "llm_jewish_eschatology",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_hebrew_bible",
+      "target": "llm_jewish_eschatology",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.8,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.8
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_jewish_afterlife_tension_hellenistic_soul_dualism_rabbinic_body_soul_integrity_and_two_judgements",
+      "label": "Jewish Afterlife Tension: Hellenistic Soul Dualism, Rabbinic Body-Soul Integrity, and Two Judgements",
+      "nodes": [
+        "llm_hellenistic_psyche_soma_dualism_in_greek_jewish_literature",
+        "llm_jewish_eschatology",
+        "llm_rabbinic_body_soul_linkage",
+        "llm_two_judgements_and_afterlife_timing_gehenna_garden_of_eden_and_resurrection"
+      ],
+      "relation": "debate",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md"
+    },
+    {
+      "id": "hyper_second_temple_assimilation_of_zarathustran_eschatology_argument",
+      "label": "Second Temple Assimilation of Zarathustran Eschatology Argument",
+      "nodes": [
+        "llm_claim_jewish_eschatology_assimilated_a_type_first_formulated_by_zarathustra",
+        "llm_jewish_eschatology",
+        "llm_rationale_deutero_isaiah_restoration_hope_transposed_to_life_beyond_the_grave",
+        "llm_second_temple_post_biblical_jewish_literature",
+        "llm_zarathustra",
+        "llm_zoroastrian_eschatology"
+      ],
+      "relation": "debate",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 7376,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 10646,
+    "output_tokens_details": {
+      "reasoning_tokens": 7768
+    },
+    "total_tokens": 18022
+  }
+}

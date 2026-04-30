@@ -1,5 +1,5 @@
 ---
-source_file: "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md"
+source_file: "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md"
 type: "document"
 community: "Iranian Kingship"
 location: "chunk 3/3"
@@ -12,11 +12,8 @@ tags:
 # Achaemenid Monarchic Ideology
 
 ## Connections
-- [[Darius I]] - `references` [EXTRACTED]
-- [[MORE THAN MEN, LESS THAN GODS]] - `references` [EXTRACTED]
+- [[By the Favor of Auramazdā Kingship and the Divine in the Early Achaemenid Period]] - `references` [EXTRACTED]
 - [[MORE THAN MEN, LESS THAN GODS_1]] - `references` [EXTRACTED]
-- [[More Than Men, Less Than Gods]] - `conceptually_related_to` [EXTRACTED]
-- [[Royal Cults]] - `conceptually_related_to` [INFERRED]
-- [[Ruler Cults]] - `conceptually_related_to` [INFERRED]
+- [[PFS 389 Old Persian Inscription “Dārayaush Pārsā” with Winged Sun Disk]] - `rationale_for` [INFERRED]
 
 #graphify/document #graphify/EXTRACTED #community/Iranian_Kingship

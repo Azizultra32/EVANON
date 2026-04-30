@@ -13,12 +13,7 @@ tags:
 
 ## Connections
 - [[CONCEPTS OF POLLUTION IN LATE SASANIAN IRAN DOES POLLUTION NEED STAIRS, AND DOES IT FILL SPACE]] - `references` [EXTRACTED]
-- [[Concepts of Pollution in Late Sasanian Iran]] - `references` [EXTRACTED]
-- [[Empty Space]] - `conceptually_related_to` [INFERRED]
-- [[Gumbad (Dome)]] - `conceptually_related_to` [INFERRED]
-- [[Mēdyōmāh]] - `references` [EXTRACTED]
-- [[Skjærvø]] - `references` [EXTRACTED]
-- [[Transmission of Pollution]] - `conceptually_related_to` [INFERRED]
-- [[Tuhīgīh (Pollution)]] - `conceptually_related_to` [INFERRED]
+- [[Redactional-Dating Rationale ZFJD Later Than Pahlavi Videvdad via Authority Telescoping and AbargMēdyōmāhPišksil Schools]] - `conceptually_related_to` [EXTRACTED]
+- [[Zand ī fragard ī jud-dēw-dād TD2 482–483 RoofLadder Case]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Iranian_Kingship

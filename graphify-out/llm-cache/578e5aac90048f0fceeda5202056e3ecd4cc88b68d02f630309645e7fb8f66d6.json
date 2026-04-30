@@ -1,0 +1,491 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "label": "--- Monotheism the Zoroastrian Way",
+      "file_type": "document",
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ahura_mazd_ohrmazd",
+      "label": "Ahura Mazd\u0101 / Ohrmazd",
+      "file_type": "document",
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_angra_mainyu_ahreman",
+      "label": "Angra Mainyu / Ahreman",
+      "file_type": "document",
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_avestan_creation_worship_passages_vd_1_y_9_8_y_37_1_2_y_58_4_5_yt_1_1_y_57_17_y_30_4_yt_19_18_yt_5_1",
+      "label": "Avestan Creation/Worship Passages (Vd 1; Y 9.8; Y 37.1\u20132; Y 58.4\u20135; Yt 1.1; Y 57.17; Y 30.4; Yt 19.18; Yt 5.1)",
+      "file_type": "document",
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_pahlavi_creation_accounts_bundahi_n_td2_12_1_6_14_1_2_pahlavi_riv_yat_dd_46",
+      "label": "Pahlavi Creation Accounts (Bundahi\u0161n TD2 12.1\u20136, 14.1\u20132; Pahlavi Riv\u0101yat Dd 46)",
+      "file_type": "document",
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_amesha_spentas_amahraspands_life_giving_immortals",
+      "label": "Amesha Spentas / Amahraspands (Life-giving Immortals)",
+      "file_type": "document",
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_spiritual_creation_m_n_y_forms_kirb",
+      "label": "Spiritual Creation (m\u0113n\u014dy; forms/kirb)",
+      "file_type": "document",
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_material_creation_g_t_y_ahura_mazd_s_world",
+      "label": "Material Creation (g\u0113t\u012by; Ahura Mazd\u0101\u2019s world)",
+      "file_type": "document",
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_yazatas_as_worthy_of_worship_aoxt_n_mana_yasna",
+      "label": "Yazatas as 'Worthy of Worship' (aoxt\u014d.n\u0101mana yasna)",
+      "file_type": "document",
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ar_duu_s_r_an_hit",
+      "label": "Ar\u0259duu\u012b S\u016br\u0101 An\u0101hit\u0101",
+      "file_type": "document",
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_claim_angra_mainyu_s_products_are_negative_counter_creations",
+      "label": "Claim: Angra Mainyu's products are negative counter-creations",
+      "file_type": "document",
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_claim_material_creation_derives_from_spiritual_creation_through_the_amesha_spentas",
+      "label": "Claim: Material creation derives from spiritual creation through the Amesha Spentas",
+      "file_type": "document",
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_claim_subordinate_yazata_worship_preserves_ahura_mazd_s_primacy",
+      "label": "Claim: Subordinate Yazata worship preserves Ahura Mazd\u0101\u2019s primacy",
+      "file_type": "document",
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "target": "llm_ahura_mazd_ohrmazd",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "target": "llm_amesha_spentas_amahraspands_life_giving_immortals",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "target": "llm_angra_mainyu_ahreman",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "target": "llm_ar_duu_s_r_an_hit",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "target": "llm_avestan_creation_worship_passages_vd_1_y_9_8_y_37_1_2_y_58_4_5_yt_1_1_y_57_17_y_30_4_yt_19_18_yt_5_1",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "target": "llm_claim_angra_mainyu_s_products_are_negative_counter_creations",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "target": "llm_claim_material_creation_derives_from_spiritual_creation_through_the_amesha_spentas",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "target": "llm_claim_subordinate_yazata_worship_preserves_ahura_mazd_s_primacy",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "target": "llm_material_creation_g_t_y_ahura_mazd_s_world",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "target": "llm_pahlavi_creation_accounts_bundahi_n_td2_12_1_6_14_1_2_pahlavi_riv_yat_dd_46",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "target": "llm_spiritual_creation_m_n_y_forms_kirb",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "target": "llm_yazatas_as_worthy_of_worship_aoxt_n_mana_yasna",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_pahlavi_creation_accounts_bundahi_n_td2_12_1_6_14_1_2_pahlavi_riv_yat_dd_46",
+      "target": "llm_avestan_creation_worship_passages_vd_1_y_9_8_y_37_1_2_y_58_4_5_yt_1_1_y_57_17_y_30_4_yt_19_18_yt_5_1",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_pahlavi_creation_accounts_bundahi_n_td2_12_1_6_14_1_2_pahlavi_riv_yat_dd_46",
+      "target": "llm_avestan_creation_worship_passages_vd_1_y_9_8_y_37_1_2_y_58_4_5_yt_1_1_y_57_17_y_30_4_yt_19_18_yt_5_1",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_ahura_mazd_ohrmazd",
+      "target": "llm_spiritual_creation_m_n_y_forms_kirb",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_ahura_mazd_ohrmazd",
+      "target": "llm_material_creation_g_t_y_ahura_mazd_s_world",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_amesha_spentas_amahraspands_life_giving_immortals",
+      "target": "llm_material_creation_g_t_y_ahura_mazd_s_world",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_spiritual_creation_m_n_y_forms_kirb",
+      "target": "llm_material_creation_g_t_y_ahura_mazd_s_world",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_claim_material_creation_derives_from_spiritual_creation_through_the_amesha_spentas",
+      "target": "llm_material_creation_g_t_y_ahura_mazd_s_world",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_claim_material_creation_derives_from_spiritual_creation_through_the_amesha_spentas",
+      "target": "llm_avestan_creation_worship_passages_vd_1_y_9_8_y_37_1_2_y_58_4_5_yt_1_1_y_57_17_y_30_4_yt_19_18_yt_5_1",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_claim_material_creation_derives_from_spiritual_creation_through_the_amesha_spentas",
+      "target": "llm_pahlavi_creation_accounts_bundahi_n_td2_12_1_6_14_1_2_pahlavi_riv_yat_dd_46",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_angra_mainyu_ahreman",
+      "target": "llm_ahura_mazd_ohrmazd",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_angra_mainyu_ahreman",
+      "target": "llm_claim_angra_mainyu_s_products_are_negative_counter_creations",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_claim_angra_mainyu_s_products_are_negative_counter_creations",
+      "target": "llm_avestan_creation_worship_passages_vd_1_y_9_8_y_37_1_2_y_58_4_5_yt_1_1_y_57_17_y_30_4_yt_19_18_yt_5_1",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_claim_angra_mainyu_s_products_are_negative_counter_creations",
+      "target": "llm_material_creation_g_t_y_ahura_mazd_s_world",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_yazatas_as_worthy_of_worship_aoxt_n_mana_yasna",
+      "target": "llm_ahura_mazd_ohrmazd",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_yazatas_as_worthy_of_worship_aoxt_n_mana_yasna",
+      "target": "llm_angra_mainyu_ahreman",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_ar_duu_s_r_an_hit",
+      "target": "llm_yazatas_as_worthy_of_worship_aoxt_n_mana_yasna",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_claim_subordinate_yazata_worship_preserves_ahura_mazd_s_primacy",
+      "target": "llm_yazatas_as_worthy_of_worship_aoxt_n_mana_yasna",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_claim_subordinate_yazata_worship_preserves_ahura_mazd_s_primacy",
+      "target": "llm_avestan_creation_worship_passages_vd_1_y_9_8_y_37_1_2_y_58_4_5_yt_1_1_y_57_17_y_30_4_yt_19_18_yt_5_1",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_material_creation_derivation_chain",
+      "label": "Material Creation Derivation Chain",
+      "nodes": [
+        "llm_ahura_mazd_ohrmazd",
+        "llm_amesha_spentas_amahraspands_life_giving_immortals",
+        "llm_claim_material_creation_derives_from_spiritual_creation_through_the_amesha_spentas",
+        "llm_material_creation_g_t_y_ahura_mazd_s_world",
+        "llm_spiritual_creation_m_n_y_forms_kirb"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md"
+    },
+    {
+      "id": "hyper_subordinate_yazata_worship_hierarchy",
+      "label": "Subordinate Yazata Worship Hierarchy",
+      "nodes": [
+        "llm_ahura_mazd_ohrmazd",
+        "llm_ar_duu_s_r_an_hit",
+        "llm_claim_subordinate_yazata_worship_preserves_ahura_mazd_s_primacy",
+        "llm_yazatas_as_worthy_of_worship_aoxt_n_mana_yasna"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 7763,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 14280,
+    "output_tokens_details": {
+      "reasoning_tokens": 11599
+    },
+    "total_tokens": 22043
+  }
+}

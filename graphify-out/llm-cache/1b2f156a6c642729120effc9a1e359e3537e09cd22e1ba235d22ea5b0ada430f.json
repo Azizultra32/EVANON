@@ -1,0 +1,491 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_ancient_iran_cosmology_mythology_history_md",
+      "label": "Ancient Iran: Cosmology, Mythology, History",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_mazdian_cosmology",
+      "label": "Mazdian Cosmology",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_12_000_year_cosmic_year_and_four_phases",
+      "label": "12,000-Year Cosmic Year and Four Phases",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_manah_thought_world_rationale",
+      "label": "Manah Thought-World Rationale",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_vohu_manah_good_mind",
+      "label": "Vohu Manah (Good Mind)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_aka_manah_evil_mind_lie",
+      "label": "Aka Manah (Evil Mind / Lie)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_amesha_spentas_vohu_manah_asha_vahishta_spenta_armaiti_khshathra_vairya_haurvatat_ameretat",
+      "label": "Amesha Spentas (Vohu Manah, Asha Vahishta, Spenta Armaiti, Khshathra Vairya, Haurvatat, Ameretat)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_khshathra_vairya_holy_or_desirable_dominion",
+      "label": "Khshathra Vairya (Holy or Desirable Dominion)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_gayomart_kayumars_cosmic_first_man_and_mythic_first_king",
+      "label": "Gayomart / Kayumars (Cosmic First Man and Mythic First King)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_khvarnah_farr_glory_charisma_royal_legitimacy",
+      "label": "Khvarnah / Farr (Glory, Charisma, Royal Legitimacy)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_yazatas_and_fravashis",
+      "label": "Yazatas and Fravashis",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_cited_sources_bundahishn_zamyad_yasht_xix_10_79_zad_sparam_zaehner_dhalla_boyce",
+      "label": "Cited Sources: Bundahishn, Zamyad Yasht XIX.10\u201379, Zad Sparam, Zaehner, Dhalla, Boyce",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_shahname_kayanid_tradition_military_expeditions_and_legendary_kings",
+      "label": "Shahname Kayanid Tradition (Military Expeditions and Legendary Kings)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_ancient_iran_cosmology_mythology_history_md",
+      "target": "llm_12_000_year_cosmic_year_and_four_phases",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iran_cosmology_mythology_history_md",
+      "target": "llm_aka_manah_evil_mind_lie",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iran_cosmology_mythology_history_md",
+      "target": "llm_amesha_spentas_vohu_manah_asha_vahishta_spenta_armaiti_khshathra_vairya_haurvatat_ameretat",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iran_cosmology_mythology_history_md",
+      "target": "llm_cited_sources_bundahishn_zamyad_yasht_xix_10_79_zad_sparam_zaehner_dhalla_boyce",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iran_cosmology_mythology_history_md",
+      "target": "llm_gayomart_kayumars_cosmic_first_man_and_mythic_first_king",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iran_cosmology_mythology_history_md",
+      "target": "llm_khshathra_vairya_holy_or_desirable_dominion",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iran_cosmology_mythology_history_md",
+      "target": "llm_khvarnah_farr_glory_charisma_royal_legitimacy",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iran_cosmology_mythology_history_md",
+      "target": "llm_manah_thought_world_rationale",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iran_cosmology_mythology_history_md",
+      "target": "llm_mazdian_cosmology",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iran_cosmology_mythology_history_md",
+      "target": "llm_shahname_kayanid_tradition_military_expeditions_and_legendary_kings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iran_cosmology_mythology_history_md",
+      "target": "llm_vohu_manah_good_mind",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iran_cosmology_mythology_history_md",
+      "target": "llm_yazatas_and_fravashis",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_manah_thought_world_rationale",
+      "target": "llm_mazdian_cosmology",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.97,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_mazdian_cosmology",
+      "target": "llm_12_000_year_cosmic_year_and_four_phases",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.92,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_12_000_year_cosmic_year_and_four_phases",
+      "target": "llm_cited_sources_bundahishn_zamyad_yasht_xix_10_79_zad_sparam_zaehner_dhalla_boyce",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.92,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_amesha_spentas_vohu_manah_asha_vahishta_spenta_armaiti_khshathra_vairya_haurvatat_ameretat",
+      "target": "llm_cited_sources_bundahishn_zamyad_yasht_xix_10_79_zad_sparam_zaehner_dhalla_boyce",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_manah_thought_world_rationale",
+      "target": "llm_vohu_manah_good_mind",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_manah_thought_world_rationale",
+      "target": "llm_aka_manah_evil_mind_lie",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_vohu_manah_good_mind",
+      "target": "llm_aka_manah_evil_mind_lie",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.99,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_vohu_manah_good_mind",
+      "target": "llm_khshathra_vairya_holy_or_desirable_dominion",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.96,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_amesha_spentas_vohu_manah_asha_vahishta_spenta_armaiti_khshathra_vairya_haurvatat_ameretat",
+      "target": "llm_khshathra_vairya_holy_or_desirable_dominion",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_aka_manah_evil_mind_lie",
+      "target": "llm_khshathra_vairya_holy_or_desirable_dominion",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.93,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_gayomart_kayumars_cosmic_first_man_and_mythic_first_king",
+      "target": "llm_khshathra_vairya_holy_or_desirable_dominion",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.96,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_gayomart_kayumars_cosmic_first_man_and_mythic_first_king",
+      "target": "llm_cited_sources_bundahishn_zamyad_yasht_xix_10_79_zad_sparam_zaehner_dhalla_boyce",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_khvarnah_farr_glory_charisma_royal_legitimacy",
+      "target": "llm_gayomart_kayumars_cosmic_first_man_and_mythic_first_king",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.92,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_khvarnah_farr_glory_charisma_royal_legitimacy",
+      "target": "llm_cited_sources_bundahishn_zamyad_yasht_xix_10_79_zad_sparam_zaehner_dhalla_boyce",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_yazatas_and_fravashis",
+      "target": "llm_amesha_spentas_vohu_manah_asha_vahishta_spenta_armaiti_khshathra_vairya_haurvatat_ameretat",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.94,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_yazatas_and_fravashis",
+      "target": "llm_cited_sources_bundahishn_zamyad_yasht_xix_10_79_zad_sparam_zaehner_dhalla_boyce",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_shahname_kayanid_tradition_military_expeditions_and_legendary_kings",
+      "target": "llm_gayomart_kayumars_cosmic_first_man_and_mythic_first_king",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_shahname_kayanid_tradition_military_expeditions_and_legendary_kings",
+      "target": "llm_khvarnah_farr_glory_charisma_royal_legitimacy",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.72,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 0.7
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_four_phase_mazdian_cosmic_drama",
+      "label": "Four-Phase Mazdian Cosmic Drama",
+      "nodes": [
+        "llm_12_000_year_cosmic_year_and_four_phases",
+        "llm_aka_manah_evil_mind_lie",
+        "llm_gayomart_kayumars_cosmic_first_man_and_mythic_first_king",
+        "llm_khshathra_vairya_holy_or_desirable_dominion",
+        "llm_manah_thought_world_rationale",
+        "llm_vohu_manah_good_mind"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md"
+    },
+    {
+      "id": "hyper_cosmic_to_legendary_kingship_and_legitimacy",
+      "label": "Cosmic to Legendary Kingship and Legitimacy",
+      "nodes": [
+        "llm_gayomart_kayumars_cosmic_first_man_and_mythic_first_king",
+        "llm_khvarnah_farr_glory_charisma_royal_legitimacy",
+        "llm_shahname_kayanid_tradition_military_expeditions_and_legendary_kings"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.78,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 7177,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 13230,
+    "output_tokens_details": {
+      "reasoning_tokens": 10668
+    },
+    "total_tokens": 20407
+  }
+}

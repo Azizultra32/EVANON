@@ -1,0 +1,449 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_471689884_contribution_of_persia_to_the_world_civilization_2019_doc_doc_2_md",
+      "label": "Decorative blue oval graphicDecorative blue oval graphic**Contribution of Persia To World Civilization**",
+      "file_type": "document",
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc 2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_contribution_of_persia_to_world_civilization_core_argument",
+      "label": "Contribution of Persia to World Civilization (Core Argument)",
+      "file_type": "document",
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_gardeshgari_iran_2001_2002_citations",
+      "label": "Gardeshgari (Iran, 2001\u20132002 citations)",
+      "file_type": "document",
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_iran_land_and_the_people_a_h_saidian_tehran_2001",
+      "label": "Iran: Land and the People (A.H. Saidian, Tehran, 2001)",
+      "file_type": "document",
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "A.H. Saidian",
+      "contributor": null
+    },
+    {
+      "id": "llm_national_geographic_channel_on_qanat_kareez_oct_1_2006",
+      "label": "National Geographic Channel on Qanat/Kareez (Oct. 1, 2006)",
+      "file_type": "document",
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_parsi_names_maneka_gandhi_1994",
+      "label": "Parsi Names (Maneka Gandhi, 1994)",
+      "file_type": "document",
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Maneka Gandhi",
+      "contributor": null
+    },
+    {
+      "id": "llm_international_herald_tribune_persian_culture_references_2003_2007",
+      "label": "International Herald Tribune Persian-Culture References (2003; 2007)",
+      "file_type": "document",
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_persian_aryan_linguistic_origin_claims",
+      "label": "Persian/Aryan Linguistic-Origin Claims",
+      "file_type": "document",
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_persian_material_culture_and_invention_catalog",
+      "label": "Persian Material-Culture and Invention Catalog",
+      "file_type": "document",
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_qanat_kareez_persian_water_technology_claim",
+      "label": "Qanat/Kareez Persian Water-Technology Claim",
+      "file_type": "document",
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_persian_architectural_and_design_diffusion_claims",
+      "label": "Persian Architectural and Design Diffusion Claims",
+      "file_type": "document",
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_mithraism_magi_king_jamshid_nowruz_and_13th_day_ritual_claims",
+      "label": "Mithraism, Magi, King Jamshid, Nowruz, and 13th-Day Ritual Claims",
+      "file_type": "document",
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_parsi_zoroastrian_diaspora_influence_claims",
+      "label": "Parsi Zoroastrian Diaspora Influence Claims",
+      "file_type": "document",
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_471689884_contribution_of_persia_to_the_world_civilization_2019_doc_doc_2_md",
+      "target": "llm_contribution_of_persia_to_world_civilization_core_argument",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_471689884_contribution_of_persia_to_the_world_civilization_2019_doc_doc_2_md",
+      "target": "llm_gardeshgari_iran_2001_2002_citations",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_471689884_contribution_of_persia_to_the_world_civilization_2019_doc_doc_2_md",
+      "target": "llm_international_herald_tribune_persian_culture_references_2003_2007",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_471689884_contribution_of_persia_to_the_world_civilization_2019_doc_doc_2_md",
+      "target": "llm_iran_land_and_the_people_a_h_saidian_tehran_2001",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_471689884_contribution_of_persia_to_the_world_civilization_2019_doc_doc_2_md",
+      "target": "llm_mithraism_magi_king_jamshid_nowruz_and_13th_day_ritual_claims",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_471689884_contribution_of_persia_to_the_world_civilization_2019_doc_doc_2_md",
+      "target": "llm_national_geographic_channel_on_qanat_kareez_oct_1_2006",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_471689884_contribution_of_persia_to_the_world_civilization_2019_doc_doc_2_md",
+      "target": "llm_parsi_names_maneka_gandhi_1994",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_471689884_contribution_of_persia_to_the_world_civilization_2019_doc_doc_2_md",
+      "target": "llm_parsi_zoroastrian_diaspora_influence_claims",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_471689884_contribution_of_persia_to_the_world_civilization_2019_doc_doc_2_md",
+      "target": "llm_persian_architectural_and_design_diffusion_claims",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_471689884_contribution_of_persia_to_the_world_civilization_2019_doc_doc_2_md",
+      "target": "llm_persian_aryan_linguistic_origin_claims",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_471689884_contribution_of_persia_to_the_world_civilization_2019_doc_doc_2_md",
+      "target": "llm_persian_material_culture_and_invention_catalog",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_471689884_contribution_of_persia_to_the_world_civilization_2019_doc_doc_2_md",
+      "target": "llm_qanat_kareez_persian_water_technology_claim",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_persian_aryan_linguistic_origin_claims",
+      "target": "llm_contribution_of_persia_to_world_civilization_core_argument",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.86
+    },
+    {
+      "source": "llm_persian_aryan_linguistic_origin_claims",
+      "target": "llm_gardeshgari_iran_2001_2002_citations",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_persian_material_culture_and_invention_catalog",
+      "target": "llm_contribution_of_persia_to_world_civilization_core_argument",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.88
+    },
+    {
+      "source": "llm_persian_material_culture_and_invention_catalog",
+      "target": "llm_iran_land_and_the_people_a_h_saidian_tehran_2001",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.93,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_persian_material_culture_and_invention_catalog",
+      "target": "llm_gardeshgari_iran_2001_2002_citations",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.82
+    },
+    {
+      "source": "llm_qanat_kareez_persian_water_technology_claim",
+      "target": "llm_persian_material_culture_and_invention_catalog",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.96,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.96
+    },
+    {
+      "source": "llm_qanat_kareez_persian_water_technology_claim",
+      "target": "llm_national_geographic_channel_on_qanat_kareez_oct_1_2006",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_persian_architectural_and_design_diffusion_claims",
+      "target": "llm_contribution_of_persia_to_world_civilization_core_argument",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.87,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.87
+    },
+    {
+      "source": "llm_persian_architectural_and_design_diffusion_claims",
+      "target": "llm_international_herald_tribune_persian_culture_references_2003_2007",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_persian_architectural_and_design_diffusion_claims",
+      "target": "llm_persian_material_culture_and_invention_catalog",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.76,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.76
+    },
+    {
+      "source": "llm_mithraism_magi_king_jamshid_nowruz_and_13th_day_ritual_claims",
+      "target": "llm_contribution_of_persia_to_world_civilization_core_argument",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.86,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.86
+    },
+    {
+      "source": "llm_mithraism_magi_king_jamshid_nowruz_and_13th_day_ritual_claims",
+      "target": "llm_parsi_names_maneka_gandhi_1994",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_parsi_zoroastrian_diaspora_influence_claims",
+      "target": "llm_contribution_of_persia_to_world_civilization_core_argument",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.82
+    },
+    {
+      "source": "llm_parsi_zoroastrian_diaspora_influence_claims",
+      "target": "llm_international_herald_tribune_persian_culture_references_2003_2007",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.75,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.75
+    },
+    {
+      "source": "llm_parsi_zoroastrian_diaspora_influence_claims",
+      "target": "llm_mithraism_magi_king_jamshid_nowruz_and_13th_day_ritual_claims",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.82
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_claimed_persian_contribution_domains",
+      "label": "Claimed Persian Contribution Domains",
+      "nodes": [
+        "llm_contribution_of_persia_to_world_civilization_core_argument",
+        "llm_mithraism_magi_king_jamshid_nowruz_and_13th_day_ritual_claims",
+        "llm_parsi_zoroastrian_diaspora_influence_claims",
+        "llm_persian_architectural_and_design_diffusion_claims",
+        "llm_persian_aryan_linguistic_origin_claims",
+        "llm_persian_material_culture_and_invention_catalog",
+        "llm_qanat_kareez_persian_water_technology_claim"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.82,
+      "source_file": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc 2.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 6745,
+    "input_tokens_details": {
+      "cached_tokens": 6400
+    },
+    "output_tokens": 11488,
+    "output_tokens_details": {
+      "reasoning_tokens": 8804
+    },
+    "total_tokens": 18233
+  }
+}

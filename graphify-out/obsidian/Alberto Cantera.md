@@ -13,8 +13,7 @@ tags:
 
 ## Connections
 - [[Achaemenid History Derailed by AvestologyAssessing La religion des Achéménides confrontation des sources]] - `references` [EXTRACTED]
-- [[Achaemenid History Derailed by AvestologyAssessing La religion des Achéménides confrontation des sources_1]] - `references` [EXTRACTED]
-- [[Avesta]] - `references` [EXTRACTED]
-- [[Darius]] - `contrasts_with` [INFERRED]
+- [[Kellens's Avestan derivation of Darius's name from Y31.7 (Kellens 2013, 556)]] - `contrasts_with` [EXTRACTED]
+- [[ZRTŠTRŠ seal, BNF Cabinet des Médailles 1972.1343 S (Bordreuil 1986, p. 104)]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Mithraic_Studies

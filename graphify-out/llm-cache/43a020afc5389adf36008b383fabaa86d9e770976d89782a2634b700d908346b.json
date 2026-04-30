@@ -1,0 +1,491 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_2_md",
+      "label": "Achaemenid History Derailed by AvestologyAssessing *La religion des Ach\u00e9m\u00e9nides: confrontation des sources*",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_achaemenid_history_derailed_by_avestology_assessing_la_religion_des_ach_m_nides",
+      "label": "Achaemenid History Derailed by Avestology: Assessing La religion des Ach\u00e9m\u00e9nides",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_jean_kellens",
+      "label": "Jean Kellens",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_avesta",
+      "label": "Avesta",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_kellens_s_avestan_derivation_of_darius_s_name_from_y31_7_kellens_2013_556",
+      "label": "Kellens's Avestan derivation of Darius's name from Y31.7 (Kellens 2013, 556)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_alberto_cantera",
+      "label": "Alberto Cantera",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zrt_tr_seal_bnf_cabinet_des_m_dailles_1972_1343_s_bordreuil_1986_p_104",
+      "label": "ZRT\u0160TR\u0160 seal, BNF Cabinet des M\u00e9dailles 1972.1343 S (Bordreuil 1986, p. 104)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_rationale_for_authenticity_of_the_zrt_tr_seal",
+      "label": "Rationale for authenticity of the ZRT\u0160TR\u0160 seal",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_bzohr_fire_sacrifice_ritual_as_prescribed_by_the_neyrangest_n",
+      "label": "\u0101bzohr fire-sacrifice ritual as prescribed by the Neyrangest\u0101n",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_khvarenah_regal_glory",
+      "label": "khvarenah (regal glory)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_claim_that_zoroaster_is_depicted_as_universal_ruler_endowed_with_khvarenah_yt_5_42_yt_19_57_60_y_19_18",
+      "label": "Claim that Zoroaster is depicted as universal ruler endowed with khvarenah (Yt 5:42; Yt 19:57-60; Y 19.18)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_datames_and_his_winged_disk_coinage",
+      "label": "Datames and his winged-disk coinage",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_achaemenid_kingly_ideology",
+      "label": "Achaemenid kingly ideology",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_2_md",
+      "target": "llm_achaemenid_history_derailed_by_avestology_assessing_la_religion_des_ach_m_nides",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_2_md",
+      "target": "llm_achaemenid_kingly_ideology",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_2_md",
+      "target": "llm_alberto_cantera",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_2_md",
+      "target": "llm_avesta",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_2_md",
+      "target": "llm_bzohr_fire_sacrifice_ritual_as_prescribed_by_the_neyrangest_n",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_2_md",
+      "target": "llm_claim_that_zoroaster_is_depicted_as_universal_ruler_endowed_with_khvarenah_yt_5_42_yt_19_57_60_y_19_18",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_2_md",
+      "target": "llm_datames_and_his_winged_disk_coinage",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_2_md",
+      "target": "llm_jean_kellens",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_2_md",
+      "target": "llm_kellens_s_avestan_derivation_of_darius_s_name_from_y31_7_kellens_2013_556",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_2_md",
+      "target": "llm_khvarenah_regal_glory",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_2_md",
+      "target": "llm_rationale_for_authenticity_of_the_zrt_tr_seal",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_2_md",
+      "target": "llm_zrt_tr_seal_bnf_cabinet_des_m_dailles_1972_1343_s_bordreuil_1986_p_104",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_achaemenid_history_derailed_by_avestology_assessing_la_religion_des_ach_m_nides",
+      "target": "llm_jean_kellens",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_achaemenid_history_derailed_by_avestology_assessing_la_religion_des_ach_m_nides",
+      "target": "llm_zrt_tr_seal_bnf_cabinet_des_m_dailles_1972_1343_s_bordreuil_1986_p_104",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_jean_kellens",
+      "target": "llm_avesta",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_jean_kellens",
+      "target": "llm_kellens_s_avestan_derivation_of_darius_s_name_from_y31_7_kellens_2013_556",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_kellens_s_avestan_derivation_of_darius_s_name_from_y31_7_kellens_2013_556",
+      "target": "llm_avesta",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_alberto_cantera",
+      "target": "llm_kellens_s_avestan_derivation_of_darius_s_name_from_y31_7_kellens_2013_556",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_alberto_cantera",
+      "target": "llm_zrt_tr_seal_bnf_cabinet_des_m_dailles_1972_1343_s_bordreuil_1986_p_104",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zrt_tr_seal_bnf_cabinet_des_m_dailles_1972_1343_s_bordreuil_1986_p_104",
+      "target": "llm_bzohr_fire_sacrifice_ritual_as_prescribed_by_the_neyrangest_n",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_bzohr_fire_sacrifice_ritual_as_prescribed_by_the_neyrangest_n",
+      "target": "llm_rationale_for_authenticity_of_the_zrt_tr_seal",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_datames_and_his_winged_disk_coinage",
+      "target": "llm_rationale_for_authenticity_of_the_zrt_tr_seal",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_rationale_for_authenticity_of_the_zrt_tr_seal",
+      "target": "llm_zrt_tr_seal_bnf_cabinet_des_m_dailles_1972_1343_s_bordreuil_1986_p_104",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zrt_tr_seal_bnf_cabinet_des_m_dailles_1972_1343_s_bordreuil_1986_p_104",
+      "target": "llm_khvarenah_regal_glory",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_khvarenah_regal_glory",
+      "target": "llm_claim_that_zoroaster_is_depicted_as_universal_ruler_endowed_with_khvarenah_yt_5_42_yt_19_57_60_y_19_18",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_claim_that_zoroaster_is_depicted_as_universal_ruler_endowed_with_khvarenah_yt_5_42_yt_19_57_60_y_19_18",
+      "target": "llm_avesta",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zrt_tr_seal_bnf_cabinet_des_m_dailles_1972_1343_s_bordreuil_1986_p_104",
+      "target": "llm_claim_that_zoroaster_is_depicted_as_universal_ruler_endowed_with_khvarenah_yt_5_42_yt_19_57_60_y_19_18",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_datames_and_his_winged_disk_coinage",
+      "target": "llm_khvarenah_regal_glory",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_datames_and_his_winged_disk_coinage",
+      "target": "llm_achaemenid_kingly_ideology",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_claim_that_zoroaster_is_depicted_as_universal_ruler_endowed_with_khvarenah_yt_5_42_yt_19_57_60_y_19_18",
+      "target": "llm_achaemenid_kingly_ideology",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_debate_over_deriving_achaemenid_royal_names_from_avestan_sentences",
+      "label": "Debate over deriving Achaemenid royal names from Avestan sentences",
+      "nodes": [
+        "llm_alberto_cantera",
+        "llm_avesta",
+        "llm_jean_kellens",
+        "llm_kellens_s_avestan_derivation_of_darius_s_name_from_y31_7_kellens_2013_556"
+      ],
+      "relation": "debate",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.92,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md"
+    },
+    {
+      "id": "hyper_zrt_tr_seal_khvarenah_and_conflict_with_achaemenid_royal_authority",
+      "label": "ZRT\u0160TR\u0160 seal, khvarenah, and conflict with Achaemenid royal authority",
+      "nodes": [
+        "llm_achaemenid_kingly_ideology",
+        "llm_claim_that_zoroaster_is_depicted_as_universal_ruler_endowed_with_khvarenah_yt_5_42_yt_19_57_60_y_19_18",
+        "llm_datames_and_his_winged_disk_coinage",
+        "llm_khvarenah_regal_glory",
+        "llm_zrt_tr_seal_bnf_cabinet_des_m_dailles_1972_1343_s_bordreuil_1986_p_104"
+      ],
+      "relation": "debate",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 5971,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 11502,
+    "output_tokens_details": {
+      "reasoning_tokens": 8804
+    },
+    "total_tokens": 17473
+  }
+}
