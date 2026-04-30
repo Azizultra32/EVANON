@@ -57,6 +57,8 @@ graphify-zoro-ocr-status
 - LLM token usage: 564,147 input tokens, 1,037,291 output tokens
 - Final LLM failures: 0
 - Runtime query layer verified with `graphify query`, `graphify explain`, and `graphify path`.
+- Official Graphify smoke protocol: `scripts/graphify_official_smoke.sh`
+- Official Graphify MCP server: `scripts/graphify_mcp_server.sh`
 - Current accepted model: `gpt-5.5` through OpenAI Responses API.
 - Current accepted reasoning effort: `xhigh`.
 - Acceptance policy: accept only the clean deduped corpus graph; documented partial reruns are not allowed to overwrite the canonical graph.

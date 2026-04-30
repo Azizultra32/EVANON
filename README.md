@@ -166,12 +166,24 @@ graphify explain "Ahura Mazdā" --graph graphify-out/graph.json
 graphify path "Mithra" "Ahura Mazda" --graph graphify-out/graph.json
 ```
 
+Official Graphify framework protocol:
+
+```bash
+scripts/graphify_official_smoke.sh
+scripts/graphify_mcp_server.sh
+```
+
+`graphify_official_smoke.sh` runs read-only official Graphify commands and
+writes `docs/graphify-official-smoke.md`. `graphify_mcp_server.sh` starts the
+official Graphify MCP server over `graphify-out/graph.json`.
+
 Smoke tests already verified:
 
 - `graphify explain "Ahura Mazdā"` works.
 - `graphify query "What does the LLM graph say about Mithra and kingship?"` works.
 - `graphify path "Mithra" "Ahura Mazda"` works.
 - Latest saved query smoke report: `docs/query-smoke-tests.md`.
+- Full framework protocol notes: `docs/FRAMEWORK_PROTOCOLS.md`.
 
 ## Persistent Worker
 
