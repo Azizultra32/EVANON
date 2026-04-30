@@ -1,5 +1,14 @@
 # GRAPHIFY Zoroastrianism
 
+Start here:
+
+```bash
+cd /Users/ali/GRAPHIFY-zoroastrianism
+scripts/open_research_workspace.sh
+```
+
+Detailed operator guide: `START_HERE.md`.
+
 Graph-first research workspace for the corpus at:
 
 `/Users/ali/Documents/EVANON/MITHRAS 3`
