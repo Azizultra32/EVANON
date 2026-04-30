@@ -18,9 +18,8 @@ if printf '%s\n' "$changed" | grep -E '^(raw/source/|raw/ocr/|graphify-input/)' 
     echo "  source .venv/bin/activate"
     echo "  graphify-zoro-ocr --suffix .pdf"
     echo "  graphify-zoro-ocr-status"
-    echo "  find graphify-input/ocr-markdown -type l -delete"
-    echo "  find raw/ocr -maxdepth 1 -type f -name '*.md' -exec ln -sf \"\$PWD/{}\" graphify-input/ocr-markdown/ \\;"
-    echo "  graphify-zoro-llm --input graphify-input/ocr-markdown --workers 2 --timeout 1200"
+    echo "  python scripts/build_clean_markdown_input.py"
+    echo "  graphify-zoro-llm --input graphify-input/ocr-markdown-clean --workers 2 --timeout 1200"
   } > graphify-out/needs_update
   echo "[graphify-zoro hook] Corpus/OCR files changed. Wrote graphify-out/needs_update."
 fi

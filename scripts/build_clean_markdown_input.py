@@ -60,7 +60,7 @@ def build() -> dict:
     for content_hash, paths in sorted(groups.items(), key=lambda item: sorted(p.name for p in item[1])[0].lower()):
         selected = sorted(paths, key=canonical_score)[0]
         link_path = CLEAN_DIR / selected.name
-        link_path.symlink_to(selected)
+        link_path.symlink_to(Path("..") / ".." / selected.relative_to(ROOT))
         included.append(
             {
                 "path": str(selected.relative_to(ROOT)),
@@ -80,8 +80,8 @@ def build() -> dict:
 
     manifest = {
         "generated_at": datetime.now(UTC).isoformat(),
-        "source_dir": str(SOURCE_DIR),
-        "clean_dir": str(CLEAN_DIR),
+        "source_dir": str(SOURCE_DIR.relative_to(ROOT)),
+        "clean_dir": str(CLEAN_DIR.relative_to(ROOT)),
         "source_markdown_count": sum(len(paths) for paths in groups.values()),
         "unique_markdown_count": len(groups),
         "duplicate_group_count": len(duplicate_groups),

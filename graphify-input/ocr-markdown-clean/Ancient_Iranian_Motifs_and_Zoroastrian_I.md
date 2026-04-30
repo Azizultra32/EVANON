@@ -1,0 +1,1 @@
+../../raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md

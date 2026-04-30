@@ -208,8 +208,13 @@ def _split_text(text: str, max_chars: int) -> list[str]:
 
 def _chunks(input_dir: Path, project_root: Path, max_chars: int) -> list[Chunk]:
     chunks: list[Chunk] = []
+    seen_content_hashes: set[str] = set()
     for path in sorted(input_dir.rglob("*.md")):
         text = path.read_text(encoding="utf-8", errors="ignore")
+        content_hash = hashlib.sha256(text.strip().encode("utf-8")).hexdigest()
+        if content_hash in seen_content_hashes:
+            continue
+        seen_content_hashes.add(content_hash)
         title = _title(text, path)
         source_file = _source_file(project_root, path)
         parts = _split_text(text, max_chars)
@@ -225,6 +230,16 @@ def _chunks(input_dir: Path, project_root: Path, max_chars: int) -> list[Chunk]:
                 )
             )
     return chunks
+
+
+def _input_fingerprint(chunks: list[Chunk]) -> str:
+    h = hashlib.sha256()
+    for chunk in chunks:
+        h.update(chunk.source_file.encode("utf-8"))
+        h.update(str(chunk.index).encode("utf-8"))
+        h.update(str(chunk.total).encode("utf-8"))
+        h.update(hashlib.sha256(chunk.text.encode("utf-8")).hexdigest().encode("utf-8"))
+    return h.hexdigest()
 
 
 def _prompt(chunk: Chunk) -> list[dict]:
@@ -663,6 +678,9 @@ def main() -> None:
             "reasoning_effort": reasoning_effort,
             "max_output_tokens": max_output_tokens,
             "prompt_version": PROMPT_VERSION,
+            "input_path": str(input_path),
+            "input_file_count": len({chunk.source_path for chunk in chunks}),
+            "input_fingerprint": _input_fingerprint(chunks),
             "chunks_total": len(chunks),
             "chunks_succeeded": len(fragments),
             "chunks_failed": len(failures),

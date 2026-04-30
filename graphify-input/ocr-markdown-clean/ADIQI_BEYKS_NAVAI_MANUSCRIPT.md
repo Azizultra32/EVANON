@@ -1,0 +1,1 @@
+../../raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md

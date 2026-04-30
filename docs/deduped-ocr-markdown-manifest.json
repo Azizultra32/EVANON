@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-30T21:08:40.371375+00:00",
-  "source_dir": "/Users/ali/GRAPHIFY-zoroastrianism/raw/ocr",
-  "clean_dir": "/Users/ali/GRAPHIFY-zoroastrianism/graphify-input/ocr-markdown-clean",
+  "generated_at": "2026-04-30T21:17:44.248391+00:00",
+  "source_dir": "raw/ocr",
+  "clean_dir": "graphify-input/ocr-markdown-clean",
   "source_markdown_count": 52,
   "unique_markdown_count": 32,
   "duplicate_group_count": 12,

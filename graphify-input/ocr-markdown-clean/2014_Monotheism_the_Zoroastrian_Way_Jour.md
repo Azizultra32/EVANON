@@ -1,0 +1,1 @@
+../../raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md
