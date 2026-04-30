@@ -17,7 +17,7 @@ tags:
 - [[Contribution of Persia to the World Civilization]] - `references` [EXTRACTED]
 - [[Contribution of Persia to the World Civilization_1]] - `references` [EXTRACTED]
 - [[Cyrus the Great of Persia]] - `participates_in` [EXTRACTED]
-- [[Decorative blue oval graphicDecorative blue oval graphicContribution of Persia To World Civilization_1]] - `references` [EXTRACTED]
+- [[Decorative blue oval graphicDecorative blue oval graphicContribution of Persia To World Civilization]] - `references` [EXTRACTED]
 - [[King Darius of Persia]] - `participates_in` [EXTRACTED]
 - [[Robert Payne, The Splendor of Persia]] - `rationale_for` [EXTRACTED]
 

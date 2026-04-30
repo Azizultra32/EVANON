@@ -7,6 +7,7 @@ SEMANTIC_JSON="graphify-out/.graphify_semantic_llm.json"
 FAILURES_JSON="graphify-out/llm-failures.json"
 STATUS_JSON="graphify-out/worker-status.json"
 QUERY_REPORT="docs/query-smoke-tests.md"
+GRAPHIFY_INPUT="${GRAPHIFY_INPUT:-graphify-input/ocr-markdown-clean}"
 MIN_SUCCESS_RATE="${GRAPHIFY_MIN_SUCCESS_RATE:-0.99}"
 MAX_ATTEMPTS="${GRAPHIFY_WORKER_MAX_ATTEMPTS:-3}"
 LOCK_DIR="logs/graphify-worker.lock"
@@ -68,18 +69,23 @@ PY
 }
 
 is_acceptable_graph() {
-  .venv/bin/python - "$MIN_SUCCESS_RATE" <<'PY'
+  .venv/bin/python - "$MIN_SUCCESS_RATE" "$GRAPHIFY_INPUT" <<'PY'
 import json
 import sys
 from pathlib import Path
 
 min_success_rate = float(sys.argv[1])
+expected_input = str((Path.cwd() / sys.argv[2]).resolve())
 semantic_path = Path("graphify-out/.graphify_semantic_llm.json")
 graph_path = Path("graphify-out/graph.json")
 if not semantic_path.exists() or not graph_path.exists():
     sys.exit(1)
 
 data = json.loads(semantic_path.read_text(encoding="utf-8"))
+recorded_input = data.get("input_path")
+if not recorded_input or str(Path(recorded_input).resolve()) != expected_input:
+    print(f"input_mismatch recorded={recorded_input!r} expected={expected_input!r}")
+    sys.exit(1)
 total = int(data.get("chunks_total") or 0)
 succeeded = int(data.get("chunks_succeeded") or 0)
 if not total:
@@ -106,9 +112,9 @@ run_llm_attempts_if_needed() {
   fi
 
   for attempt in $(seq 1 "$MAX_ATTEMPTS"); do
-    log "LLM rebuild attempt $attempt/$MAX_ATTEMPTS"
+log "LLM rebuild attempt $attempt/$MAX_ATTEMPTS"
     .venv/bin/python -u -m graphify_zoro.llm_graphify \
-      --input graphify-input/ocr-markdown \
+      --input "$GRAPHIFY_INPUT" \
       --workers 2 \
       --timeout 1200 || true
 
@@ -140,7 +146,8 @@ run_query_report() {
     echo
     echo "- Generated at: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
     echo "- Graph: \`graphify-out/graph.json\`"
-    echo "- Purpose: verify the finalized Graphify graph is queryable after the gpt-5.5/xhigh rebuild."
+    echo "- Input: \`$GRAPHIFY_INPUT\`"
+    echo "- Purpose: verify the finalized Graphify graph is queryable after the clean deduped rebuild."
     echo
   } > "$tmp"
 
@@ -199,7 +206,9 @@ commit_and_push() {
     graphify-out \
     docs/query-smoke-tests.md \
     docs/STATUS.md \
+    docs/deduped-ocr-markdown-manifest.json \
     README.md \
+    scripts/build_clean_markdown_input.py \
     scripts/graphify_worker.sh \
     scripts/run_llm_rebuild_and_push.sh
 

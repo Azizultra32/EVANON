@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[Final Resurrection, Universal Judgement, and Molten-Metal Purification]] - `conceptually_related_to` [EXTRACTED]
-- [[IRANO-JUDAICA VII_2]] - `references` [EXTRACTED]
+- [[IRANO-JUDAICA VII]] - `references` [EXTRACTED]
 - [[Zoroastrian Cosmology as Integral Eschatology]] - `rationale_for` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Avestan_Texts

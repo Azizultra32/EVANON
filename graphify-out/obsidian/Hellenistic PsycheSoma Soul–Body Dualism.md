@@ -12,9 +12,9 @@ tags:
 # Hellenistic Psyche/Soma Soul–Body Dualism
 
 ## Connections
-- [[IRANO-JUDAICA VII_2]] - `references` [EXTRACTED]
+- [[IRANO-JUDAICA VII]] - `references` [EXTRACTED]
 - [[Ivry 1971–72; Urbach 1979; Kimelman 2006; Feldman 19881996; Elledge 2013]] - `references` [EXTRACTED]
 - [[Jewish Eschatology]] - `conceptually_related_to` [EXTRACTED]
-- [[Rabbinic Body-Soul Linkage]] - `contrasts_with` [EXTRACTED]
+- [[Rabbinic Body–Soul Linkage]] - `contrasts_with` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Avestan_Texts

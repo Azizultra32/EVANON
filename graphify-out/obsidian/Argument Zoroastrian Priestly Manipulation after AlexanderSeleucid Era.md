@@ -12,7 +12,7 @@ tags:
 # Argument: Zoroastrian Priestly Manipulation after Alexander/Seleucid Era
 
 ## Connections
-- [[Achaemenid History Derailed by AvestologyAssessing La religion des Achéménides confrontation des sources_1]] - `references` [EXTRACTED]
+- [[Achaemenid History Derailed by AvestologyAssessing La religion des Achéménides confrontation des sources]] - `references` [EXTRACTED]
 - [[Anti-dogmatic Argument against KellensSkjaervo Avestan Antiquity and Achaemenid Zoroastrianism]] - `rationale_for` [EXTRACTED]
 - [[Gnoli 2000 and the 258 Axiom for a Sixth-Century Zoroaster]] - `rationale_for` [EXTRACTED]
 - [[Yt 10.115 Mithra Hierarchy and Bivar 2005 khshathra-pati Reconstruction]] - `rationale_for` [EXTRACTED]

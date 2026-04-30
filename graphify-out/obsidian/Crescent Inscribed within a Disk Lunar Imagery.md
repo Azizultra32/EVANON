@@ -12,7 +12,7 @@ tags:
 # Crescent Inscribed within a Disk Lunar Imagery
 
 ## Connections
-- [[MORE THAN MEN, LESS THAN GODS_1]] - `references` [EXTRACTED]
+- [[MORE THAN MEN, LESS THAN GODS]] - `references` [EXTRACTED]
 - [[Moon God Sîn and Persian Lunar Deity Má]] - `conceptually_related_to` [EXTRACTED]
 - [[Naqš-e Rustam Tomb Relief of Darius I]] - `references` [EXTRACTED]
 - [[Winged Symbol  Figure in the Winged Ring]] - `conceptually_related_to` [EXTRACTED]

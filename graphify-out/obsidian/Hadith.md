@@ -12,7 +12,7 @@ tags:
 # Hadith
 
 ## Connections
-- [[ABSTRACT_2]] - `references` [EXTRACTED]
+- [[ABSTRACT]] - `references` [EXTRACTED]
 - [[Claim AvestanPersian Words in Arabic and Hadith]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Mithraic_Studies

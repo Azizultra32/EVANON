@@ -12,7 +12,7 @@ tags:
 # Bisotun Bearded Man within Winged-Disk Symbol
 
 ## Connections
-- [[THE AURA OF KINGS_4]] - `references` [EXTRACTED]
+- [[THE AURA OF KINGS]] - `references` [EXTRACTED]
 - [[Ahura Mazdā]] - `conceptually_related_to` [EXTRACTED]
 - [[Argument Achaemenid Winged-Disk Represents Ahura-Mazdā, Not Khvarnah or Fravashi]] - `rationale_for` [EXTRACTED]
 

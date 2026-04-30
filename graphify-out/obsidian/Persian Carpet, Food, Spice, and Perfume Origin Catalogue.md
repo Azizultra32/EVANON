@@ -12,7 +12,7 @@ tags:
 # Persian Carpet, Food, Spice, and Perfume Origin Catalogue
 
 ## Connections
-- [[Decorative blue oval graphicDecorative blue oval graphicContribution of Persia To World Civilization_1]] - `references` [EXTRACTED]
+- [[Decorative blue oval graphicDecorative blue oval graphicContribution of Persia To World Civilization]] - `references` [EXTRACTED]
 - [[Iran Land and the People (A.H. Saidian, 2001)]] - `cites` [EXTRACTED]
 - [[Persian-Origin Civilizational Priority Thesis]] - `rationale_for` [INFERRED]
 

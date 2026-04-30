@@ -15,6 +15,6 @@ tags:
 - [[Claim Pro-SaudiPro-Arab Regime Change Strategy for Iran]] - `rationale_for` [EXTRACTED]
 - [[New York Times  Radio Zamaneh Coverage of Jorjani]] - `rationale_for` [INFERRED]
 - [[Pan-Iranism  Greater Iran (Persianate World)]] - `rationale_for` [EXTRACTED]
-- [[The Coming Persian War_2]] - `references` [EXTRACTED]
+- [[The Coming Persian War]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/The_Coming_Persian_War

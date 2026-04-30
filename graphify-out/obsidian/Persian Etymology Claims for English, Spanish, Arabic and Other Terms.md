@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[Contribution of Persia to World Civilization]] - `rationale_for` [INFERRED]
-- [[Decorative blue oval graphicDecorative blue oval graphicContribution of Persia To World Civilization_1]] - `references` [EXTRACTED]
+- [[Decorative blue oval graphicDecorative blue oval graphicContribution of Persia To World Civilization]] - `references` [EXTRACTED]
 - [[Mohammad Al-Khwarizmi]] - `conceptually_related_to` [EXTRACTED]
 - [[Visible Citations and Main Sources History Channel, Echo of Islam, Parsi Names, Persian Letters, Motahhari's Khadamat, IHT, BBCCNN, Persian dictionaries]] - `cites` [EXTRACTED]
 

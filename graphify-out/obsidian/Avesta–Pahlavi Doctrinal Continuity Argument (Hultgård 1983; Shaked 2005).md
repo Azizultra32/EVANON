@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[Defeating Death Eschatology in Zoroastrianism, Judaism and Christianity]] - `cites` [EXTRACTED]
-- [[IRANO-JUDAICA VII_2]] - `references` [EXTRACTED]
+- [[IRANO-JUDAICA VII]] - `references` [EXTRACTED]
 - [[Kellens's Cultic Reading of Avestan Eschatology (Kellens 1991; 1994)]] - `contrasts_with` [EXTRACTED]
 - [[Zoroastrian Influence Debate  Cross-Fertilization Claim (Panaino 2004b; Silverman 2012; Shaked 1984)]] - `rationale_for` [EXTRACTED]
 

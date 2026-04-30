@@ -14,7 +14,7 @@ tags:
 ## Connections
 - [[Angra Mainyu  Destructive Force as External Evil]] - `contrasts_with` [EXTRACTED]
 - [[Final Resurrection, Universal Judgement, and Molten-Metal Purification]] - `participates_in` [EXTRACTED]
-- [[IRANO-JUDAICA VII_2]] - `references` [EXTRACTED]
+- [[IRANO-JUDAICA VII]] - `references` [EXTRACTED]
 - [[Zamyād Yašt Yt 19.89–96]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Avestan_Texts

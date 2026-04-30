@@ -1,5 +1,5 @@
 ---
-source_file: "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani 2.md"
+source_file: "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md"
 type: "document"
 community: "The Coming Persian War"
 location: "chunk 3/3"
@@ -9,13 +9,10 @@ tags:
   - community/The_Coming_Persian_War
 ---
 
-# Neo-Zoroastrianism and Pre-Islamic Persian Values
+# Neo-Zoroastrianism and Pre-Islamic Persian values
 
 ## Connections
 - [[Persian Renaissance Foundation]] - `conceptually_related_to` [EXTRACTED]
-- [[Persian Renaissance Foundation  Movement]] - `conceptually_related_to` [EXTRACTED]
 - [[The Coming Persian War]] - `references` [EXTRACTED]
-- [[The Coming Persian War_2]] - `references` [EXTRACTED]
-- [[The Coming Persian War as War on Persian Identity]] - `rationale_for` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/The_Coming_Persian_War

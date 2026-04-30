@@ -12,7 +12,7 @@ tags:
 # M.S. Tajar Online Research on Persian Words and World Civilization
 
 ## Connections
-- [[ABSTRACT_2]] - `references` [EXTRACTED]
+- [[ABSTRACT]] - `references` [EXTRACTED]
 - [[Claim 1,000+ AvestanPahlaviPersian Words in English]] - `cites` [EXTRACTED]
 - [[Claim 200+ AvestanPersian Loanwords in the Qur'an]] - `cites` [EXTRACTED]
 - [[Claim Countries and Cities with Persian Names]] - `cites` [EXTRACTED]

@@ -14,6 +14,6 @@ tags:
 ## Connections
 - [[Argument Mesopotamian Heritage Shaped Iranian Aniconism and Anthropomorphism]] - `cites` [EXTRACTED]
 - [[Assyrian Winged Disk Iconography of Aššur and Shamash]] - `conceptually_related_to` [EXTRACTED]
-- [[Bulletin of the Asia Institute_2]] - `references` [EXTRACTED]
+- [[Bulletin of the Asia Institute]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Iranian_Kingship

@@ -14,6 +14,6 @@ tags:
 ## Connections
 - [[Alleged black-budget “micro cities” migrant-containment project]] - `conceptually_related_to` [EXTRACTED]
 - [[Alt-Right Corporation plan linking NPI, Arktos, and Red Ice]] - `participates_in` [EXTRACTED]
-- [[The Coming Persian War_2]] - `references` [EXTRACTED]
+- [[The Coming Persian War]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/The_Coming_Persian_War

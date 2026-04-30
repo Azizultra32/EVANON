@@ -13,6 +13,6 @@ tags:
 
 ## Connections
 - [[Achaemenian Winged Symbol on the Behestūn Relief of Darius I]] - `conceptually_related_to` [EXTRACTED]
-- [[Bulletin of the Asia Institute_2]] - `references` [EXTRACTED]
+- [[Bulletin of the Asia Institute]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Iranian_Kingship

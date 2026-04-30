@@ -12,7 +12,7 @@ tags:
 # Qanat/Kareez Underground Water System
 
 ## Connections
-- [[Decorative blue oval graphicDecorative blue oval graphicContribution of Persia To World Civilization_1]] - `references` [EXTRACTED]
+- [[Decorative blue oval graphicDecorative blue oval graphicContribution of Persia To World Civilization]] - `references` [EXTRACTED]
 - [[National Geographic Channel Qanat Reference (Oct. 1, 2006)]] - `cites` [EXTRACTED]
 - [[Persian Architecture and Engineering Transmission]] - `conceptually_related_to` [INFERRED]
 - [[Persian-Origin Civilizational Priority Thesis]] - `rationale_for` [INFERRED]

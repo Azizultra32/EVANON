@@ -14,7 +14,7 @@ tags:
 ## Connections
 - [[Argument Mithraic Societies as Oath Brotherhoods Compatible with Other Religions, Not Mithra-Worshippers]] - `rationale_for` [EXTRACTED]
 - [[Koranic ʿahd allāh (“Covenant with God”; note 183)]] - `rationale_for` [EXTRACTED]
-- [[MITHRAIC SOCIETIES FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY_2]] - `references` [EXTRACTED]
+- [[MITHRAIC SOCIETIES FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY]] - `references` [EXTRACTED]
 - [[Mithra (Lord of Covenants)]] - `conceptually_related_to` [EXTRACTED]
 - [[Mithraic Societies]] - `participates_in` [EXTRACTED]
 

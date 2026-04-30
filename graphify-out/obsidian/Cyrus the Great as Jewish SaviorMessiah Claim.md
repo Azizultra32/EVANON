@@ -12,7 +12,7 @@ tags:
 # Cyrus the Great as Jewish Savior/Messiah Claim
 
 ## Connections
-- [[ABSTRACT_2]] - `references` [EXTRACTED]
+- [[ABSTRACT]] - `references` [EXTRACTED]
 - [[BibleTorah Isaiah 451 and Ezra 1]] - `rationale_for` [EXTRACTED]
 - [[Thesis Iranian Civilization as a Global Source of Cultural Influence]] - `rationale_for` [INFERRED]
 - [[Traces of Iran's Culture in Europe, America, China, India, and Arabia]] - `references` [EXTRACTED]

@@ -15,7 +15,7 @@ tags:
 - [[Argument Persian 'firsts' and 'greatest' contributions to Islamic sciences and world civilization]] - `rationale_for` [EXTRACTED]
 - [[Contribution of Persia to World Civilization]] - `rationale_for` [INFERRED]
 - [[Contribution of Persia to the World Civilization]] - `references` [EXTRACTED]
-- [[Decorative blue oval graphicDecorative blue oval graphicContribution of Persia To World Civilization_1]] - `references` [EXTRACTED]
+- [[Decorative blue oval graphicDecorative blue oval graphicContribution of Persia To World Civilization]] - `references` [EXTRACTED]
 - [[Visible Citations and Main Sources History Channel, Echo of Islam, Parsi Names, Persian Letters, Motahhari's Khadamat, IHT, BBCCNN, Persian dictionaries]] - `cites` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Mithraic_Studies

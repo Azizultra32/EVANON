@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[Achaemenid Royal Ideology]] - `conceptually_related_to` [EXTRACTED]
-- [[MORE THAN MEN, LESS THAN GODS_1]] - `references` [EXTRACTED]
+- [[MORE THAN MEN, LESS THAN GODS]] - `references` [EXTRACTED]
 - [[Partial Figure-ness and Elevation Argument]] - `semantically_similar_to` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Iranian_Kingship

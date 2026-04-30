@@ -12,8 +12,8 @@ tags:
 # Iconography as Historiography
 
 ## Connections
-- [[THE AURA OF KINGS_4]] - `references` [EXTRACTED]
-- [[Farr  Khvarnah  Divine Glory]] - `conceptually_related_to` [EXTRACTED]
+- [[THE AURA OF KINGS]] - `references` [EXTRACTED]
+- [[Farr  Khvarnah (Divine Glory)]] - `conceptually_related_to` [EXTRACTED]
 - [[Sasanian Divine-Origin Reinterpretation]] - `rationale_for` [EXTRACTED]
 - [[The Aura of Kings Legitimacy and Divine Sanction in Iranian Kingship]] - `references` [EXTRACTED]
 

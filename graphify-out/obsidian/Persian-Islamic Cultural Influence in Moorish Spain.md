@@ -12,7 +12,7 @@ tags:
 # Persian-Islamic Cultural Influence in Moorish Spain
 
 ## Connections
-- [[ABSTRACT_2]] - `references` [EXTRACTED]
+- [[ABSTRACT]] - `references` [EXTRACTED]
 - [[Ali Zaryab and Persian MusicDance Traditions in Spain]] - `participates_in` [EXTRACTED]
 - [[Tariq bin Ziyad Hamadani and the 711 Conquest of Spain]] - `participates_in` [EXTRACTED]
 - [[Thesis Iranian Civilization as a Global Source of Cultural Influence]] - `rationale_for` [INFERRED]

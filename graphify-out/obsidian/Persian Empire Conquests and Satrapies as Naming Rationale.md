@@ -12,7 +12,7 @@ tags:
 # Persian Empire Conquests and Satrapies as Naming Rationale
 
 ## Connections
-- [[ABSTRACT_2]] - `references` [EXTRACTED]
+- [[ABSTRACT]] - `references` [EXTRACTED]
 - [[Claim Countries and Cities with Persian Names]] - `rationale_for` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Mithraic_Studies

@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[Achaemenid Fire Structures and Fire-Worship Debate]] - `references` [EXTRACTED]
-- [[MORE THAN MEN, LESS THAN GODS_1]] - `references` [EXTRACTED]
+- [[MORE THAN MEN, LESS THAN GODS]] - `references` [EXTRACTED]
 - [[Winged Symbol  Figure in the Winged Ring]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Iranian_Kingship

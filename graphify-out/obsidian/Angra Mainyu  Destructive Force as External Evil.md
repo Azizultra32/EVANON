@@ -14,7 +14,7 @@ tags:
 ## Connections
 - [[Ahura Mazdā’s Creation and Final Perfection]] - `contrasts_with` [EXTRACTED]
 - [[Astvatereta, the Victorious Saōšyant  Perfector]] - `contrasts_with` [EXTRACTED]
-- [[IRANO-JUDAICA VII_2]] - `references` [EXTRACTED]
+- [[IRANO-JUDAICA VII]] - `references` [EXTRACTED]
 - [[Zamyād Yašt Yt 19.89–96]] - `references` [EXTRACTED]
 - [[Zoroastrian Cosmology as Integral Eschatology]] - `contrasts_with` [EXTRACTED]
 

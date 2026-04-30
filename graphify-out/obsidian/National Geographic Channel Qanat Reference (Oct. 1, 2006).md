@@ -12,7 +12,7 @@ tags:
 # National Geographic Channel Qanat Reference (Oct. 1, 2006)
 
 ## Connections
-- [[Decorative blue oval graphicDecorative blue oval graphicContribution of Persia To World Civilization_1]] - `references` [EXTRACTED]
+- [[Decorative blue oval graphicDecorative blue oval graphicContribution of Persia To World Civilization]] - `references` [EXTRACTED]
 - [[QanatKareez Underground Water System]] - `cites` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Mithraic_Studies

@@ -12,7 +12,7 @@ tags:
 # Zoroastrian Three Good Principles: Humata, Hukhta, Huvarashta
 
 ## Connections
-- [[ABSTRACT_2]] - `references` [EXTRACTED]
+- [[ABSTRACT]] - `references` [EXTRACTED]
 - [[Indo-Persian Ritual Links Diwali, Barasat, and Nowruz]] - `conceptually_related_to` [EXTRACTED]
 - [[ParsiZoroastrian Contributions in India and Pakistan]] - `rationale_for` [EXTRACTED]
 

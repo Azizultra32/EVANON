@@ -12,9 +12,9 @@ tags:
 # Winged Sun-Disk Symbol (Assyrian, Egyptian, Achaemenid)
 
 ## Connections
-- [[THE AURA OF KINGS_4]] - `references` [EXTRACTED]
+- [[THE AURA OF KINGS]] - `references` [EXTRACTED]
 - [[Ahura Mazdā]] - `conceptually_related_to` [EXTRACTED]
 - [[Khvarnah  Farr (Iranian Royal Glory)]] - `conceptually_related_to` [EXTRACTED]
-- [[THE AURA OF KINGS_1]] - `references` [EXTRACTED]
+- [[The Aura of Kings]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Mithraic_Studies

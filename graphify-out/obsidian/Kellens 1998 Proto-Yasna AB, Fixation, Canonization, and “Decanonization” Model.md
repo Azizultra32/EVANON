@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[Achaemenid History Derailed by Avestology (Abolala Soudavar, 2013)]] - `references` [EXTRACTED]
-- [[Achaemenid History Derailed by AvestologyAssessing La religion des Achéménides confrontation des sources_1]] - `references` [EXTRACTED]
+- [[Achaemenid History Derailed by AvestologyAssessing La religion des Achéménides confrontation des sources]] - `references` [EXTRACTED]
 - [[Arachosian Theory of Avestan Origin  Eastern School]] - `conceptually_related_to` [EXTRACTED]
 - [[Gershevitch 1995 No Philological Method to Measure Language Evolution Speed]] - `contrasts_with` [EXTRACTED]
 - [[Khvarenah Cycle in Yt 19 and Yt 5 Apam Napāt, Anāhitā, Afrāsiyāb, and Artaxerxes II]] - `contrasts_with` [EXTRACTED]

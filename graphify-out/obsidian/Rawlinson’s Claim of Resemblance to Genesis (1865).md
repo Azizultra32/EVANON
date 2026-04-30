@@ -14,6 +14,6 @@ tags:
 ## Connections
 - [[Babylonian Legends of the Creation]] - `conceptually_related_to` [EXTRACTED]
 - [[George Smith’s Chaldean Account of Genesis (1876)]] - `rationale_for` [EXTRACTED]
-- [[The Babylonian Legends of the Creation_2]] - `references` [EXTRACTED]
+- [[The Babylonian Legends of the Creation]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Ritual_Practice

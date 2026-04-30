@@ -15,7 +15,7 @@ tags:
 - [[Aniconism in the Religious Art of Pre-Islamic Iran and Central Asia]] - `cites` [EXTRACTED]
 - [[Anthropomorphic Mental Notions of Deity despite Aniconic Cult Objects]] - `rationale_for` [EXTRACTED]
 - [[Argument Iranian Aniconism Includes Multiple Categories and Tension between Aniconic Symbols and Anthropomorphic Divine Conceptions]] - `rationale_for` [EXTRACTED]
-- [[Bulletin of the Asia Institute_2]] - `references` [EXTRACTED]
+- [[Bulletin of the Asia Institute]] - `references` [EXTRACTED]
 - [[Debate Zoomorphic Symbols in Iranian Art as Deity Representations]] - `rationale_for` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Iranian_Kingship

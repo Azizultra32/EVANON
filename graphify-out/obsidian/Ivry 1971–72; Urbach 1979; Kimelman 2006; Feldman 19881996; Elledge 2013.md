@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[Hellenistic PsycheSoma Soul–Body Dualism]] - `references` [EXTRACTED]
-- [[IRANO-JUDAICA VII_2]] - `references` [EXTRACTED]
-- [[Rabbinic Body-Soul Linkage]] - `references` [EXTRACTED]
+- [[IRANO-JUDAICA VII]] - `references` [EXTRACTED]
+- [[Rabbinic Body–Soul Linkage]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Avestan_Texts

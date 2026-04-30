@@ -12,7 +12,7 @@ tags:
 # Achaemenid King of Kings Ideology (khshāyathiya khshāyathiyānām)
 
 ## Connections
-- [[Achaemenid History Derailed by AvestologyAssessing La religion des Achéménides confrontation des sources_1]] - `references` [EXTRACTED]
+- [[Achaemenid History Derailed by AvestologyAssessing La religion des Achéménides confrontation des sources]] - `references` [EXTRACTED]
 - [[Zoroaster as Super-King and Possessor of Aryan khvarenah]] - `contrasts_with` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Mithraic_Studies

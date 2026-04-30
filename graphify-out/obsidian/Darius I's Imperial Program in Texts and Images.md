@@ -17,7 +17,7 @@ tags:
 - [[By the Favor of Auramazdā Kingship and the Divine in the Early Achaemenid Period]] - `references` [EXTRACTED]
 - [[Darius I (522–486 B.C.)]] - `participates_in` [EXTRACTED]
 - [[Early Achaemenid Kingship and the Divine]] - `conceptually_related_to` [EXTRACTED]
-- [[MORE THAN MEN, LESS THAN GODS_1]] - `references` [EXTRACTED]
+- [[MORE THAN MEN, LESS THAN GODS]] - `references` [EXTRACTED]
 - [[Persepolis Fortification and Treasury Archives]] - `participates_in` [EXTRACTED]
 - [[Root 1979 Conceptual Foundations for Achaemenid Art]] - `rationale_for` [EXTRACTED]
 

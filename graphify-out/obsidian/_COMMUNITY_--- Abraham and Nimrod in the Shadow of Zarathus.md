@@ -53,7 +53,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 4 edges to [[_COMMUNITY_Avestan Texts]]
+- 4 edges to [[_COMMUNITY_Mithraic Studies]]
 
 ## Top bridge nodes
 - [[--- Abraham and Nimrod in the Shadow of Zarathustra]] - degree 34, connects to 1 community

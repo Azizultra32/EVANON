@@ -22,21 +22,21 @@
       }
     },
     {
-      "query": "tag:#community/Avestan_Texts",
+      "query": "tag:#community/Mithraic_Studies",
       "color": {
         "a": 1,
         "rgb": 7780274
       }
     },
     {
-      "query": "tag:#community/Iranian_Kingship",
+      "query": "tag:#community/Mithraic_Studies",
       "color": {
         "a": 1,
         "rgb": 5873999
       }
     },
     {
-      "query": "tag:#community/Avestan_Texts",
+      "query": "tag:#community/Iranian_Kingship",
       "color": {
         "a": 1,
         "rgb": 15583560
@@ -57,70 +57,70 @@
       }
     },
     {
-      "query": "tag:#community/Ritual_Practice",
+      "query": "tag:#community/Avestan_Texts",
       "color": {
         "a": 1,
         "rgb": 10253663
+      }
+    },
+    {
+      "query": "tag:#community/Avestan_Texts",
+      "color": {
+        "a": 1,
+        "rgb": 12234924
+      }
+    },
+    {
+      "query": "tag:#community/Mithraic_Studies",
+      "color": {
+        "a": 1,
+        "rgb": 5142951
+      }
+    },
+    {
+      "query": "tag:#community/Mithraic_Studies",
+      "color": {
+        "a": 1,
+        "rgb": 15896107
+      }
+    },
+    {
+      "query": "tag:#community/Iranian_Kingship",
+      "color": {
+        "a": 1,
+        "rgb": 14767961
+      }
+    },
+    {
+      "query": "tag:#community/Iranian_Kingship",
+      "color": {
+        "a": 1,
+        "rgb": 7780274
+      }
+    },
+    {
+      "query": "tag:#community/Mithraic_Studies",
+      "color": {
+        "a": 1,
+        "rgb": 5873999
       }
     },
     {
       "query": "tag:#community/The_Coming_Persian_War",
       "color": {
         "a": 1,
-        "rgb": 12234924
-      }
-    },
-    {
-      "query": "tag:#community/Iranian_Kingship",
-      "color": {
-        "a": 1,
-        "rgb": 5142951
-      }
-    },
-    {
-      "query": "tag:#community/Mithraic_Studies",
-      "color": {
-        "a": 1,
-        "rgb": 15896107
-      }
-    },
-    {
-      "query": "tag:#community/Iranian_Kingship",
-      "color": {
-        "a": 1,
-        "rgb": 14767961
-      }
-    },
-    {
-      "query": "tag:#community/Iranian_Kingship",
-      "color": {
-        "a": 1,
-        "rgb": 7780274
-      }
-    },
-    {
-      "query": "tag:#community/Avestan_Texts",
-      "color": {
-        "a": 1,
-        "rgb": 5873999
-      }
-    },
-    {
-      "query": "tag:#community/Avestan_Texts",
-      "color": {
-        "a": 1,
         "rgb": 15583560
       }
     },
     {
-      "query": "tag:#community/Mithraic_Studies",
+      "query": "tag:#community/Ritual_Practice",
       "color": {
         "a": 1,
         "rgb": 11565729
       }
     },
     {
-      "query": "tag:#community/Mithraic_Studies",
+      "query": "tag:#community/Iranian_Kingship",
       "color": {
         "a": 1,
         "rgb": 16752039
@@ -134,73 +134,59 @@
       }
     },
     {
-      "query": "tag:#community/Mithraic_Studies",
+      "query": "tag:#community/Avestan_Texts",
       "color": {
         "a": 1,
         "rgb": 12234924
-      }
-    },
-    {
-      "query": "tag:#community/Iranian_Kingship",
-      "color": {
-        "a": 1,
-        "rgb": 5142951
-      }
-    },
-    {
-      "query": "tag:#community/Iranian_Kingship",
-      "color": {
-        "a": 1,
-        "rgb": 15896107
       }
     },
     {
       "query": "tag:#community/---_Abraham_and_Nimrod_in_the_Shadow_of_Zarathus",
       "color": {
         "a": 1,
-        "rgb": 14767961
+        "rgb": 5142951
       }
     },
     {
-      "query": "tag:#community/Mithraic_Studies",
+      "query": "tag:#community/Iranian_Kingship",
       "color": {
         "a": 1,
-        "rgb": 7780274
+        "rgb": 15896107
       }
     },
     {
       "query": "tag:#community/Avestan_Texts",
       "color": {
         "a": 1,
-        "rgb": 5873999
+        "rgb": 14767961
       }
     },
     {
       "query": "tag:#community/BETWEEN_THE_SAFAVIDS_AND_THE_MUGHALS:_ART_AND_AR",
       "color": {
         "a": 1,
-        "rgb": 15583560
+        "rgb": 7780274
       }
     },
     {
       "query": "tag:#community/\u015eADIQ\u012a_BEYK'S_NAV\u0100'\u012a_MANUSCRIPT",
       "color": {
         "a": 1,
-        "rgb": 11565729
+        "rgb": 5873999
       }
     },
     {
       "query": "tag:#community/Mithraic_Studies",
       "color": {
         "a": 1,
-        "rgb": 16752039
+        "rgb": 15583560
       }
     },
     {
       "query": "tag:#community/Gazelle_AcademicNew_Title_\u2013_Political_Philosophy",
       "color": {
         "a": 1,
-        "rgb": 10253663
+        "rgb": 11565729
       }
     }
   ]

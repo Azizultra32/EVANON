@@ -22,7 +22,7 @@ cd /Users/ali/GRAPHIFY-zoroastrianism
 /Users/ali/.local/bin/graphify codex install
 ```
 
-- After OCR output exists in `raw/ocr/`, rebuild `graphify-input/ocr-markdown/` symlinks and rerun the LLM graph command below.
+- After OCR output exists in `raw/ocr/`, rebuild `graphify-input/ocr-markdown-clean/` with `scripts/build_clean_markdown_input.py` and rerun the LLM graph command below.
 - Git hooks are installed through `core.hooksPath=.githooks`. They are corpus-safe and write `graphify-out/needs_update` when `raw/source/`, `raw/ocr/`, or `graphify-input/` changes.
 
 ## OCR Status
@@ -49,8 +49,8 @@ graphify-zoro-ocr-status
 ## Current Graph Build
 
 - Build type: Graphify LLM semantic extraction
-- Input used: `graphify-input/ocr-markdown`
-- OCR Markdown files included: 52
+- Input used: `graphify-input/ocr-markdown-clean`
+- OCR Markdown files included: 32 unique files after dedupe from 52 converted Markdown files
 - Graph output: `graphify-out/`
 - Current graph size: 1,492 nodes, 3,962 graph links, 272 hyperedges
 - LLM extraction chunks: 141/142 succeeded
@@ -66,9 +66,8 @@ Build or rebuild the graph:
 ```bash
 cd /Users/ali/GRAPHIFY-zoroastrianism
 source .venv/bin/activate
-find graphify-input/ocr-markdown -type l -delete
-find raw/ocr -maxdepth 1 -type f -name '*.md' -exec ln -sf "$PWD/{}" graphify-input/ocr-markdown/ \;
-graphify-zoro-llm --input graphify-input/ocr-markdown --workers 2 --timeout 1200
+python scripts/build_clean_markdown_input.py
+graphify-zoro-llm --input graphify-input/ocr-markdown-clean --workers 2 --timeout 1200
 ```
 
 The LLM cache is in `graphify-out/llm-cache/`; reruns should be cheap unless new OCR Markdown files are added or `--force` is used.
@@ -85,7 +84,7 @@ The worker writes `graphify-out/worker-status.json`, `docs/query-smoke-tests.md`
 Safe model/API smoke test without overwriting graph outputs:
 
 ```bash
-graphify-zoro-llm --input graphify-input/ocr-markdown --smoke-test --max-chars 1800 --timeout 300
+graphify-zoro-llm --input graphify-input/ocr-markdown-clean --smoke-test --max-chars 1800 --timeout 300
 ```
 
 Latest smoke test result:

@@ -12,8 +12,8 @@ tags:
 # Mughal Royal Farr Symbolism (Shāhjahān and Jahāngīr)
 
 ## Connections
-- [[THE AURA OF KINGS_4]] - `references` [EXTRACTED]
-- [[Abol-Fazl]] - `rationale_for` [EXTRACTED]
+- [[THE AURA OF KINGS]] - `references` [EXTRACTED]
+- [[Abol-fazl]] - `rationale_for` [EXTRACTED]
 - [[Khvarnah  Farr (Iranian Royal Glory)]] - `conceptually_related_to` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Mithraic_Studies

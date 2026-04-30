@@ -12,7 +12,7 @@ tags:
 # Persian Magi and Zoroastrian Influence on Greek Philosophy
 
 ## Connections
-- [[ABSTRACT_2]] - `references` [EXTRACTED]
+- [[ABSTRACT]] - `references` [EXTRACTED]
 - [[Jason Reza Jorjani Iranian Leviathan and Prometheus and Atlas]] - `rationale_for` [EXTRACTED]
 - [[Thesis Iranian Civilization as a Global Source of Cultural Influence]] - `rationale_for` [INFERRED]
 

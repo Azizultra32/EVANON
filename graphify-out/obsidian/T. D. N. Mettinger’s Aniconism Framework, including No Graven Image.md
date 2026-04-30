@@ -14,8 +14,8 @@ tags:
 ## Connections
 - [[Aniconism in the Religious Art of Pre-Islamic Iran and Central Asia]] - `cites` [EXTRACTED]
 - [[Anthropomorphic Mental Notions of Deity despite Aniconic Cult Objects]] - `conceptually_related_to` [EXTRACTED]
-- [[Bulletin of the Asia Institute_2]] - `references` [EXTRACTED]
-- [[Empty-Space Aniconism]] - `conceptually_related_to` [EXTRACTED]
+- [[Bulletin of the Asia Institute]] - `references` [EXTRACTED]
+- [[Empty-space Aniconism]] - `conceptually_related_to` [EXTRACTED]
 - [[Material Aniconism]] - `conceptually_related_to` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Iranian_Kingship

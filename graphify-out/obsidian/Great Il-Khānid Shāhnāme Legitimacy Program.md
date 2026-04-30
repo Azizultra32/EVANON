@@ -12,7 +12,7 @@ tags:
 # Great Il-Khānid Shāhnāme Legitimacy Program
 
 ## Connections
-- [[THE AURA OF KINGS_4]] - `references` [EXTRACTED]
-- [[Farr  Khvarnah  Divine Glory]] - `rationale_for` [EXTRACTED]
+- [[THE AURA OF KINGS]] - `references` [EXTRACTED]
+- [[Farr  Khvarnah (Divine Glory)]] - `rationale_for` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Mithraic_Studies

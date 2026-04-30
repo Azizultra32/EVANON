@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[Gehenna and Garden of Eden]] - `conceptually_related_to` [EXTRACTED]
-- [[IRANO-JUDAICA VII_2]] - `references` [EXTRACTED]
+- [[IRANO-JUDAICA VII]] - `references` [EXTRACTED]
 - [[Jewish Eschatology]] - `conceptually_related_to` [EXTRACTED]
 - [[Shaked 1971 87 n.88 on Afterlife Timing]] - `references` [EXTRACTED]
 - [[Zoroastrian Eschatology]] - `conceptually_related_to` [INFERRED]

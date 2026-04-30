@@ -13,6 +13,6 @@ tags:
 
 ## Connections
 - [[Argument Zoroastrian Influence through Daily Oral Contact in Aramaic]] - `contrasts_with` [EXTRACTED]
-- [[IRANO-JUDAICA VII_2]] - `references` [EXTRACTED]
+- [[IRANO-JUDAICA VII]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Avestan_Texts

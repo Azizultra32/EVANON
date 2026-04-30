@@ -12,7 +12,7 @@ tags:
 # Gardeshgari Iran Cited Series
 
 ## Connections
-- [[Decorative blue oval graphicDecorative blue oval graphicContribution of Persia To World Civilization_1]] - `references` [EXTRACTED]
+- [[Decorative blue oval graphicDecorative blue oval graphicContribution of Persia To World Civilization]] - `references` [EXTRACTED]
 - [[Irano-European Language and Iranian Plateau Migration Thesis]] - `cites` [EXTRACTED]
 - [[Persian Architecture and Engineering Transmission]] - `cites` [EXTRACTED]
 

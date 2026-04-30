@@ -12,7 +12,7 @@ tags:
 # Tremblay's Avesta Anomaly: no king term and no magu, only daīhhu.paiti/aθravan
 
 ## Connections
-- [[Achaemenid History Derailed by AvestologyAssessing La religion des Achéménides confrontation des sources_1]] - `references` [EXTRACTED]
+- [[Achaemenid History Derailed by AvestologyAssessing La religion des Achéménides confrontation des sources]] - `references` [EXTRACTED]
 - [[Anti-dogmatic Argument against KellensSkjaervo Avestan Antiquity and Achaemenid Zoroastrianism]] - `rationale_for` [EXTRACTED]
 - [[Magophonia as Antagonism between pārsas and Median magi]] - `rationale_for` [EXTRACTED]
 

@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[Achaemenid History Derailed by Avestology (Abolala Soudavar, 2013)]] - `cites` [EXTRACTED]
-- [[Achaemenid History Derailed by AvestologyAssessing La religion des Achéménides confrontation des sources_1]] - `references` [EXTRACTED]
+- [[Achaemenid History Derailed by AvestologyAssessing La religion des Achéménides confrontation des sources]] - `references` [EXTRACTED]
 - [[Kellens 1998 Proto-Yasna AB, Fixation, Canonization, and “Decanonization” Model]] - `contrasts_with` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Mithraic_Studies

@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[Aniconism in the Religious Art of Pre-Islamic Iran and Central Asia]] - `references` [EXTRACTED]
-- [[Bulletin of the Asia Institute_2]] - `references` [EXTRACTED]
+- [[Bulletin of the Asia Institute]] - `references` [EXTRACTED]
 - [[Material Aniconism]] - `participates_in` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Iranian_Kingship

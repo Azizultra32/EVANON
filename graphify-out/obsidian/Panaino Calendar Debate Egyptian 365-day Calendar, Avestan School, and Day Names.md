@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[Achaemenid History Derailed by Avestology (Abolala Soudavar, 2013)]] - `references` [EXTRACTED]
-- [[Achaemenid History Derailed by AvestologyAssessing La religion des Achéménides confrontation des sources_1]] - `references` [EXTRACTED]
+- [[Achaemenid History Derailed by AvestologyAssessing La religion des Achéménides confrontation des sources]] - `references` [EXTRACTED]
 - [[Darius’ Calendar Evidence bayayadish, Mithra as baya, and Ahura Mazdā Supremacy]] - `conceptually_related_to` [EXTRACTED]
 - [[Kellens 1998 Proto-Yasna AB, Fixation, Canonization, and “Decanonization” Model]] - `conceptually_related_to` [EXTRACTED]
 - [[Post-Alexander Priestly Manipulation and Re-canonization Claim]] - `rationale_for` [EXTRACTED]

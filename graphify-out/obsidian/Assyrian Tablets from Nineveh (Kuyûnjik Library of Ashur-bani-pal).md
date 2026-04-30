@@ -15,6 +15,6 @@ tags:
 - [[Babylonian Legends of the Creation]] - `references` [EXTRACTED]
 - [[George Smith’s Chaldean Account of Genesis (1876)]] - `references` [EXTRACTED]
 - [[L. W. King’s Creation Texts Editions (1901–1902)]] - `references` [EXTRACTED]
-- [[The Babylonian Legends of the Creation_2]] - `references` [EXTRACTED]
+- [[The Babylonian Legends of the Creation]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Ritual_Practice

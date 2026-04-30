@@ -12,7 +12,7 @@ tags:
 # Bible/Torah: Isaiah 45:1 and Ezra 1
 
 ## Connections
-- [[ABSTRACT_2]] - `references` [EXTRACTED]
+- [[ABSTRACT]] - `references` [EXTRACTED]
 - [[Cyrus the Great as Jewish SaviorMessiah Claim]] - `rationale_for` [EXTRACTED]
 - [[Traces of Iran's Culture in Europe, America, China, India, and Arabia]] - `cites` [EXTRACTED]
 

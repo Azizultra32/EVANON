@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[Rationale Editor Joined the Creation Legend to the Dragon Legend]] - `rationale_for` [EXTRACTED]
-- [[The Babylonian Legends of the Creation_2]] - `references` [EXTRACTED]
+- [[The Babylonian Legends of the Creation]] - `references` [EXTRACTED]
 - [[The Seven Tablets of Creation]] - `conceptually_related_to` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Ritual_Practice

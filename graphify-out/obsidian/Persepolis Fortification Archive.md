@@ -12,7 +12,7 @@ tags:
 # Persepolis Fortification Archive
 
 ## Connections
-- [[MORE THAN MEN, LESS THAN GODS_1]] - `references` [EXTRACTED]
+- [[MORE THAN MEN, LESS THAN GODS]] - `references` [EXTRACTED]
 - [[PFS 389 Old Persian Inscription “Dārayaush Pārsā” with Winged Sun Disk]] - `participates_in` [EXTRACTED]
 - [[PFS 75 Lunar Libation Scene with Crescent and Pedestal Altar]] - `participates_in` [EXTRACTED]
 - [[Persepolitan Glyptic]] - `conceptually_related_to` [EXTRACTED]

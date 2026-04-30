@@ -12,7 +12,7 @@ tags:
 # Mithraic Symbolism and Tauroctony
 
 ## Connections
-- [[THE AURA OF KINGS_4]] - `references` [EXTRACTED]
+- [[THE AURA OF KINGS]] - `references` [EXTRACTED]
 - [[Khvarnah  Farr (Iranian Royal Glory)]] - `conceptually_related_to` [INFERRED]
 
 #graphify/document #graphify/EXTRACTED #community/Mithraic_Studies

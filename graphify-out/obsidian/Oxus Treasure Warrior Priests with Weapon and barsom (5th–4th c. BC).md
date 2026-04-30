@@ -12,7 +12,7 @@ tags:
 # Oxus Treasure Warrior Priests with Weapon and barsom (5th–4th c. BC)
 
 ## Connections
-- [[Achaemenid History Derailed by AvestologyAssessing La religion des Achéménides confrontation des sources_1]] - `references` [EXTRACTED]
+- [[Achaemenid History Derailed by AvestologyAssessing La religion des Achéménides confrontation des sources]] - `references` [EXTRACTED]
 - [[Post-Alexander Priestly Manipulation and Re-canonization Claim]] - `rationale_for` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Mithraic_Studies

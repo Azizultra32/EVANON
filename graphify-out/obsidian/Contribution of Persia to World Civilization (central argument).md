@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[A. H. Saidian, Iran Land and the People (Tehran, 2001)]] - `cites` [EXTRACTED]
-- [[Decorative blue oval graphicDecorative blue oval graphicContribution of Persia To World Civilization_1]] - `references` [EXTRACTED]
+- [[Decorative blue oval graphicDecorative blue oval graphicContribution of Persia To World Civilization]] - `references` [EXTRACTED]
 - [[Jiroft and Eilam as first great human civilization claim]] - `rationale_for` [INFERRED]
 - [[PersiaIran (ancient Iran; Pars and Aryan etymology)]] - `references` [EXTRACTED]
 - [[Persian Empire]] - `references` [EXTRACTED]

@@ -12,7 +12,7 @@ tags:
 # Raga and Median Priestly Language as Alternative to Arachosia
 
 ## Connections
-- [[Achaemenid History Derailed by AvestologyAssessing La religion des Achéménides confrontation des sources_1]] - `references` [EXTRACTED]
+- [[Achaemenid History Derailed by AvestologyAssessing La religion des Achéménides confrontation des sources]] - `references` [EXTRACTED]
 - [[Arachosian Theory of Avestan Origin  Eastern School]] - `contrasts_with` [EXTRACTED]
 - [[Yasna 19.18 Zarathushtra’s Raga and Four Chiefs]] - `rationale_for` [EXTRACTED]
 

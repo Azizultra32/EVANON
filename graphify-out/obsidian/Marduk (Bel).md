@@ -14,7 +14,7 @@ tags:
 ## Connections
 - [[Claim Local City Gods Become Heroes of Creation Legends]] - `conceptually_related_to` [EXTRACTED]
 - [[Claim Main Object Is the Glorification of Marduk]] - `conceptually_related_to` [EXTRACTED]
-- [[The Babylonian Legends of the Creation_2]] - `references` [EXTRACTED]
+- [[The Babylonian Legends of the Creation]] - `references` [EXTRACTED]
 - [[Tiâmat, Dragon of Chaos]] - `contrasts_with` [EXTRACTED]
 - [[“Bilingual” Creation Legend (British Museum No. 93,014)]] - `conceptually_related_to` [EXTRACTED]
 

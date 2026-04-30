@@ -12,7 +12,7 @@ tags:
 # George Smith's Genesis Parallels Refuted (Chaldean Account of Genesis, 1876)
 
 ## Connections
-- [[Seven Tablets of Creation (Creation Series)]] - `contrasts_with` [EXTRACTED]
-- [[The Babylonian Legends of the Creation_2]] - `references` [EXTRACTED]
+- [[Seven Tablets of Creation  Creation Series]] - `contrasts_with` [EXTRACTED]
+- [[The Babylonian Legends of the Creation]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Ritual_Practice

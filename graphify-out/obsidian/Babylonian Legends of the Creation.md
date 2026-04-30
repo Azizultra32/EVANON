@@ -17,6 +17,6 @@ tags:
 - [[L. W. King’s Creation Texts Editions (1901–1902)]] - `references` [EXTRACTED]
 - [[Rawlinson’s Claim of Resemblance to Genesis (1865)]] - `conceptually_related_to` [EXTRACTED]
 - [[Seven Tablets of Creation]] - `references` [EXTRACTED]
-- [[The Babylonian Legends of the Creation_2]] - `references` [EXTRACTED]
+- [[The Babylonian Legends of the Creation]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Ritual_Practice

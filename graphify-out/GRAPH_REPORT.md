@@ -1,38 +1,36 @@
-# Graph Report - /Users/ali/GRAPHIFY-zoroastrianism/graphify-input/ocr-markdown  (2026-04-29)
+# Graph Report - /Users/ali/GRAPHIFY-zoroastrianism/graphify-input/ocr-markdown-clean  (2026-04-30)
 
 ## Corpus Check
-- Large corpus: 52 files · ~1,006,114 words. Semantic extraction will be expensive (many Claude tokens). Consider running on a subfolder, or use --no-semantic to run AST-only.
+- Large corpus: 32 files · ~627,125 words. Semantic extraction will be expensive (many Claude tokens). Consider running on a subfolder, or use --no-semantic to run AST-only.
 
 ## Summary
-- 1492 nodes · 3962 edges · 29 communities detected
-- Extraction: 95% EXTRACTED · 5% INFERRED · 1% AMBIGUOUS · INFERRED: 187 edges (avg confidence: 0.77)
-- Token cost: 919,614 input · 1,718,022 output
+- 996 nodes · 2449 edges · 27 communities detected
+- Extraction: 94% EXTRACTED · 5% INFERRED · 1% AMBIGUOUS · INFERRED: 124 edges (avg confidence: 0.78)
+- Token cost: 564,147 input · 1,037,291 output
 
 ## Community Hubs (Navigation)
 - [[_COMMUNITY_Mithraic Studies|Mithraic Studies]]
 - [[_COMMUNITY_Mithraic Studies|Mithraic Studies]]
 - [[_COMMUNITY_Mithraic Studies|Mithraic Studies]]
-- [[_COMMUNITY_Avestan Texts|Avestan Texts]]
-- [[_COMMUNITY_Iranian Kingship|Iranian Kingship]]
-- [[_COMMUNITY_Avestan Texts|Avestan Texts]]
+- [[_COMMUNITY_Mithraic Studies|Mithraic Studies]]
 - [[_COMMUNITY_Mithraic Studies|Mithraic Studies]]
 - [[_COMMUNITY_Iranian Kingship|Iranian Kingship]]
-- [[_COMMUNITY_Ritual Practice|Ritual Practice]]
+- [[_COMMUNITY_Mithraic Studies|Mithraic Studies]]
+- [[_COMMUNITY_Iranian Kingship|Iranian Kingship]]
+- [[_COMMUNITY_Avestan Texts|Avestan Texts]]
+- [[_COMMUNITY_Avestan Texts|Avestan Texts]]
+- [[_COMMUNITY_Mithraic Studies|Mithraic Studies]]
+- [[_COMMUNITY_Mithraic Studies|Mithraic Studies]]
+- [[_COMMUNITY_Iranian Kingship|Iranian Kingship]]
+- [[_COMMUNITY_Iranian Kingship|Iranian Kingship]]
+- [[_COMMUNITY_Mithraic Studies|Mithraic Studies]]
 - [[_COMMUNITY_The Coming Persian War|The Coming Persian War]]
-- [[_COMMUNITY_Iranian Kingship|Iranian Kingship]]
-- [[_COMMUNITY_Mithraic Studies|Mithraic Studies]]
+- [[_COMMUNITY_Ritual Practice|Ritual Practice]]
 - [[_COMMUNITY_Iranian Kingship|Iranian Kingship]]
 - [[_COMMUNITY_Iranian Kingship|Iranian Kingship]]
 - [[_COMMUNITY_Avestan Texts|Avestan Texts]]
-- [[_COMMUNITY_Avestan Texts|Avestan Texts]]
-- [[_COMMUNITY_Mithraic Studies|Mithraic Studies]]
-- [[_COMMUNITY_Mithraic Studies|Mithraic Studies]]
-- [[_COMMUNITY_Iranian Kingship|Iranian Kingship]]
-- [[_COMMUNITY_Mithraic Studies|Mithraic Studies]]
-- [[_COMMUNITY_Iranian Kingship|Iranian Kingship]]
-- [[_COMMUNITY_Iranian Kingship|Iranian Kingship]]
 - [[_COMMUNITY_--- Abraham and Nimrod in the Shadow of Zarathus|--- Abraham and Nimrod in the Shadow of Zarathus]]
-- [[_COMMUNITY_Mithraic Studies|Mithraic Studies]]
+- [[_COMMUNITY_Iranian Kingship|Iranian Kingship]]
 - [[_COMMUNITY_Avestan Texts|Avestan Texts]]
 - [[_COMMUNITY_BETWEEN THE SAFAVIDS AND THE MUGHALS ART AND AR|BETWEEN THE SAFAVIDS AND THE MUGHALS: ART AND AR]]
 - [[_COMMUNITY_ŞADIQĪ BEYK'S NAVĀ'Ī MANUSCRIPT|ŞADIQĪ BEYK'S NAVĀ'Ī MANUSCRIPT]]
@@ -40,28 +38,28 @@
 - [[_COMMUNITY_Gazelle AcademicNew Title – Political Philosophy|Gazelle AcademicNew Title – Political Philosophy]]
 
 ## God Nodes (most connected - your core abstractions)
-1. `Ahura Mazdā` - 61 edges
-2. `Zarathustra` - 49 edges
-3. `A History of Persian Literature Volume XVII` - 36 edges
-4. `Decorative blue oval graphicDecorative blue oval graphic**Contribution of Persia To World Civilization**` - 36 edges
-5. `ABSTRACT:` - 36 edges
-6. `ABSTRACT:` - 36 edges
-7. `ABSTRACT:` - 36 edges
-8. `Encounters by the Rivers of Babylon` - 36 edges
-9. `Achaemenid History Derailed by AvestologyAssessing *La religion des Achéménides: confrontation des sources*` - 36 edges
-10. `Achaemenid History Derailed by AvestologyAssessing *La religion des Achéménides: confrontation des sources*` - 36 edges
+1. `A History of Persian Literature Volume XVII` - 36 edges
+2. `ABSTRACT:` - 36 edges
+3. `Encounters by the Rivers of Babylon` - 36 edges
+4. `Achaemenid History Derailed by AvestologyAssessing *La religion des Achéménides: confrontation des sources*` - 36 edges
+5. `ANCIENT IRANIAN MOTIFS AND ZOROASTRIAN ICONOGRAPHY` - 36 edges
+6. `Dialogue Between Cultures & Exchange of Knowledge And Cultural Ideas` - 36 edges
+7. `ASTYAGES, CYRUS AND ZOROASTER: SOLVING A HISTORICAL DILEMMA` - 36 edges
+8. `CONCEPTS OF POLLUTION IN LATE SASANIAN IRAN DOES POLLUTION NEED STAIRS, AND DOES IT FILL SPACE?` - 36 edges
+9. `“Building a New Vision of the Past in the Sasanian Empire: The Sanctuaries of Kayānsih and the Great Fires of Iran”\*` - 36 edges
+10. `IRANO-JUDAICA VII` - 35 edges
 
 ## Surprising Connections (you probably didn't know these)
 - `Winged Figure / Farvahar-Fravashi Symbol` --conceptually_related_to--> `Ahura Mazdā`  [AMBIGUOUS]
-  raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md → raw/ocr/69_On_the_Prophetic_and_Priestly_Authori 2.md
+  raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md → raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md
 - `Nimrod` --semantically_similar_to--> `Zarathustra`  [EXTRACTED] [semantically similar]
   raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md → raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md
-- `Traces of Iran's Culture in Europe, America, China, India, and Arabia` --references--> `An Shigao/Ashkani Prince Introducing Buddhism to China`  [AMBIGUOUS]
-  raw/ocr/502231919-Traces-of-Iran 2 2.md → raw/ocr/502231919-Traces-of-Iran.md
-- `Herodotus on Scythian Aniconism and Ares' Akinakes` --contrasts_with--> `Kushan and Sogdian Anthropomorphization of Iranian Deities (Surkh-Kotal; Rabatak)`  [INFERRED]
-  raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2.md → raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md
-- `Cyrus II’s Tomb: Lotus-Sunflower Emblem and Mithrāic Horse Sacrifice (Stronach; Briant)` --conceptually_related_to--> `Mithrā (Sun God)`  [AMBIGUOUS]
-  raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc copy.md → raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md
+- `IRANO-JUDAICA VII` --references--> `Almut Hintze`  [EXTRACTED]
+  raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md → raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md
+- `Almut Hintze` --participates_in--> `Defeating Death: Eschatology in Zoroastrianism, Judaism and Christianity`  [EXTRACTED]
+  raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md → raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md
+- `IRANO-JUDAICA VII` --references--> `Zarathustra`  [EXTRACTED]
+  raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md → raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md
 
 ## Hyperedges (group relationships)
 - **Stukeley's Mithraic-Solar Interpretation of the York Relief** — llm_mithras, llm_mithriac_ceremonies_and_mysteries, llm_solar_and_zodiacal_symbolism_of_mithras_reliefs, llm_york_micklegate_bas_relief_of_mithras_dug_up_1747 [EXTRACTED 0.90]
@@ -83,55 +81,24 @@
 - **Evidence and Debate on Proto-Armenian Origins** — llm_armeno_urartian_onomastic_parallels_with_armenian_c, llm_earliest_armenians_in_the_armenian_highland_before_urartu, llm_greek_phrygian_origin_testimonia_herodotus_7_73_eudoxus, llm_problem_of_identifying_and_localizing_the_proto_armenians, llm_urartu_s_non_armenian_language_and_the_late_immigration_thesis [INFERRED 0.82]
 - **Proto-Armenian Origin Debate: Urartu Evidence, Highland Hypotheses, and Early Capitals** — llm_armenian_elements_in_the_language_and_onomastics_of_urartu, llm_first_capitals_armawir_and_armazi_early_ethnic_associations, llm_problem_of_identification_of_the_proto_armenians_critical_review, llm_proto_armenians_in_the_armenian_highland_arimoi_hatti_hayasa_etiuni_hypotheses [INFERRED 0.85]
 - **Comparative Mythology and Pantheon Reconstruction in Armenian Prehistory** — llm_forefather_hayk_in_the_light_of_comparative_mythology, llm_haldi_and_mithra_mher_god_or_hero_reborn_from_rock_stone, llm_indo_european_h2ner_t_s_and_the_d_nu_tribe_argument, llm_kumme_kummanna_te_ub_tei_eba_and_greek_theseus, llm_state_pantheon_of_greater_armenia_aramazd_anahit_vahagn_mihr [INFERRED 0.77]
-- **Shared Last Things Pattern Across Zoroastrian and Abrahamic Traditions** — llm_christian_eschatology, llm_eschatological_sequence_judgement_heaven_hell_perfector_resurrection, llm_jewish_eschatology, llm_zoroastrian_eschatology [EXTRACTED 0.90]
-- **Debate over Avesta, Pahlavi Texts, and Zoroastrian Influence on Jewish Eschatology** — llm_avesta_older_and_younger_avestan_corpus, llm_hultg_rd_s_avesta_pahlavi_doctrinal_continuity_argument_hultg_rd_1983, llm_kellens_s_cultic_interpretation_of_avestan_eschatology_kellens_1991_1994, llm_no_eschatological_sequence_in_israelite_texts_before_persian_contact, llm_pahlavi_middle_persian_zoroastrian_texts, llm_zoroastrian_influence_cross_fertilization_debate_panaino_2004b_shaked_1984 [EXTRACTED 0.88]
-- **Coherent Zoroastrian Eschatological System** — llm_ahura_mazd_vs_angra_mainyu_creator_and_destructive_force, llm_individual_judgement_at_the_chinvat_bridge_y_71_16_gar_d_m_na_y_45_8_50_4_51_15, llm_universal_judgement_resurrection_and_ordeal_of_molten_metal, llm_victorious_sa_yant_astvatereta_posthumous_son_of_zarathustra, llm_zoroastrian_cosmology_with_integrated_eschatology [EXTRACTED 0.92]
-- **Debate over Mechanism of Zoroastrian Influence on Jewish Eschatology** — llm_argument_for_zoroastrian_influence_on_jewish_eschatology_through_contact, llm_oral_intertextual_and_memetic_transmission_via_aramaic_and_daily_practice_kristeva_bakhtin_1981_dawkins_1989_stausberg_2007, llm_pre_exilic_jewish_sheol_eschatology_job_7_7_10_1_sam_2_6_ps_16_10_deut_32_39, llm_smith_barr_influence_from_above_or_persian_propagandist_thesis_smith_1963_1990_barr_1985, llm_zoroastrian_meme_complex_after_death_judgement_heaven_hell_evil_caused_death_resurrection_because_evil_is_defeated [EXTRACTED 0.86]
-- **Jewish Afterlife Tension: Hellenistic Soul Dualism, Rabbinic Body-Soul Integrity, and Two Judgements** — llm_hellenistic_psyche_soma_dualism_in_greek_jewish_literature, llm_jewish_eschatology, llm_rabbinic_body_soul_linkage, llm_two_judgements_and_afterlife_timing_gehenna_garden_of_eden_and_resurrection [EXTRACTED 0.86]
-- **Second Temple Assimilation of Zarathustran Eschatology Argument** — llm_claim_jewish_eschatology_assimilated_a_type_first_formulated_by_zarathustra, llm_jewish_eschatology, llm_rationale_deutero_isaiah_restoration_hope_transposed_to_life_beyond_the_grave, llm_second_temple_post_biblical_jewish_literature, llm_zarathustra, llm_zoroastrian_eschatology [EXTRACTED 0.90]
-- **Debate over Avesta, Pahlavi Evidence and Zoroastrian Influence on Judaism** — llm_avesta_including_older_avesta_gathas_and_yasna_44_3, llm_doctrinal_continuity_from_avesta_to_pahlavi_texts_hultg_rd_1983_shaked_2005_hintze, llm_jean_kellens_s_ritualist_interpretation_of_avestan_eschatology_kellens_1991_1994, llm_pahlavi_texts_in_middle_persian_including_bundahi_n, llm_zoroastrian_cross_fertilization_argument_for_jewish_and_christian_eschatology [EXTRACTED 0.85]
-- **Zoroastrian Eschatology as a Coherent Meme Complex** — llm_ahura_mazd_angra_mainyu_and_dualistic_creation, llm_individual_judgement_at_the_chinvat_bridge, llm_sa_yant_perfector_and_astvatereta, llm_universal_judgement_resurrection_and_perfection, llm_zoroastrian_eschatological_worldview [EXTRACTED 0.86]
-- **Debate over Zoroastrian Influence on Judaism** — llm_argument_zoroastrian_influence_through_oral_memetic_exchange, llm_pre_exilic_judaism_sheol_and_this_worldly_eschatology, llm_rationale_coherent_eschatological_meme_complexes_signal_influence, llm_smith_and_barr_top_down_influence_models [EXTRACTED 0.82]
-- **Soul and Body in Jewish Afterlife Thought** — llm_hellenistic_psyche_soma_dualism_in_greek_jewish_literature_feldman_1988_1996_elledge_2013, llm_rabbinic_body_soul_linkage_and_theology_of_the_physical_kimelman_2006_ivry_1971_72_urbach_1979, llm_septuagint_translation_of_biblical_nefesh_as_greek_psyche [EXTRACTED 0.86]
-- **Argument for Zoroastrian Influence on Jewish Eschatology** — llm_claim_israelites_assimilated_an_eschatology_first_formulated_by_zarathustra, llm_claim_jewish_two_judgements_idea_implies_external_influence, llm_problem_delay_between_sixth_century_bce_israelite_zoroastrian_contact_and_abundant_jewish_eschatological_sources, llm_rationale_jewish_this_worldliness_and_unfulfilled_deutero_isaiah_restoration_hopes_after_exile, llm_second_temple_post_biblical_jewish_literature_from_the_second_century_bce_earlyjewishwritings_com, llm_zarathustra, llm_zoroastrian_eschatology [EXTRACTED 0.83]
 - **Debate over Zoroastrian Influence on Abrahamic Eschatology** — llm_israelite_texts_before_persian_contact_mid_6th_c_bce, llm_judaism_christianity_and_islam_eschatology, llm_zoroastrian_eschatology, llm_zoroastrian_influence_debate_cross_fertilization_claim_panaino_2004b_silverman_2012_shaked_1984 [EXTRACTED 0.90]
 - **Debate over Avestan Ritualism versus Avesta-Pahlavi Doctrinal Continuity** — llm_avesta_older_and_younger_avestan_zoroastrian_literature, llm_avesta_pahlavi_doctrinal_continuity_argument_hultg_rd_1983_shaked_2005, llm_kellens_s_cultic_reading_of_avestan_eschatology_kellens_1991_1994, llm_pahlavi_texts_middle_persian_zoroastrian_writings_9th_10th_c [EXTRACTED 0.90]
 - **Zoroastrian End-Time Sequence: Evil Defeated, Dead Raised, Creation Perfected** — llm_ahura_mazd_s_creation_and_final_perfection, llm_angra_mainyu_destructive_force_as_external_evil, llm_astvatereta_the_victorious_sa_yant_perfector, llm_final_resurrection_universal_judgement_and_molten_metal_purification, llm_zoroastrian_cosmology_as_integral_eschatology [EXTRACTED 0.95]
 - **Debate over Zoroastrian Influence on Jewish Eschatology** — llm_argument_zoroastrian_influence_through_daily_oral_contact_in_aramaic, llm_meme_complex_criterion_for_zoroastrian_influence_dawkins_1989_stausberg_2007, llm_pre_exilic_jewish_sheol_and_this_worldly_eschatology_job_7_7_10_1_sam_2_6, llm_smith_1963_1990_and_barr_1985_persian_propagandist_or_special_study_model [EXTRACTED 0.84]
 - **Afterlife Timing and Two Judgements Cluster** — llm_gehenna_and_garden_of_eden, llm_jewish_eschatology, llm_shaked_1971_87_n_88_on_afterlife_timing, llm_two_judgements_model_immediate_afterlife_vs_bodily_resurrection [EXTRACTED 0.90]
 - **Transmission Argument: Zarathustra to Second Temple Jewish Eschatology** — llm_claim_israelites_assimilated_zarathustrian_eschatology, llm_jewish_eschatology, llm_rationale_jewish_this_worldliness_and_deferred_davidic_restoration, llm_second_temple_jewish_literature, llm_zarathustra, llm_zoroastrian_eschatology [EXTRACTED 0.86]
-- **Basis of Jorjani's Saudi-Led War Argument** — llm_1991_persian_gulf_war_coalition, llm_argument_saudi_led_war_and_fragmentation_of_iran, llm_persian_gulf_vs_arabian_gulf_naming_dispute, llm_walid_phares_fox_news_comments_on_iran_policy_13_oct_2017 [EXTRACTED 0.82]
-- **Pan-Iranism vs. Pro-Saudi Regime-Change Strategy** — llm_argument_saudi_led_war_and_fragmentation_of_iran, llm_michael_bagley_and_jellyfish_intelligence_network, llm_persian_renaissance_foundation_movement [INFERRED 0.72]
-- **Phares Gulf War Analogy for Iran Policy** — llm_1991_persian_gulf_war, llm_claim_trump_iran_policy_as_a_pro_saudi_war_against_persian_civilizational_identity, llm_islamic_revolutionary_guard_corps_pasdaran, llm_saudi_led_sunni_arab_coalition, llm_walid_phares_fox_news_comments_13_oct_2017 [EXTRACTED 0.80]
-- **Persian Renaissance Pan-Iranist Coalition** — llm_greater_iran_eranshahr_and_neo_zoroastrian_pre_islamic_values, llm_iranian_united_front_jebhey_ir_ngar_y_n, llm_persian_renaissance_foundation_movement [EXTRACTED 0.85]
-- **Proposed Alt-Right Corporation and Funding Channel** — llm_alt_right_corporatization_and_white_house_influence_plan, llm_black_budget_micro_cities_project_north_africa_and_western_anatolia, llm_jason_reza_jorjani, llm_national_policy_institute_arktos_red_ice_network, llm_trump_administration_iran_policy_as_portrayed [EXTRACTED 0.85]
-- **Persian War Identity and Regime-Change Debate** — llm_divide_and_conquer_iran_claim, llm_greater_iran_persianate_world_eranshahr, llm_neo_zoroastrianism_and_pre_islamic_persian_values, llm_the_coming_persian_war_as_war_on_persian_identity, llm_trump_administration_iran_policy_as_portrayed [EXTRACTED 0.88]
 - **Rationale for Article’s Saudi-Led War/Fragmentation Claim** — llm_article_claim_saudi_led_regime_change_war_would_fragment_iran, llm_persian_gulf_vs_arabian_gulf_naming_dispute, llm_saudi_led_sunni_arab_coalition, llm_walid_phares_fox_news_remarks_and_1991_persian_gulf_war_analogy [EXTRACTED 0.84]
 - **Claimed Backchannel Linking Persian Renaissance, Alt-Right Strategy, and Trump Iran Policy** — llm_alt_right_corporation_and_white_house_influence_plan, llm_jason_reza_jorjani_persian_renaissance_and_pan_iranism, llm_michael_bagley_jellyfish_backchannel, llm_trump_tillerson_2017_iran_policy_review [INFERRED 0.70]
 - **1991 Gulf War Analogy for Iran Policy** — llm_1991_persian_gulf_war_coalition, llm_claim_pro_saudi_pro_arab_regime_change_strategy_for_iran, llm_fox_news_october_13_2017_iran_policy_preview, llm_walid_phares [EXTRACTED 0.80]
 - **Persian Nationalist Opposition Frame** — llm_iranian_united_front_jebhey_ir_ngar_y_n, llm_pan_iranism_greater_iran_persianate_world, llm_persian_renaissance_foundation [EXTRACTED 0.86]
 - **Proposed route from Alt-Right leadership to White House influence over Iran policy** — llm_alt_right_corporation_plan_linking_npi_arktos_and_red_ice, llm_jason_reza_jorjani, llm_michael_and_x_as_political_intermediaries, llm_trump_administration_iran_policy_and_white_house_access_plan [EXTRACTED 0.85]
 - **Debate over Greater Iran/Persian civilizational identity versus separatist partition** — llm_claim_pro_saudi_divide_and_conquer_strategy_against_iran_s_persian_identity, llm_neo_zoroastrianism_and_pre_islamic_persian_values, llm_pan_iranism_eranshahr_and_greater_iran_persianate_world, llm_trump_administration_iran_policy_and_white_house_access_plan [EXTRACTED 0.82]
-- **Persian Foundational Contributions Cluster** — llm_argument_persian_empire_as_first_and_tolerant_world_empire, llm_claim_sanskrit_indo_european_language_origin_in_iran, llm_jiroft_and_eilam_civilization, llm_king_jamshid_and_nauruz_festival_tradition, llm_silk_road [EXTRACTED 0.85]
-- **Persian Human Rights and Tolerance Cluster** — llm_argument_persian_pioneering_of_human_rights_and_religious_tolerance, llm_cyrus_cylinder_human_rights_charter, llm_cyrus_the_great_of_persia [EXTRACTED 0.90]
-- **Claimed Persian Contribution Domains** — llm_contribution_of_persia_to_world_civilization_core_argument, llm_mithraism_magi_king_jamshid_nowruz_and_13th_day_ritual_claims, llm_parsi_zoroastrian_diaspora_influence_claims, llm_persian_architectural_and_design_diffusion_claims, llm_persian_aryan_linguistic_origin_claims, llm_persian_material_culture_and_invention_catalog, llm_qanat_kareez_persian_water_technology_claim [INFERRED 0.82]
-- **Persian Scientific and Medical Priority Examples** — llm_al_khwarazmi_aljabr_algorithm_and_logarithm_claims, llm_al_razi_smallpox_and_abu_ali_sina_meningitis_priority_claims, llm_enumerated_persian_firsts_as_evidence_for_civilizational_contribution, llm_naseer_ad_din_tusi_and_the_maragheh_observatory [EXTRACTED 0.88]
-- **Persian Cultural and Linguistic Transmission in Islamic Civilization** — llm_al_ma_mun_and_the_house_of_wisdom_translation_movement, llm_iranian_influence_on_egyptian_islamic_revivalism, llm_persian_as_second_language_of_islamic_propagation_and_terms, llm_persian_origin_vocabulary_and_etymology_claims, llm_qawwali_barzanji_as_persian_origin_sufi_chanting [INFERRED 0.75]
 - **Evidence cluster for Persian civilizational primacy** — llm_a_h_saidian_iran_land_and_the_people_tehran_2001, llm_jiroft_and_eilam_as_first_great_human_civilization_claim, llm_persia_iran_ancient_iran_pars_and_aryan_etymology, llm_professor_arthur_a_pope [EXTRACTED 0.82]
 - **Achaemenid human rights and religious toleration cluster** — llm_achaemenid_human_rights_charters_darius_ganj_nameh_and_cyrus_cylinder, llm_cyrus_the_great_of_persia, llm_persian_empire, llm_persian_liberation_of_jews_and_religious_toleration_claim [EXTRACTED 0.86]
 - **Persian Technology and Material Culture Origin Cluster** — llm_persian_architecture_and_engineering_transmission, llm_persian_carpet_food_spice_and_perfume_origin_catalogue, llm_persian_origin_civilizational_priority_thesis, llm_qanat_kareez_underground_water_system, llm_taj_mahal_persian_design_claim_ustad_eisa_shirazi_mumtaz_mahal [INFERRED 0.82]
 - **Persian Religion, Calendar, and Origin Claims Cluster** — llm_irano_european_language_and_iranian_plateau_migration_thesis, llm_mithraism_mitra_persian_sun_god_worship, llm_noruz_sizdeh_bedar_and_king_jamshid_tradition, llm_persian_origin_civilizational_priority_thesis [INFERRED 0.76]
 - **Persian Scientific Priority Debate against European Priority Narratives** — llm_abu_rayhan_biruni_father_of_geodesy_claim, llm_european_priority_narratives_flat_earth_newton_copernicus_and_galileo, llm_mohammad_al_khwarizmi, llm_naseer_ad_din_tusi_and_maragheh_observatory, llm_persian_islamic_scientific_firsts_claim_mathematics_medicine_astronomy_geodesy_biogas_gm_rice [INFERRED 0.78]
 - **Persian Islamic Cultural Transmission through Language, Chanting, Scholarship and Religious Politics** — llm_caliph_al_ma_mun_and_the_house_of_wisdom_in_baghdad, llm_persian_as_second_language_of_islamic_propagation_and_religious_vocabulary, llm_persian_religious_political_influence_in_islam_khomeini_asadabadi_nawwab_safavi_qommi, llm_qawwali_and_barzanji_sufi_chanting_tradition [INFERRED 0.80]
-- **Rationales forming the article's global Iranian influence argument** — llm_argument_iranian_civilization_as_a_forgotten_global_cultural_source, llm_claim_an_shigao_persian_ashkani_prince_monk_introduced_buddhism_to_china, llm_claim_christian_and_catholic_rituals_adapted_from_mithraism, llm_claim_cyrus_the_great_as_jewish_messiah_biblical_prophets_in_persia_isaiah_45_1_ezra_1, llm_claim_greek_philosophers_were_trained_under_persian_magi_and_zoroastrian_philosophy, llm_claim_persian_islamic_influences_in_moorish_spain_through_ali_zaryab_and_tariq_bin_ziyad, llm_claim_saka_saxon_celt_catalan_and_caucasus_groups_trace_to_iranian_tribes [EXTRACTED 0.82]
-- **Forms of Persianate Influence in India in the Excerpt** — llm_claim_aryan_brahmin_migration_four_caste_system_sanskrit_avestan_links_and_devas, llm_claim_taj_mahal_as_a_persian_islamic_monument, llm_claimed_persian_zoroastrian_links_of_sikhism_and_guru_nanak, llm_claimed_persianate_roots_of_indian_food_fashion_swastika_diwali_barasat_and_nowruz, llm_parsi_zoroastrian_contributions_in_india_khoma_rostam_dadabhai_naoroji_zubin_mehta_homi_bhabha_jamshid_nusherwanjee, llm_persian_sufi_islam_in_india_chishti_hajwiri_ganj_shakar_nizamuddin_auliya_baba_farid_shah_hamadan, llm_persianate_indian_arts_qawwali_amir_khusrow_and_bollywood_parsi_film_heritage, llm_urdu_as_persianized_literary_culture_ghalib_hali_mir_anees_mir_taqi_mir_bidel_muhammad_iqbal [EXTRACTED 0.87]
-- **Debate over Persian Words in Arabic, Scripture, and European Languages** — llm_arabic_language, llm_argument_avestan_persian_words_in_arabic_hadith_and_qur_an, llm_argument_more_than_1_000_avestan_pahlavi_persian_words_in_english, llm_avestan_pahlavi_persian_lexicon, llm_english_and_european_languages_greek_french_spanish_portuguese_slavic_russian [EXTRACTED 0.82]
-- **Persian Global Toponymy Argument** — llm_argument_countries_and_cities_worldwide_have_persian_names, llm_avestan_pahlavi_persian_lexicon, llm_rationale_persian_empire_rule_naming_and_satrapies_of_territories [EXTRACTED 0.85]
-- **Claimed evidence bundle for Iranian civilization's global influence** — llm_claim_1_000_avestan_persian_words_entered_english_and_european_languages_including_paradise_bazaar_chess_algorithm_and_shampoo, llm_claim_an_shigao_ang_xi_introduced_buddhism_to_china_as_an_ashkani_persian_prince_monk_circa_148_ad, llm_claim_cyrus_the_great_persian_jewish_prophets_and_persian_wise_men_shaped_jewish_and_christian_tradition, llm_claim_greek_philosophers_and_plato_were_trained_or_influenced_by_persian_magi_and_zoroastrian_philosophy, llm_claim_mithraism_shaped_christian_catholic_rituals_such_as_december_25_miter_wine_and_bread_last_supper_and_twelve_disciples, llm_claim_persian_islamic_influence_in_al_andalus_spain_through_tariq_bin_ziyad_ali_zaryab_gardens_baths_sewage_paper_universities_libraries_and_nouruz, llm_claim_saka_saxon_alan_sarmatian_catalan_and_caucasus_peoples_had_iranian_roots, llm_thesis_iranian_civilization_as_a_10_000_year_global_source_of_religious_linguistic_cultural_historical_and_social_influence [INFERRED 0.85]
-- **Stated Waves of Iranian Influence in India** — llm_argument_iranian_cultural_influences_in_the_indian_subcontinent, llm_aryan_brahmin_migration_and_sanskrit_avestan_inheritance, llm_parsi_zoroastrian_contributions_in_india, llm_persianized_sufi_islam_in_india, llm_urdu_as_persianate_language_persian_persianized_arabic_sanskrit [EXTRACTED 0.82]
-- **Persianate Language, Music, and Monumental Arts in India** — llm_argument_iranian_cultural_influences_in_the_indian_subcontinent, llm_claim_taj_mahal_as_a_persian_islamic_monument, llm_qawwali_as_persian_urdu_spiritual_music, llm_urdu_as_persianate_language_persian_persianized_arabic_sanskrit [INFERRED 0.76]
-- **Global Persian Linguistic and Toponymic Heritage Claim Cluster** — llm_claim_1_000_avestan_pahlavi_persian_words_in_english, llm_claim_200_avestan_persian_words_in_the_qur_an_repeated_in_4_000_places, llm_claim_avestan_persian_loanwords_in_arabic_and_hadith, llm_claim_persian_toponyms_for_countries_cities_and_capitals [INFERRED 0.86]
-- **Qur'anic Persian Loanword Authorities and Examples** — llm_claim_200_avestan_persian_words_in_the_qur_an_repeated_in_4_000_places, llm_loanword_authorities_al_suyuti_al_jawaliqi_raghib_esfahani_ady_shir_al_munjid_dehkhoda_shushtari_khorram_shahi, llm_qur_anic_examples_firdaus_pardis_fil_pil_deen_daena_seraat_sarak_mihrab_mithra_aba [EXTRACTED 0.91]
 - **Rationales Used for the Iranian Global Influence Thesis** — llm_an_shigao_ashkani_prince_introducing_buddhism_to_china, llm_avestan_persian_words_in_english_and_european_languages, llm_cyrus_the_great_as_jewish_savior_messiah_claim, llm_mithraic_influence_on_christian_catholic_rituals, llm_persian_islamic_cultural_influence_in_moorish_spain, llm_persian_magi_and_zoroastrian_influence_on_greek_philosophy, llm_thesis_iranian_civilization_as_a_global_source_of_cultural_influence [INFERRED 0.86]
 - **Persian-Islamic Spain Transmission Claims** — llm_ali_zaryab_and_persian_music_dance_traditions_in_spain, llm_persian_islamic_cultural_influence_in_moorish_spain, llm_tariq_bin_ziyad_hamadani_and_the_711_conquest_of_spain [EXTRACTED 0.88]
 - **Indian Subcontinent Persian Influence Evidence Set** — llm_argument_persian_iranian_influence_in_the_indian_subcontinent, llm_aryan_brahmin_migration_sanskrit_and_rig_veda_as_iranian_influences, llm_claim_taj_mahal_as_a_persian_islamic_monument, llm_indo_persian_ritual_links_diwali_barasat_and_nowruz, llm_parsi_zoroastrian_contributions_in_india_and_pakistan, llm_persian_sufi_masters_and_persianized_sufi_islam_in_india, llm_persian_urdu_poetry_music_and_qawwali, llm_urdu_as_a_persianized_language, llm_zoroastrian_three_good_principles_humata_hukhta_huvarashta [EXTRACTED 0.90]
@@ -143,18 +110,6 @@
 - **Persian Religion, Calendar, and Zoroastrian Diaspora Cluster** — llm_mithraism_mitra_sun_god_worship_persian_origin_claim, llm_nowruz_and_sizdeh_bedar_new_year_traditions, llm_parsi_zoroastrian_diaspora_contributions, llm_persia_greater_persia [INFERRED 0.74]
 - **Persian science, medicine, mathematics, astronomy, and geodesy examples** — llm_abu_ali_sina_avicenna_and_al_qanun_canon_of_medicine, llm_abu_rayhan_biruni_as_father_of_geodesy, llm_al_khwarizmi_al_jabr_arabic_numerals_and_logarithm_etymology, llm_nasir_al_din_tusi_and_the_maragheh_observatory [INFERRED 0.86]
 - **Persian cultural and religious transmission across the Islamic world** — llm_caliph_al_ma_mun_and_the_house_of_wisdom_in_baghdad, llm_persian_as_second_language_of_islamic_propagation_namaz_ruzah_ustad_terms, llm_qawwali_barzanji_as_persian_origin_sufi_chanting, llm_seyyid_jamal_ad_din_asadabadi_al_afghani_and_back_to_islam_revivalism [INFERRED 0.82]
-- **Textual Evidence for Zarathustra’s Prophetic and Priestly Authority** — llm_argument_texts_attach_both_prophetic_and_priestly_authority_to_zarathustra, llm_revealed_manthra_ahuna_vairya_and_da_n_m_zdayasni_y_27_13_yt_19_80_81_y_45_3, llm_ritual_fire_and_yasna_haptanh_iti_y_34_4_y_36_2_6, llm_yasna_33_6_zaot_seeks_vision_and_conversation_with_ahura_mazd, llm_zarathustra, llm_zarathustra_ahura_mazd_consultation_tradition_y_43_7_8_vohu_manah_ham_pursag_h [EXTRACTED 0.90]
-- **Weberian Prophet–Priest Contrast and Zarathustra as Exception** — llm_argument_texts_attach_both_prophetic_and_priestly_authority_to_zarathustra, llm_max_weber_s_prophet_priest_typology, llm_zarathustra [EXTRACTED 0.85]
-- **Prophetic and Priestly Authority of Zarathustra** — llm_ahura_mazd, llm_da_n_m_zdayasni_mazdayasnian_belief, llm_rationale_revealed_ma_r_m_legitimates_prophetic_authority_y_45_3_y_45_5_max_weber, llm_zara_u_tr_t_ma_zardu_tr_tom_priestly_lineage_y_65_9_11, llm_zarathustra [EXTRACTED 0.92]
-- **Ritual Anticipation of frašō.kərəti** — llm_evil_daevas_and_angra_mainyu, llm_fra_k_r_ti_perfection_final_renovation, llm_gathas_and_yasna_hapta_h_iti_ritual_y_28_9_y_34_4_15_n_rangest_n_47, llm_ritual_fire_as_ahura_mazd_s_presence_y_36_2_6 [EXTRACTED 0.88]
-- **Zarathustra's Dual Authority Complex** — llm_ahura_mazd, llm_claim_zarathustra_s_dual_priestly_and_prophetic_authority, llm_zara_u_tr_tama_zardu_tr_tom_spiritual_authority, llm_zarathustra [EXTRACTED 0.90]
-- **Gender and Zoroastrian Priesthood Evidence/Practice Debate** — llm_claim_avestan_gender_inclusive_charismatic_priesthood, llm_h_rbedest_n_chapters_1_and_5, llm_male_hereditary_priesthood_menstrual_defilement_exclusion_and_mobedyar_paramobed_reform_debate, llm_max_weber_s_charismatic_authority, llm_n_rangest_n_22_40, llm_yasna_hapta_h_iti_y_41_2, llm_yest_n_yest_10_35 [INFERRED 0.82]
-- **Evidence Set for Zarathustra's Prophetic-Priestly Authority** — llm_argument_zarathustra_combines_prophetic_and_priestly_authority, llm_revelatory_conversation_topos_y_43_7_8_ham_pursag_h, llm_yasna_33_6_zaotar_seeks_vision_and_conversation, llm_yasna_45_3_divine_authority_for_the_manthra, llm_yasna_hapta_h_iti_and_ritual_fire_y_36_2_6 [INFERRED 0.88]
-- **Transmission of Mazdayasnian Religion from Ahura Mazdā to Zarathustra** — llm_ahuna_vairya_as_anti_demonic_mantra_y_27_13_yt_19_80_81, llm_ahura_mazd, llm_da_n_m_zdayasni_mazda_worshipping_religion_mk_fol_19v_1_4, llm_zarathustra [EXTRACTED 0.86]
-- **Revealed Authority Transmission: Ahura Mazdā to Zarathustra to Mazdayasnian Belief** — llm_ahuna_vairya_prayer_y_27_13_yt_19_81, llm_ahura_mazd, llm_da_n_m_zdayasni_mazdayasnian_belief, llm_y_45_3_ma_r_m_revelation_claim, llm_zarathustra [EXTRACTED 0.92]
-- **Ritual Enactment of Ahura Mazdā's Presence and Final Perfection** — llm_ahura_mazd, llm_evil_daevas_and_angra_mainyu, llm_fra_k_r_ti_final_perfection_renovation, llm_yasna_hapta_h_iti_gathic_ritual_fire_and_sacrifice [EXTRACTED 0.86]
-- **Zarathustra as Prophet, Priest, and Source of Religious Authority** — llm_ahura_mazd, llm_argument_zarathustra_s_prophetic_and_priestly_authority, llm_younger_avesta_zarathustra_as_start_of_priestly_tradition, llm_zara_u_tr_tama_zardu_tr_tom, llm_zarathustra [EXTRACTED 0.92]
-- **Evidence and Debate over Women Priests in Zoroastrianism** — llm_contemporary_zoroastrian_priesthood_gender_debate, llm_h_rbedest_n_chapters_1_and_5, llm_max_weber_s_charismatic_authority, llm_n_rangest_n_22_40_zaotar_of_either_gender, llm_women_priests_and_charismatic_gender_inclusive_authority, llm_yasna_41_2_and_26_7_on_men_and_women, llm_yest_n_yest_10_35 [EXTRACTED 0.88]
 - **Textual Rationale for Zarathustra's Prophet-Priest Authority** — llm_ahuna_vairya_as_anti_demonic_mantra_y_27_13_y_9_14_yt_19_80_81, llm_vohu_manah_mediated_ham_pursag_h_revelation_y_43_7_8_d_ity_tradition, llm_yasna_33_6_zaotar_self_description, llm_yasna_45_3_divine_formula_received_from_ahura_mazd, llm_yasna_hapta_h_iti_fire_ritual_and_ahura_mazd_s_presence_y_34_4_y_36_2_6, llm_zarathustra_s_prophetic_and_priestly_authority [EXTRACTED 0.88]
 - **Revelation, Ritual, and Final Perfection Sequence** — llm_ahuna_vairya_as_anti_demonic_mantra_y_27_13_y_9_14_yt_19_80_81, llm_ahura_mazd, llm_fra_k_r_ti_final_perfection, llm_yasna_hapta_h_iti_fire_ritual_and_ahura_mazd_s_presence_y_34_4_y_36_2_6, llm_zarathustra, llm_zoroastrianism_mazdayasnian_religion_da_n_mazdayasni_mk_fol_19v_1_4 [INFERRED 0.76]
 - **Evidence for Zarathustra’s Prophetic and Priestly Authority** — llm_ahura_mazd, llm_article_argument_zarathustra_s_prophetic_and_priestly_authority_max_weber_typology, llm_gathas_and_yasna_hapta_h_iti_ritual_y_28_9_y_34_4_15_n_rangest_n_47, llm_y_45_3_divine_maq_r_m_revelation_to_the_poet_priest, llm_zara_u_tr_t_ma_zardu_tr_tom_zarathustra_like_priestly_authority, llm_zarathustra [EXTRACTED 0.92]
@@ -195,38 +150,16 @@
 - **Late Antique Syncretic Identification and Rabbinic Reversal** — llm_abraham_ibr_h_m, llm_claim_abraham_zarathustra_syncretic_association, llm_nimrod_nemrod, llm_pseudo_clementine_homilies_9_4_5_and_recognitiones_1_30, llm_rationale_midrashic_reversal_of_zarathustra_traditions, llm_zarathustra_zoroaster [EXTRACTED 0.86]
 - **Narseh's Divine Investiture Logic** — llm_ahura_mazda, llm_anahita, llm_apam_napat, llm_khvarnah_farr_divine_glory, llm_mithra, llm_narseh_investiture_and_chihr_of_gods_program, llm_sasanian_investiture_sites_taq_e_bostan_naqsh_e_rostam_tang_e_qandil [EXTRACTED 0.93]
 - **Achaemenid Official and Popular Legitimacy Symbolism** — llm_achaemenid_darius_dual_legitimacy_symbolism, llm_ahura_mazda, llm_apam_napat, llm_khvarnah_farr_divine_glory, llm_mithra, llm_winged_disk_falcon_feather_lotus_and_sunflower_iconography [EXTRACTED 0.88]
-- **Oath-Centered Mithraic Membership Framework** — llm_apam_nap_t_as_underwater_guardian_of_khvarenah, llm_koranic_ahd_all_h_as_covenant_with_god, llm_mithra_as_lord_god_of_covenants, llm_mithraic_societies, llm_oath_centered_brotherhood_not_mithra_worship [EXTRACTED 0.89]
-- **Khvarenah Patronage Debate among Mithra, Apam Napāt, and Ahura Mazdā** — llm_ahura_mazd, llm_apam_nap_t_as_underwater_guardian_of_khvarenah, llm_avesta, llm_cyrus_darius_achaemenid_ideology, llm_khvarenah, llm_khvarenah_patronage_and_avesta_harmonization_argument, llm_mithra_as_lord_god_of_covenants [EXTRACTED 0.91]
-- **Mithraic Oath-Guarantor Brotherhood Model** — llm_apam_nap_t, llm_argument_mithraic_societies_as_oath_based_brotherhoods_compatible_with_other_religions, llm_initiation_rites_and_oath, llm_mithra_mithra_as_covenant_and_lord_of_covenants, llm_mithraic_societies [EXTRACTED 0.90]
-- **Khvarenah Patronage and Achaemenid Ideological Debate** — llm_ahura_mazda, llm_apam_nap_t, llm_avesta, llm_cyrus, llm_darius, llm_khvarenah, llm_mithra_mithra_as_covenant_and_lord_of_covenants [EXTRACTED 0.84]
 - **Mithraic Societies as Initiatory Oath Brotherhoods** — llm_apam_nap_t, llm_argument_mithraic_societies_as_oath_brotherhoods_compatible_with_other_religions_not_mithra_worshippers, llm_mithra_lord_of_covenants, llm_mithraic_initiation_oath_hierarchy_and_symbols, llm_mithraic_societies [EXTRACTED 0.92]
 - **Khvarenah Patronage Reconfigured from Mithra and Apam Napāt to Ahura Mazda** — llm_ahura_mazda, llm_apam_nap_t, llm_avesta, llm_cyrus_darius_and_achaemenid_ideology, llm_khvarenah, llm_mithra_lord_of_covenants [EXTRACTED 0.88]
 - **Old and Young Avestan Forms of the Avesta** — llm_avesta, llm_old_avesta_gathas_yasna_haptanghaiti_and_airyaman_yasna_54_1, llm_young_avesta_yasna_yashts_videvdad_yasht_13_89_yasna_9_14_15_yasht_17_18_20_videvdad_19 [EXTRACTED 0.95]
 - **Debate over Zarathustra's Reform, Historicity, and Mythic Textual Setting** — llm_avesta_as_ahistorical_mythic_corpus_with_no_historicizing_zarathustra_narrative, llm_f_spiegel_s_legendary_zarathustra_counterargument, llm_haug_s_zarathustra_authored_gathas_and_reform_thesis, llm_reconsideration_of_revolutionary_monotheism_in_zoroastrian_studies, llm_zarathustra [EXTRACTED 0.88]
-- **Debate over deriving Achaemenid royal names from Avestan sentences** — llm_alberto_cantera, llm_avesta, llm_jean_kellens, llm_kellens_s_avestan_derivation_of_darius_s_name_from_y31_7_kellens_2013_556 [EXTRACTED 0.92]
-- **ZRTŠTRŠ seal, khvarenah, and conflict with Achaemenid royal authority** — llm_achaemenid_kingly_ideology, llm_claim_that_zoroaster_is_depicted_as_universal_ruler_endowed_with_khvarenah_yt_5_42_yt_19_57_60_y_19_18, llm_datames_and_his_winged_disk_coinage, llm_khvarenah_regal_glory, llm_zrt_tr_seal_bnf_cabinet_des_m_dailles_1972_1343_s_bordreuil_1986_p_104 [EXTRACTED 0.88]
-- **Debate over Avestan chronology and Achaemenid kingship ideology** — llm_achaemenid_kingly_ideology_king_of_kings_arya_chisa_royal_khvarenah, llm_gnoli_2000_the_258_axiom_and_henckelman_garrison_evidence_against_achaemenid_zoroastrianism, llm_kellens_s_avestan_antiquity_2nd_millennium_zoroaster_position, llm_post_alexander_seleucid_era_zoroastrian_priestly_manipulation_hypothesis, llm_yasna_19_18_five_level_leadership_hierarchy, llm_zoroaster_as_super_king_and_possessor_of_aryan_khvarenah [EXTRACTED 0.90]
-- **Debate over Pārsa, Magi, Pasargadae, and Avestan priestly terminology** — llm_magophonia_and_p_rsa_versus_median_magi_antagonism, llm_p_rsa_kavi_achaemenid_lineage_argument, llm_pasargadae_as_p_rsa_kadag_academy_of_the_p_rsas_supported_by_greek_sources, llm_tremblay_s_avestan_anomaly_no_king_word_and_no_magu [EXTRACTED 0.86]
-- **Avestan text dating and reworking debate** — llm_gershevitch_1995_no_philological_method_for_absolute_dating_by_language_evolution, llm_kellens_1998_avestan_fixation_decanonization_canonization_and_proto_yasna_staging_model, llm_post_alexander_seleucid_priestly_reworking_of_avestan_hymns_and_calendar, llm_proto_yasna_a_and_proto_yasna_b_liturgical_strains [EXTRACTED 0.86]
-- **Achaemenid/Avestan calendar and deity amalgamation debate** — llm_achaemenid_evidence_against_early_fixation_garrison_henkelman_bayayadish_mithra_calendar_persepolis_459_oxus_warrior_priests, llm_avestan_calendar_amalgamation_thesis_incorporation_and_sanitizing_of_deities_rituals_mithra_mehr_khvarenah_and_fire, llm_darius_i_s_centralization_and_ahura_mazd_royal_ideology, llm_khvarenah_cycle_in_yasht_19_yasht_5_apam_nap_t_an_hit_and_artaxerxes_ii_legitimacy, llm_panaino_s_calendar_considerations_egyptian_365_day_calendar_and_avestan_day_names [INFERRED 0.82]
 - **ZRTŠTRŠ Seal Authenticity Debate** — llm_bnf_zrt_tr_cylinder_seal_bordreuil_1986_p_104_bnf_1972_1343_s, llm_bzohr_fire_sacrifice_ritual_neyrangest_n_prescription, llm_datames_coinage_and_sovereign_khvarenah_claim, llm_rationale_zrt_tr_seal_is_genuine_inspection_wear_no_modern_tool_marks_seyrig_provenance [EXTRACTED 0.90]
 - **Avesta, Khvarenah, and Achaemenid Kingly Ideology Debate** — llm_achaemenid_kingly_ideology_great_king_and_regal_authority, llm_avesta_including_yasna_and_yasht_passages, llm_claim_zoroaster_as_universal_ruler_in_avesta_and_seal_yt_5_42_yt_19_57_60_y_19_18, llm_kellens_s_avestological_thesis_pre_achaemenid_avesta_as_key_to_achaemenid_religion, llm_khvarenah_winged_disk_as_regal_symbol_bivar_1969_p_116_soudavar_2010a [INFERRED 0.82]
 - **Zoroaster as Super-King versus Achaemenid Kingship** — llm_achaemenid_king_of_kings_ideology_khsh_yathiya_khsh_yathiy_n_m, llm_argument_zoroastrian_priestly_manipulation_after_alexander_seleucid_era, llm_y_19_18_leadership_hierarchy_house_village_tribe_nation_zarathushtra, llm_yt_10_115_mithra_hierarchy_and_bivar_2005_khshathra_pati_reconstruction, llm_zoroaster_as_super_king_and_possessor_of_aryan_khvarenah [EXTRACTED 0.90]
 - **Evidence Cluster against Avestan Antiquity/Achaemenid Zoroastrianism Dogma** — llm_anti_dogmatic_argument_against_kellens_skjaervo_avestan_antiquity_and_achaemenid_zoroastrianism, llm_gnoli_2000_and_the_258_axiom_for_a_sixth_century_zoroaster, llm_henckelman_fortification_treasury_tablet_statistics_and_garrison_seal_iconography, llm_tremblay_s_avesta_anomaly_no_king_term_and_no_magu_only_da_hhu_paiti_a_ravan [INFERRED 0.80]
 - **Debate over Avestan Dating, Canonization, and Post-Alexander Reconfiguration** — llm_darius_calendar_evidence_bayayadish_mithra_as_baya_and_ahura_mazd_supremacy, llm_kellens_1998_proto_yasna_a_b_fixation_canonization_and_decanonization_model, llm_khvarenah_cycle_in_yt_19_and_yt_5_apam_nap_t_an_hit_afr_siy_b_and_artaxerxes_ii, llm_panaino_calendar_debate_egyptian_365_day_calendar_avestan_school_and_day_names, llm_post_alexander_priestly_manipulation_and_re_canonization_claim [EXTRACTED 0.90]
 - **Arachosia versus Raga/Media in Locating Zoroaster and Avestan Traditions** — llm_arachosian_theory_of_avestan_origin_eastern_school, llm_raga_and_median_priestly_language_as_alternative_to_arachosia, llm_yasna_19_18_zarathushtra_s_raga_and_four_chiefs [EXTRACTED 0.88]
-- **Great Spentas in the Mazdian Creation Sequence** — llm_asha_vahishta_truth_order, llm_khshathra_vairya_desirable_dominion, llm_spenta_armaiti_devotion_earth, llm_vohu_manah_good_mind [EXTRACTED 0.86]
-- **Participants in the Mazdian Cosmic Conflict** — llm_aka_manah_evil_mind, llm_gayomart_kayumars_first_man_and_first_king, llm_khshathra_vairya_desirable_dominion, llm_mazdian_cosmology_and_the_12_000_year_cosmic_conflict, llm_vohu_manah_good_mind [EXTRACTED 0.88]
-- **Ahura Mazda Issues Farr to Gayomart** — llm_ahura_mazda, llm_gayomart, llm_khvarnah_farr [EXTRACTED 0.95]
-- **Cosmic Conflict of Vohu Manah and Aka Manah** — llm_12_000_year_mazdian_cosmic_conflict, llm_aka_manah, llm_gayomart, llm_khshathra_vairya, llm_vohu_manah [EXTRACTED 0.92]
-- **Mazdian Cosmic Conflict and Creation Sequence** — llm_aka_manah_bad_evil_mind, llm_asha_vahishta_and_spenta_armaiti, llm_gayomart_kayumars, llm_haurvatat_perfection_and_ameretat_immortality, llm_khshathra_vairya_holy_dominion, llm_manah_spenta_mainyu, llm_vohu_manah_good_mind [EXTRACTED 0.82]
-- **Khvarnah as Shield against Evil and Source of Royal Legitimacy** — llm_aka_manah_bad_evil_mind, llm_gayomart_kayumars, llm_haurvatat_perfection_and_ameretat_immortality, llm_khshathra_vairya_holy_dominion, llm_khvarnah_farr_glory_charisma_legitimacy [EXTRACTED 0.78]
-- **12,000-Year Conflict: Vohu versus Aka across Khshathra Vairya** — llm_12_000_year_cosmic_conflict, llm_aka_manah_evil_mind, llm_gayomart_first_man_and_first_king, llm_khshathra_vairya_desirable_dominion, llm_vohu_manah_good_mind [EXTRACTED 0.90]
-- **Mazdian Sequence from Good Thought to Desirable Dominion** — llm_asha_vahishta_truth_order, llm_khshathra_vairya_desirable_dominion, llm_mazdian_cosmology_thought_into_existence_model, llm_spenta_armaiti_devotion_earth, llm_vohu_manah_good_mind [EXTRACTED 0.90]
-- **Mazdian 12,000-Year Conflict Across Cosmic, Mythic, and Historic Ages** — llm_12_000_year_cosmic_conflict, llm_aka_manah, llm_gayomart_kayumars, llm_khshathra_vairya, llm_mazdian_cosmology, llm_vohu_manah [EXTRACTED 0.92]
-- **Farr as Legitimacy from Ahura Mazda to Gayomart and Iranian Rulers** — llm_ahura_mazda, llm_farr_as_the_guiding_principle_of_continuous_iranian_rulership, llm_gayomart_kayumars, llm_khvarnah_farr, llm_shahname_of_firdowsi [EXTRACTED 0.90]
-- **Primordial Thought Seed Produces Good and Evil Minds** — llm_aka_manah_evil_mind_lie, llm_manah_and_the_primordial_thought_seed, llm_vohu_manah_good_mind [EXTRACTED 0.92]
-- **Creation, Contamination, and Restoration of Khshathra Vairya** — llm_aka_manah_evil_mind_lie, llm_gayomart_kayumars_cosmic_man_and_first_king, llm_khshathra_vairya_holy_dominion_desirable_dominion, llm_khvarnah_farr_as_cosmic_force_and_royal_legitimacy, llm_vohu_manah_good_mind [EXTRACTED 0.86]
 - **Vohu Manah and Aka Manah in the 12,000-Year Cosmic Conflict** — llm_12_000_year_cosmic_conflict, llm_aka_manah, llm_khshathra_vairya_holy_dominion, llm_vohu_manah [EXTRACTED 0.90]
 - **Farr as the Legitimating Continuum from Ahura Mazda to Gayomart and Iranian Rulership** — llm_ahura_mazda_mazda, llm_farr_khvarnah_as_rulership_legitimacy, llm_gayomart_kayumars, llm_shahname_of_firdowsi [EXTRACTED 0.84]
 - **Vohu–Aka 12,000-Year Cosmic Conflict** — llm_12_000_year_cosmic_conflict, llm_aka_manah, llm_gayomart, llm_khshathra_vairya_holy_dominion, llm_vohu_manah [EXTRACTED 0.92]
@@ -245,18 +178,6 @@
 - **Sasanian Investiture Iconography Evolution and Mazdaean-Anahita Power Shift** — llm_anahita_temple_at_istakhr_stakhr, llm_iconographic_shift_to_symbolic_khvarnah_investiture, llm_kartir_s_knrm_vi_inscription_10_11_herrmann_mackenzie_howell_caldecott_1989, llm_shapur_i_and_shapur_era_ahura_mazda_inscription_dating_alram_gyselen_2003_gropp_1969_back_1978, llm_taq_i_bustan_i_iii_actual_ceremony_interpretation_with_mithra_oath_von_gall_1990_overlaet_2012 [INFERRED 0.78]
 - **Taq-i Bustan Divine Investiture Program** — llm_ahura_mazda_identification_and_regalia, llm_ardashir_ii_relief_at_taq_i_bustan_i, llm_beribboned_investiture_ring_diadem_interpretive_debate, llm_khusrow_ii_relief_in_the_large_iwan_at_taq_i_bustan_iii, llm_mithra_and_anahita_in_taq_i_bustan_investiture_iconography [EXTRACTED 0.86]
 - **Ring/Diadem versus Barsom Interpretive Debate** — llm_barsom_reconstruction_at_taq_i_bustan_iii, llm_beribboned_investiture_ring_diadem_interpretive_debate, llm_khusrow_ii_relief_in_the_large_iwan_at_taq_i_bustan_iii [INFERRED 0.75]
-- **Theoretical Framework Applied to Iranian Material** — llm_aniconism_in_the_religious_art_of_pre_islamic_iran_and_central_asia, llm_empty_space_aniconism, llm_material_aniconism, llm_mettinger_s_aniconism_framework_no_graven_image, llm_semi_aniconism_and_elemental_aniconism [EXTRACTED 0.86]
-- **Material Aniconism Evidence Cluster** — llm_material_aniconism, llm_scythian_alan_sword_cult_of_the_war_god, llm_tang_i_sarvak_standing_stone_ma_ebot_in_elymais, llm_zoomorphic_symbols_debate_in_iranian_art_de_jong_nana_lion_o_o_coins [INFERRED 0.74]
-- **Mesopotamian and Elamite Transmission Debate for Iranian Aniconism** — llm_elemental_aniconism_elements_celestial_bodies_natural_entities, llm_irano_elamite_acculturation_and_heterogeneous_pars_cults_henkelman_persepolis_foundation_archive, llm_mesopotamian_non_anthropomorphic_icons_as_rationale_for_iranian_aniconism_t_ornan [EXTRACTED 0.84]
-- **Visual and Textual Evidence for Iranian Divine Anthropomorphism** — llm_avesta_and_middle_persian_anthropomorphic_visions_of_ohrmazd_and_the_am_a_sp_nta, llm_berossus_curtius_rufus_and_strabo_on_iranian_cultic_statues_and_processions, llm_divine_anthropomorphism_in_iranian_art, llm_figure_in_the_winged_disk_as_ahura_mazd_behistun_relief, llm_kushan_and_sogdian_anthropomorphization_of_iranian_deities_surkh_kotal_rabatak, llm_sasanian_deity_images_semi_aniconism_and_mary_boyce_s_iconoclasm_debate [EXTRACTED 0.88]
-- **Achaemenid Winged Symbol Interpretation Debate** — llm_achaemenid_winged_symbol_in_divine_iconography, llm_ahura_mazda_vs_xvarnah_interpretation_of_the_achaemenid_symbol_shahbazi_lecoq, llm_assyrian_winged_disc_shamash_hypothesis, llm_behistun_relief_of_darius_i [EXTRACTED 0.82]
-- **Aniconism and Anthropomorphic Representation in Iranian Religious Art** — llm_anthropomorphic_mental_notions_of_the_divine, llm_greek_type_cult_statues_in_iranian_sanctuaries_ai_khanum_frataraka_temple, llm_material_aniconism_zoomorphic_empty_space_and_elemental_modes, llm_zoroastrian_m_n_g_g_t_g_theology_and_iconoclasm_pahlavi_texts_shaked_boyce [INFERRED 0.75]
-- **Mettinger categories applied to Iranian material** — llm_empty_space_aniconism, llm_material_aniconism, llm_mental_anthropomorphic_notions_of_the_divine_despite_aniconic_cult_objects, llm_pre_islamic_iranian_world_aniconism_hindu_kush_zagros_steppe_persian_gulf, llm_t_d_n_mettinger_s_no_graven_image_aniconism_framework [EXTRACTED 0.93]
-- **Zoomorphic symbolism debate supported by numismatic cases** — llm_debate_over_zoomorphic_animals_as_iranian_divine_symbols_including_avestan_and_sasanian_interpretations, llm_material_aniconism, llm_numismatic_aniconism_nana_s_lion_on_sapadbizes_agesiles_coins_and_o_o_s_trident_axe_bull_on_wima_kadphises_issues [EXTRACTED 0.85]
-- **Mesopotamian, Elamite, and Assyrian Transmission into Iranian Divine Iconography** — llm_achaemenian_figure_in_the_winged_disk_ring_as_ahura_mazda, llm_assyrian_winged_disk_iconography_of_ashur_and_shamash, llm_irano_elamite_acculturation_and_pars_cult_amalgam_w_henkelman, llm_mesopotamian_non_anthropomorphic_cult_symbols_t_ornan [INFERRED 0.82]
-- **Tension between Aniconic Representation and Anthropomorphic Divine Conception** — llm_achaemenian_figure_in_the_winged_disk_ring_as_ahura_mazda, llm_cult_image_testimonia_berossus_curtius_rufus_and_strabo_s_omanos_vohu_manah, llm_elemental_aniconism, llm_menog_getig_and_zoroastrian_anthropomorphic_notions_of_the_divine [INFERRED 0.80]
-- **Achaemenid Winged Symbol Identity Debate** — llm_achaemenid_winged_symbol_on_the_behistun_relief_of_darius_i, llm_ahura_mazd_or_xvarnah_farnah_debate_shahbazi_1974_1980_lecoq_1984, llm_material_aniconism_zoomorphic_empty_space_and_elemental_modes [EXTRACTED 0.84]
-- **Scythian Finial Iconography Debate** — llm_anthropomorphic_mental_notions_of_the_divine, llm_lysaya_gora_finial_papaioi_identification_versus_priest_shaman_reading, llm_scythian_divine_iconography_and_anepigraphic_interpretation_problem [INFERRED 0.68]
 - **Mettinger’s Categories Applied to Iranian Material** — llm_aniconism_in_the_religious_art_of_pre_islamic_iran_and_central_asia, llm_anthropomorphic_mental_notions_of_deity_despite_aniconic_cult_objects, llm_argument_iranian_aniconism_includes_multiple_categories_and_tension_between_aniconic_symbols_and_anthropomorphic_divine_conceptions, llm_empty_space_aniconism, llm_material_aniconism, llm_semi_aniconism_and_elemental_aniconism, llm_t_d_n_mettinger_s_aniconism_framework_including_no_graven_image [EXTRACTED 0.92]
 - **Sword-Akinakes Worship as a Case of Iranian Material Aniconism** — llm_argument_iranian_aniconism_includes_multiple_categories_and_tension_between_aniconic_symbols_and_anthropomorphic_divine_conceptions, llm_material_aniconism, llm_scythian_alan_sword_akinakes_cult_attested_by_herodotus_and_ammianus_marcellinus [EXTRACTED 0.90]
 - **Near Eastern Aniconic Transmission Argument** — llm_achaemenian_figure_in_the_winged_disk_as_ahura_mazd, llm_argument_mesopotamian_heritage_shaped_iranian_aniconism_and_anthropomorphism, llm_assyrian_winged_disk_iconography_of_a_ur_and_shamash, llm_irano_elamite_acculturation_and_henkelman_s_pars_cult_amalgam, llm_t_ornan_on_mesopotamian_non_anthropomorphic_divine_icons [INFERRED 0.84]
@@ -273,34 +194,12 @@
 - **Pasargadae-to-Naqsh-i Rustam Sacred Fire Institutional Shift Model** — llm_ka_ba_of_zardusht_as_bun_kh_nak_fundamental_fire_house, llm_king_s_personal_fire_vs_fire_temple_argument, llm_zind_n_i_pasargadae_and_cyrus_college_of_magi_xenophon_cyr_8_1_23 [INFERRED 0.78]
 - **Evidence Cluster for Dating Mutations of the Avesta** — llm_achaemenid_royal_ideology_darius_i_p_rs_ci_a, llm_avesta, llm_avestan_priestly_redaction_thesis, llm_khvarenah_xvar_nah, llm_median_magi_magophonia_and_kingly_ideology, llm_yashts_13_94_95_yts_13_94_95 [EXTRACTED 0.93]
 - **Croeseid Attribution and Iconography Debate** — llm_achaemenid_royal_ideology_darius_i_p_rs_ci_a, llm_croeseid_coinage_reassessment_against_cahill_and_kroll_2005, llm_median_magi_magophonia_and_kingly_ideology, llm_mithra_and_apam_nap_t [EXTRACTED 0.88]
-- **Achaemenid Winged-Disk Interpretation Debate** — llm_achaemenid_winged_disk_ahura_mazd_or_khvarnah_debate, llm_farr_khvarnah_divine_glory, llm_p_lecq_ahura_mazda_ou_xvarnah_1984, llm_s_shahbazi_an_achemenid_symbol_ii_farnah_1980 [EXTRACTED 0.94]
-- **Farr, Iconography, and Mithrāic Legacy as Interpretive Method** — llm_argument_for_studying_the_visual_symbolism_of_farr, llm_farr_khvarnah_divine_glory, llm_iconography_as_a_tool_of_historiography, llm_latent_pre_zoroaster_mithr_ic_undercurrent_argument [INFERRED 0.82]
-- **Dual Khvarnah Cycle: Waters to Skies** — llm_apam_nap_t_aquatic_deity, llm_khvarnah_farr_divine_glory, llm_lotus_sunflower_motif_as_dual_khvarnah_symbolism, llm_mithr_sun_god [EXTRACTED 0.90]
-- **Shift from Cyrus/Median Mithrāic Symbols to Darius' Ahura-Mazdā Legitimacy** — llm_ahura_mazd, llm_cyrus_ii_tomb_lotus_sunflower_emblem_stronach_1971, llm_darius_i_ahura_mazd_legitimacy_program, llm_mithr_sun_god [EXTRACTED 0.86]
-- **Persepolis Achaemenid Khvarnah Program** — llm_achaemenid_ahura_mazd_winged_disk_symbol_figs_96_114, llm_darius_and_xerxes_under_canopied_throne_at_persepolis_fig_105, llm_khvarnah_farr_royal_glory, llm_lotus_sunflower_aquatic_and_whirling_wave_farr_symbols_figs_97_108 [EXTRACTED 0.88]
-- **Mughal Farr, Perpetuity, and Succession Imagery** — llm_abol_fazl, llm_jah_ng_r_sh_hjah_n_sarpech_transfer_and_lion_bull_perpetuity_fig_118, llm_khvarnah_farr_royal_glory, llm_sh_hjah_n_on_the_peacock_throne_with_farr_fig_104 [INFERRED 0.78]
-- **Farr Iconographic Continuity Framework** — llm_continuity_of_farr_symbolism_across_iranian_history, llm_farr_khvarnah_divine_glory, llm_iconography_as_a_tool_of_historiography, llm_latent_pre_zoroaster_mithr_ic_beliefs_and_bivar_debate, llm_scarce_and_metaphoric_written_sources_rationale [EXTRACTED 0.90]
-- **Achaemenid Winged-Disk Debate** — llm_achaemenid_winged_disk_symbolism_debate, llm_datames_winged_disk_coin, llm_pierre_lecq_ahura_mazda_ou_xvarnah_1984, llm_shapur_shahbazi_s_khvarnah_interpretation_of_the_achaemenid_winged_disk [EXTRACTED 0.90]
-- **Dual Khvarnah Symbolic Complex** — llm_apam_nap_t, llm_khvarnah_farr_iranian_divine_glory, llm_lotus_sunflower_dual_khvarnah_motif, llm_mithr [EXTRACTED 0.84]
-- **Achaemenid Winged-Disk Identity Debate** — llm_ahura_mazd, llm_argument_winged_disk_figure_is_ahura_mazd_not_khvarnah_or_fravashi, llm_bisotun_rock_relief_and_inscription, llm_khvarnah_farr_iranian_divine_glory [EXTRACTED 0.86]
-- **Achaemenid Royal Legitimacy Iconography at Persepolis/Apadana** — llm_ahura_mazd, llm_interpretation_winged_disks_and_sunflowers_symbolize_khvarnah_on_royal_canopies, llm_khvarnah_farr_as_royal_glory, llm_lotus_and_sunflower_symbols, llm_persepolis_apadana_reliefs_of_darius_and_xerxes, llm_winged_disk_winged_sun_symbol [EXTRACTED 0.90]
-- **Cross-Cultural Visual Vocabulary of Royal Farr/Khvarnah** — llm_assyrian_and_egyptian_winged_sun_precedents, llm_khvarnah_farr_as_royal_glory, llm_mughal_kingship_scenes_sh_hjah_n_jah_ng_r_peacock_throne_sarpech_and_lion_bull_perpetuity, llm_susa_glazed_brick_panels_with_encapsulated_khvarnah_and_whirling_waves [INFERRED 0.78]
-- **Winged-Disk Interpretation Debate** — llm_achaemenid_winged_disk_ahura_mazd_or_khvarnah_debate, llm_ahura_mazd, llm_datames_coin_with_winged_disk_evidence, llm_farr_khvarnah_divine_glory, llm_p_lecq_ahura_mazda_ou_xvarnah_1984, llm_s_shahbazi_an_achaemenid_symbol_ii_farnah_god_given_fortune_symbolised_1980 [EXTRACTED 0.93]
-- **Continuity of Farr Symbolism in Iranian Legitimacy** — llm_farr_khvarnah_divine_glory, llm_iconography_as_a_tool_of_historiography, llm_iranian_kingship_legitimacy_and_divine_sanction, llm_mithr_ic_legacy_of_farr_symbolism, llm_sasanian_art_as_images_of_deities_not_divine_origin_portraiture, llm_the_aura_of_kings_legitimacy_and_divine_sanction_in_iranian_kingship [INFERRED 0.82]
-- **Median Mithrā/Apam-Napāt Dual Khvarnah Legitimacy Complex** — llm_apam_nap_t_aquatic_deity, llm_argument_mithr_apam_nap_t_uphold_median_kingly_legitimacy, llm_cyrus_ii_s_tomb_lotus_sunflower_emblem_and_mithr_ic_horse_sacrifice_stronach_briant, llm_khvarnah_farr_divine_glory, llm_lotus_sunflower_dual_khvarnah_motif, llm_mithr_sun_god [INFERRED 0.86]
-- **Darius’ Ahura-Mazdā Legitimacy and Bisotun Winged-Disk Program** — llm_ahura_mazd, llm_argument_achaemenid_winged_disk_represents_ahura_mazd_not_khvarnah_lecocq_shahbazi_debate, llm_argument_darius_i_s_ahura_mazd_white_revolution_as_political_legitimacy_duchesne_guillemin_turcan, llm_bisotun_relief_inscription_and_neo_babylonian_winged_disk_model [INFERRED 0.90]
 - **Achaemenid Winged-Disk: Ahura-Mazdā vs Khvarnah** — llm_achaemenid_winged_disk_symbolism_debate, llm_ahura_mazd, llm_datames_coin_with_winged_disk, llm_farr_khvarnah_divine_glory, llm_pierre_lecq_ahura_mazda_ou_xvarnah_1984, llm_s_shahbazi_an_achemenid_symbol_ii_farnah_god_given_fortune_symbolised_1980 [EXTRACTED 0.95]
 - **Continuity of Farr Symbolism Across Iranian History** — llm_achaemenid_winged_disk_symbolism_debate, llm_farr_khvarnah_divine_glory, llm_great_il_kh_nid_sh_hn_me_legitimacy_program, llm_iconography_as_historiography, llm_latent_pre_zoroastrian_mithr_ic_beliefs, llm_sasanian_divine_origin_reinterpretation [EXTRACTED 0.85]
 - **Median Dual Khvarnah Legitimation Cluster** — llm_apam_nap_t, llm_argument_mithr_and_apam_nap_t_embodied_median_kingly_power, llm_khvarnah_farr_divine_glory, llm_lotus_sunflower_dual_khvarnah_symbolism, llm_mithr [EXTRACTED 0.86]
 - **Darius’ Ahura-Mazdā/Bisotun Legitimacy Program** — llm_ahura_mazd, llm_argument_achaemenid_winged_disk_represents_ahura_mazd_not_khvarnah_or_fravashi, llm_bisotun_bearded_man_within_winged_disk_symbol, llm_darius_i [EXTRACTED 0.87]
 - **Persepolis Canopied Throne Legitimacy Ensemble** — llm_ahura_mazd, llm_darius_and_xerxes_canopied_throne_relief_at_persepolis, llm_khvarnah_farr_iranian_royal_glory, llm_lotus_sunflower_and_aquatic_signs_of_farr, llm_winged_sun_disk_symbol_assyrian_egyptian_achaemenid [EXTRACTED 0.94]
 - **Dual Legitimacy: Ahura-Mazdā Supremacy and Khvarnah Symbolism** — llm_ahura_mazd, llm_argument_dual_legitimacy_symbolism, llm_khvarnah_farr_iranian_royal_glory, llm_winged_sun_disk_symbol_assyrian_egyptian_achaemenid [INFERRED 0.80]
-- **Marduk-Tiamat Combat as Basis for the Glorification Reading** — llm_argument_main_object_is_marduk_s_glorification_not_creation_narrative, llm_marduk_bel_marduk, llm_the_seven_tablets_of_creation, llm_tiamat_dragon_queen_of_the_abyss [EXTRACTED 0.90]
-- **Variant Forms of the Mesopotamian Creation Legend** — llm_argument_local_god_creation_heroes_enlil_at_nippur_marduk_at_babylon_ashur_at_assur, llm_aruru_creator_goddess, llm_bilingual_creation_legend_abu_habbah_tablet_no_93_014, llm_the_seven_tablets_of_creation [EXTRACTED 0.85]
-- **Variant Forms of the Creation of Man from Divine Sacrifice** — llm_berosus_account_of_man_from_divine_blood_mixed_with_earth, llm_creation_of_mankind_from_divine_blood_and_bone, llm_ea_nudimmud, llm_kal_at_shark_t_variant_workmen_gods_sacrificed_for_mankind, llm_kingu_ti_mat_s_second_husband [EXTRACTED 0.86]
-- **Debate over Derivation of Genesis Creation Accounts from the Seven Tablets** — llm_genesis_creation_accounts, llm_rationale_genesis_not_derived_from_seven_tablets_because_fundamental_conceptions_differ, llm_seven_tablets_of_creation [EXTRACTED 0.90]
-- **Conflict with Tiâmat and Creation of Mankind** — llm_creation_of_mankind_from_kingu_s_blood_for_divine_service, llm_fight_between_bel_marduk_and_ti_mat, llm_kingu, llm_marduk_bel_marduk, llm_ti_mat_queen_of_the_abyss [EXTRACTED 0.95]
-- **E-Sagila Construction and Marduk Name Proclamation** — llm_anunnaki_and_igigi, llm_babylon_e_sagila_ziggurat_and_up_shukkinaku_sovereignty_chamber, llm_marduk_bel_marduk, llm_seventh_tablet_fifty_names_of_marduk_including_nibiru_k_8522_fragment [INFERRED 0.78]
 - **Marduk-Tiâmat Glorification Complex** — llm_claim_main_object_is_the_glorification_of_marduk, llm_marduk_bel, llm_seven_tablets_of_creation, llm_ti_mat_dragon_of_chaos [EXTRACTED 0.95]
 - **Variant Witnesses to the Babylonian Creation Tradition** — llm_berosus_history_of_babylonia_creation_account, llm_bilingual_creation_legend_british_museum_no_93_014, llm_claim_local_city_gods_become_heroes_of_creation_legends, llm_seven_tablets_of_creation [EXTRACTED 0.82]
 - **Creation of Mankind from Kingu's Blood for the Service of the Gods** — llm_creation_of_mankind_from_kingu_s_blood, llm_ea_nudimmud, llm_kingu, llm_marduk [EXTRACTED 0.95]
@@ -313,12 +212,6 @@
 - **Third-Wave Patronage Migration Network** — llm_amza_mirz_safavid_heir_apparent, llm_farrukh_beyg, llm_mirz_salm_n_safavid_vizier, llm_mughal_court_in_india, llm_third_wave_patronage_migration_argument_loss_of_safavid_patronage_and_mughal_demand [INFERRED 0.84]
 - **Haft awrang Attribution Cluster** — llm_farrukh_beyg, llm_haft_awrang_painting_attribution_and_dating, llm_mirz_al, llm_mu_ammad [EXTRACTED 0.80]
 - **Muḥammadī Manuscript-Painting Attribution Debate** — llm_b_w_robinson_s_mu_ammad_attribution_position_1992_1997, llm_mu_ammad, llm_safavid_manuscript_painting_training_rationale_for_mu_ammad_attributions [EXTRACTED 0.95]
-- **Darius-Centered Corpus for the Imperial Program** — llm_darius_i_522_486_b_c, llm_evidence_royal_inscriptions_reliefs_persepolis_archives_seals_and_coinage, llm_imperial_center_f_rs_ancient_pars, llm_relationship_between_the_achaemenid_king_and_the_divine [EXTRACTED 0.86]
-- **Models and Frameworks for Achaemenid Divine Kingship** — llm_herodotean_and_avestan_models, llm_margaret_cool_root_1979_on_achaemenid_art, llm_pierre_briant_2002_id_ologie_monarchique, llm_relationship_between_the_achaemenid_king_and_the_divine [INFERRED 0.75]
-- **Naqš-e Rustam Mixes Stepped and Tower Structure Iconologies** — llm_achaemenid_royal_ideology, llm_naq_e_rustam_tomb_relief, llm_stepped_structure_so_called_stepped_altar, llm_tower_structure_so_called_tower_altar [EXTRACTED 0.88]
-- **Partial Royal Body as Numinous Achaemenid Kingship** — llm_achaemenid_royal_ideology, llm_partial_figure_ness_and_elevation, llm_type_i_darics, llm_winged_symbol_figure_in_the_winged_ring [INFERRED 0.82]
-- **Visual Evidence for Darius I's Imperial Visual Program** — llm_darius_i_s_imperial_visual_program_in_the_visual_arts, llm_figure_in_the_winged_ring_winged_disk_deity_motif, llm_fire_structure_and_lunar_imagery_motifs, llm_persepolis_apadana_and_palace_of_darius, llm_persepolitan_glyptic_and_pfs_pfuts_seal_impressions, llm_royal_archer_bowman_motif_in_pfs_seals_and_the_type_i_daric [INFERRED 0.78]
-- **Auramazdā, Darius I, and Early Achaemenid Divine Kingship** — llm_auramazd, llm_darius_i, llm_early_achaemenid_kingship_and_the_divine [INFERRED 0.72]
 - **Darius-Era Heartland Evidence Base** — llm_achaemenid_heartland_f_rs_pars_an_an_susa_media, llm_by_the_favor_of_auramazd_kingship_and_the_divine_in_the_early_achaemenid_period, llm_darius_i_522_486_b_c, llm_darius_i_s_imperial_program_in_texts_and_images, llm_persepolis_fortification_and_treasury_archives [EXTRACTED 0.86]
 - **Living Royal Cult Qualification in Achaemenid Context** — llm_early_achaemenid_kingship_and_the_divine, llm_no_definitive_evidence_for_a_living_achaemenid_royal_cult_outside_egypt, llm_royal_cult_evidence_criteria_temples_priesthoods_prayers_offerings_statues_divine_status_images [EXTRACTED 0.88]
 - **Partial Figure Imagery as Numinous Royal Kingship** — llm_achaemenid_royal_ideology, llm_partial_figure_ness_and_elevation_argument, llm_pfs_261_composite_creature_archer_scene, llm_type_i_darics_royal_archer_coinage, llm_winged_symbol_figure_in_the_winged_ring [EXTRACTED 0.86]
@@ -340,128 +233,116 @@
 ## Communities
 
 ### Community 0 - "Mithraic Studies"
-Cohesion: 0.05
-Nodes (109): Aura of Kings; Legitimacy and Divine Sanction in Iranian Kingship, **THE AURA OF KINGS**, **THE AURA OF KINGS**, **THE AURA OF KINGS**, **THE AURA OF KINGS**, Abol-Fazl, Abolala Soudavar, Achaemenid Ahura-Mazdā Winged-Disk Symbol (Figs. 96, 114) (+101 more)
+Cohesion: 0.08
+Nodes (68): Decorative blue oval graphicDecorative blue oval graphic**Contribution of Persia To World Civilization**, Contribution of Persia to the World Civilization, A. H. Saidian, Iran: Land and the People (Tehran, 2001), Abu Ali Sina (Avicenna) and Al-Qanun / Canon of Medicine, Abu Rayhan Biruni as father of Geodesy, Abu Rayhan Biruni, Father of Geodesy Claim, Achaemenid human rights charters (Darius Ganj-Nameh and Cyrus Cylinder), Al-Khwarizmi, Al-Jabr, Arabic numerals, and logarithm etymology (+60 more)
 
 ### Community 1 - "Mithraic Studies"
-Cohesion: 0.05
-Nodes (103): ABSTRACT:, ABSTRACT:, ABSTRACT:, Ali Zaryab and Persian Music/Dance Traditions in Spain, An Shigao/Ashkani Prince Introducing Buddhism to China, Arabic Language, Argument: Avestan/Persian Words in Arabic, Hadith, and Qur'an, Argument: Countries and Cities Worldwide Have Persian Names (+95 more)
+Cohesion: 0.08
+Nodes (64): Gifts to a Magus, **THE AURA OF KINGS**, Abol-fazl, Achaemenid Winged-Disk Symbolism Debate, Ahuna Vairya as Anti-Demonic Mantra (Y. 27.13; Y. 9.14; Yt. 19.80–81), Ahuna Vairya Prayer (Y. 27.13), Ahura Mazdā, Anāhitā / Apam-Napāt (+56 more)
 
 ### Community 2 - "Mithraic Studies"
-Cohesion: 0.05
-Nodes (100): Decorative blue oval graphicDecorative blue oval graphic**Contribution of Persia To World Civilization**, Decorative blue oval graphicDecorative blue oval graphic**Contribution of Persia To World Civilization**, Contribution of Persia to the World Civilization, A. H. Saidian, Iran: Land and the People (Tehran, 2001), Abu Ali Sina (Avicenna) and Al-Qanun / Canon of Medicine, Abu Rayhan Biruni as father of Geodesy, Abu Rayhan Biruni, Father of Geodesy Claim, Achaemenid human rights charters (Darius Ganj-Nameh and Cyrus Cylinder) (+92 more)
-
-### Community 3 - "Avestan Texts"
-Cohesion: 0.06
-Nodes (93): IRANO-JUDAICA VII, IRANO-JUDAICA VII, IRANO-JUDAICA VII, Ahura Mazdā, Angra Mainyu, and Dualistic Creation, Ahura Mazdā as creator of spiritual and physical life, Ahura Mazdā as Creator of Spiritual and Physical Life (Yasna 44.3; Y 47.2–3), Ahura Mazdā’s Creation and Final Perfection, Ahura Mazdā vs Angra Mainyu: Creator and Destructive Force (+85 more)
-
-### Community 4 - "Iranian Kingship"
-Cohesion: 0.06
-Nodes (93): Bulletin of the Asia Institute, Bulletin of the Asia Institute, Bulletin of the Asia Institute, Achaemenian Figure in the Winged Disk as Ahura Mazdā, Achaemenian Figure in the Winged Disk/Ring as Ahura Mazda, Achaemenian Winged Symbol on the Behestūn Relief of Darius I, Achaemenid Winged Symbol in Divine Iconography, Achaemenid Winged Symbol on the Behistun Relief of Darius I (+85 more)
-
-### Community 5 - "Avestan Texts"
-Cohesion: 0.07
-Nodes (81): Gifts to a Magus, Gifts to a Magus, Gifts to a Magus, Ahuna Vairya as Anti-Demonic Mantra (Y. 27.13; Y. 9.14; Yt. 19.80–81), Ahuna Vairya as Anti-Demonic Mantra (Y. 27.13; Yt. 19.80–81), Ahuna Vairya Prayer as Anti-Demonic Mantra (Y. 27.13; Yt. 19.80–81; Y. 9.14), Ahuna Vairya Prayer (Y. 27.13), Ahuna Vairya Prayer (Y. 27.13; Yt. 19.81) (+73 more)
-
-### Community 6 - "Mithraic Studies"
-Cohesion: 0.07
-Nodes (72): Achaemenid History Derailed by AvestologyAssessing *La religion des Achéménides: confrontation des sources*, Achaemenid History Derailed by AvestologyAssessing *La religion des Achéménides: confrontation des sources*, Achaemenid evidence against early fixation: Garrison/Henkelman, bayayadish-Mithra calendar, Persepolis 459, Oxus warrior-priests, Achaemenid History Derailed by Avestology (Abolala Soudavar, 2013), Achaemenid History Derailed by Avestology: Assessing La religion des Achéménides, Achaemenid King of Kings Ideology (khshāyathiya khshāyathiyānām), Achaemenid kingly ideology, Achaemenid Kingly Ideology: Great King and Regal Authority (+64 more)
-
-### Community 7 - "Iranian Kingship"
 Cohesion: 0.1
-Nodes (68): Ancient Iran: Cosmology, Mythology, History, Ancient Iran: Cosmology, Mythology, History, Ancient Iran: Cosmology, Mythology, History, 12,000-Year Cosmic Conflict, 12,000-Year Cosmic Year and Four Phases, 12,000-Year Cosmic Year and Non-Literal Four-Phase Scheme, 12,000-Year Mazdian Cosmic Conflict, Ahura-Mazda (+60 more)
+Nodes (53): Aura of Kings; Legitimacy and Divine Sanction in Iranian Kingship, MITHRAIC SOCIETIES: FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY, Ancient Iran: Cosmology, Mythology, History, 12,000-Year Cosmic Conflict, 12,000-Year Cosmic Year and Four Phases, Achaemenid/Darius Dual Legitimacy Symbolism, Ahura-Mazda, Ahura Mazda / Mazda (+45 more)
 
-### Community 8 - "Ritual Practice"
-Cohesion: 0.09
-Nodes (62): The Babylonian Legends of the Creation, The Babylonian Legends of the Creation, Anunnaki and Igigi, Argument: Local-God Creation Heroes (Enlil at Nippur, Marduk at Babylon, Ashur at Assur), Argument: Main Object is Marduk's Glorification, Not Creation Narrative, Argument: Seven Tablets Combine Creation Legend and Dragon Legend, Aruru, Creator Goddess, Assyrian Tablets from Nineveh (Kuyûnjik Library of Ashur-bani-pal) (+54 more)
-
-### Community 9 - "The Coming Persian War"
-Cohesion: 0.09
-Nodes (61): The Coming Persian War, The Coming Persian War, 1991 Persian Gulf War, 1991 Persian Gulf War Coalition, Alleged Alt-Right Corporation Plan, Alleged black-budget “micro cities” migrant-containment project, Alleged Black-Budget Micro-Cities Project, Alleged Michael Bagley/Jellyfish Intelligence Channel (+53 more)
-
-### Community 10 - "Iranian Kingship"
+### Community 3 - "Mithraic Studies"
 Cohesion: 0.1
-Nodes (60): MORE THAN MEN, LESS THAN GODS, MORE THAN MEN, LESS THAN GODS, Achaemenid Fire Structures and Fire-Worship Debate, Achaemenid Fire Structures and Zoroastrian Fire-Worship Debate, Achaemenid Heartland: Fārs/Pars, Anšan, Susa, Media, Achaemenid Monarchic Ideology, Achaemenid Royal Ideology, Auramazdā (+52 more)
+Nodes (46): Reconsidering the Concept of Revolutionary Monotheism Beate Pongratz-Leisten Winona Lake, Indiana EisEnbrauns 2011 Offprint frOm, ASTYAGES, CYRUS AND ZOROASTER: SOLVING A HISTORICAL DILEMMA, Achaemenid Lotus-Sunflower Motifs for Mithra, Apam Napāt, and Anāhitā, Achaemenid Royal Ideology (Darius I, pārsā, ciça), Ahura Mazda's Order and Creation (Yasna Haptanghaiti 37.2, 38.3), Ardashir-Khwarrah Fire Tower/Tīrbāl in Ibn al-Balkhī and al-Iṣṭakhrī, Astyages, Astyages Banished Zoroaster Hypothesis (+38 more)
 
-### Community 11 - "Mithraic Studies"
+### Community 4 - "Mithraic Studies"
 Cohesion: 0.13
-Nodes (40): MITHRAIC SOCIETIES: FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY, MITHRAIC SOCIETIES: FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY, MITHRAIC SOCIETIES: FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY, Reconsidering the Concept of Revolutionary Monotheism Beate Pongratz-Leisten Winona Lake, Indiana EisEnbrauns 2011 Offprint frOm, Ahura Mazda's Order and Creation (Yasna Haptanghaiti 37.2, 38.3), Apam Napāt, Apam Napāt as Underwater Guardian of Khvarenah, Argument: Mithraic Societies as Oath-Based Brotherhoods Compatible with Other Religions (+32 more)
+Nodes (37): ABSTRACT:, Ali Zaryab and Persian Music/Dance Traditions in Spain, An Shigao/Ashkani Prince Introducing Buddhism to China, Argument: Persian Empire Rule and Influence in the Arab World, Argument: Persian/Iranian Influence in the Indian Subcontinent, Aryan/Brahmin Migration, Sanskrit, and Rig Veda as Iranian Influences, Avestan/Persian Words in English and European Languages, Bible/Torah: Isaiah 45:1 and Ezra 1 (+29 more)
 
-### Community 12 - "Iranian Kingship"
+### Community 5 - "Iranian Kingship"
 Cohesion: 0.13
 Nodes (37): Encounters by the Rivers of Babylon, Abar Rōdestān ī Babēl: The Zoroastrian Tradition – the dēn – in Sasanian and Early Islamic Times, Achaemenid Royal Inscriptions (Xerxes Persepolis h; Darius Susa k), Argument: Avestan orality, recomposition in performance, and ritual crystallization (Nagy 1996; Bakker 1997; Skjærvø 2005–2006), Argument for Irano-Jewish Symbiosis, Argument: Jewish–Zoroastrian encounters extended from Mesopotamia to China by the end of the first millennium CE, Argument: Old Persian zand of the Old Avesta and Oral Young Avesta Tradition, Avesta and Pahlavi Exegesis (+29 more)
 
-### Community 13 - "Iranian Kingship"
+### Community 6 - "Mithraic Studies"
+Cohesion: 0.13
+Nodes (37): Achaemenid History Derailed by AvestologyAssessing *La religion des Achéménides: confrontation des sources*, Achaemenid History Derailed by Avestology (Abolala Soudavar, 2013), Achaemenid King of Kings Ideology (khshāyathiya khshāyathiyānām), Achaemenid Kingly Ideology: Great King and Regal Authority, Alberto Cantera: ZRTŠTRŠ Seal Reference and No-Precedent Critique of Sentence-Derived Names, Anti-dogmatic Argument against Kellens/Skjaervo Avestan Antiquity and Achaemenid Zoroastrianism, Arachosian Theory of Avestan Origin / Eastern School, Argument: Zoroastrian Priestly Manipulation after Alexander/Seleucid Era (+29 more)
+
+### Community 7 - "Iranian Kingship"
 Cohesion: 0.13
 Nodes (37): Dialogue Between Cultures & Exchange of Knowledge And Cultural Ideas, A. L. Basham, The Wonder That Was India, Abolfazl Khatibi's Shahnameh-Minoye Kherad Comparison, Academy of Gundishapur, Achaemenid and Sassanid links with India, including Cyrus-Ashoka inscriptional similarity, Argument: Ancient Iranian Culture Shaped XI-XII c. Turkish Classical Works after Islam, Argument: Persia/Iran as intermediary for East–West cultural transmission, Arta and Aša in proper names and the range of their political and religious concepts (+29 more)
 
-### Community 14 - "Avestan Texts"
+### Community 8 - "Avestan Texts"
 Cohesion: 0.12
 Nodes (36): A History of Persian Literature Volume XVII, A History of Persian Literature XVII: The Literature of Pre-Islamic Iran, Almut Hintze, Authorship, Date, Homeland, and Interpretation Questions around the Gathas, Avestan Literature, Chapter 1: Avestan Literature, Āfrīn ī Zardušt (Az), Fragment Darmesteter 3 (FrD.3) as Evidence for a Lost Avestan Text (+28 more)
 
-### Community 15 - "Avestan Texts"
+### Community 9 - "Avestan Texts"
 Cohesion: 0.14
 Nodes (36): A Thousand Judgements, Aḥmad b. Ḥanbal: Penalty for Downgrading to an Inferior Non-Islamic Religion, Abū Ḥanīfa and Mālik b. Anas: No Death Penalty for Non-Islamic-to-Non-Islamic Conversion, Argument: Deliberate Gāθā Non-Recitation as Dēn-Denial, Avestan qsta, tarōmaiti, and Pahlavi an-astīh, Babylonian Talmud Sanhedrin 61b: Abaye and Rava on Idolatry from Love or Fear, Babylonian Talmudic Law on Normative and Theological Dissent, Dēnkard 6.233 (cf. 3.197.9) on Drōn Sacrifice and Royal Command (+28 more)
 
-### Community 16 - "Mithraic Studies"
+### Community 10 - "Mithraic Studies"
 Cohesion: 0.13
 Nodes (36): ANCIENT IRANIAN MOTIFS AND ZOROASTRIAN ICONOGRAPHY, Achaemenid and Sasanian Art, Achaemenid Royal Art: Darius Seal and Bisotun Relief, Akbar's Safavid-Parsi Zoroastrian Contacts and Ilahi Calendar, Ardashir I and Sasanian Imperial Zoroastrian Kingship, Argument: Modern Zoroastrian Iconography Recasts Ancient Iranian Royal Motifs, Christian European Nativity/Adoration of the Magi with Persian Attire, Dēnkard Account of Vologases I Preserving Avestan Books and Teachings (+28 more)
 
-### Community 17 - "Mithraic Studies"
+### Community 11 - "Mithraic Studies"
 Cohesion: 0.14
 Nodes (36): AND MAN CREATED GOD? KINGS, PRIESTS AND GODS ON SASANIAN INVESTITURE RELIEFS, Ahura Mazda Identification and Regalia, Ahura Mazda / Ohrmazd, equated with Zeus in the Greek inscription, Ahura Mazda / Ohrmezd, Anahita Temple at Istakhr / Stakhr, AND MAN CREATED GOD? KINGS, PRIESTS AND GODS ON SASANIAN INVESTITURE RELIEFS, Ardashir I, Ardashir I Investiture Relief at Naqsh-i Rustam (+28 more)
 
-### Community 18 - "Iranian Kingship"
+### Community 12 - "Iranian Kingship"
+Cohesion: 0.13
+Nodes (36): Bulletin of the Asia Institute, Achaemenian Figure in the Winged Disk as Ahura Mazdā, Achaemenian Winged Symbol on the Behestūn Relief of Darius I, Aniconism in the Religious Art of Pre-Islamic Iran and Central Asia, Anthropomorphic Mental Notions of Deity despite Aniconic Cult Objects, Anthropomorphic Mental Notions of the Divine, Argument: Iranian Aniconism Includes Multiple Categories and Tension between Aniconic Symbols and Anthropomorphic Divine Conceptions, Argument: Mesopotamian Heritage Shaped Iranian Aniconism and Anthropomorphism (+28 more)
+
+### Community 13 - "Iranian Kingship"
 Cohesion: 0.14
 Nodes (36): CONCEPTS OF POLLUTION IN LATE SASANIAN IRAN DOES POLLUTION NEED STAIRS, AND DOES IT FILL SPACE?, Abargite School / Abarg, Boyce 1987 ‘Ātaškada’ and Huff 1990 ‘Čahārṭāq’ in Encyclopædia Iranica, Claim: tuhīgīh as Empty-Space Pollution Occupying Consolidated Three-Dimensional Space, Concepts of Pollution in Late Sasanian Iran: Does Pollution Need Stairs, and Does It Fill Space?, Contact Transmission of Corpse Pollution, Corpse-Pollution, Daštānestān Menstrual Hut Pollution Case (TD2 p. 573) (+28 more)
 
-### Community 19 - "Mithraic Studies"
+### Community 14 - "Mithraic Studies"
 Cohesion: 0.14
 Nodes (35): PROBLEMS OF ARMENIAN PREHISTORY, Ahyán 1981 and Dumézil 1994 Trifunctional Reading, Aram as the 'Black' Thunder God (Petrosyan 2002:43ff.), Aramaneak's Move to Ayrarat as Beginning of 'Real Armenia', Armenian Azg Patriarchal Family and *poti- Etymology of Hayk, Armenian Elements in the Language and Onomastics of Urartu, Armenian Ethnogonic Legends as Epicized Creation Myth (Khorenatsi; Anonym/Sebēos), Armenian Ethnogonic Myth as Epicized Creation Myth (+27 more)
 
-### Community 20 - "Iranian Kingship"
+### Community 15 - "The Coming Persian War"
+Cohesion: 0.14
+Nodes (35): The Coming Persian War, 1991 Persian Gulf War Coalition, Alleged Alt-Right Corporation Plan, Alleged black-budget “micro cities” migrant-containment project, Alleged Black-Budget Micro-Cities Project, Alleged Michael Bagley/Jellyfish Intelligence Channel, Alt-Right Corporation and White House Influence Plan, Alt-Right Corporation plan linking NPI, Arktos, and Red Ice (+27 more)
+
+### Community 16 - "Ritual Practice"
+Cohesion: 0.14
+Nodes (35): The Babylonian Legends of the Creation, Anunnaki and Igigi, Assyrian Tablets from Nineveh (Kuyûnjik Library of Ashur-bani-pal), Babylonian Legends of the Creation, Berosus’ History of Babylonia Creation Account, Berosus's Creation Account: Man from Divine Blood and Earth, “Bilingual” Creation Legend (British Museum No. 93,014), Claim: Local City Gods Become Heroes of Creation Legends (+27 more)
+
+### Community 17 - "Iranian Kingship"
+Cohesion: 0.15
+Nodes (35): MORE THAN MEN, LESS THAN GODS, Achaemenid Fire Structures and Fire-Worship Debate, Achaemenid Heartland: Fārs/Pars, Anšan, Susa, Media, Achaemenid Monarchic Ideology, Achaemenid Royal Ideology, Auramazdā, Briant 2002: idéologie monarchique, By the Favor of Auramazdā: Kingship and the Divine in the Early Achaemenid Period (+27 more)
+
+### Community 18 - "Iranian Kingship"
 Cohesion: 0.14
 Nodes (35): “Building a New Vision of the Past in the Sasanian Empire: The Sanctuaries of Kayānsih and the Great Fires of Iran”\*, Argument: ‘Avestan’ Topography as Middle Iranian, Not Achaemenid, Royal Construction, Argument: Sasanian Reordering of Great Fire Prestige and Anti-Arsacid Memory, Arsacid Dynasty, Avesta and Pahlavi Sources on Kayānsīh (Yt. 13.28, 13.62; Yt. 19.66-69; Dēnkard 7.8.1), ‘Avestan’ Sites of Memory, Berossos' Babyloniaka Fragment on Artaxerxes II and Anāhitā, Dating Evidence for Ādur Gušnasp: Coins, Seals, and Procopius (+27 more)
+
+### Community 19 - "Avestan Texts"
+Cohesion: 0.15
+Nodes (34): IRANO-JUDAICA VII, Ahura Mazdā as Creator of Spiritual and Physical Life (Yasna 44.3; Y 47.2–3), Ahura Mazdā’s Creation and Final Perfection, Angra Mainyu / Destructive Force as External Evil, Argument: Zoroastrian Influence through Daily Oral Contact in Aramaic, Astvatereta, the Victorious Saōšyant / Perfector, Avesta: Older and Younger Avestan Zoroastrian Literature, Avesta–Pahlavi Doctrinal Continuity Argument (Hultgård 1983; Shaked 2005) (+26 more)
+
+### Community 20 - "--- Abraham and Nimrod in the Shadow of Zarathus"
+Cohesion: 0.15
+Nodes (34): --- Abraham and Nimrod in the Shadow of Zarathustra\*, Abraham, Abraham and Nimrod in the Shadow of Zarathustra, Abraham / Ibrāhīm, Abraham in the Fiery Furnace Narrative, Argument: Genesis Rabbah Engages and Reverses Greek Zarathustra Traditions, Argument: Greek Zarathustra Traditions Illuminate Genesis Rabbah's Novel Fire-Worship Debate, Claim: Abraham–Zarathustra Syncretic Association (+26 more)
 
 ### Community 21 - "Iranian Kingship"
 Cohesion: 0.16
 Nodes (34): A FATHER, A DAUGHTER, AND A SON-IN-LAW IN ZOROASTRIAN HERMENEUTICS<sup>1</sup>, A Father, a Daughter, and a Son-in-Law in Zoroastrian Hermeneutics, al-Yaʿqūbī, Tārīkh i, 174, Dēnkard Book 9, Dēnkard Book 9 / Sūdgār Nask, Dēnkard Book 9 Warštmānsr and Bag Nasks, Emic Pahlavi Hermeneutics vs. Boyce/Kellens Antinomy, External Polemics on Zoroastrian Close-Kin Marriage (+26 more)
 
-### Community 22 - "--- Abraham and Nimrod in the Shadow of Zarathus"
-Cohesion: 0.15
-Nodes (34): --- Abraham and Nimrod in the Shadow of Zarathustra\*, Abraham, Abraham and Nimrod in the Shadow of Zarathustra, Abraham / Ibrāhīm, Abraham in the Fiery Furnace Narrative, Argument: Genesis Rabbah Engages and Reverses Greek Zarathustra Traditions, Argument: Greek Zarathustra Traditions Illuminate Genesis Rabbah's Novel Fire-Worship Debate, Claim: Abraham–Zarathustra Syncretic Association (+26 more)
-
-### Community 23 - "Mithraic Studies"
-Cohesion: 0.13
-Nodes (34): ASTYAGES, CYRUS AND ZOROASTER: SOLVING A HISTORICAL DILEMMA, Achaemenid Lotus-Sunflower Motifs for Mithra, Apam Napāt, and Anāhitā, Achaemenid Royal Ideology (Darius I, pārsā, ciça), Ardashir-Khwarrah Fire Tower/Tīrbāl in Ibn al-Balkhī and al-Iṣṭakhrī, Astyages, Astyages Banished Zoroaster Hypothesis, Avestan Priestly Redaction Thesis, CMa Inscription: “I, Cyrus, Achaemenid King” (+26 more)
-
-### Community 24 - "Avestan Texts"
+### Community 22 - "Avestan Texts"
 Cohesion: 0.16
 Nodes (33): --- Monotheism the Zoroastrian Way, Ahura Mazdā / Ohrmazd, Ahura Mazdā's Omniscience over Omnipotence, Amašā Spəntas as Life-Producing Spiritual Beings, Amesha Spentas / Amahraspands (Life-giving Immortals), Angra Mainyu / Ahreman, Arəduuī Sūrā Anāhitā, Argument: a Zoroastrian Form of Monotheism (+25 more)
 
-### Community 25 - "BETWEEN THE SAFAVIDS AND THE MUGHALS: ART AND AR"
+### Community 23 - "BETWEEN THE SAFAVIDS AND THE MUGHALS: ART AND AR"
 Cohesion: 0.16
 Nodes (33): BETWEEN THE SAFAVIDS AND THE MUGHALS: ART AND ARTISTS IN TRANSITION\*, 1468 Gulistān of Sa'dī (FGA, F1998.5) as Jousting Field, Ṭahmāsb's Waning Interest and Eyesight Hypothesis, Akbar-nāma and Iskandar Beyg notices on Farrukh Beyg, Ḥamza Mirzā, Safavid heir apparent, Būdāq-i Munshī-yi Qazvīnī, B. W. Robinson's Muḥammadī attribution position (1992/1997), Between the Safavids and the Mughals: Art and Artists in Transition (+25 more)
 
-### Community 26 - "ŞADIQĪ BEYK'S NAVĀ'Ī MANUSCRIPT"
+### Community 24 - "ŞADIQĪ BEYK'S NAVĀ'Ī MANUSCRIPT"
 Cohesion: 0.17
 Nodes (32): ŞADIQĪ BEYK'S NAVĀ'Ī MANUSCRIPT, 1572 Hamadān Demotion Evidence (Qumī 1980; Būdāq 2008), Amīr 'Alī-shīr Navā'ī, Amīr Khān Mowsillū, Amīr Khān Mowsillū, Governor of Hamadān, Amīr Khān Mowsillū, Qizilbāsh Governor of Hamadān, Anthony Welch's 1568–1576 Chronology (Welch 1976), Anthony Welch's 1568-1576 Şādiqī Chronology (Welch 1976) (+24 more)
 
-### Community 27 - "Mithraic Studies"
+### Community 25 - "Mithraic Studies"
 Cohesion: 0.35
 Nodes (13): 02239118, Account of a Bas-relief of Mithras Found at York, Argument: Patriarchal Religion as Christianity Antedated, Inference: Roman Prefect of York Demolished a Subterranean Mithras Temple in Micklegate, James Mounsey Letter to Henry Baker (Riga, 1749), Mithras, Mithriac Ceremonies and Mysteries, Rev. Dr. William Stukeley, F.R.S. (+5 more)
 
-### Community 28 - "Gazelle AcademicNew Title – Political Philosophy"
+### Community 26 - "Gazelle AcademicNew Title – Political Philosophy"
 Cohesion: 0.32
 Nodes (13): Gazelle AcademicNew Title – Political Philosophy, A History of Political Ideas: From Antiquity to the Middle Ages, Canon Law, Christian Thinkers (Paul, Augustine, Thomas Aquinas), Christian Thought: Gospels, Biblical Texts, and Christians under the Roman Empire, Evolving Jurisdiction Governing the People, Greek City-State Thinkers (Plato, Aristotle, Xenophon, Stoics), Kenneth Casler (+5 more)
 
 ## Ambiguous Edges - Review These
-- `Walid Phares Fox News Comments on Iran Policy (13 Oct 2017)` → `1991 Persian Gulf War Coalition`  [AMBIGUOUS]
-  raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani 2.md · relation: references
 - `Traces of Iran's Culture in Europe, America, China, India, and Arabia` → `An Shigao/Ashkani Prince Introducing Buddhism to China`  [AMBIGUOUS]
   raw/ocr/502231919-Traces-of-Iran.md · relation: references
-- `Argument: Iranian civilization as a forgotten global cultural source` → `Claim: Saka, Saxon, Celt, Catalan, and Caucasus groups trace to Iranian tribes`  [AMBIGUOUS]
-  raw/ocr/502231919-Traces-of-Iran 2 2.md · relation: rationale_for
 - `Ahura Mazdā` → `Winged Figure / Farvahar-Fravashi Symbol`  [AMBIGUOUS]
   raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md · relation: conceptually_related_to
 - `Xwēdōdah / X'aētuuadaθa (Next-of-Kin Marriage)` → `vadəmnō and X'aētu- Semantic Debate`  [AMBIGUOUS]
@@ -480,14 +361,6 @@ Nodes (13): Gazelle AcademicNew Title – Political Philosophy, A History of Pol
   raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md · relation: rationale_for
 - `Ardashir I Investiture Relief at Naqsh-i Rustam` → `Defeated Demon/Ahriman Motif`  [AMBIGUOUS]
   raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md · relation: conceptually_related_to
-- `Material Aniconism` → `Zoomorphic Symbols Debate in Iranian Art (De Jong; Nana Lion; Oēšo Coins)`  [AMBIGUOUS]
-  raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md · relation: participates_in
-- `Cult-Image Testimonia: Berossus, Curtius Rufus, and Strabo's Omanos/Vohu Manah` → `Menog/Getig and Zoroastrian Anthropomorphic Notions of the Divine`  [AMBIGUOUS]
-  raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2.md · relation: conceptually_related_to
-- `Scythian Divine Iconography and Anepigraphic Interpretation Problem` → `Lysaya Gora Finial: Papaioi Identification versus Priest-Shaman Reading`  [AMBIGUOUS]
-  raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2.md · relation: rationale_for
-- `Mithrā (Sun God)` → `Cyrus II’s Tomb: Lotus-Sunflower Emblem and Mithrāic Horse Sacrifice (Stronach; Briant)`  [AMBIGUOUS]
-  raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc copy.md · relation: conceptually_related_to
 - `Marduk / Bel-Marduk / Nibiru (Fifty Names)` → `Up-shukkinaku Sovereignty Chamber/Ritual`  [AMBIGUOUS]
   raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md · relation: conceptually_related_to
 - `Shāh Ṭahmāsb I` → `1468 Gulistān of Sa'dī (FGA, F1998.5) as Jousting Field`  [AMBIGUOUS]
@@ -508,12 +381,8 @@ Nodes (13): Gazelle AcademicNew Title – Political Philosophy, A History of Pol
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **What is the exact relationship between `Walid Phares Fox News Comments on Iran Policy (13 Oct 2017)` and `1991 Persian Gulf War Coalition`?**
-  _Edge tagged AMBIGUOUS (relation: references) - confidence is low._
 - **What is the exact relationship between `Traces of Iran's Culture in Europe, America, China, India, and Arabia` and `An Shigao/Ashkani Prince Introducing Buddhism to China`?**
   _Edge tagged AMBIGUOUS (relation: references) - confidence is low._
-- **What is the exact relationship between `Argument: Iranian civilization as a forgotten global cultural source` and `Claim: Saka, Saxon, Celt, Catalan, and Caucasus groups trace to Iranian tribes`?**
-  _Edge tagged AMBIGUOUS (relation: rationale_for) - confidence is low._
 - **What is the exact relationship between `Ahura Mazdā` and `Winged Figure / Farvahar-Fravashi Symbol`?**
   _Edge tagged AMBIGUOUS (relation: conceptually_related_to) - confidence is low._
 - **What is the exact relationship between `Xwēdōdah / X'aētuuadaθa (Next-of-Kin Marriage)` and `vadəmnō and X'aētu- Semantic Debate`?**
@@ -522,3 +391,7 @@ _Questions this graph is uniquely positioned to answer:_
   _Edge tagged AMBIGUOUS (relation: contrasts_with) - confidence is low._
 - **What is the exact relationship between `N.23.11: Conversion between Non-Zoroastrian Laws and Margarzān Liability` and `Hierarchy of Non-Zoroastrian Legal Systems`?**
   _Edge tagged AMBIGUOUS (relation: rationale_for) - confidence is low._
+- **What is the exact relationship between `Genesis Rabbah 38:11 Abraham and Nimrod Furnace Account` and `Pseudo-Philo, Liber Antiquitatum Biblicarum 6`?**
+  _Edge tagged AMBIGUOUS (relation: conceptually_related_to) - confidence is low._
+- **What is the exact relationship between `Genesis Rabbah 38:11 Abraham and Nimrod Furnace Account` and `Jubilees 12:12–14`?**
+  _Edge tagged AMBIGUOUS (relation: conceptually_related_to) - confidence is low._

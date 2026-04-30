@@ -12,7 +12,7 @@ tags:
 # Royal Cult Evidence Criteria: temples, priesthoods, prayers, offerings, statues, divine-status images
 
 ## Connections
-- [[MORE THAN MEN, LESS THAN GODS_1]] - `references` [EXTRACTED]
+- [[MORE THAN MEN, LESS THAN GODS]] - `references` [EXTRACTED]
 - [[No Definitive Evidence for a Living Achaemenid Royal Cult outside Egypt]] - `rationale_for` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Iranian_Kingship

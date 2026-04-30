@@ -13,6 +13,6 @@ tags:
 
 ## Connections
 - [[Imperial Program in the Visual Arts during the Reign of Darius I]] - `rationale_for` [INFERRED]
-- [[MORE THAN MEN, LESS THAN GODS_1]] - `references` [EXTRACTED]
+- [[MORE THAN MEN, LESS THAN GODS]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Iranian_Kingship

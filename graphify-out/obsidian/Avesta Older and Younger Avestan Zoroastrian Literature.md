@@ -12,7 +12,7 @@ tags:
 # Avesta: Older and Younger Avestan Zoroastrian Literature
 
 ## Connections
-- [[IRANO-JUDAICA VII_2]] - `references` [EXTRACTED]
+- [[IRANO-JUDAICA VII]] - `references` [EXTRACTED]
 - [[Pahlavi Texts Middle Persian Zoroastrian Writings (9th–10th c.)]] - `references` [EXTRACTED]
 - [[Zoroastrian Eschatology]] - `conceptually_related_to` [EXTRACTED]
 

@@ -15,7 +15,7 @@ tags:
 - [[Kingu]] - `conceptually_related_to` [EXTRACTED]
 - [[Marduk]] - `contrasts_with` [EXTRACTED]
 - [[Rationale Editor Joined the Creation Legend to the Dragon Legend]] - `conceptually_related_to` [EXTRACTED]
-- [[The Babylonian Legends of the Creation_2]] - `references` [EXTRACTED]
+- [[The Babylonian Legends of the Creation]] - `references` [EXTRACTED]
 - [[The Seven Tablets of Creation]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Ritual_Practice

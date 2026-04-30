@@ -14,6 +14,6 @@ tags:
 ## Connections
 - [[Avesta–Pahlavi Doctrinal Continuity Argument (Hultgård 1983; Shaked 2005)]] - `contrasts_with` [EXTRACTED]
 - [[Defeating Death Eschatology in Zoroastrianism, Judaism and Christianity]] - `cites` [EXTRACTED]
-- [[IRANO-JUDAICA VII_2]] - `references` [EXTRACTED]
+- [[IRANO-JUDAICA VII]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Avestan_Texts

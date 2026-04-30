@@ -12,7 +12,7 @@ tags:
 # Shaked 1971, “The Notions mēnōg and gētīg in the Pahlavi Texts”
 
 ## Connections
-- [[Bulletin of the Asia Institute_2]] - `references` [EXTRACTED]
+- [[Bulletin of the Asia Institute]] - `references` [EXTRACTED]
 - [[Pahlavi mēnōggētīg Sources Šāyast nē-Šāyast, Pahlavi Rivāyat, and Dādestān ī dēnīg]] - `cites` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Iranian_Kingship

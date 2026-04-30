@@ -14,7 +14,7 @@ tags:
 ## Connections
 - [[By the Favor of Auramazdā Kingship and the Divine in the Early Achaemenid Period]] - `references` [EXTRACTED]
 - [[Early Achaemenid Kingship and the Divine]] - `conceptually_related_to` [EXTRACTED]
-- [[MORE THAN MEN, LESS THAN GODS_1]] - `references` [EXTRACTED]
+- [[MORE THAN MEN, LESS THAN GODS]] - `references` [EXTRACTED]
 - [[Royal Cult Evidence Criteria temples, priesthoods, prayers, offerings, statues, divine-status images]] - `rationale_for` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Iranian_Kingship

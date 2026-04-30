@@ -12,7 +12,7 @@ tags:
 # Lotus, Sunflower, and Aquatic Signs of Farr
 
 ## Connections
-- [[THE AURA OF KINGS_4]] - `references` [EXTRACTED]
+- [[THE AURA OF KINGS]] - `references` [EXTRACTED]
 - [[Khvarnah  Farr (Iranian Royal Glory)]] - `conceptually_related_to` [EXTRACTED]
 - [[Susa Glazed Brick Khvarnah Panels]] - `references` [EXTRACTED]
 

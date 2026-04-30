@@ -12,7 +12,7 @@ tags:
 # Ali Zaryab and Persian Music/Dance Traditions in Spain
 
 ## Connections
-- [[ABSTRACT_2]] - `references` [EXTRACTED]
+- [[ABSTRACT]] - `references` [EXTRACTED]
 - [[Persian-Islamic Cultural Influence in Moorish Spain]] - `participates_in` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Mithraic_Studies

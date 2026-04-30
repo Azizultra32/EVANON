@@ -12,7 +12,7 @@ tags:
 # Partial Figure-ness and Elevation Argument
 
 ## Connections
-- [[MORE THAN MEN, LESS THAN GODS_1]] - `references` [EXTRACTED]
+- [[MORE THAN MEN, LESS THAN GODS]] - `references` [EXTRACTED]
 - [[PFS 261 Composite Creature Archer Scene]] - `rationale_for` [EXTRACTED]
 - [[Type-I Darics Royal Archer Coinage]] - `semantically_similar_to` [EXTRACTED]
 - [[Winged Symbol  Figure in the Winged Ring]] - `conceptually_related_to` [EXTRACTED]

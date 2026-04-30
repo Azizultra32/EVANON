@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[Contribution of Persia to World Civilization (central argument)]] - `references` [EXTRACTED]
-- [[Decorative blue oval graphicDecorative blue oval graphicContribution of Persia To World Civilization_1]] - `references` [EXTRACTED]
+- [[Decorative blue oval graphicDecorative blue oval graphicContribution of Persia To World Civilization]] - `references` [EXTRACTED]
 - [[Silk Road as Persian-linked East-West trade network]] - `conceptually_related_to` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Mithraic_Studies

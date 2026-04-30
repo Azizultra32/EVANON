@@ -12,10 +12,10 @@ tags:
 # Argument: Dual Legitimacy Symbolism
 
 ## Connections
-- [[THE AURA OF KINGS_4]] - `references` [EXTRACTED]
+- [[THE AURA OF KINGS]] - `references` [EXTRACTED]
 - [[Ahura Mazdā]] - `conceptually_related_to` [EXTRACTED]
 - [[Darius and Xerxes Canopied Throne Relief at Persepolis]] - `rationale_for` [INFERRED]
 - [[Khvarnah  Farr (Iranian Royal Glory)]] - `conceptually_related_to` [INFERRED]
-- [[THE AURA OF KINGS_1]] - `references` [EXTRACTED]
+- [[The Aura of Kings]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Mithraic_Studies

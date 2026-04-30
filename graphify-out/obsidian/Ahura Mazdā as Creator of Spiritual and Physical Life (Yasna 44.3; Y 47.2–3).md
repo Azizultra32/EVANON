@@ -12,7 +12,7 @@ tags:
 # Ahura Mazdā as Creator of Spiritual and Physical Life (Yasna 44.3; Y 47.2–3)
 
 ## Connections
-- [[IRANO-JUDAICA VII_2]] - `references` [EXTRACTED]
+- [[IRANO-JUDAICA VII]] - `references` [EXTRACTED]
 - [[Zoroastrian Eschatology]] - `conceptually_related_to` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Avestan_Texts

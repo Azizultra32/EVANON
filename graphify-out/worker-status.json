@@ -1,25 +1,19 @@
 {
-  "updated_at": "2026-04-30T06:59:21.180744+00:00",
+  "updated_at": "2026-04-30T21:12:04.584711+00:00",
   "finalized": true,
   "acceptance_policy": "accept if >=99% chunks succeeded and all failed chunks are documented",
   "model": "gpt-5.5",
   "reasoning_effort": "xhigh",
-  "chunks_total": 142,
-  "chunks_succeeded": 141,
-  "chunks_failed": 1,
-  "success_rate": 0.992958,
-  "input_tokens": 919614,
-  "output_tokens": 1718022,
-  "semantic_nodes": 1492,
-  "semantic_edges": 4145,
-  "hyperedges": 272,
-  "graph_nodes": 1492,
-  "graph_links": 3962,
-  "failed_chunks": [
-    {
-      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc copy.md",
-      "chunk": 3,
-      "error": "OpenAI HTTP 520: error code: 520"
-    }
-  ]
+  "chunks_total": 86,
+  "chunks_succeeded": 86,
+  "chunks_failed": 0,
+  "success_rate": 1.0,
+  "input_tokens": 564147,
+  "output_tokens": 1037291,
+  "semantic_nodes": 996,
+  "semantic_edges": 2529,
+  "hyperedges": 167,
+  "graph_nodes": 996,
+  "graph_links": 2449,
+  "failed_chunks": []
 }

@@ -15,7 +15,7 @@ tags:
 - [[Achaemenid Monarchic Ideology]] - `rationale_for` [INFERRED]
 - [[Darius I]] - `references` [INFERRED]
 - [[Figure in the Winged Ring  Winged Disk Deity Motif]] - `references` [EXTRACTED]
-- [[MORE THAN MEN, LESS THAN GODS_1]] - `references` [EXTRACTED]
+- [[MORE THAN MEN, LESS THAN GODS]] - `references` [EXTRACTED]
 - [[Persepolis Fortification Archive]] - `participates_in` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Iranian_Kingship

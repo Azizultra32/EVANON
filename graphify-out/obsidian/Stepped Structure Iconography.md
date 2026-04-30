@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[Achaemenid Fire Structures and Fire-Worship Debate]] - `participates_in` [EXTRACTED]
-- [[MORE THAN MEN, LESS THAN GODS_1]] - `references` [EXTRACTED]
+- [[MORE THAN MEN, LESS THAN GODS]] - `references` [EXTRACTED]
 - [[Naqš-e Rustam Tomb Relief of Darius I]] - `references` [EXTRACTED]
 - [[Tower Structure Iconography]] - `contrasts_with` [EXTRACTED]
 

@@ -12,7 +12,7 @@ tags:
 # Claim: Israelites Assimilated Zarathustrian Eschatology
 
 ## Connections
-- [[IRANO-JUDAICA VII_2]] - `references` [EXTRACTED]
+- [[IRANO-JUDAICA VII]] - `references` [EXTRACTED]
 - [[Jewish Eschatology]] - `conceptually_related_to` [EXTRACTED]
 - [[Rationale Jewish This-worldliness and Deferred Davidic Restoration]] - `rationale_for` [EXTRACTED]
 - [[Second Temple Jewish Literature]] - `rationale_for` [EXTRACTED]

@@ -12,7 +12,7 @@ tags:
 # Lotus-Sunflower Dual Khvarnah Symbolism
 
 ## Connections
-- [[THE AURA OF KINGS_4]] - `references` [EXTRACTED]
+- [[THE AURA OF KINGS]] - `references` [EXTRACTED]
 - [[Argument Mithrā and Apam-Napāt Embodied Median Kingly Power]] - `rationale_for` [EXTRACTED]
 - [[Kalmākareh Silver Vessels]] - `participates_in` [EXTRACTED]
 - [[Khvarnah  Farr (Divine Glory)]] - `conceptually_related_to` [EXTRACTED]

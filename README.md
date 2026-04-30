@@ -20,8 +20,8 @@ This folder is also a Git repository. The original corpus is copied into `raw/so
   Original source corpus copied into this repo. Large PDFs, TIFFs, images, and media are tracked with Git LFS.
 - `raw/ocr/`
   Datalab conversion output for corpus files.
-- `graphify-input/ocr-markdown/`
-  Symlinks to OCR Markdown files that are included in the graph build.
+- `graphify-input/ocr-markdown-clean/`
+  Deduped symlinks to OCR Markdown files that are included in the graph build and shared with Cognee.
 - `graphify-out/`
   Graphify artifacts for the Zoroastrian/Mithras corpus, such as `graph.json`, `graph.html`, and `GRAPH_REPORT.md`.
 - `graphify-out/llm-cache/`
@@ -94,14 +94,13 @@ Latest known logs:
 
 ## Build The LLM Graphify Graph
 
-The graph build uses only OCR Markdown files. Datalab-generated image assets are not included.
+The graph build uses only deduped OCR Markdown files. Datalab-generated image assets and duplicate Markdown outputs are not included.
 
 ```bash
 cd /Users/ali/GRAPHIFY-zoroastrianism
 source .venv/bin/activate
-find graphify-input/ocr-markdown -type l -delete
-find raw/ocr -maxdepth 1 -type f -name '*.md' -exec ln -sf "$PWD/{}" graphify-input/ocr-markdown/ \;
-graphify-zoro-llm --input graphify-input/ocr-markdown --workers 2 --timeout 1200
+python scripts/build_clean_markdown_input.py
+graphify-zoro-llm --input graphify-input/ocr-markdown-clean --workers 2 --timeout 1200
 ```
 
 Main outputs:
@@ -117,7 +116,7 @@ Main outputs:
 
 Current LLM build:
 
-- 52 OCR Markdown files included.
+- 32 unique OCR Markdown files included after dedupe from 52 converted Markdown files.
 - Model: `gpt-5.5`
 - Reasoning effort: `xhigh`
 - 141/142 chunks succeeded.
@@ -134,7 +133,7 @@ The LLM pass samples very large documents into representative chunks rather than
 Safe model/API smoke test without overwriting the graph:
 
 ```bash
-graphify-zoro-llm --input graphify-input/ocr-markdown --smoke-test --max-chars 1800 --timeout 300
+graphify-zoro-llm --input graphify-input/ocr-markdown-clean --smoke-test --max-chars 1800 --timeout 300
 ```
 
 Latest smoke test result:
@@ -189,9 +188,8 @@ cd /Users/ali/GRAPHIFY-zoroastrianism
 source .venv/bin/activate
 graphify-zoro-ocr --suffix .pdf
 graphify-zoro-ocr-status
-find graphify-input/ocr-markdown -type l -delete
-find raw/ocr -maxdepth 1 -type f -name '*.md' -exec ln -sf "$PWD/{}" graphify-input/ocr-markdown/ \;
-graphify-zoro-llm --input graphify-input/ocr-markdown --workers 4
+python scripts/build_clean_markdown_input.py
+graphify-zoro-llm --input graphify-input/ocr-markdown-clean --workers 4
 ```
 
 The existing `graphify-out/llm-cache/` prevents paying again for chunks that were already processed.

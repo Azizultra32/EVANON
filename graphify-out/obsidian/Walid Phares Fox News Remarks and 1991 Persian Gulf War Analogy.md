@@ -15,8 +15,8 @@ tags:
 - [[Article Claim Saudi-Led Regime-Change War Would Fragment Iran]] - `rationale_for` [EXTRACTED]
 - [[Islamic Republic of Iran and IRGC (Pasdaran)]] - `references` [EXTRACTED]
 - [[Michael BagleyJellyfish Backchannel]] - `conceptually_related_to` [EXTRACTED]
-- [[Saudi-led Sunni Arab Coalition]] - `references` [EXTRACTED]
-- [[The Coming Persian War_2]] - `references` [EXTRACTED]
+- [[Saudi-Led Sunni Arab Coalition]] - `references` [EXTRACTED]
+- [[The Coming Persian War]] - `references` [EXTRACTED]
 - [[The Coming Persian War_1]] - `cites` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/The_Coming_Persian_War

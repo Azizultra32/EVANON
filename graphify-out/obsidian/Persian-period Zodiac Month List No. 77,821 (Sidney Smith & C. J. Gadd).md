@@ -13,6 +13,6 @@ tags:
 
 ## Connections
 - [[Marduk  Bel-Marduk  Nibiru (Fifty Names)]] - `conceptually_related_to` [INFERRED]
-- [[The Babylonian Legends of the Creation_2]] - `references` [EXTRACTED]
+- [[The Babylonian Legends of the Creation]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Ritual_Practice

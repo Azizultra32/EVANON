@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[Sumerian Account of Ziusudu (Poebel, Historical Texts No. 1)]] - `rationale_for` [EXTRACTED]
-- [[The Babylonian Legends of the Creation_2]] - `references` [EXTRACTED]
+- [[The Babylonian Legends of the Creation]] - `references` [EXTRACTED]
 - [[The Seven Tablets of Creation]] - `rationale_for` [EXTRACTED]
 - [[Tiâmat]] - `conceptually_related_to` [EXTRACTED]
 

@@ -12,7 +12,7 @@ tags:
 # Post-Alexander Priestly Manipulation and Re-canonization Claim
 
 ## Connections
-- [[Achaemenid History Derailed by AvestologyAssessing La religion des Achéménides confrontation des sources_1]] - `references` [EXTRACTED]
+- [[Achaemenid History Derailed by AvestologyAssessing La religion des Achéménides confrontation des sources]] - `references` [EXTRACTED]
 - [[Darius’ Calendar Evidence bayayadish, Mithra as baya, and Ahura Mazdā Supremacy]] - `rationale_for` [EXTRACTED]
 - [[Kellens 1998 Proto-Yasna AB, Fixation, Canonization, and “Decanonization” Model]] - `contrasts_with` [EXTRACTED]
 - [[Khvarenah Cycle in Yt 19 and Yt 5 Apam Napāt, Anāhitā, Afrāsiyāb, and Artaxerxes II]] - `rationale_for` [EXTRACTED]

@@ -12,7 +12,7 @@ tags:
 # Argument: Persian/Iranian Influence in the Indian Subcontinent
 
 ## Connections
-- [[ABSTRACT_2]] - `references` [EXTRACTED]
+- [[ABSTRACT]] - `references` [EXTRACTED]
 - [[Argument Persian Empire Rule and Influence in the Arab World]] - `conceptually_related_to` [INFERRED]
 - [[AryanBrahmin Migration, Sanskrit, and Rig Veda as Iranian Influences]] - `rationale_for` [EXTRACTED]
 - [[Claim Taj Mahal as a Persian Islamic Monument]] - `rationale_for` [EXTRACTED]

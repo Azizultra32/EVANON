@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[Caliph Al-Ma'mun and the House of Wisdom in Baghdad]] - `rationale_for` [INFERRED]
-- [[Decorative blue oval graphicDecorative blue oval graphicContribution of Persia To World Civilization_1]] - `references` [EXTRACTED]
+- [[Decorative blue oval graphicDecorative blue oval graphicContribution of Persia To World Civilization]] - `references` [EXTRACTED]
 - [[Persian Etymology Claims for English, Spanish, Arabic and Other Terms]] - `rationale_for` [INFERRED]
 - [[Persian Islamic Scientific Firsts Claim mathematics, medicine, astronomy, geodesy, biogas, GM rice]] - `rationale_for` [INFERRED]
 - [[Persian Religious-Political Influence in Islam Khomeini, Asadabadi, Nawwab Safavi, Qommi]] - `rationale_for` [INFERRED]

@@ -12,7 +12,7 @@ tags:
 # Farvardin Yasht 13:94–95
 
 ## Connections
-- [[THE AURA OF KINGS_4]] - `references` [EXTRACTED]
+- [[THE AURA OF KINGS]] - `references` [EXTRACTED]
 - [[Apam Napāt]] - `references` [EXTRACTED]
 - [[Argument Mithrā and Apam-Napāt Embodied Median Kingly Power]] - `rationale_for` [EXTRACTED]
 - [[Mithrā]] - `references` [EXTRACTED]

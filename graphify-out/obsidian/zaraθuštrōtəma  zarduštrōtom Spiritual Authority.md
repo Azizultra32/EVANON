@@ -1,22 +1,19 @@
 ---
-source_file: "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md"
+source_file: "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md"
 type: "document"
-community: "Avestan Texts"
-location: "chunk 2/3"
+community: "Mithraic Studies"
+location: "chunk 3/3"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Avestan_Texts
+  - community/Mithraic_Studies
 ---
 
 # zaraθuštrōtəma / zarduštrōtom Spiritual Authority
 
 ## Connections
-- [[Argument Zarathustra's Prophetic and Priestly Authority Derives from Ahura Mazdā]] - `rationale_for` [EXTRACTED]
 - [[Dual Prophetic-Priestly Authority of Zarathustra]] - `conceptually_related_to` [EXTRACTED]
-- [[Gifts to a Magus_1]] - `references` [EXTRACTED]
-- [[Gifts to a Magus_2]] - `references` [EXTRACTED]
-- [[Y. 65.9–11 Waters Prayer Transmission]] - `rationale_for` [EXTRACTED]
+- [[Gifts to a Magus]] - `references` [EXTRACTED]
 - [[Zarathustra]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Avestan_Texts
+#graphify/document #graphify/EXTRACTED #community/Mithraic_Studies

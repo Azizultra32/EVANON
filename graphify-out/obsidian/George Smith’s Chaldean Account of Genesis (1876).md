@@ -14,6 +14,6 @@ tags:
 ## Connections
 - [[Assyrian Tablets from Nineveh (Kuyûnjik Library of Ashur-bani-pal)]] - `references` [EXTRACTED]
 - [[Rawlinson’s Claim of Resemblance to Genesis (1865)]] - `rationale_for` [EXTRACTED]
-- [[The Babylonian Legends of the Creation_2]] - `references` [EXTRACTED]
+- [[The Babylonian Legends of the Creation]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Ritual_Practice

@@ -12,7 +12,7 @@ tags:
 # Avestan/Persian Words in English and European Languages
 
 ## Connections
-- [[ABSTRACT_2]] - `references` [EXTRACTED]
+- [[ABSTRACT]] - `references` [EXTRACTED]
 - [[Thesis Iranian Civilization as a Global Source of Cultural Influence]] - `rationale_for` [INFERRED]
 - [[Traces of Iran's Culture in Europe, America, China, India, and Arabia]] - `references` [EXTRACTED]
 

@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[Achaemenian Figure in the Winged Disk as Ahura Mazdā]] - `rationale_for` [INFERRED]
-- [[Bulletin of the Asia Institute_2]] - `references` [EXTRACTED]
+- [[Bulletin of the Asia Institute]] - `references` [EXTRACTED]
 - [[Elemental Aniconism]] - `rationale_for` [INFERRED]
 - [[Irano-Elamite Acculturation and Henkelman's Pars Cult Amalgam]] - `cites` [EXTRACTED]
 - [[T. Ornan on Mesopotamian Non-anthropomorphic Divine Icons]] - `cites` [EXTRACTED]

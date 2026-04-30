@@ -40,7 +40,7 @@ tags:
 - [[Persian Textual and Ritual Traditions (Nauruz, Shah-Namah, Avesta, Gatha)]] - `references` [EXTRACTED]
 - [[Persian as second language of Islamic propagation; Namaz, Ruzah, Ustad terms]] - `references` [EXTRACTED]
 - [[Professor Arthur A. Pope]] - `references` [EXTRACTED]
-- [[QawwaliBarzanji as Persian-Origin Sufi Chanting]] - `references` [EXTRACTED]
+- [[Qawwali  Barzanji as Persian-origin Sufi chanting]] - `references` [EXTRACTED]
 - [[Seyyid Jamal ad-Din Asadabadi  al-Afghani and Back-to-Islam revivalism]] - `references` [EXTRACTED]
 - [[Sibawayh of Shiraz and Persian Arabic-language scholarship]] - `references` [EXTRACTED]
 - [[Silk Road as East-West Super-Highway]] - `references` [EXTRACTED]

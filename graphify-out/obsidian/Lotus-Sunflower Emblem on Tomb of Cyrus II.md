@@ -12,7 +12,7 @@ tags:
 # Lotus-Sunflower Emblem on Tomb of Cyrus II
 
 ## Connections
-- [[THE AURA OF KINGS_4]] - `references` [EXTRACTED]
+- [[THE AURA OF KINGS]] - `references` [EXTRACTED]
 - [[Argument Mithrā and Apam-Napāt Embodied Median Kingly Power]] - `rationale_for` [EXTRACTED]
 - [[Lotus-Sunflower Dual Khvarnah Symbolism]] - `conceptually_related_to` [EXTRACTED]
 

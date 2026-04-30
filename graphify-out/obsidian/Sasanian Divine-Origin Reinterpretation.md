@@ -12,7 +12,7 @@ tags:
 # Sasanian Divine-Origin Reinterpretation
 
 ## Connections
-- [[THE AURA OF KINGS_4]] - `references` [EXTRACTED]
+- [[THE AURA OF KINGS]] - `references` [EXTRACTED]
 - [[Ahura Mazdā]] - `references` [EXTRACTED]
 - [[Iconography as Historiography]] - `rationale_for` [EXTRACTED]
 

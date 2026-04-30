@@ -14,8 +14,8 @@ tags:
 ## Connections
 - [[E-Sagila Ziggurat and Babylon Shrine]] - `participates_in` [EXTRACTED]
 - [[Persian-period Zodiac Month List No. 77,821 (Sidney Smith & C. J. Gadd)]] - `conceptually_related_to` [INFERRED]
-- [[Seven Tablets of Creation (Creation Series)]] - `references` [EXTRACTED]
-- [[The Babylonian Legends of the Creation_2]] - `references` [EXTRACTED]
+- [[Seven Tablets of Creation  Creation Series]] - `references` [EXTRACTED]
+- [[The Babylonian Legends of the Creation]] - `references` [EXTRACTED]
 - [[Tiâmat, Queen of the Abyss]] - `contrasts_with` [EXTRACTED]
 - [[Up-shukkinaku Sovereignty ChamberRitual]] - `conceptually_related_to` [AMBIGUOUS]
 

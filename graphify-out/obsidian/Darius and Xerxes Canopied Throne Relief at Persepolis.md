@@ -12,7 +12,7 @@ tags:
 # Darius and Xerxes Canopied Throne Relief at Persepolis
 
 ## Connections
-- [[THE AURA OF KINGS_4]] - `references` [EXTRACTED]
+- [[THE AURA OF KINGS]] - `references` [EXTRACTED]
 - [[Ahura Mazdā]] - `references` [EXTRACTED]
 - [[Argument Dual Legitimacy Symbolism]] - `rationale_for` [INFERRED]
 - [[Khvarnah  Farr (Iranian Royal Glory)]] - `references` [EXTRACTED]

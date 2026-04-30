@@ -12,8 +12,8 @@ tags:
 # Claim: New York Times, Patrik Hermansson video, and Radio Zamaneh coverage discredited Jorjani and the coalition
 
 ## Connections
-- [[Iranian United Front  Jebheyé Irângarâyân]] - `rationale_for` [EXTRACTED]
-- [[The Coming Persian War_2]] - `references` [EXTRACTED]
+- [[Iranian United Front (Jebheyé Irângarâyân)]] - `rationale_for` [EXTRACTED]
+- [[The Coming Persian War]] - `references` [EXTRACTED]
 - [[The Coming Persian War article]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/The_Coming_Persian_War

@@ -12,7 +12,7 @@ tags:
 # Claim: Avestan/Persian Words in Arabic and Hadith
 
 ## Connections
-- [[ABSTRACT_2]] - `references` [EXTRACTED]
+- [[ABSTRACT]] - `references` [EXTRACTED]
 - [[Claim 1,000+ AvestanPahlaviPersian Words in English]] - `conceptually_related_to` [EXTRACTED]
 - [[Claim 200+ AvestanPersian Loanwords in the Qur'an]] - `conceptually_related_to` [INFERRED]
 - [[Hadith]] - `references` [EXTRACTED]

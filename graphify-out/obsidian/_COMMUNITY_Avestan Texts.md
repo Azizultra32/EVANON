@@ -53,8 +53,7 @@ SORT file.name ASC
 
 ## Connections to other communities
 - 3 edges to [[_COMMUNITY_Iranian Kingship]]
-- 2 edges to [[_COMMUNITY_Avestan Texts]]
-- 2 edges to [[_COMMUNITY_Iranian Kingship]]
+- 2 edges to [[_COMMUNITY_Mithraic Studies]]
 
 ## Top bridge nodes
-- [[Zoroastrianism]] - degree 12, connects to 3 communities
+- [[Zoroastrianism]] - degree 10, connects to 2 communities

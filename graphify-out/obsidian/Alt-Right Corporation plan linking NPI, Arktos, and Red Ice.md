@@ -15,7 +15,7 @@ tags:
 - [[Alleged black-budget “micro cities” migrant-containment project]] - `conceptually_related_to` [EXTRACTED]
 - [[Jason Reza Jorjani]] - `participates_in` [EXTRACTED]
 - [[Michael and “X” as political intermediaries]] - `participates_in` [EXTRACTED]
-- [[The Coming Persian War_2]] - `references` [EXTRACTED]
+- [[The Coming Persian War]] - `references` [EXTRACTED]
 - [[Trump Administration Iran policy and White House access plan]] - `conceptually_related_to` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/The_Coming_Persian_War

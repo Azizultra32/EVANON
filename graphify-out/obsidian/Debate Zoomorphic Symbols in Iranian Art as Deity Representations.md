@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[Avesta and Rig Veda as Early Indo-Iranian Religious Texts]] - `rationale_for` [EXTRACTED]
-- [[Bulletin of the Asia Institute_2]] - `references` [EXTRACTED]
+- [[Bulletin of the Asia Institute]] - `references` [EXTRACTED]
 - [[Material Aniconism]] - `participates_in` [INFERRED]
 
 #graphify/document #graphify/EXTRACTED #community/Iranian_Kingship

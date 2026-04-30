@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[Angra Mainyu  Destructive Force as External Evil]] - `contrasts_with` [EXTRACTED]
-- [[IRANO-JUDAICA VII_2]] - `references` [EXTRACTED]
+- [[IRANO-JUDAICA VII]] - `references` [EXTRACTED]
 - [[Zoroastrian Cosmology as Integral Eschatology]] - `conceptually_related_to` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Avestan_Texts

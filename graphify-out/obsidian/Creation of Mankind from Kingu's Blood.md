@@ -13,9 +13,9 @@ tags:
 
 ## Connections
 - [[Berosus's Creation Account Man from Divine Blood and Earth]] - `cites` [EXTRACTED]
-- [[Ea  Nudimmud]] - `participates_in` [EXTRACTED]
+- [[Ea (Nudimmud)]] - `participates_in` [EXTRACTED]
 - [[Kingu]] - `participates_in` [EXTRACTED]
 - [[Marduk]] - `participates_in` [EXTRACTED]
-- [[The Babylonian Legends of the Creation_2]] - `references` [EXTRACTED]
+- [[The Babylonian Legends of the Creation]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Ritual_Practice

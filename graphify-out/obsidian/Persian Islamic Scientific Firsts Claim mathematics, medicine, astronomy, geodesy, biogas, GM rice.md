@@ -14,7 +14,7 @@ tags:
 ## Connections
 - [[Abu Rayhan Biruni, Father of Geodesy Claim]] - `participates_in` [EXTRACTED]
 - [[Contribution of Persia to World Civilization]] - `rationale_for` [INFERRED]
-- [[Decorative blue oval graphicDecorative blue oval graphicContribution of Persia To World Civilization_1]] - `references` [EXTRACTED]
+- [[Decorative blue oval graphicDecorative blue oval graphicContribution of Persia To World Civilization]] - `references` [EXTRACTED]
 - [[European Priority Narratives flat earth, Newton, Copernicus and Galileo]] - `contrasts_with` [EXTRACTED]
 - [[Mohammad Al-Khwarizmi]] - `participates_in` [EXTRACTED]
 - [[Naseer Ad-Din Tusi and Maragheh Observatory]] - `participates_in` [EXTRACTED]

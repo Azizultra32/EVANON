@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[Beck's Star Talk and Universalist Approach]] - `references` [EXTRACTED]
-- [[MITHRAIC SOCIETIES FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY_2]] - `references` [EXTRACTED]
+- [[MITHRAIC SOCIETIES FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY]] - `references` [EXTRACTED]
 - [[Mithraic Initiation Oath, Hierarchy, and Symbols]] - `rationale_for` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Mithraic_Studies

@@ -1,12 +1,12 @@
 ---
-source_file: "raw/ocr/Ancient_Iran_Cosmology_Mythology_History 2.md"
+source_file: "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md"
 type: "document"
-community: "Iranian Kingship"
-location: "chunk 3/3"
+community: "Mithraic Studies"
+location: "chunk 1/3"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Iranian_Kingship
+  - community/Mithraic_Studies
 ---
 
 # Mazdian Cosmology
@@ -17,17 +17,10 @@ tags:
 - [[Ahura Mazda  Mazda]] - `conceptually_related_to` [EXTRACTED]
 - [[Ahura-Mazda]] - `conceptually_related_to` [EXTRACTED]
 - [[Ancient Iran Cosmology, Mythology, History]] - `references` [EXTRACTED]
-- [[Ancient Iran Cosmology, Mythology, History_2]] - `references` [EXTRACTED]
-- [[Ancient Iran Cosmology, Mythology, History_3]] - `references` [EXTRACTED]
 - [[Ancient Iran Cosmology, Mythology, History_1]] - `references` [EXTRACTED]
-- [[Argument Mazdian Cosmology as a Thought World]] - `rationale_for` [EXTRACTED]
 - [[Bundahishn]] - `rationale_for` [EXTRACTED]
-- [[Bundahishn and Zamyad Yasht XIX]] - `cites` [EXTRACTED]
-- [[Cited Zoroastrian Texts Bundahishn and Zamyad Yasht XIX]] - `cites` [EXTRACTED]
 - [[Firdowsi’s Shahname, Bundahishn, and Zamyad Yasht]] - `cites` [EXTRACTED]
-- [[Manah (Spenta Mainyu)]] - `conceptually_related_to` [EXTRACTED]
 - [[Manah Thought-World Rationale]] - `rationale_for` [EXTRACTED]
-- [[Yazatas (Adorable Ones)]] - `participates_in` [EXTRACTED]
 - [[Zoroastrianism]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Iranian_Kingship
+#graphify/document #graphify/EXTRACTED #community/Mithraic_Studies

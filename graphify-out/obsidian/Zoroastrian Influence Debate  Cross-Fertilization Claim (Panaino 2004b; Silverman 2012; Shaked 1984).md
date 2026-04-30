@@ -14,8 +14,8 @@ tags:
 ## Connections
 - [[Avesta–Pahlavi Doctrinal Continuity Argument (Hultgård 1983; Shaked 2005)]] - `rationale_for` [EXTRACTED]
 - [[Defeating Death Eschatology in Zoroastrianism, Judaism and Christianity]] - `cites` [EXTRACTED]
-- [[Eschatological Sequence judgement, heavenhell, perfector, resurrection]] - `rationale_for` [EXTRACTED]
-- [[IRANO-JUDAICA VII_2]] - `references` [EXTRACTED]
+- [[Eschatological Sequence Judgement, HeavenHell, Perfector, Resurrection]] - `rationale_for` [EXTRACTED]
+- [[IRANO-JUDAICA VII]] - `references` [EXTRACTED]
 - [[Israelite Texts before Persian Contact (mid-6th c. BCE)]] - `rationale_for` [EXTRACTED]
 - [[Judaism, Christianity and Islam Eschatology]] - `conceptually_related_to` [EXTRACTED]
 - [[Zoroastrian Eschatology]] - `conceptually_related_to` [EXTRACTED]

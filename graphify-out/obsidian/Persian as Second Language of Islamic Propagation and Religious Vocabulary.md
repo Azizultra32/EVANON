@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[Contribution of Persia to World Civilization]] - `rationale_for` [INFERRED]
-- [[Decorative blue oval graphicDecorative blue oval graphicContribution of Persia To World Civilization_1]] - `references` [EXTRACTED]
+- [[Decorative blue oval graphicDecorative blue oval graphicContribution of Persia To World Civilization]] - `references` [EXTRACTED]
 - [[Qawwali and Barzanji Sufi Chanting Tradition]] - `conceptually_related_to` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Mithraic_Studies

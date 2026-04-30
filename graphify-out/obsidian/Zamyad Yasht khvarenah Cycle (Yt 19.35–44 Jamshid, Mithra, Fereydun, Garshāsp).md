@@ -12,7 +12,7 @@ tags:
 # Zamyad Yasht khvarenah Cycle (Yt 19.35–44: Jamshid, Mithra, Fereydun, Garshāsp)
 
 ## Connections
-- [[Achaemenid History Derailed by AvestologyAssessing La religion des Achéménides confrontation des sources_1]] - `references` [EXTRACTED]
+- [[Achaemenid History Derailed by AvestologyAssessing La religion des Achéménides confrontation des sources]] - `references` [EXTRACTED]
 - [[Argument Zoroastrian Priestly Manipulation after AlexanderSeleucid Era]] - `rationale_for` [EXTRACTED]
 - [[Zoroaster as Super-King and Possessor of Aryan khvarenah]] - `rationale_for` [EXTRACTED]
 

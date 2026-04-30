@@ -13,6 +13,6 @@ tags:
 
 ## Connections
 - [[Creation of Mankind from Kingu's Blood]] - `cites` [EXTRACTED]
-- [[The Babylonian Legends of the Creation_2]] - `references` [EXTRACTED]
+- [[The Babylonian Legends of the Creation]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Ritual_Practice

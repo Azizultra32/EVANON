@@ -12,7 +12,7 @@ tags:
 # Iran: Land and the People (A.H. Saidian, 2001)
 
 ## Connections
-- [[Decorative blue oval graphicDecorative blue oval graphicContribution of Persia To World Civilization_1]] - `references` [EXTRACTED]
+- [[Decorative blue oval graphicDecorative blue oval graphicContribution of Persia To World Civilization]] - `references` [EXTRACTED]
 - [[Persian Carpet, Food, Spice, and Perfume Origin Catalogue]] - `cites` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Mithraic_Studies

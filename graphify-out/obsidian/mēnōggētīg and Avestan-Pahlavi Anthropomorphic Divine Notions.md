@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[Berossus and Strabo on Iranian Cult Statues (Anāhitā; ŌmanosVohu Manah)]] - `conceptually_related_to` [EXTRACTED]
-- [[Bulletin of the Asia Institute_2]] - `references` [EXTRACTED]
+- [[Bulletin of the Asia Institute]] - `references` [EXTRACTED]
 - [[Elemental Aniconism]] - `conceptually_related_to` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Iranian_Kingship

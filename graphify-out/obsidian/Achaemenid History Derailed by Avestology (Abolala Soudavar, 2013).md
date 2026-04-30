@@ -12,7 +12,7 @@ tags:
 # Achaemenid History Derailed by Avestology (Abolala Soudavar, 2013)
 
 ## Connections
-- [[Achaemenid History Derailed by AvestologyAssessing La religion des Achéménides confrontation des sources_1]] - `references` [EXTRACTED]
+- [[Achaemenid History Derailed by AvestologyAssessing La religion des Achéménides confrontation des sources]] - `references` [EXTRACTED]
 - [[Darius’ Calendar Evidence bayayadish, Mithra as baya, and Ahura Mazdā Supremacy]] - `references` [EXTRACTED]
 - [[Gershevitch 1995 No Philological Method to Measure Language Evolution Speed]] - `cites` [EXTRACTED]
 - [[Kellens 1998 Proto-Yasna AB, Fixation, Canonization, and “Decanonization” Model]] - `references` [EXTRACTED]

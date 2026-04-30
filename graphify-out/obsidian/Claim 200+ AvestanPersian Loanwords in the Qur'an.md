@@ -12,7 +12,7 @@ tags:
 # Claim: 200+ Avestan/Persian Loanwords in the Qur'an
 
 ## Connections
-- [[ABSTRACT_2]] - `references` [EXTRACTED]
+- [[ABSTRACT]] - `references` [EXTRACTED]
 - [[Cited Qur'an Loanword Scholars Sayuti, Jawaliqi, Raghib Esfahani, Ady Shir, Al-Munjid, Dehkhoda, Shushtari, Khorram-Shahi]] - `rationale_for` [EXTRACTED]
 - [[Claim AvestanPersian Words in Arabic and Hadith]] - `conceptually_related_to` [INFERRED]
 - [[M.S. Tajar Online Research on Persian Words and World Civilization]] - `cites` [EXTRACTED]

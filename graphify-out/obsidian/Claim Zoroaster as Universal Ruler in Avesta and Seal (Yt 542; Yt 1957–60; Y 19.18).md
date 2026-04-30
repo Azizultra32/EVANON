@@ -12,7 +12,7 @@ tags:
 # Claim: Zoroaster as Universal Ruler in Avesta and Seal (Yt 5:42; Yt 19:57–60; Y 19.18)
 
 ## Connections
-- [[Achaemenid History Derailed by AvestologyAssessing La religion des Achéménides confrontation des sources_1]] - `references` [EXTRACTED]
+- [[Achaemenid History Derailed by AvestologyAssessing La religion des Achéménides confrontation des sources]] - `references` [EXTRACTED]
 - [[Achaemenid Kingly Ideology Great King and Regal Authority]] - `contrasts_with` [EXTRACTED]
 - [[Avesta (including Yasna and Yasht passages)]] - `cites` [EXTRACTED]
 - [[BNF ZRTŠTRŠ Cylinder Seal (Bordreuil 1986, p. 104; BNF 1972.1343 S)]] - `references` [EXTRACTED]

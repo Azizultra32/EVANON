@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[Berossus and Strabo on Iranian Cult Statues (Anāhitā; ŌmanosVohu Manah)]] - `contrasts_with` [EXTRACTED]
-- [[Bulletin of the Asia Institute_2]] - `references` [EXTRACTED]
+- [[Bulletin of the Asia Institute]] - `references` [EXTRACTED]
 - [[Kushan and Sogdian Anthropomorphization of Iranian Deities]] - `rationale_for` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Iranian_Kingship

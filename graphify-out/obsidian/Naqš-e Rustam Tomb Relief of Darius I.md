@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[Crescent Inscribed within a Disk Lunar Imagery]] - `references` [EXTRACTED]
-- [[MORE THAN MEN, LESS THAN GODS_1]] - `references` [EXTRACTED]
+- [[MORE THAN MEN, LESS THAN GODS]] - `references` [EXTRACTED]
 - [[Stepped Structure Iconography]] - `references` [EXTRACTED]
 - [[Tower Structure Iconography]] - `conceptually_related_to` [EXTRACTED]
 

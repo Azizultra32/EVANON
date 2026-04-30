@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[Aniconism in the Religious Art of Pre-Islamic Iran and Central Asia]] - `references` [EXTRACTED]
-- [[Bulletin of the Asia Institute_2]] - `references` [EXTRACTED]
+- [[Bulletin of the Asia Institute]] - `references` [EXTRACTED]
 - [[Gnoli 2009, “Some Notes upon the Religious Significance of the Rabatak Inscription”]] - `cites` [EXTRACTED]
 - [[Grenet 2010, “Iranian Gods in Hindu Garb”]] - `cites` [EXTRACTED]
 

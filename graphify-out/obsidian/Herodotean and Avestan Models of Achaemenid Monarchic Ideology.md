@@ -13,6 +13,6 @@ tags:
 
 ## Connections
 - [[Early Achaemenid Kingship and the Divine]] - `conceptually_related_to` [EXTRACTED]
-- [[MORE THAN MEN, LESS THAN GODS_1]] - `references` [EXTRACTED]
+- [[MORE THAN MEN, LESS THAN GODS]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Iranian_Kingship

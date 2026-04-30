@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[Achaemenid Royal Ideology]] - `conceptually_related_to` [EXTRACTED]
-- [[MORE THAN MEN, LESS THAN GODS_1]] - `references` [EXTRACTED]
+- [[MORE THAN MEN, LESS THAN GODS]] - `references` [EXTRACTED]
 - [[Partial Figure-ness and Elevation Argument]] - `rationale_for` [EXTRACTED]
 - [[Winged Symbol  Figure in the Winged Ring]] - `semantically_similar_to` [EXTRACTED]
 

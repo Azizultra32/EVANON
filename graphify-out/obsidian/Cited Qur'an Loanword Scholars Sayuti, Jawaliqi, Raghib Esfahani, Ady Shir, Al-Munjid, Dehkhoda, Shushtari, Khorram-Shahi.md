@@ -12,7 +12,7 @@ tags:
 # Cited Qur'an Loanword Scholars: Sayuti, Jawaliqi, Raghib Esfahani, Ady Shir, Al-Munjid, Dehkhoda, Shushtari, Khorram-Shahi
 
 ## Connections
-- [[ABSTRACT_2]] - `references` [EXTRACTED]
+- [[ABSTRACT]] - `references` [EXTRACTED]
 - [[Claim 200+ AvestanPersian Loanwords in the Qur'an]] - `rationale_for` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Mithraic_Studies

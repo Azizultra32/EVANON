@@ -14,7 +14,7 @@ tags:
 ## Connections
 - [[1991 Persian Gulf War Coalition]] - `references` [EXTRACTED]
 - [[Claim Pro-SaudiPro-Arab Regime Change Strategy for Iran]] - `rationale_for` [EXTRACTED]
-- [[The Coming Persian War_2]] - `references` [EXTRACTED]
+- [[The Coming Persian War]] - `references` [EXTRACTED]
 - [[Walid Phares]] - `participates_in` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/The_Coming_Persian_War

@@ -12,7 +12,7 @@ tags:
 # Noruz, Sizdeh Bedar, and King Jamshid Tradition
 
 ## Connections
-- [[Decorative blue oval graphicDecorative blue oval graphicContribution of Persia To World Civilization_1]] - `references` [EXTRACTED]
+- [[Decorative blue oval graphicDecorative blue oval graphicContribution of Persia To World Civilization]] - `references` [EXTRACTED]
 - [[Persian-Origin Civilizational Priority Thesis]] - `rationale_for` [INFERRED]
 
 #graphify/document #graphify/EXTRACTED #community/Mithraic_Studies

@@ -12,7 +12,7 @@ tags:
 # Berossus and Strabo on Iranian Cult Statues (Anāhitā; Ōmanos/Vohu Manah)
 
 ## Connections
-- [[Bulletin of the Asia Institute_2]] - `references` [EXTRACTED]
+- [[Bulletin of the Asia Institute]] - `references` [EXTRACTED]
 - [[Hellenistic Bactrian and Roman Artistic Influence]] - `contrasts_with` [EXTRACTED]
 - [[Kushan and Sogdian Anthropomorphization of Iranian Deities]] - `conceptually_related_to` [EXTRACTED]
 - [[mēnōggētīg and Avestan-Pahlavi Anthropomorphic Divine Notions]] - `conceptually_related_to` [EXTRACTED]

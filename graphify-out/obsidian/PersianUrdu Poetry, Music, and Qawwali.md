@@ -12,7 +12,7 @@ tags:
 # Persian/Urdu Poetry, Music, and Qawwali
 
 ## Connections
-- [[ABSTRACT_2]] - `references` [EXTRACTED]
+- [[ABSTRACT]] - `references` [EXTRACTED]
 - [[Argument PersianIranian Influence in the Indian Subcontinent]] - `rationale_for` [EXTRACTED]
 - [[Persian Sufi Masters and Persianized Sufi Islam in India]] - `conceptually_related_to` [INFERRED]
 - [[Selected Visible References Sotudeh lectures; The Persian LettersIran Quarterly; Village Voice 2002; Nehru Letters 1950; Aljazeera 2010; Deh-Khoda; Maududi]] - `cites` [EXTRACTED]

@@ -12,7 +12,7 @@ tags:
 # Shaked 1971: 87 n.88 on Afterlife Timing
 
 ## Connections
-- [[IRANO-JUDAICA VII_2]] - `references` [EXTRACTED]
+- [[IRANO-JUDAICA VII]] - `references` [EXTRACTED]
 - [[Two Judgements Model Immediate Afterlife vs Bodily Resurrection]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Avestan_Texts

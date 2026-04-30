@@ -12,7 +12,7 @@ tags:
 # Latent Pre-Zoroastrian Mithrāic Beliefs
 
 ## Connections
-- [[THE AURA OF KINGS_4]] - `references` [EXTRACTED]
-- [[Farr  Khvarnah  Divine Glory]] - `conceptually_related_to` [EXTRACTED]
+- [[THE AURA OF KINGS]] - `references` [EXTRACTED]
+- [[Farr  Khvarnah (Divine Glory)]] - `conceptually_related_to` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Mithraic_Studies

@@ -14,7 +14,7 @@ tags:
 ## Connections
 - [[Aniconism in the Religious Art of Pre-Islamic Iran and Central Asia]] - `references` [EXTRACTED]
 - [[Assyrian Winged Disc as Possible Representation of Shamash]] - `conceptually_related_to` [EXTRACTED]
-- [[Bulletin of the Asia Institute_2]] - `references` [EXTRACTED]
+- [[Bulletin of the Asia Institute]] - `references` [EXTRACTED]
 - [[Material Aniconism Zoomorphic Symbols, Empty-Space Aniconism, and Elemental Aniconism]] - `conceptually_related_to` [INFERRED]
 
 #graphify/document #graphify/EXTRACTED #community/Iranian_Kingship

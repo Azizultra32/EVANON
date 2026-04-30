@@ -14,7 +14,7 @@ tags:
 ## Connections
 - [[Creation of Mankind from Kingu's Blood]] - `participates_in` [EXTRACTED]
 - [[Marduk's Supremacy at E-Sagila and the Fifty Names]] - `rationale_for` [EXTRACTED]
-- [[The Babylonian Legends of the Creation_2]] - `references` [EXTRACTED]
+- [[The Babylonian Legends of the Creation]] - `references` [EXTRACTED]
 - [[The Seven Tablets of Creation]] - `references` [EXTRACTED]
 - [[Tiâmat]] - `contrasts_with` [EXTRACTED]
 

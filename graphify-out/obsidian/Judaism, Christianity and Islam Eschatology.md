@@ -12,8 +12,8 @@ tags:
 # Judaism, Christianity and Islam Eschatology
 
 ## Connections
-- [[Eschatological Sequence judgement, heavenhell, perfector, resurrection]] - `conceptually_related_to` [EXTRACTED]
-- [[IRANO-JUDAICA VII_2]] - `references` [EXTRACTED]
+- [[Eschatological Sequence Judgement, HeavenHell, Perfector, Resurrection]] - `conceptually_related_to` [EXTRACTED]
+- [[IRANO-JUDAICA VII]] - `references` [EXTRACTED]
 - [[Zoroastrian Eschatology]] - `semantically_similar_to` [EXTRACTED]
 - [[Zoroastrian Influence Debate  Cross-Fertilization Claim (Panaino 2004b; Silverman 2012; Shaked 1984)]] - `conceptually_related_to` [EXTRACTED]
 

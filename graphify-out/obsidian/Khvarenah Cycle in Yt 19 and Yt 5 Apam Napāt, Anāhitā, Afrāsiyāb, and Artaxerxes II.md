@@ -12,7 +12,7 @@ tags:
 # Khvarenah Cycle in Yt 19 and Yt 5: Apam Napāt, Anāhitā, Afrāsiyāb, and Artaxerxes II
 
 ## Connections
-- [[Achaemenid History Derailed by AvestologyAssessing La religion des Achéménides confrontation des sources_1]] - `references` [EXTRACTED]
+- [[Achaemenid History Derailed by AvestologyAssessing La religion des Achéménides confrontation des sources]] - `references` [EXTRACTED]
 - [[Kellens 1998 Proto-Yasna AB, Fixation, Canonization, and “Decanonization” Model]] - `contrasts_with` [EXTRACTED]
 - [[Post-Alexander Priestly Manipulation and Re-canonization Claim]] - `rationale_for` [EXTRACTED]
 

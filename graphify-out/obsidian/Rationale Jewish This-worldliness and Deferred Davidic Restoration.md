@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[Claim Israelites Assimilated Zarathustrian Eschatology]] - `rationale_for` [EXTRACTED]
-- [[IRANO-JUDAICA VII_2]] - `references` [EXTRACTED]
+- [[IRANO-JUDAICA VII]] - `references` [EXTRACTED]
 - [[Second Temple Jewish Literature]] - `conceptually_related_to` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Avestan_Texts

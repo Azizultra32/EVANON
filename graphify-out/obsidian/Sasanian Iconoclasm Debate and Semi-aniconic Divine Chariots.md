@@ -12,7 +12,7 @@ tags:
 # Sasanian Iconoclasm Debate and Semi-aniconic Divine Chariots
 
 ## Connections
-- [[Bulletin of the Asia Institute_2]] - `references` [EXTRACTED]
+- [[Bulletin of the Asia Institute]] - `references` [EXTRACTED]
 - [[Kushan and Sogdian Anthropomorphization of Iranian Deities]] - `contrasts_with` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Iranian_Kingship

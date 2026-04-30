@@ -15,6 +15,6 @@ tags:
 - [[Achaemenid human rights charters (Darius Ganj-Nameh and Cyrus Cylinder)]] - `rationale_for` [EXTRACTED]
 - [[Contribution of Persia to World Civilization (central argument)]] - `rationale_for` [INFERRED]
 - [[Cyrus the Great of Persia]] - `conceptually_related_to` [EXTRACTED]
-- [[Decorative blue oval graphicDecorative blue oval graphicContribution of Persia To World Civilization_1]] - `references` [EXTRACTED]
+- [[Decorative blue oval graphicDecorative blue oval graphicContribution of Persia To World Civilization]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Mithraic_Studies

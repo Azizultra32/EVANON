@@ -15,7 +15,7 @@ tags:
 - [[Ahura-Mazda]] - `conceptually_related_to` [EXTRACTED]
 - [[Apam Napāt]] - `conceptually_related_to` [EXTRACTED]
 - [[Khvarenah]] - `conceptually_related_to` [EXTRACTED]
-- [[MITHRAIC SOCIETIES FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY_2]] - `references` [EXTRACTED]
+- [[MITHRAIC SOCIETIES FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY]] - `references` [EXTRACTED]
 - [[Mithra (Lord of Covenants)]] - `conceptually_related_to` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Mithraic_Studies

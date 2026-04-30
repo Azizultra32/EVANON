@@ -15,6 +15,6 @@ tags:
 - [[Angra Mainyu  Destructive Force as External Evil]] - `references` [EXTRACTED]
 - [[Astvatereta, the Victorious Saōšyant  Perfector]] - `references` [EXTRACTED]
 - [[Final Resurrection, Universal Judgement, and Molten-Metal Purification]] - `references` [EXTRACTED]
-- [[IRANO-JUDAICA VII_2]] - `references` [EXTRACTED]
+- [[IRANO-JUDAICA VII]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Avestan_Texts

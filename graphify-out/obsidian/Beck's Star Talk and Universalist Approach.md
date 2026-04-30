@@ -13,6 +13,6 @@ tags:
 
 ## Connections
 - [[Argument Mithraic Societies as Oath Brotherhoods Compatible with Other Religions, Not Mithra-Worshippers]] - `references` [EXTRACTED]
-- [[MITHRAIC SOCIETIES FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY_2]] - `references` [EXTRACTED]
+- [[MITHRAIC SOCIETIES FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Mithraic_Studies

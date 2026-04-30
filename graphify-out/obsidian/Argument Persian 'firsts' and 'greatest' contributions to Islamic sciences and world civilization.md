@@ -20,7 +20,7 @@ tags:
 - [[Contribution of Persia to the World Civilization_1]] - `conceptually_related_to` [EXTRACTED]
 - [[Nasir al-Din Tusi and the Maragheh Observatory]] - `rationale_for` [EXTRACTED]
 - [[Persian as second language of Islamic propagation; Namaz, Ruzah, Ustad terms]] - `rationale_for` [EXTRACTED]
-- [[QawwaliBarzanji as Persian-Origin Sufi Chanting]] - `rationale_for` [EXTRACTED]
+- [[Qawwali  Barzanji as Persian-origin Sufi chanting]] - `rationale_for` [EXTRACTED]
 - [[Seyyid Jamal ad-Din Asadabadi  al-Afghani and Back-to-Islam revivalism]] - `rationale_for` [EXTRACTED]
 - [[Sibawayh of Shiraz and Persian Arabic-language scholarship]] - `rationale_for` [EXTRACTED]
 

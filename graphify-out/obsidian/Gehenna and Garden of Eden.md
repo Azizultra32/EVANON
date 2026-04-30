@@ -12,7 +12,7 @@ tags:
 # Gehenna and Garden of Eden
 
 ## Connections
-- [[IRANO-JUDAICA VII_2]] - `references` [EXTRACTED]
+- [[IRANO-JUDAICA VII]] - `references` [EXTRACTED]
 - [[Two Judgements Model Immediate Afterlife vs Bodily Resurrection]] - `conceptually_related_to` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Avestan_Texts

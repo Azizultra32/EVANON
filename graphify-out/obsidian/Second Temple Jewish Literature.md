@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[Claim Israelites Assimilated Zarathustrian Eschatology]] - `rationale_for` [EXTRACTED]
-- [[IRANO-JUDAICA VII_2]] - `references` [EXTRACTED]
+- [[IRANO-JUDAICA VII]] - `references` [EXTRACTED]
 - [[Jewish Eschatology]] - `conceptually_related_to` [EXTRACTED]
 - [[Rationale Jewish This-worldliness and Deferred Davidic Restoration]] - `conceptually_related_to` [EXTRACTED]
 

@@ -12,7 +12,7 @@ tags:
 # Pasargadae/Pārsa-kadag in Xenophon, Pliny, Curtius, and Herodotus
 
 ## Connections
-- [[Achaemenid History Derailed by AvestologyAssessing La religion des Achéménides confrontation des sources_1]] - `references` [EXTRACTED]
+- [[Achaemenid History Derailed by AvestologyAssessing La religion des Achéménides confrontation des sources]] - `references` [EXTRACTED]
 - [[Magophonia as Antagonism between pārsas and Median magi]] - `cites` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Mithraic_Studies

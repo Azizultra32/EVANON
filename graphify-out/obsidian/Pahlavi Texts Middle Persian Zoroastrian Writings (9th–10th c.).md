@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[Avesta Older and Younger Avestan Zoroastrian Literature]] - `references` [EXTRACTED]
-- [[IRANO-JUDAICA VII_2]] - `references` [EXTRACTED]
+- [[IRANO-JUDAICA VII]] - `references` [EXTRACTED]
 - [[Zoroastrian Eschatology]] - `conceptually_related_to` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Avestan_Texts

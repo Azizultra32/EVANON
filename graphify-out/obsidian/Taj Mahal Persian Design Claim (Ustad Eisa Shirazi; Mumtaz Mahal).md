@@ -12,7 +12,7 @@ tags:
 # Taj Mahal Persian Design Claim (Ustad Eisa Shirazi; Mumtaz Mahal)
 
 ## Connections
-- [[Decorative blue oval graphicDecorative blue oval graphicContribution of Persia To World Civilization_1]] - `references` [EXTRACTED]
+- [[Decorative blue oval graphicDecorative blue oval graphicContribution of Persia To World Civilization]] - `references` [EXTRACTED]
 - [[Persian Architecture and Engineering Transmission]] - `conceptually_related_to` [INFERRED]
 - [[Persian-Origin Civilizational Priority Thesis]] - `rationale_for` [INFERRED]
 

@@ -12,7 +12,7 @@ tags:
 # Grenet 2010, “Iranian Gods in Hindu Garb”
 
 ## Connections
-- [[Bulletin of the Asia Institute_2]] - `references` [EXTRACTED]
+- [[Bulletin of the Asia Institute]] - `references` [EXTRACTED]
 - [[Debated Identification of a Kushan God]] - `cites` [EXTRACTED]
 - [[Gnoli 2009, “Some Notes upon the Religious Significance of the Rabatak Inscription”]] - `contrasts_with` [EXTRACTED]
 

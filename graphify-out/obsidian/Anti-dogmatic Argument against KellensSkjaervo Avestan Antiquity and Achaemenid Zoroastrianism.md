@@ -12,7 +12,7 @@ tags:
 # Anti-dogmatic Argument against Kellens/Skjaervo Avestan Antiquity and Achaemenid Zoroastrianism
 
 ## Connections
-- [[Achaemenid History Derailed by AvestologyAssessing La religion des Achéménides confrontation des sources_1]] - `references` [EXTRACTED]
+- [[Achaemenid History Derailed by AvestologyAssessing La religion des Achéménides confrontation des sources]] - `references` [EXTRACTED]
 - [[Argument Zoroastrian Priestly Manipulation after AlexanderSeleucid Era]] - `rationale_for` [EXTRACTED]
 - [[Gnoli 2000 and the 258 Axiom for a Sixth-Century Zoroaster]] - `cites` [EXTRACTED]
 - [[Henckelman FortificationTreasury Tablet Statistics and Garrison Seal Iconography]] - `cites` [EXTRACTED]

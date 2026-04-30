@@ -14,6 +14,6 @@ tags:
 ## Connections
 - [[Argument Persian 'firsts' and 'greatest' contributions to Islamic sciences and world civilization]] - `rationale_for` [EXTRACTED]
 - [[Contribution of Persia to the World Civilization]] - `references` [EXTRACTED]
-- [[QawwaliBarzanji as Persian-Origin Sufi Chanting]] - `conceptually_related_to` [INFERRED]
+- [[Qawwali  Barzanji as Persian-origin Sufi chanting]] - `conceptually_related_to` [INFERRED]
 
 #graphify/document #graphify/EXTRACTED #community/Mithraic_Studies

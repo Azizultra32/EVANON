@@ -12,7 +12,7 @@ tags:
 # Shared Aryan Roots of Persian and European Languages
 
 ## Connections
-- [[ABSTRACT_2]] - `references` [EXTRACTED]
+- [[ABSTRACT]] - `references` [EXTRACTED]
 - [[Claim 1,000+ AvestanPahlaviPersian Words in English]] - `rationale_for` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Mithraic_Studies

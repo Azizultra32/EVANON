@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[Astvatereta, the Victorious Saōšyant  Perfector]] - `participates_in` [EXTRACTED]
-- [[IRANO-JUDAICA VII_2]] - `references` [EXTRACTED]
+- [[IRANO-JUDAICA VII]] - `references` [EXTRACTED]
 - [[Pre-Exilic Jewish Sheol and This-Worldly Eschatology (Job 77–10; 1 Sam 26)]] - `contrasts_with` [EXTRACTED]
 - [[Shaked 1971 Two Creations Explain Individual and Universal Judgements]] - `conceptually_related_to` [EXTRACTED]
 - [[Zamyād Yašt Yt 19.89–96]] - `references` [EXTRACTED]

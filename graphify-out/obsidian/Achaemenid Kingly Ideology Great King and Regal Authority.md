@@ -12,7 +12,7 @@ tags:
 # Achaemenid Kingly Ideology: Great King and Regal Authority
 
 ## Connections
-- [[Achaemenid History Derailed by AvestologyAssessing La religion des Achéménides confrontation des sources_1]] - `references` [EXTRACTED]
+- [[Achaemenid History Derailed by AvestologyAssessing La religion des Achéménides confrontation des sources]] - `references` [EXTRACTED]
 - [[Claim Zoroaster as Universal Ruler in Avesta and Seal (Yt 542; Yt 1957–60; Y 19.18)]] - `contrasts_with` [EXTRACTED]
 - [[Datames Coinage and Sovereign Khvarenah Claim]] - `contrasts_with` [EXTRACTED]
 - [[Khvarenah  Winged Disk as Regal Symbol (Bivar 1969, p. 116; Soudavar 2010a)]] - `conceptually_related_to` [EXTRACTED]

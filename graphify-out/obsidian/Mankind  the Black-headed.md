@@ -14,6 +14,6 @@ tags:
 ## Connections
 - [[Anunnaki and Igigi]] - `conceptually_related_to` [EXTRACTED]
 - [[Kingu]] - `rationale_for` [EXTRACTED]
-- [[The Babylonian Legends of the Creation_2]] - `references` [EXTRACTED]
+- [[The Babylonian Legends of the Creation]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Ritual_Practice

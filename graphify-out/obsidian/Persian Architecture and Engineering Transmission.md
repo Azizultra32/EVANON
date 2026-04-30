@@ -12,7 +12,7 @@ tags:
 # Persian Architecture and Engineering Transmission
 
 ## Connections
-- [[Decorative blue oval graphicDecorative blue oval graphicContribution of Persia To World Civilization_1]] - `references` [EXTRACTED]
+- [[Decorative blue oval graphicDecorative blue oval graphicContribution of Persia To World Civilization]] - `references` [EXTRACTED]
 - [[Gardeshgari Iran Cited Series]] - `cites` [EXTRACTED]
 - [[Persian-Origin Civilizational Priority Thesis]] - `rationale_for` [INFERRED]
 - [[QanatKareez Underground Water System]] - `conceptually_related_to` [INFERRED]

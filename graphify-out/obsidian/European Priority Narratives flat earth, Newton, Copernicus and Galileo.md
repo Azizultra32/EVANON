@@ -12,7 +12,7 @@ tags:
 # European Priority Narratives: flat earth, Newton, Copernicus and Galileo
 
 ## Connections
-- [[Decorative blue oval graphicDecorative blue oval graphicContribution of Persia To World Civilization_1]] - `references` [EXTRACTED]
+- [[Decorative blue oval graphicDecorative blue oval graphicContribution of Persia To World Civilization]] - `references` [EXTRACTED]
 - [[Persian Islamic Scientific Firsts Claim mathematics, medicine, astronomy, geodesy, biogas, GM rice]] - `contrasts_with` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Mithraic_Studies

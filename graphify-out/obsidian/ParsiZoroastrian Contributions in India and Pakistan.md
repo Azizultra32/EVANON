@@ -12,7 +12,7 @@ tags:
 # Parsi/Zoroastrian Contributions in India and Pakistan
 
 ## Connections
-- [[ABSTRACT_2]] - `references` [EXTRACTED]
+- [[ABSTRACT]] - `references` [EXTRACTED]
 - [[Argument PersianIranian Influence in the Indian Subcontinent]] - `rationale_for` [EXTRACTED]
 - [[Selected Visible References Sotudeh lectures; The Persian LettersIran Quarterly; Village Voice 2002; Nehru Letters 1950; Aljazeera 2010; Deh-Khoda; Maududi]] - `cites` [EXTRACTED]
 - [[Zoroastrian Three Good Principles Humata, Hukhta, Huvarashta]] - `rationale_for` [EXTRACTED]

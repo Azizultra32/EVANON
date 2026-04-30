@@ -15,9 +15,7 @@ tags:
 - [[A History of Persian Literature Volume XVII]] - `references` [EXTRACTED]
 - [[Avestan Literature]] - `references` [EXTRACTED]
 - [[Defeating Death Eschatology in Zoroastrianism, Judaism and Christianity]] - `participates_in` [EXTRACTED]
-- [[Gifts to a Magus]] - `references` [EXTRACTED]
-- [[IRANO-JUDAICA VII_2]] - `references` [EXTRACTED]
-- [[On the Prophetic and Priestly Authority of Zarathustra]] - `participates_in` [EXTRACTED]
+- [[IRANO-JUDAICA VII]] - `references` [EXTRACTED]
 - [[Yasna]] - `references` [EXTRACTED]
 - [[Yasna Haptan-hāiti]] - `references` [EXTRACTED]
 

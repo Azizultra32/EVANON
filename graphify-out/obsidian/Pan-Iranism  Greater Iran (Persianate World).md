@@ -14,8 +14,8 @@ tags:
 ## Connections
 - [[Claim Coming Persian War Targets Persian Civilizational Identity]] - `rationale_for` [EXTRACTED]
 - [[Claim Pro-SaudiPro-Arab Regime Change Strategy for Iran]] - `contrasts_with` [EXTRACTED]
-- [[Iranian United Front  Jebheyé Irângarâyân]] - `conceptually_related_to` [EXTRACTED]
+- [[Iranian United Front (Jebheyé Irângarâyân)]] - `conceptually_related_to` [EXTRACTED]
 - [[Persian Renaissance Foundation]] - `conceptually_related_to` [EXTRACTED]
-- [[The Coming Persian War_2]] - `references` [EXTRACTED]
+- [[The Coming Persian War]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/The_Coming_Persian_War

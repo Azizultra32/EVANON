@@ -12,7 +12,7 @@ tags:
 # Persian Sufi Masters and Persianized Sufi Islam in India
 
 ## Connections
-- [[ABSTRACT_2]] - `references` [EXTRACTED]
+- [[ABSTRACT]] - `references` [EXTRACTED]
 - [[Argument PersianIranian Influence in the Indian Subcontinent]] - `rationale_for` [EXTRACTED]
 - [[PersianUrdu Poetry, Music, and Qawwali]] - `conceptually_related_to` [INFERRED]
 

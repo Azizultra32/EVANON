@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[Imperial Program in the Visual Arts during the Reign of Darius I]] - `rationale_for` [INFERRED]
-- [[MORE THAN MEN, LESS THAN GODS_1]] - `references` [EXTRACTED]
+- [[MORE THAN MEN, LESS THAN GODS]] - `references` [EXTRACTED]
 - [[Persepolis Fortification Archive]] - `participates_in` [EXTRACTED]
 - [[Persepolitan Glyptic]] - `participates_in` [EXTRACTED]
 

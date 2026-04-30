@@ -1,0 +1,297 @@
+{
+  "generated_at": "2026-04-30T21:08:40.371375+00:00",
+  "source_dir": "/Users/ali/GRAPHIFY-zoroastrianism/raw/ocr",
+  "clean_dir": "/Users/ali/GRAPHIFY-zoroastrianism/graphify-input/ocr-markdown-clean",
+  "source_markdown_count": 52,
+  "unique_markdown_count": 32,
+  "duplicate_group_count": 12,
+  "duplicate_files_excluded": 20,
+  "included": [
+    {
+      "path": "raw/ocr/02239118.md",
+      "link": "graphify-input/ocr-markdown-clean/02239118.md",
+      "content_hash": "5da83b2fb6c93165aca1e4c32389229303a55a54b7f57b812c6934f6cbbae9f1",
+      "bytes": 7768
+    },
+    {
+      "path": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "link": "graphify-input/ocr-markdown-clean/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "content_hash": "00af802145ed32ba4acd2d881eb0704c1ddc4c83018463c0f38a2d317f6168ec",
+      "bytes": 380097
+    },
+    {
+      "path": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "link": "graphify-input/ocr-markdown-clean/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "content_hash": "9e1654b310d44912cef4eaf67743782d5b91f1b6eff66d7768638d0c90955cec",
+      "bytes": 85788
+    },
+    {
+      "path": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "link": "graphify-input/ocr-markdown-clean/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "content_hash": "c4067cbf9f0b646d3d74722d14de93102a9de72d70cc85ffd24005bb639cfb70",
+      "bytes": 580497
+    },
+    {
+      "path": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "link": "graphify-input/ocr-markdown-clean/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "content_hash": "74c2f8ddbce18c7b1dc6a462aaa660a29bba964e589d68fa8f0a59579defb396",
+      "bytes": 109963
+    },
+    {
+      "path": "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md",
+      "link": "graphify-input/ocr-markdown-clean/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md",
+      "content_hash": "00170f41aa689e8a9ce422712d16913e90274129fedd697b5b9c977418ef97af",
+      "bytes": 33337
+    },
+    {
+      "path": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "link": "graphify-input/ocr-markdown-clean/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "content_hash": "82277a9adfc17d5b89d10df8b5cf8cb1bbb293541fc84daa52678a7ff02dd2df",
+      "bytes": 163213
+    },
+    {
+      "path": "raw/ocr/502231919-Traces-of-Iran.md",
+      "link": "graphify-input/ocr-markdown-clean/502231919-Traces-of-Iran.md",
+      "content_hash": "eb6f279814d15f77ef497154e5ae5b219ebc790a1a1006b9c073621968bc1a4b",
+      "bytes": 104227
+    },
+    {
+      "path": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "link": "graphify-input/ocr-markdown-clean/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "content_hash": "26801372cd1a335563b1efc0b44d26a85ca454604dc19c7a4ad9e5be5cad4166",
+      "bytes": 152959
+    },
+    {
+      "path": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md",
+      "link": "graphify-input/ocr-markdown-clean/69_On_the_Prophetic_and_Priestly_Authori.md",
+      "content_hash": "57aa7e961161c36d92a9ca01a5346f5dec5cb48c4c0e36572896c09fd8447f41",
+      "bytes": 48302
+    },
+    {
+      "path": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "link": "graphify-input/ocr-markdown-clean/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "content_hash": "4d4a4521889d9ce6f04fcf3200281d71587204ebeb2c2acffaf0495663f45acc",
+      "bytes": 84050
+    },
+    {
+      "path": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "link": "graphify-input/ocr-markdown-clean/A_History_of_Political_Ideas_From_Antiqu.md",
+      "content_hash": "52ca63b2fb2630aa6f2404f641d8cbdf61a600c797f793f94540cf04443f04ec",
+      "bytes": 4660
+    },
+    {
+      "path": "raw/ocr/A_Thousand_Judgements.md",
+      "link": "graphify-input/ocr-markdown-clean/A_Thousand_Judgements.md",
+      "content_hash": "d9abec2a05c4a19458c256899898632e9d2ed001a119922a182e62605ac4a98e",
+      "bytes": 71847
+    },
+    {
+      "path": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "link": "graphify-input/ocr-markdown-clean/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "content_hash": "ab62e2b9e8bd818ce7e89c64835a5ad8577b0edc13b32b6e87822698d228a21e",
+      "bytes": 72321
+    },
+    {
+      "path": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "link": "graphify-input/ocr-markdown-clean/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "content_hash": "bdb4fa4ef77a65bb61283b8a923a6b9c68380d69ffb933be9b1a2cf1698dabba",
+      "bytes": 60210
+    },
+    {
+      "path": "raw/ocr/Academia Summary \u2014 Aura of Kings; Legitimacy and Divine Sanction in Iranian Kingship .md",
+      "link": "graphify-input/ocr-markdown-clean/Academia Summary \u2014 Aura of Kings; Legitimacy and Divine Sanction in Iranian Kingship .md",
+      "content_hash": "bdf69e7aa6a88b3a824c3ec0fe995bda990d6abc4dec1d112e8c66b7c916fad7",
+      "bytes": 6616
+    },
+    {
+      "path": "raw/ocr/Academia Summary \u2014 MITHRAIC SOCIETIES: FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY .md",
+      "link": "graphify-input/ocr-markdown-clean/Academia Summary \u2014 MITHRAIC SOCIETIES: FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY .md",
+      "content_hash": "78af7eaca2066f31c265897bba5050e40ee836fa82a38feb8d21778a7fa9fa68",
+      "bytes": 6301
+    },
+    {
+      "path": "raw/ocr/Academia Summary \u2014 Reconsidering the Concept of Revolutionary Monotheism Beate Pongratz-Leisten Winona Lake, Indiana EisEnbrauns 2011 Offprint frOm.md",
+      "link": "graphify-input/ocr-markdown-clean/Academia Summary \u2014 Reconsidering the Concept of Revolutionary Monotheism Beate Pongratz-Leisten Winona Lake, Indiana EisEnbrauns 2011 Offprint frOm.md",
+      "content_hash": "afb16a163a88fbf14c51e32c33da631d6b9a189285db9ad383720a81b48b9884",
+      "bytes": 6781
+    },
+    {
+      "path": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "link": "graphify-input/ocr-markdown-clean/Achaemenid_History_Derailed_by_Avestolog.md",
+      "content_hash": "2d4c32ad2642913e6df390759e786fd1464b93b1ed6daa2d8c7ba41f45deea2d",
+      "bytes": 75289
+    },
+    {
+      "path": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "link": "graphify-input/ocr-markdown-clean/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "content_hash": "271a3b4ddf8f831dd926b2bb44b83640246ca11890936f9d10c96190ff6ae105",
+      "bytes": 32717
+    },
+    {
+      "path": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "link": "graphify-input/ocr-markdown-clean/Ancient_Iran_Cosmology_Mythology_History.md",
+      "content_hash": "288570676b0a5a956d08a597146c7f08d0930eab1c172b4754dcbbfe73abb585",
+      "bytes": 31651
+    },
+    {
+      "path": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "link": "graphify-input/ocr-markdown-clean/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "content_hash": "ae8de12ac0dd404c13487d6710fa94b19dffef1009b677391a06c583715ae703",
+      "bytes": 69700
+    },
+    {
+      "path": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "link": "graphify-input/ocr-markdown-clean/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "content_hash": "2cbb4a03aa0229554627ef27c5197beb0c2ed3d9575ceef02d48d5b09f033d44",
+      "bytes": 91718
+    },
+    {
+      "path": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "link": "graphify-input/ocr-markdown-clean/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "content_hash": "4ab112e932dc37daa66a4bfdd9b12aa48803220e34199985f2c63b5d4faf4180",
+      "bytes": 81330
+    },
+    {
+      "path": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "link": "graphify-input/ocr-markdown-clean/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "content_hash": "006f7a2a3e21493303ad9954abc332e7834b0b64b23a29728b84a1f33e79b625",
+      "bytes": 637312
+    },
+    {
+      "path": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "link": "graphify-input/ocr-markdown-clean/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "content_hash": "5d576926616c222ea4bb2b232375e96c9f9ceeba8e5948eaa2220d2da3d4d338",
+      "bytes": 166278
+    },
+    {
+      "path": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "link": "graphify-input/ocr-markdown-clean/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "content_hash": "4d26ab8d44f4f6ac429a0065ec1cefba594d530a549e457ec51dfbb16d06df41",
+      "bytes": 375378
+    },
+    {
+      "path": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "link": "graphify-input/ocr-markdown-clean/Between_the_Safavids_and_the_Mughals_Art.md",
+      "content_hash": "43e8924553c23ad4a5cef0de71d07cb99e4d0bfa3809a2060166586d63ed27ca",
+      "bytes": 110355
+    },
+    {
+      "path": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "link": "graphify-input/ocr-markdown-clean/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "content_hash": "5c39097b16be7a06c7e6e11027d0162a9e99e1bea884c64d6d737202098f4b45",
+      "bytes": 138367
+    },
+    {
+      "path": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "link": "graphify-input/ocr-markdown-clean/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "content_hash": "4d861a35881f2d0cadae1b3ca7a7a658d7ae787f4fb678a638ebe38fe99287db",
+      "bytes": 228279
+    },
+    {
+      "path": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "link": "graphify-input/ocr-markdown-clean/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "content_hash": "0f24ee83a03ece9985dc9e18f6dc227bd3d0807ba5a8bc392d7dc1f1dbdc55ee",
+      "bytes": 75343
+    },
+    {
+      "path": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "link": "graphify-input/ocr-markdown-clean/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "content_hash": "c1db9a053e2e05dab815f22fef514949ceca9d9f4cbde3c32d6f868a1fa10928",
+      "bytes": 95862
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "content_hash": "74c2f8ddbce18c7b1dc6a462aaa660a29bba964e589d68fa8f0a59579defb396",
+      "selected": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "excluded": [
+        "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+        "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 3.md"
+      ]
+    },
+    {
+      "content_hash": "00170f41aa689e8a9ce422712d16913e90274129fedd697b5b9c977418ef97af",
+      "selected": "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani.md",
+      "excluded": [
+        "raw/ocr/387906351-Majorityrights-com-The-Coming-Persian-War-Jason-Reza-Jorjani 2.md"
+      ]
+    },
+    {
+      "content_hash": "82277a9adfc17d5b89d10df8b5cf8cb1bbb293541fc84daa52678a7ff02dd2df",
+      "selected": "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc.md",
+      "excluded": [
+        "raw/ocr/471689884-Contribution-of-Persia-to-the-World-Civilization-2019-doc-doc 2.md"
+      ]
+    },
+    {
+      "content_hash": "eb6f279814d15f77ef497154e5ae5b219ebc790a1a1006b9c073621968bc1a4b",
+      "selected": "raw/ocr/502231919-Traces-of-Iran.md",
+      "excluded": [
+        "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+        "raw/ocr/502231919-Traces-of-Iran 2.md"
+      ]
+    },
+    {
+      "content_hash": "57aa7e961161c36d92a9ca01a5346f5dec5cb48c4c0e36572896c09fd8447f41",
+      "selected": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori.md",
+      "excluded": [
+        "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori 2.md",
+        "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md"
+      ]
+    },
+    {
+      "content_hash": "78af7eaca2066f31c265897bba5050e40ee836fa82a38feb8d21778a7fa9fa68",
+      "selected": "raw/ocr/Academia Summary \u2014 MITHRAIC SOCIETIES: FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY .md",
+      "excluded": [
+        "raw/ocr/Academia Summary \u2014 MITHRAIC SOCIETIES: FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY  2.md",
+        "raw/ocr/Academia Summary \u2014 MITHRAIC SOCIETIES: FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY  3.md"
+      ]
+    },
+    {
+      "content_hash": "2d4c32ad2642913e6df390759e786fd1464b93b1ed6daa2d8c7ba41f45deea2d",
+      "selected": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "excluded": [
+        "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md"
+      ]
+    },
+    {
+      "content_hash": "288570676b0a5a956d08a597146c7f08d0930eab1c172b4754dcbbfe73abb585",
+      "selected": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "excluded": [
+        "raw/ocr/Ancient_Iran_Cosmology_Mythology_History 2.md",
+        "raw/ocr/Ancient_Iran_Cosmology_Mythology_History 3.md"
+      ]
+    },
+    {
+      "content_hash": "4ab112e932dc37daa66a4bfdd9b12aa48803220e34199985f2c63b5d4faf4180",
+      "selected": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "excluded": [
+        "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2 2.md",
+        "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is 2.md"
+      ]
+    },
+    {
+      "content_hash": "4d26ab8d44f4f6ac429a0065ec1cefba594d530a549e457ec51dfbb16d06df41",
+      "selected": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "excluded": [
+        "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+        "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc copy 2.md",
+        "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc copy.md"
+      ]
+    },
+    {
+      "content_hash": "5c39097b16be7a06c7e6e11027d0162a9e99e1bea884c64d6d737202098f4b45",
+      "selected": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "excluded": [
+        "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2 2--a3638dff.md"
+      ]
+    },
+    {
+      "content_hash": "4d861a35881f2d0cadae1b3ca7a7a658d7ae787f4fb678a638ebe38fe99287db",
+      "selected": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "excluded": [
+        "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md"
+      ]
+    }
+  ]
+}

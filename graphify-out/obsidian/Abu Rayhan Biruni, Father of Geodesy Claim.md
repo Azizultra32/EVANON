@@ -12,7 +12,7 @@ tags:
 # Abu Rayhan Biruni, Father of Geodesy Claim
 
 ## Connections
-- [[Decorative blue oval graphicDecorative blue oval graphicContribution of Persia To World Civilization_1]] - `references` [EXTRACTED]
+- [[Decorative blue oval graphicDecorative blue oval graphicContribution of Persia To World Civilization]] - `references` [EXTRACTED]
 - [[Persian Islamic Scientific Firsts Claim mathematics, medicine, astronomy, geodesy, biogas, GM rice]] - `participates_in` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Mithraic_Studies

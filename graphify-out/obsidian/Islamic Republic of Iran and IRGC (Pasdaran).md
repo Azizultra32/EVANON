@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[IranianPersian Civilizational Identity]] - `contrasts_with` [EXTRACTED]
-- [[The Coming Persian War_2]] - `references` [EXTRACTED]
+- [[The Coming Persian War]] - `references` [EXTRACTED]
 - [[Trump–Tillerson 2017 Iran Policy Review]] - `references` [EXTRACTED]
 - [[Walid Phares Fox News Remarks and 1991 Persian Gulf War Analogy]] - `references` [EXTRACTED]
 

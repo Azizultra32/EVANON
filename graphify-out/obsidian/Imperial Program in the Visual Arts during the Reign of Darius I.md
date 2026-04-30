@@ -14,7 +14,7 @@ tags:
 ## Connections
 - [[By the Favor of Auramazdā Kingship and the Divine in the Early Achaemenid Period]] - `references` [EXTRACTED]
 - [[Darius I]] - `references` [EXTRACTED]
-- [[MORE THAN MEN, LESS THAN GODS_1]] - `references` [EXTRACTED]
+- [[MORE THAN MEN, LESS THAN GODS]] - `references` [EXTRACTED]
 - [[PFS 75 Lunar Libation Scene with Crescent and Pedestal Altar]] - `rationale_for` [INFERRED]
 - [[Persepolis Apadana and Palace of Darius Stairway Façades]] - `rationale_for` [INFERRED]
 

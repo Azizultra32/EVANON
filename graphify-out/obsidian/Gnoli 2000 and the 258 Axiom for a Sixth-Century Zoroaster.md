@@ -12,7 +12,7 @@ tags:
 # Gnoli 2000 and the 258 Axiom for a Sixth-Century Zoroaster
 
 ## Connections
-- [[Achaemenid History Derailed by AvestologyAssessing La religion des Achéménides confrontation des sources_1]] - `references` [EXTRACTED]
+- [[Achaemenid History Derailed by AvestologyAssessing La religion des Achéménides confrontation des sources]] - `references` [EXTRACTED]
 - [[Anti-dogmatic Argument against KellensSkjaervo Avestan Antiquity and Achaemenid Zoroastrianism]] - `cites` [EXTRACTED]
 - [[Argument Zoroastrian Priestly Manipulation after AlexanderSeleucid Era]] - `rationale_for` [EXTRACTED]
 

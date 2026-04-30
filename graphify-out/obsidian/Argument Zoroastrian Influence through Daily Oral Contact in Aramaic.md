@@ -12,7 +12,7 @@ tags:
 # Argument: Zoroastrian Influence through Daily Oral Contact in Aramaic
 
 ## Connections
-- [[IRANO-JUDAICA VII_2]] - `references` [EXTRACTED]
+- [[IRANO-JUDAICA VII]] - `references` [EXTRACTED]
 - [[Meme-Complex Criterion for Zoroastrian Influence (Dawkins 1989; Stausberg 2007)]] - `rationale_for` [EXTRACTED]
 - [[Smith 19631990 and Barr 1985 Persian Propagandist or Special Study Model]] - `contrasts_with` [EXTRACTED]
 - [[Sudre and Kusti as Daily Reminder of Good Thoughts, Words, and Deeds]] - `rationale_for` [INFERRED]

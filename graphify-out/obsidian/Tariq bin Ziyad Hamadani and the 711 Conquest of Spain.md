@@ -12,7 +12,7 @@ tags:
 # Tariq bin Ziyad Hamadani and the 711 Conquest of Spain
 
 ## Connections
-- [[ABSTRACT_2]] - `references` [EXTRACTED]
+- [[ABSTRACT]] - `references` [EXTRACTED]
 - [[Persian-Islamic Cultural Influence in Moorish Spain]] - `participates_in` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Mithraic_Studies

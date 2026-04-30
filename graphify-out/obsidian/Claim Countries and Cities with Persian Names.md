@@ -12,7 +12,7 @@ tags:
 # Claim: Countries and Cities with Persian Names
 
 ## Connections
-- [[ABSTRACT_2]] - `references` [EXTRACTED]
+- [[ABSTRACT]] - `references` [EXTRACTED]
 - [[Claim 1,000+ AvestanPahlaviPersian Words in English]] - `conceptually_related_to` [INFERRED]
 - [[M.S. Tajar Online Research on Persian Words and World Civilization]] - `cites` [EXTRACTED]
 - [[Persian Empire Conquests and Satrapies as Naming Rationale]] - `rationale_for` [EXTRACTED]

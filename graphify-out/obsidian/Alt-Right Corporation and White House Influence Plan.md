@@ -13,6 +13,6 @@ tags:
 
 ## Connections
 - [[Michael BagleyJellyfish Backchannel]] - `conceptually_related_to` [EXTRACTED]
-- [[The Coming Persian War_2]] - `references` [EXTRACTED]
+- [[The Coming Persian War]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/The_Coming_Persian_War

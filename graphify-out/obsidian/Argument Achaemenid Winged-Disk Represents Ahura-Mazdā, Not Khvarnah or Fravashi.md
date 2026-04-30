@@ -12,7 +12,7 @@ tags:
 # Argument: Achaemenid Winged-Disk Represents Ahura-Mazdā, Not Khvarnah or Fravashi
 
 ## Connections
-- [[THE AURA OF KINGS_4]] - `references` [EXTRACTED]
+- [[THE AURA OF KINGS]] - `references` [EXTRACTED]
 - [[Ahura Mazdā]] - `rationale_for` [EXTRACTED]
 - [[Bisotun Bearded Man within Winged-Disk Symbol]] - `rationale_for` [EXTRACTED]
 - [[Khvarnah  Farr (Divine Glory)]] - `contrasts_with` [EXTRACTED]

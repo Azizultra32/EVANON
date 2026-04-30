@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[Contribution of Persia to World Civilization]] - `references` [EXTRACTED]
-- [[Decorative blue oval graphicDecorative blue oval graphicContribution of Persia To World Civilization_1]] - `references` [EXTRACTED]
+- [[Decorative blue oval graphicDecorative blue oval graphicContribution of Persia To World Civilization]] - `references` [EXTRACTED]
 - [[Irano-European Language and Iranian Plateau Migration Thesis]] - `rationale_for` [INFERRED]
 - [[MithraismMitra Persian Sun-God Worship]] - `rationale_for` [INFERRED]
 - [[Noruz, Sizdeh Bedar, and King Jamshid Tradition]] - `rationale_for` [INFERRED]

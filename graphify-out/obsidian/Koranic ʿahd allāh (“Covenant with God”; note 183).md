@@ -12,7 +12,7 @@ tags:
 # Koranic ʿahd allāh (“Covenant with God”; note 183)
 
 ## Connections
-- [[MITHRAIC SOCIETIES FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY_2]] - `references` [EXTRACTED]
+- [[MITHRAIC SOCIETIES FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY]] - `references` [EXTRACTED]
 - [[Mithra (Lord of Covenants)]] - `conceptually_related_to` [EXTRACTED]
 - [[Mithraic Initiation Oath, Hierarchy, and Symbols]] - `rationale_for` [EXTRACTED]
 

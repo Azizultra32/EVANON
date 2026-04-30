@@ -12,7 +12,7 @@ tags:
 # Thesis: Iranian Civilization as a Global Source of Cultural Influence
 
 ## Connections
-- [[ABSTRACT_2]] - `references` [EXTRACTED]
+- [[ABSTRACT]] - `references` [EXTRACTED]
 - [[An ShigaoAshkani Prince Introducing Buddhism to China]] - `rationale_for` [INFERRED]
 - [[AvestanPersian Words in English and European Languages]] - `rationale_for` [INFERRED]
 - [[Cyrus the Great as Jewish SaviorMessiah Claim]] - `rationale_for` [INFERRED]
