@@ -1,0 +1,364 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_502231919_traces_of_iran_md",
+      "label": "ABSTRACT:",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_iranian_culture",
+      "label": "Iranian Culture",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_indian_subcontinent",
+      "label": "Indian Subcontinent",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zoroastrianism",
+      "label": "Zoroastrianism",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_sanskrit",
+      "label": "Sanskrit",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_urdu_language",
+      "label": "Urdu Language",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_sufi_islam",
+      "label": "Sufi Islam",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_persian_poetry",
+      "label": "Persian Poetry",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_taj_mahal",
+      "label": "Taj Mahal",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_mahmood_ghaznavi",
+      "label": "Mahmood Ghaznavi",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_nadir_shah",
+      "label": "Nadir Shah",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_iranian_revolution",
+      "label": "Iranian Revolution",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_md",
+      "target": "llm_indian_subcontinent",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_md",
+      "target": "llm_iranian_culture",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_md",
+      "target": "llm_iranian_revolution",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_md",
+      "target": "llm_mahmood_ghaznavi",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_md",
+      "target": "llm_nadir_shah",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_md",
+      "target": "llm_persian_poetry",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_md",
+      "target": "llm_sanskrit",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_md",
+      "target": "llm_sufi_islam",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_md",
+      "target": "llm_taj_mahal",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_md",
+      "target": "llm_urdu_language",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_md",
+      "target": "llm_zoroastrianism",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_iranian_culture",
+      "target": "llm_indian_subcontinent",
+      "relation": "influences",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zoroastrianism",
+      "target": "llm_indian_subcontinent",
+      "relation": "influences",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_sanskrit",
+      "target": "llm_indian_subcontinent",
+      "relation": "influences",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_urdu_language",
+      "target": "llm_indian_subcontinent",
+      "relation": "developed_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_sufi_islam",
+      "target": "llm_indian_subcontinent",
+      "relation": "influences",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_persian_poetry",
+      "target": "llm_indian_subcontinent",
+      "relation": "influences",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_taj_mahal",
+      "target": "llm_iranian_culture",
+      "relation": "represents",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_mahmood_ghaznavi",
+      "target": "llm_indian_subcontinent",
+      "relation": "invaded",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_nadir_shah",
+      "target": "llm_indian_subcontinent",
+      "relation": "invaded",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_iranian_revolution",
+      "target": "llm_indian_subcontinent",
+      "relation": "influences",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "usage": {
+    "prompt_tokens": 6254,
+    "completion_tokens": 1952,
+    "total_tokens": 8206,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "label": "ABSTRACT:",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_persian_words_in_english",
+      "label": "Persian Words in English",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_countries_with_persian_names",
+      "label": "Countries with Persian Names",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_cities_with_persian_names",
+      "label": "Cities with Persian Names",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_avestan_words_in_quran",
+      "label": "Avestan Words in Quran",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_iranian_scholars",
+      "label": "Iranian Scholars",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "target": "llm_avestan_words_in_quran",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "target": "llm_cities_with_persian_names",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "target": "llm_countries_with_persian_names",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "target": "llm_iranian_scholars",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "target": "llm_persian_words_in_english",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_persian_words_in_english",
+      "target": "llm_countries_with_persian_names",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_countries_with_persian_names",
+      "target": "llm_cities_with_persian_names",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_avestan_words_in_quran",
+      "target": "llm_iranian_scholars",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_persian_influence",
+      "label": "Persian Influence",
+      "nodes": [
+        "llm_cities_with_persian_names",
+        "llm_countries_with_persian_names",
+        "llm_persian_words_in_english"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran 2 2.md"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 8653,
+    "completion_tokens": 926,
+    "total_tokens": 9579,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

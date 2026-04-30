@@ -1,0 +1,395 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_50263688_contribution_of_persia_to_the_world_civilization_doc_xp_md",
+      "label": "Contribution of Persia to the World Civilization",
+      "file_type": "document",
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_contribution_of_persia_to_world_civilization",
+      "label": "Contribution of Persia to World Civilization",
+      "file_type": "document",
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_tehran",
+      "label": "Tehran",
+      "file_type": "document",
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_cyrus_the_great",
+      "label": "Cyrus the Great",
+      "file_type": "document",
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_king_jamshid",
+      "label": "King Jamshid",
+      "file_type": "document",
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_queen_noor_jahan",
+      "label": "Queen Noor Jahan",
+      "file_type": "document",
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_sumerians",
+      "label": "Sumerians",
+      "file_type": "document",
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_egyptians",
+      "label": "Egyptians",
+      "file_type": "document",
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_parthian_shots",
+      "label": "Parthian Shots",
+      "file_type": "document",
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_persian_architecture",
+      "label": "Persian Architecture",
+      "file_type": "document",
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_persian_carpet",
+      "label": "Persian Carpet",
+      "file_type": "document",
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_qanat",
+      "label": "Qanat",
+      "file_type": "document",
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_taj_mahal",
+      "label": "Taj Mahal",
+      "file_type": "document",
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_50263688_contribution_of_persia_to_the_world_civilization_doc_xp_md",
+      "target": "llm_contribution_of_persia_to_world_civilization",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_50263688_contribution_of_persia_to_the_world_civilization_doc_xp_md",
+      "target": "llm_cyrus_the_great",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_50263688_contribution_of_persia_to_the_world_civilization_doc_xp_md",
+      "target": "llm_egyptians",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_50263688_contribution_of_persia_to_the_world_civilization_doc_xp_md",
+      "target": "llm_king_jamshid",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_50263688_contribution_of_persia_to_the_world_civilization_doc_xp_md",
+      "target": "llm_parthian_shots",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_50263688_contribution_of_persia_to_the_world_civilization_doc_xp_md",
+      "target": "llm_persian_architecture",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_50263688_contribution_of_persia_to_the_world_civilization_doc_xp_md",
+      "target": "llm_persian_carpet",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_50263688_contribution_of_persia_to_the_world_civilization_doc_xp_md",
+      "target": "llm_qanat",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_50263688_contribution_of_persia_to_the_world_civilization_doc_xp_md",
+      "target": "llm_queen_noor_jahan",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_50263688_contribution_of_persia_to_the_world_civilization_doc_xp_md",
+      "target": "llm_sumerians",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_50263688_contribution_of_persia_to_the_world_civilization_doc_xp_md",
+      "target": "llm_taj_mahal",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_50263688_contribution_of_persia_to_the_world_civilization_doc_xp_md",
+      "target": "llm_tehran",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_contribution_of_persia_to_world_civilization",
+      "target": "llm_tehran",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_contribution_of_persia_to_world_civilization",
+      "target": "llm_cyrus_the_great",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_contribution_of_persia_to_world_civilization",
+      "target": "llm_king_jamshid",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_contribution_of_persia_to_world_civilization",
+      "target": "llm_queen_noor_jahan",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_contribution_of_persia_to_world_civilization",
+      "target": "llm_sumerians",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_contribution_of_persia_to_world_civilization",
+      "target": "llm_egyptians",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_contribution_of_persia_to_world_civilization",
+      "target": "llm_parthian_shots",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_contribution_of_persia_to_world_civilization",
+      "target": "llm_persian_architecture",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_contribution_of_persia_to_world_civilization",
+      "target": "llm_persian_carpet",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_contribution_of_persia_to_world_civilization",
+      "target": "llm_qanat",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_contribution_of_persia_to_world_civilization",
+      "target": "llm_taj_mahal",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/50263688-Contribution-of-Persia-to-the-World-Civilization-doc-XP.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "usage": {
+    "prompt_tokens": 6406,
+    "completion_tokens": 2384,
+    "total_tokens": 8790,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

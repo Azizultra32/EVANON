@@ -1,0 +1,358 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "label": "--- Monotheism the Zoroastrian Way",
+      "file_type": "document",
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ahura_mazd",
+      "label": "Ahura Mazd\u0101",
+      "file_type": "document",
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_yazatas",
+      "label": "Yazatas",
+      "file_type": "document",
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_angra_mainyu",
+      "label": "Angra Mainyu",
+      "file_type": "document",
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_material_world",
+      "label": "Material World",
+      "file_type": "document",
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_spiritual_world",
+      "label": "Spiritual World",
+      "file_type": "document",
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_v_d_vd_d",
+      "label": "V\u012bd\u0113vd\u0101d",
+      "file_type": "document",
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_creatio_ex_deo",
+      "label": "Creatio ex Deo",
+      "file_type": "document",
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_monotheism",
+      "label": "Monotheism",
+      "file_type": "document",
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_dualism",
+      "label": "Dualism",
+      "file_type": "document",
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_polytheism",
+      "label": "Polytheism",
+      "file_type": "document",
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zoroastrianism",
+      "label": "Zoroastrianism",
+      "file_type": "document",
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "target": "llm_ahura_mazd",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "target": "llm_angra_mainyu",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "target": "llm_creatio_ex_deo",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "target": "llm_dualism",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "target": "llm_material_world",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "target": "llm_monotheism",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "target": "llm_polytheism",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "target": "llm_spiritual_world",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "target": "llm_v_d_vd_d",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "target": "llm_yazatas",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "target": "llm_zoroastrianism",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_ahura_mazd",
+      "target": "llm_spiritual_world",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_spiritual_world",
+      "target": "llm_material_world",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_material_world",
+      "target": "llm_ahura_mazd",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_yazatas",
+      "target": "llm_ahura_mazd",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_angra_mainyu",
+      "target": "llm_zoroastrianism",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zoroastrianism",
+      "target": "llm_monotheism",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zoroastrianism",
+      "target": "llm_dualism",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zoroastrianism",
+      "target": "llm_polytheism",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_zoroastrian_theological_framework",
+      "label": "Zoroastrian Theological Framework",
+      "nodes": [
+        "llm_dualism",
+        "llm_monotheism",
+        "llm_polytheism"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/ocr/2014_Monotheism_the_Zoroastrian_Way_Jour.md"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 7464,
+    "completion_tokens": 2082,
+    "total_tokens": 9546,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "label": "Encounters by the Rivers of Babylon",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_encounters_by_the_rivers_of_babylon",
+      "label": "Encounters by the Rivers of Babylon",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Uri Gabbay, Shai Secunda",
+      "contributor": null
+    },
+    {
+      "id": "llm_abar_r_dest_n_bab_l",
+      "label": "Abar R\u014ddest\u0101n \u012b Bab\u0113l",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zoroastrian_tradition",
+      "label": "Zoroastrian Tradition",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_pahlavi_psalter",
+      "label": "Pahlavi Psalter",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_xinjiang",
+      "label": "Xinjiang",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_jews_in_xinjiang",
+      "label": "Jews in Xinjiang",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_iranian_speaking_kingdom_of_khotan",
+      "label": "Iranian-speaking Kingdom of Khotan",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_sasanian_legal_system",
+      "label": "Sasanian Legal System",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_avesta",
+      "label": "Avesta",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "target": "llm_abar_r_dest_n_bab_l",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "target": "llm_avesta",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "target": "llm_encounters_by_the_rivers_of_babylon",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "target": "llm_iranian_speaking_kingdom_of_khotan",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "target": "llm_jews_in_xinjiang",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "target": "llm_pahlavi_psalter",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "target": "llm_sasanian_legal_system",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "target": "llm_xinjiang",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "target": "llm_zoroastrian_tradition",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_encounters_by_the_rivers_of_babylon",
+      "target": "llm_abar_r_dest_n_bab_l",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_abar_r_dest_n_bab_l",
+      "target": "llm_zoroastrian_tradition",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_pahlavi_psalter",
+      "target": "llm_zoroastrian_tradition",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_xinjiang",
+      "target": "llm_jews_in_xinjiang",
+      "relation": "participates_in",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_iranian_speaking_kingdom_of_khotan",
+      "target": "llm_jews_in_xinjiang",
+      "relation": "participates_in",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_sasanian_legal_system",
+      "target": "llm_zoroastrian_tradition",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_avesta",
+      "target": "llm_zoroastrian_tradition",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "usage": {
+    "prompt_tokens": 5930,
+    "completion_tokens": 1671,
+    "total_tokens": 7601,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

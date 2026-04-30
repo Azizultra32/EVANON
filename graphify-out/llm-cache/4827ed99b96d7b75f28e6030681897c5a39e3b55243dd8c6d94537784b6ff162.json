@@ -1,0 +1,240 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_02239118_md",
+      "label": "02239118",
+      "file_type": "document",
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_bas_relief_of_mithras",
+      "label": "Bas-relief of Mithras",
+      "file_type": "document",
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Rev. Dr. Stukely",
+      "contributor": "Mr. Francis Drake"
+    },
+    {
+      "id": "llm_york",
+      "label": "York",
+      "file_type": "document",
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_mithras",
+      "label": "Mithras",
+      "file_type": "document",
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_spring_equinox",
+      "label": "Spring Equinox",
+      "file_type": "document",
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_patriarchal_religion",
+      "label": "Patriarchal Religion",
+      "file_type": "document",
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_christianity",
+      "label": "Christianity",
+      "file_type": "document",
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_tertullian",
+      "label": "Tertullian",
+      "file_type": "document",
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_02239118_md",
+      "target": "llm_bas_relief_of_mithras",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_02239118_md",
+      "target": "llm_christianity",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_02239118_md",
+      "target": "llm_mithras",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_02239118_md",
+      "target": "llm_patriarchal_religion",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_02239118_md",
+      "target": "llm_spring_equinox",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_02239118_md",
+      "target": "llm_tertullian",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_02239118_md",
+      "target": "llm_york",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_bas_relief_of_mithras",
+      "target": "llm_mithras",
+      "relation": "represents",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_mithras",
+      "target": "llm_spring_equinox",
+      "relation": "associated_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_mithras",
+      "target": "llm_patriarchal_religion",
+      "relation": "is_a",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_patriarchal_religion",
+      "target": "llm_christianity",
+      "relation": "precedes",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_tertullian",
+      "target": "llm_mithras",
+      "relation": "discusses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_york",
+      "target": "llm_bas_relief_of_mithras",
+      "relation": "found_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "usage": {
+    "prompt_tokens": 2555,
+    "completion_tokens": 1159,
+    "total_tokens": 3714,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

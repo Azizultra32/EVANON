@@ -1,0 +1,460 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_02239118_md",
+      "label": "02239118",
+      "file_type": "document",
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_account_of_a_bas_relief_of_mithras_found_at_york",
+      "label": "Account of a Bas-relief of Mithras Found at York",
+      "file_type": "document",
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": "William Stukeley",
+      "contributor": "Francis Drake"
+    },
+    {
+      "id": "llm_rev_dr_william_stukeley_f_r_s",
+      "label": "Rev. Dr. William Stukeley, F.R.S.",
+      "file_type": "document",
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_york_micklegate_bas_relief_of_mithras_dug_up_1747",
+      "label": "York/Micklegate Bas-relief of Mithras (dug up 1747)",
+      "file_type": "document",
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_mithras",
+      "label": "Mithras",
+      "file_type": "document",
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_mithriac_ceremonies_and_mysteries",
+      "label": "Mithriac Ceremonies and Mysteries",
+      "file_type": "document",
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_solar_and_zodiacal_symbolism_of_mithras_reliefs",
+      "label": "Solar and Zodiacal Symbolism of Mithras Reliefs",
+      "file_type": "document",
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_argument_patriarchal_religion_as_christianity_antedated",
+      "label": "Argument: Patriarchal Religion as Christianity Antedated",
+      "file_type": "document",
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_tertullian_c_40_on_mithriac_baptism_forehead_cross_and_bread",
+      "label": "Tertullian, c. 40 on Mithriac Baptism, Forehead Cross, and Bread",
+      "file_type": "document",
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_st_jerome_epistle_to_laeta_gracchus_destroys_the_cave_of_mithras",
+      "label": "St. Jerome, Epistle to Laeta: Gracchus Destroys the Cave of Mithras",
+      "file_type": "document",
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_inference_roman_prefect_of_york_demolished_a_subterranean_mithras_temple_in_micklegate",
+      "label": "Inference: Roman Prefect of York Demolished a Subterranean Mithras Temple in Micklegate",
+      "file_type": "document",
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_james_mounsey_letter_to_henry_baker_riga_1749",
+      "label": "James Mounsey Letter to Henry Baker (Riga, 1749)",
+      "file_type": "document",
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": "James Mounsey",
+      "contributor": "Henry Baker"
+    },
+    {
+      "id": "llm_russia_castor_carlsbad_baths_and_cracau_salt_mines",
+      "label": "Russia Castor, Carlsbad Baths, and Cracau Salt-mines",
+      "file_type": "document",
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_02239118_md",
+      "target": "llm_account_of_a_bas_relief_of_mithras_found_at_york",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_02239118_md",
+      "target": "llm_argument_patriarchal_religion_as_christianity_antedated",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_02239118_md",
+      "target": "llm_inference_roman_prefect_of_york_demolished_a_subterranean_mithras_temple_in_micklegate",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_02239118_md",
+      "target": "llm_james_mounsey_letter_to_henry_baker_riga_1749",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_02239118_md",
+      "target": "llm_mithras",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_02239118_md",
+      "target": "llm_mithriac_ceremonies_and_mysteries",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_02239118_md",
+      "target": "llm_rev_dr_william_stukeley_f_r_s",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_02239118_md",
+      "target": "llm_russia_castor_carlsbad_baths_and_cracau_salt_mines",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_02239118_md",
+      "target": "llm_solar_and_zodiacal_symbolism_of_mithras_reliefs",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_02239118_md",
+      "target": "llm_st_jerome_epistle_to_laeta_gracchus_destroys_the_cave_of_mithras",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_02239118_md",
+      "target": "llm_tertullian_c_40_on_mithriac_baptism_forehead_cross_and_bread",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_02239118_md",
+      "target": "llm_york_micklegate_bas_relief_of_mithras_dug_up_1747",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_rev_dr_william_stukeley_f_r_s",
+      "target": "llm_account_of_a_bas_relief_of_mithras_found_at_york",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_account_of_a_bas_relief_of_mithras_found_at_york",
+      "target": "llm_york_micklegate_bas_relief_of_mithras_dug_up_1747",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_account_of_a_bas_relief_of_mithras_found_at_york",
+      "target": "llm_tertullian_c_40_on_mithriac_baptism_forehead_cross_and_bread",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_account_of_a_bas_relief_of_mithras_found_at_york",
+      "target": "llm_st_jerome_epistle_to_laeta_gracchus_destroys_the_cave_of_mithras",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_account_of_a_bas_relief_of_mithras_found_at_york",
+      "target": "llm_inference_roman_prefect_of_york_demolished_a_subterranean_mithras_temple_in_micklegate",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_york_micklegate_bas_relief_of_mithras_dug_up_1747",
+      "target": "llm_mithras",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_york_micklegate_bas_relief_of_mithras_dug_up_1747",
+      "target": "llm_mithriac_ceremonies_and_mysteries",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_mithras",
+      "target": "llm_mithriac_ceremonies_and_mysteries",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_mithriac_ceremonies_and_mysteries",
+      "target": "llm_solar_and_zodiacal_symbolism_of_mithras_reliefs",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.96,
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_solar_and_zodiacal_symbolism_of_mithras_reliefs",
+      "target": "llm_york_micklegate_bas_relief_of_mithras_dug_up_1747",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_mithriac_ceremonies_and_mysteries",
+      "target": "llm_argument_patriarchal_religion_as_christianity_antedated",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_tertullian_c_40_on_mithriac_baptism_forehead_cross_and_bread",
+      "target": "llm_argument_patriarchal_religion_as_christianity_antedated",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.84,
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "weight": 0.85
+    },
+    {
+      "source": "llm_st_jerome_epistle_to_laeta_gracchus_destroys_the_cave_of_mithras",
+      "target": "llm_inference_roman_prefect_of_york_demolished_a_subterranean_mithras_temple_in_micklegate",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.72,
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "weight": 0.75
+    },
+    {
+      "source": "llm_inference_roman_prefect_of_york_demolished_a_subterranean_mithras_temple_in_micklegate",
+      "target": "llm_york_micklegate_bas_relief_of_mithras_dug_up_1747",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "weight": 0.7
+    },
+    {
+      "source": "llm_james_mounsey_letter_to_henry_baker_riga_1749",
+      "target": "llm_russia_castor_carlsbad_baths_and_cracau_salt_mines",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/02239118.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_stukeley_s_mithraic_solar_interpretation_of_the_york_relief",
+      "label": "Stukeley's Mithraic-Solar Interpretation of the York Relief",
+      "nodes": [
+        "llm_mithras",
+        "llm_mithriac_ceremonies_and_mysteries",
+        "llm_solar_and_zodiacal_symbolism_of_mithras_reliefs",
+        "llm_york_micklegate_bas_relief_of_mithras_dug_up_1747"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/02239118.md"
+    },
+    {
+      "id": "hyper_patristic_citations_in_stukeley_s_mithraic_argument",
+      "label": "Patristic Citations in Stukeley's Mithraic Argument",
+      "nodes": [
+        "llm_argument_patriarchal_religion_as_christianity_antedated",
+        "llm_inference_roman_prefect_of_york_demolished_a_subterranean_mithras_temple_in_micklegate",
+        "llm_st_jerome_epistle_to_laeta_gracchus_destroys_the_cave_of_mithras",
+        "llm_tertullian_c_40_on_mithriac_baptism_forehead_cross_and_bread"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.78,
+      "source_file": "raw/ocr/02239118.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 2839,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 13092,
+    "output_tokens_details": {
+      "reasoning_tokens": 10876
+    },
+    "total_tokens": 15931
+  }
+}

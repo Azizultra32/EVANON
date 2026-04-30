@@ -1,0 +1,334 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "label": "Encounters by the Rivers of Babylon",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_g_th_s",
+      "label": "G\u0101th\u0101s",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_avesta",
+      "label": "Avesta",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_videvdad",
+      "label": "Videvdad",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ahura_mazd",
+      "label": "Ahura Mazd\u0101",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_kartir",
+      "label": "Kartir",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_sasanian_empire",
+      "label": "Sasanian Empire",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_darius",
+      "label": "Darius",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_xerxes",
+      "label": "Xerxes",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_d_n",
+      "label": "D\u0113n",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_old_persian_zand",
+      "label": "Old Persian Zand",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_pahlavi_videvdad",
+      "label": "Pahlavi Videvdad",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "target": "llm_ahura_mazd",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "target": "llm_avesta",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "target": "llm_d_n",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "target": "llm_darius",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "target": "llm_g_th_s",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "target": "llm_kartir",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "target": "llm_old_persian_zand",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "target": "llm_pahlavi_videvdad",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "target": "llm_sasanian_empire",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "target": "llm_videvdad",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "target": "llm_xerxes",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_g_th_s",
+      "target": "llm_avesta",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_ahura_mazd",
+      "target": "llm_g_th_s",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_kartir",
+      "target": "llm_sasanian_empire",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_darius",
+      "target": "llm_g_th_s",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_xerxes",
+      "target": "llm_g_th_s",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_d_n",
+      "target": "llm_pahlavi_videvdad",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_old_persian_zand",
+      "target": "llm_avesta",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abar_Rodestan_i_Babel_The_Zoroastrian_Tr.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "usage": {
+    "prompt_tokens": 6117,
+    "completion_tokens": 1774,
+    "total_tokens": 7891,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

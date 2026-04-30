@@ -1,0 +1,344 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "label": "\u201cBuilding a New Vision of the Past in the Sasanian Empire: The Sanctuaries of Kay\u0101nsih and the Great Fires of Iran\u201d\\*",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_sasanian_empire",
+      "label": "Sasanian Empire",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_great_fires_of_iran",
+      "label": "Great Fires of Iran",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_dur_gu_nasp",
+      "label": "\u0100dur Gu\u0161nasp",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_dur_farnb_g",
+      "label": "\u0100dur Farnb\u0101g",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_dur_burz_n_mihr",
+      "label": "\u0100dur Burz\u0113n-Mihr",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_bundahi_n",
+      "label": "Bundahi\u0161n",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zoroastrianism",
+      "label": "Zoroastrianism",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_kushan_bactria",
+      "label": "Kushan Bactria",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_yima",
+      "label": "Yima",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_wi_t_sp",
+      "label": "Wi\u0161t\u0101sp",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ahura_mazda",
+      "label": "Ahura Mazda",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_ahura_mazda",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_bundahi_n",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_dur_burz_n_mihr",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_dur_farnb_g",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_dur_gu_nasp",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_great_fires_of_iran",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_kushan_bactria",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_sasanian_empire",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_wi_t_sp",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_yima",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_zoroastrianism",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_sasanian_empire",
+      "target": "llm_great_fires_of_iran",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_great_fires_of_iran",
+      "target": "llm_dur_gu_nasp",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_great_fires_of_iran",
+      "target": "llm_dur_farnb_g",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_great_fires_of_iran",
+      "target": "llm_dur_burz_n_mihr",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_dur_gu_nasp",
+      "target": "llm_bundahi_n",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_dur_farnb_g",
+      "target": "llm_yima",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_dur_burz_n_mihr",
+      "target": "llm_wi_t_sp",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_dur_burz_n_mihr",
+      "target": "llm_ahura_mazda",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "usage": {
+    "prompt_tokens": 5997,
+    "completion_tokens": 1890,
+    "total_tokens": 7887,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

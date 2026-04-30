@@ -1,0 +1,334 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "label": "A Thousand Judgements",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_normative_nonconformity",
+      "label": "Normative Nonconformity",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ibn_qud_ma",
+      "label": "IBN QUD\u0100MA",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_tan_buhl_sin",
+      "label": "Tan\u0101buhl Sin",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_margarz_n_sin",
+      "label": "Margarz\u0101n Sin",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zoroastrian_jurists",
+      "label": "Zoroastrian Jurists",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_islamic_jurists",
+      "label": "Islamic Jurists",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_apostasy",
+      "label": "Apostasy",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_pahlavi_n_rangest_n",
+      "label": "Pahlavi N\u012brangest\u0101n",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ahura_mazda",
+      "label": "Ahura Mazda",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zoroastrianism",
+      "label": "Zoroastrianism",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_babylonian_talmud",
+      "label": "Babylonian Talmud",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_ahura_mazda",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_apostasy",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_babylonian_talmud",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_ibn_qud_ma",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_islamic_jurists",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_margarz_n_sin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_normative_nonconformity",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_pahlavi_n_rangest_n",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_tan_buhl_sin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_zoroastrian_jurists",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_zoroastrianism",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_normative_nonconformity",
+      "target": "llm_apostasy",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_ibn_qud_ma",
+      "target": "llm_apostasy",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_tan_buhl_sin",
+      "target": "llm_margarz_n_sin",
+      "relation": "contrasts_with",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zoroastrian_jurists",
+      "target": "llm_pahlavi_n_rangest_n",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_islamic_jurists",
+      "target": "llm_pahlavi_n_rangest_n",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_ahura_mazda",
+      "target": "llm_zoroastrianism",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_babylonian_talmud",
+      "target": "llm_zoroastrian_jurists",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "usage": {
+    "prompt_tokens": 7621,
+    "completion_tokens": 1697,
+    "total_tokens": 9318,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "label": "\u201cBuilding a New Vision of the Past in the Sasanian Empire: The Sanctuaries of Kay\u0101nsih and the Great Fires of Iran\u201d\\*",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_sasanian_empire",
+      "label": "Sasanian Empire",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_sanctuary_of_kay_nsih",
+      "label": "Sanctuary of Kay\u0101nsih",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_sanctuary_of_dur_gu_nasp",
+      "label": "Sanctuary of \u0100dur Gu\u0161nasp",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_khosrow_i",
+      "label": "Khosrow I",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_avesta",
+      "label": "Avesta",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_royal_power",
+      "label": "Royal Power",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_numismatic_evidence",
+      "label": "Numismatic Evidence",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_pilgrimage_destination",
+      "label": "Pilgrimage Destination",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_royal_architecture",
+      "label": "Royal Architecture",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_sacred_geography",
+      "label": "Sacred Geography",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_cultural_heritage",
+      "label": "Cultural Heritage",
+      "file_type": "document",
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_avesta",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_cultural_heritage",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_khosrow_i",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_numismatic_evidence",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_pilgrimage_destination",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_royal_architecture",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_royal_power",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_sacred_geography",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_sanctuary_of_dur_gu_nasp",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_sanctuary_of_kay_nsih",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "target": "llm_sasanian_empire",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_sasanian_empire",
+      "target": "llm_sanctuary_of_kay_nsih",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_sanctuary_of_kay_nsih",
+      "target": "llm_sanctuary_of_dur_gu_nasp",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_khosrow_i",
+      "target": "llm_sanctuary_of_kay_nsih",
+      "relation": "participates_in",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_avesta",
+      "target": "llm_sacred_geography",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_royal_power",
+      "target": "llm_cultural_heritage",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_numismatic_evidence",
+      "target": "llm_sanctuary_of_kay_nsih",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_pilgrimage_destination",
+      "target": "llm_sanctuary_of_dur_gu_nasp",
+      "relation": "participates_in",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_royal_architecture",
+      "target": "llm_sanctuary_of_kay_nsih",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Canepa_Building_a_New_Vision_of_the_Past.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "usage": {
+    "prompt_tokens": 6923,
+    "completion_tokens": 1891,
+    "total_tokens": 8814,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

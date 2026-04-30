@@ -1,0 +1,312 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_adiqi_beyks_navai_manuscript_md",
+      "label": "\u015eADIQ\u012a BEYK'S NAV\u0100'\u012a MANUSCRIPT",
+      "file_type": "document",
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_d_q_beyk",
+      "label": "\u015e\u0101d\u012bq\u012b Beyk",
+      "file_type": "document",
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_mu_affar_al",
+      "label": "Mu\u1e93affar-`Al\u012b",
+      "file_type": "document",
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_m_rz_al",
+      "label": "M\u012brz\u0101 `Al\u012b",
+      "file_type": "document",
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_am_r_kh_n_mowsill",
+      "label": "Am\u012br Kh\u0101n Mowsill\u016b",
+      "file_type": "document",
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_n_z_m",
+      "label": "N\u012bz\u0101m\u012b",
+      "file_type": "document",
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_qalandar",
+      "label": "Qalandar",
+      "file_type": "document",
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_garsh_sbn_ma",
+      "label": "Garsh\u0101sbn\u0101ma",
+      "file_type": "document",
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_sh_h_tahm_sb",
+      "label": "Sh\u0101h Tahm\u0101sb",
+      "file_type": "document",
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_islamic_art",
+      "label": "Islamic Art",
+      "file_type": "document",
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_adiqi_beyks_navai_manuscript_md",
+      "target": "llm_am_r_kh_n_mowsill",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_adiqi_beyks_navai_manuscript_md",
+      "target": "llm_d_q_beyk",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_adiqi_beyks_navai_manuscript_md",
+      "target": "llm_garsh_sbn_ma",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_adiqi_beyks_navai_manuscript_md",
+      "target": "llm_islamic_art",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_adiqi_beyks_navai_manuscript_md",
+      "target": "llm_m_rz_al",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_adiqi_beyks_navai_manuscript_md",
+      "target": "llm_mu_affar_al",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_adiqi_beyks_navai_manuscript_md",
+      "target": "llm_n_z_m",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_adiqi_beyks_navai_manuscript_md",
+      "target": "llm_qalandar",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_adiqi_beyks_navai_manuscript_md",
+      "target": "llm_sh_h_tahm_sb",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_d_q_beyk",
+      "target": "llm_am_r_kh_n_mowsill",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_d_q_beyk",
+      "target": "llm_mu_affar_al",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_d_q_beyk",
+      "target": "llm_m_rz_al",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_d_q_beyk",
+      "target": "llm_n_z_m",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_d_q_beyk",
+      "target": "llm_qalandar",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_d_q_beyk",
+      "target": "llm_garsh_sbn_ma",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_d_q_beyk",
+      "target": "llm_sh_h_tahm_sb",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_mu_affar_al",
+      "target": "llm_m_rz_al",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_d_q_beyk",
+      "target": "llm_islamic_art",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/ADIQI_BEYKS_NAVAI_MANUSCRIPT.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "usage": {
+    "prompt_tokens": 6547,
+    "completion_tokens": 1770,
+    "total_tokens": 8317,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_a_father_a_daughter_and_a_son_in_law_in_md",
+      "label": "A FATHER, A DAUGHTER, AND A SON-IN-LAW IN ZOROASTRIAN HERMENEUTICS<sup>1</sup>",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zoroastrian_hermeneutics",
+      "label": "Zoroastrian Hermeneutics",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Touraj Daryaee",
+      "contributor": null
+    },
+    {
+      "id": "llm_sasanian_iran",
+      "label": "Sasanian Iran",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_incest_in_zoroastrianism",
+      "label": "Incest in Zoroastrianism",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_d_nkard",
+      "label": "D\u0113nkard",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zoroastrian_family_law",
+      "label": "Zoroastrian Family Law",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_hermeneutics",
+      "label": "Hermeneutics",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_a_father_a_daughter_and_a_son_in_law_in_md",
+      "target": "llm_d_nkard",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_father_a_daughter_and_a_son_in_law_in_md",
+      "target": "llm_hermeneutics",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_father_a_daughter_and_a_son_in_law_in_md",
+      "target": "llm_incest_in_zoroastrianism",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_father_a_daughter_and_a_son_in_law_in_md",
+      "target": "llm_sasanian_iran",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_father_a_daughter_and_a_son_in_law_in_md",
+      "target": "llm_zoroastrian_family_law",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_father_a_daughter_and_a_son_in_law_in_md",
+      "target": "llm_zoroastrian_hermeneutics",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zoroastrian_hermeneutics",
+      "target": "llm_sasanian_iran",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zoroastrian_hermeneutics",
+      "target": "llm_incest_in_zoroastrianism",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zoroastrian_hermeneutics",
+      "target": "llm_d_nkard",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zoroastrian_hermeneutics",
+      "target": "llm_zoroastrian_family_law",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zoroastrian_hermeneutics",
+      "target": "llm_hermeneutics",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Father_a_Daughter_and_a_Son_in_Law_in.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "usage": {
+    "prompt_tokens": 6845,
+    "completion_tokens": 1163,
+    "total_tokens": 8008,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,1 @@
+../../raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md

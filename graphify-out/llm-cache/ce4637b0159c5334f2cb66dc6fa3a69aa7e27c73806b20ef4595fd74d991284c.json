@@ -1,0 +1,240 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_2_md",
+      "label": "MORE THAN MEN, LESS THAN GODS",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_more_than_men_less_than_gods",
+      "label": "More Than Men, Less Than Gods",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_achaemenid_kingship",
+      "label": "Achaemenid Kingship",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_persepolitan_glyptic",
+      "label": "Persepolitan Glyptic",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_naq_e_rustam",
+      "label": "Naq\u0161-e Rustam",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_winged_symbol",
+      "label": "Winged Symbol",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_fire_structure",
+      "label": "Fire Structure",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_lunar_imagery",
+      "label": "Lunar Imagery",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_2_md",
+      "target": "llm_achaemenid_kingship",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_2_md",
+      "target": "llm_fire_structure",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_2_md",
+      "target": "llm_lunar_imagery",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_2_md",
+      "target": "llm_more_than_men_less_than_gods",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_2_md",
+      "target": "llm_naq_e_rustam",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_2_md",
+      "target": "llm_persepolitan_glyptic",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_2_md",
+      "target": "llm_winged_symbol",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_more_than_men_less_than_gods",
+      "target": "llm_achaemenid_kingship",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_achaemenid_kingship",
+      "target": "llm_persepolitan_glyptic",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_persepolitan_glyptic",
+      "target": "llm_naq_e_rustam",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_winged_symbol",
+      "target": "llm_achaemenid_kingship",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_fire_structure",
+      "target": "llm_naq_e_rustam",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_lunar_imagery",
+      "target": "llm_winged_symbol",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and 2.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "usage": {
+    "prompt_tokens": 5658,
+    "completion_tokens": 1351,
+    "total_tokens": 7009,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_abraham_and_nimrod_in_the_shadow_of_zar_md",
+      "label": "--- Abraham and Nimrod in the Shadow of Zarathustra\\*",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_yishai_kiel",
+      "label": "Yishai Kiel",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_friedrich_nietzsche",
+      "label": "Friedrich Nietzsche",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zarathustra",
+      "label": "Zarathustra",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_abraham",
+      "label": "Abraham",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_nimrod",
+      "label": "Nimrod",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_genesis_rabbah",
+      "label": "Genesis Rabbah",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_greek_tradition",
+      "label": "Greek Tradition",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_abraham_and_nimrod_in_the_shadow_of_zar_md",
+      "target": "llm_abraham",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abraham_and_nimrod_in_the_shadow_of_zar_md",
+      "target": "llm_friedrich_nietzsche",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abraham_and_nimrod_in_the_shadow_of_zar_md",
+      "target": "llm_genesis_rabbah",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abraham_and_nimrod_in_the_shadow_of_zar_md",
+      "target": "llm_greek_tradition",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abraham_and_nimrod_in_the_shadow_of_zar_md",
+      "target": "llm_nimrod",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abraham_and_nimrod_in_the_shadow_of_zar_md",
+      "target": "llm_yishai_kiel",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abraham_and_nimrod_in_the_shadow_of_zar_md",
+      "target": "llm_zarathustra",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_yishai_kiel",
+      "target": "llm_friedrich_nietzsche",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zarathustra",
+      "target": "llm_abraham",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_nimrod",
+      "target": "llm_abraham",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_nimrod",
+      "target": "llm_zarathustra",
+      "relation": "contrasts_with",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_genesis_rabbah",
+      "target": "llm_greek_tradition",
+      "relation": "engages_with",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_abraham_nimrod_and_zarathustra",
+      "label": "Abraham, Nimrod, and Zarathustra",
+      "nodes": [
+        "llm_abraham",
+        "llm_nimrod",
+        "llm_zarathustra"
+      ],
+      "relation": "debate",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 6064,
+    "completion_tokens": 1287,
+    "total_tokens": 7351,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

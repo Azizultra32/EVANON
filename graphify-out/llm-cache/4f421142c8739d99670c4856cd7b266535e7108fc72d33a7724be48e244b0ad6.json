@@ -1,0 +1,292 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "label": "A History of Persian Literature Volume XVII",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_avestan_literature",
+      "label": "Avestan Literature",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_yasna",
+      "label": "Yasna",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_gathas",
+      "label": "Gathas",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_vid_vd_d",
+      "label": "Vid\u0113vd\u0101d",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_vi_t_sp_ya_t",
+      "label": "Vi\u0161t\u0101sp Ya\u0161t",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_fr_n_zardu_t",
+      "label": "\u0100fr\u012bn \u012b Zardu\u0161t",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_va_nask",
+      "label": "Va\u0113\u0111\u0101 Nask",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zarathustra",
+      "label": "Zarathustra",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ahura_mazd",
+      "label": "Ahura Mazd\u0101",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "target": "llm_ahura_mazd",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "target": "llm_avestan_literature",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "target": "llm_fr_n_zardu_t",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "target": "llm_gathas",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "target": "llm_va_nask",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "target": "llm_vi_t_sp_ya_t",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "target": "llm_vid_vd_d",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "target": "llm_yasna",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "target": "llm_zarathustra",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_avestan_literature",
+      "target": "llm_yasna",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_avestan_literature",
+      "target": "llm_gathas",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_avestan_literature",
+      "target": "llm_vid_vd_d",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_avestan_literature",
+      "target": "llm_vi_t_sp_ya_t",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_avestan_literature",
+      "target": "llm_fr_n_zardu_t",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_avestan_literature",
+      "target": "llm_va_nask",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zarathustra",
+      "target": "llm_ahura_mazd",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "usage": {
+    "prompt_tokens": 8099,
+    "completion_tokens": 1653,
+    "total_tokens": 9752,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

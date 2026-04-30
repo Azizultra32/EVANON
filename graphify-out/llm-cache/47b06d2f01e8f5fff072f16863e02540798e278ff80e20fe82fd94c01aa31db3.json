@@ -1,0 +1,480 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "label": "A History of Persian Literature Volume XVII",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_a_history_of_persian_literature_xvii_the_literature_of_pre_islamic_iran",
+      "label": "A History of Persian Literature XVII: The Literature of Pre-Islamic Iran",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ronald_e_emmerick",
+      "label": "Ronald E. Emmerick",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_maria_macuch",
+      "label": "Maria Macuch",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_almut_hintze",
+      "label": "Almut Hintze",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_avestan_literature",
+      "label": "Avestan Literature",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_yasna",
+      "label": "Yasna",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_the_gathas",
+      "label": "The Gathas",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_yasna_haptan_h_iti",
+      "label": "Yasna Haptan-h\u0101iti",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zarathustra",
+      "label": "Zarathustra",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_authorship_date_homeland_and_interpretation_questions_around_the_gathas",
+      "label": "Authorship, Date, Homeland, and Interpretation Questions around the Gathas",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_khotanese_literature",
+      "label": "Khotanese Literature",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_the_book_of_zambasta",
+      "label": "The Book of Zambasta",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "target": "llm_a_history_of_persian_literature_xvii_the_literature_of_pre_islamic_iran",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "target": "llm_almut_hintze",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "target": "llm_authorship_date_homeland_and_interpretation_questions_around_the_gathas",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "target": "llm_avestan_literature",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "target": "llm_khotanese_literature",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "target": "llm_maria_macuch",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "target": "llm_ronald_e_emmerick",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "target": "llm_the_book_of_zambasta",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "target": "llm_the_gathas",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "target": "llm_yasna",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "target": "llm_yasna_haptan_h_iti",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "target": "llm_zarathustra",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_a_history_of_persian_literature_xvii_the_literature_of_pre_islamic_iran",
+      "target": "llm_ronald_e_emmerick",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_a_history_of_persian_literature_xvii_the_literature_of_pre_islamic_iran",
+      "target": "llm_maria_macuch",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_a_history_of_persian_literature_xvii_the_literature_of_pre_islamic_iran",
+      "target": "llm_avestan_literature",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_a_history_of_persian_literature_xvii_the_literature_of_pre_islamic_iran",
+      "target": "llm_khotanese_literature",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_avestan_literature",
+      "target": "llm_almut_hintze",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_avestan_literature",
+      "target": "llm_yasna",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_yasna",
+      "target": "llm_the_gathas",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_yasna",
+      "target": "llm_yasna_haptan_h_iti",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_authorship_date_homeland_and_interpretation_questions_around_the_gathas",
+      "target": "llm_the_gathas",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_authorship_date_homeland_and_interpretation_questions_around_the_gathas",
+      "target": "llm_yasna_haptan_h_iti",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_authorship_date_homeland_and_interpretation_questions_around_the_gathas",
+      "target": "llm_zarathustra",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_zarathustra",
+      "target": "llm_the_gathas",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.72,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.7
+    },
+    {
+      "source": "llm_khotanese_literature",
+      "target": "llm_the_book_of_zambasta",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_ronald_e_emmerick",
+      "target": "llm_the_book_of_zambasta",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_ronald_e_emmerick",
+      "target": "llm_khotanese_literature",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_almut_hintze",
+      "target": "llm_yasna_haptan_h_iti",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_almut_hintze",
+      "target": "llm_yasna",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 1/3",
+      "weight": 0.8
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_core_avestan_ritual_texts_in_chapter_1",
+      "label": "Core Avestan Ritual Texts in Chapter 1",
+      "nodes": [
+        "llm_avestan_literature",
+        "llm_the_gathas",
+        "llm_yasna",
+        "llm_yasna_haptan_h_iti"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md"
+    },
+    {
+      "id": "hyper_gathic_authorship_chronology_homeland_and_interpretation_debate",
+      "label": "Gathic Authorship, Chronology, Homeland, and Interpretation Debate",
+      "nodes": [
+        "llm_authorship_date_homeland_and_interpretation_questions_around_the_gathas",
+        "llm_the_gathas",
+        "llm_yasna_haptan_h_iti",
+        "llm_zarathustra"
+      ],
+      "relation": "debate",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 6595,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 10174,
+    "output_tokens_details": {
+      "reasoning_tokens": 7768
+    },
+    "total_tokens": 16769
+  }
+}

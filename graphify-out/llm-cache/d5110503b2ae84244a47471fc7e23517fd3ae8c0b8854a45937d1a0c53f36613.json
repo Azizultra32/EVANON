@@ -1,0 +1,209 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_2_md",
+      "label": "**THE AURA OF KINGS**",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_the_aura_of_kings",
+      "label": "The Aura of Kings",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Abolala Soudavar",
+      "contributor": null
+    },
+    {
+      "id": "llm_khvarnah",
+      "label": "Khvarnah",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ahura_mazd",
+      "label": "Ahura-Mazd\u0101",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_sasanian_iconography",
+      "label": "Sasanian Iconography",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_divine_glory",
+      "label": "Divine Glory",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_iranian_kingship",
+      "label": "Iranian Kingship",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_2_md",
+      "target": "llm_ahura_mazd",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_2_md",
+      "target": "llm_divine_glory",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_2_md",
+      "target": "llm_iranian_kingship",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_2_md",
+      "target": "llm_khvarnah",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_2_md",
+      "target": "llm_sasanian_iconography",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_2_md",
+      "target": "llm_the_aura_of_kings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_the_aura_of_kings",
+      "target": "llm_khvarnah",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_the_aura_of_kings",
+      "target": "llm_ahura_mazd",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_the_aura_of_kings",
+      "target": "llm_sasanian_iconography",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_the_aura_of_kings",
+      "target": "llm_divine_glory",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_the_aura_of_kings",
+      "target": "llm_iranian_kingship",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "usage": {
+    "prompt_tokens": 5724,
+    "completion_tokens": 1156,
+    "total_tokens": 6880,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

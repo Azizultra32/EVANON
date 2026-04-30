@@ -1,0 +1,450 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "label": "A History of Persian Literature Volume XVII",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_vi_t_sp_ya_t_vyt",
+      "label": "Vi\u0161t\u0101sp Ya\u0161t (Vyt)",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_vid_vd_d",
+      "label": "Vid\u0113vd\u0101d",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_vi_t_sp_s_de_ritual_configuration",
+      "label": "Vi\u0161t\u0101sp S\u0101de Ritual Configuration",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_yasna_visperad",
+      "label": "Yasna-Visperad",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_fr_n_zardu_t_az",
+      "label": "\u0100fr\u012bn \u012b Zardu\u0161t (Az)",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zarathustra_s_blessing_of_kavi_vi_t_spa_tradition",
+      "label": "Zarathustra\u2019s Blessing of Kavi Vi\u0161t\u0101spa Tradition",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_va_nask_vn",
+      "label": "Va\u0113\u0111\u0101 Nask (Vn)",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_va_nask_authenticity_and_interpretation_debate",
+      "label": "Va\u0113\u0111\u0101 Nask Authenticity and Interpretation Debate",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_kotwal_1966_va_nask_modern_forgery_hypothesis",
+      "label": "Kotwal 1966: Va\u0113\u0111\u0101 Nask Modern-Forgery Hypothesis",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_humbach_jamaspasa_1969_learned_dastur_and_riv_yat_parallels_interpretation",
+      "label": "Humbach/JamaspAsa 1969: Learned-Dastur and Riv\u0101yat-Parallels Interpretation",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_fragment_darmesteter_3_frd_3_as_evidence_for_a_lost_avestan_text",
+      "label": "Fragment Darmesteter 3 (FrD.3) as Evidence for a Lost Avestan Text",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_gathas_yasna_30_10_horse_racing_vocabulary",
+      "label": "Gathas / Yasna 30.10 Horse-Racing Vocabulary",
+      "file_type": "document",
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "target": "llm_fr_n_zardu_t_az",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "target": "llm_fragment_darmesteter_3_frd_3_as_evidence_for_a_lost_avestan_text",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "target": "llm_gathas_yasna_30_10_horse_racing_vocabulary",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "target": "llm_humbach_jamaspasa_1969_learned_dastur_and_riv_yat_parallels_interpretation",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "target": "llm_kotwal_1966_va_nask_modern_forgery_hypothesis",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "target": "llm_va_nask_authenticity_and_interpretation_debate",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "target": "llm_va_nask_vn",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "target": "llm_vi_t_sp_s_de_ritual_configuration",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "target": "llm_vi_t_sp_ya_t_vyt",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "target": "llm_vid_vd_d",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "target": "llm_yasna_visperad",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "target": "llm_zarathustra_s_blessing_of_kavi_vi_t_spa_tradition",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_vi_t_sp_ya_t_vyt",
+      "target": "llm_vid_vd_d",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_vi_t_sp_ya_t_vyt",
+      "target": "llm_vi_t_sp_s_de_ritual_configuration",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_vi_t_sp_s_de_ritual_configuration",
+      "target": "llm_yasna_visperad",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_vi_t_sp_s_de_ritual_configuration",
+      "target": "llm_vid_vd_d",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.8
+    },
+    {
+      "source": "llm_fr_n_zardu_t_az",
+      "target": "llm_zarathustra_s_blessing_of_kavi_vi_t_spa_tradition",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_va_nask_vn",
+      "target": "llm_vid_vd_d",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_va_nask_authenticity_and_interpretation_debate",
+      "target": "llm_va_nask_vn",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_va_nask_authenticity_and_interpretation_debate",
+      "target": "llm_kotwal_1966_va_nask_modern_forgery_hypothesis",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_va_nask_authenticity_and_interpretation_debate",
+      "target": "llm_humbach_jamaspasa_1969_learned_dastur_and_riv_yat_parallels_interpretation",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_kotwal_1966_va_nask_modern_forgery_hypothesis",
+      "target": "llm_humbach_jamaspasa_1969_learned_dastur_and_riv_yat_parallels_interpretation",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_kotwal_1966_va_nask_modern_forgery_hypothesis",
+      "target": "llm_va_nask_authenticity_and_interpretation_debate",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_humbach_jamaspasa_1969_learned_dastur_and_riv_yat_parallels_interpretation",
+      "target": "llm_va_nask_authenticity_and_interpretation_debate",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.95
+    },
+    {
+      "source": "llm_fragment_darmesteter_3_frd_3_as_evidence_for_a_lost_avestan_text",
+      "target": "llm_gathas_yasna_30_10_horse_racing_vocabulary",
+      "relation": "semantically_similar_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    },
+    {
+      "source": "llm_gathas_yasna_30_10_horse_racing_vocabulary",
+      "target": "llm_fragment_darmesteter_3_frd_3_as_evidence_for_a_lost_avestan_text",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md",
+      "source_location": "chunk 2/3",
+      "weight": 0.9
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_vi_t_sp_s_de_inserts_vi_t_sp_ya_t_fargards_into_the_yasna_visperad_instead_of_the_vid_vd_d",
+      "label": "Vi\u0161t\u0101sp S\u0101de inserts Vi\u0161t\u0101sp Ya\u0161t fargards into the Yasna-Visperad instead of the Vid\u0113vd\u0101d",
+      "nodes": [
+        "llm_vi_t_sp_s_de_ritual_configuration",
+        "llm_vi_t_sp_ya_t_vyt",
+        "llm_vid_vd_d",
+        "llm_yasna_visperad"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md"
+    },
+    {
+      "id": "hyper_debate_over_whether_the_va_nask_is_a_modern_forgery_or_a_learned_dastur_s_avesta_supported_legal_response",
+      "label": "Debate over whether the Va\u0113\u0111\u0101 Nask is a modern forgery or a learned Dastur\u2019s Avesta-supported legal response",
+      "nodes": [
+        "llm_humbach_jamaspasa_1969_learned_dastur_and_riv_yat_parallels_interpretation",
+        "llm_kotwal_1966_va_nask_modern_forgery_hypothesis",
+        "llm_va_nask_authenticity_and_interpretation_debate",
+        "llm_va_nask_vn"
+      ],
+      "relation": "debate",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "raw/ocr/2008_2009_Avestan_Literature_In_Ronald_E.md"
+    }
+  ],
+  "usage": {
+    "input_tokens": 8383,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 10195,
+    "output_tokens_details": {
+      "reasoning_tokens": 7768
+    },
+    "total_tokens": 18578
+  }
+}

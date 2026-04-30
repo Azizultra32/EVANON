@@ -1,0 +1,251 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "label": "A Thousand Judgements",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_normative_and_theological_dissent_in_early_zoroastrian_law",
+      "label": "Normative and Theological Dissent in Early Zoroastrian Law",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_pahlavi_n_rangest_n",
+      "label": "Pahlavi N\u012brangest\u0101n",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_babylonian_talmud",
+      "label": "Babylonian Talmud",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_religious_conversion",
+      "label": "Religious Conversion",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_legal_principles_in_rabbinic_and_zoroastrian_texts",
+      "label": "Legal Principles in Rabbinic and Zoroastrian Texts",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zoroastrian_law",
+      "label": "Zoroastrian Law",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_talmudic_debate",
+      "label": "Talmudic Debate",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_cultural_exchanges_between_rabbis_and_dastwars",
+      "label": "Cultural Exchanges between Rabbis and Dastwars",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_babylonian_talmud",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_cultural_exchanges_between_rabbis_and_dastwars",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_legal_principles_in_rabbinic_and_zoroastrian_texts",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_normative_and_theological_dissent_in_early_zoroastrian_law",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_pahlavi_n_rangest_n",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_religious_conversion",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_talmudic_debate",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_thousand_judgements_md",
+      "target": "llm_zoroastrian_law",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_normative_and_theological_dissent_in_early_zoroastrian_law",
+      "target": "llm_pahlavi_n_rangest_n",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_pahlavi_n_rangest_n",
+      "target": "llm_legal_principles_in_rabbinic_and_zoroastrian_texts",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_babylonian_talmud",
+      "target": "llm_talmudic_debate",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_religious_conversion",
+      "target": "llm_zoroastrian_law",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_cultural_exchanges_between_rabbis_and_dastwars",
+      "target": "llm_talmudic_debate",
+      "relation": "participates_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/ocr/A_Thousand_Judgements.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "usage": {
+    "prompt_tokens": 8190,
+    "completion_tokens": 1252,
+    "total_tokens": 9442,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

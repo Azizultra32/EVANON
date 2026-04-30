@@ -1,0 +1,333 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_concepts_of_pollution_in_late_sasanian_i_md",
+      "label": "CONCEPTS OF POLLUTION IN LATE SASANIAN IRAN DOES POLLUTION NEED STAIRS, AND DOES IT FILL SPACE?",
+      "file_type": "document",
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_concepts_of_pollution_in_late_sasanian_iran",
+      "label": "Concepts of Pollution in Late Sasanian Iran",
+      "file_type": "document",
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zand_fragard_jud_d_w_d_d",
+      "label": "Zand \u012b fragard \u012b jud-d\u0113w-d\u0101d",
+      "file_type": "document",
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_pahlavi_videvdad",
+      "label": "Pahlavi Videvdad",
+      "file_type": "document",
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_gumbad_dome",
+      "label": "Gumbad (Dome)",
+      "file_type": "document",
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_tuh_g_h_pollution",
+      "label": "Tuh\u012bg\u012bh (Pollution)",
+      "file_type": "document",
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_menstrual_huts",
+      "label": "Menstrual Huts",
+      "file_type": "document",
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_abarg_zoroastrian_teacher",
+      "label": "Abarg (Zoroastrian Teacher)",
+      "file_type": "document",
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_m_dy_m_h_zoroastrian_teacher",
+      "label": "M\u0113dy\u014dm\u0101h (Zoroastrian Teacher)",
+      "file_type": "document",
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_pi_ksil_zoroastrian_teacher",
+      "label": "Pi\u0161ksil (Zoroastrian Teacher)",
+      "file_type": "document",
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ah_r_t_g_four_arches",
+      "label": "\u010cah\u0101r-t\u0101g (Four Arches)",
+      "file_type": "document",
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_concepts_of_pollution_in_late_sasanian_i_md",
+      "target": "llm_abarg_zoroastrian_teacher",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_concepts_of_pollution_in_late_sasanian_i_md",
+      "target": "llm_ah_r_t_g_four_arches",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_concepts_of_pollution_in_late_sasanian_i_md",
+      "target": "llm_concepts_of_pollution_in_late_sasanian_iran",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_concepts_of_pollution_in_late_sasanian_i_md",
+      "target": "llm_gumbad_dome",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_concepts_of_pollution_in_late_sasanian_i_md",
+      "target": "llm_m_dy_m_h_zoroastrian_teacher",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_concepts_of_pollution_in_late_sasanian_i_md",
+      "target": "llm_menstrual_huts",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_concepts_of_pollution_in_late_sasanian_i_md",
+      "target": "llm_pahlavi_videvdad",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_concepts_of_pollution_in_late_sasanian_i_md",
+      "target": "llm_pi_ksil_zoroastrian_teacher",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_concepts_of_pollution_in_late_sasanian_i_md",
+      "target": "llm_tuh_g_h_pollution",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_concepts_of_pollution_in_late_sasanian_i_md",
+      "target": "llm_zand_fragard_jud_d_w_d_d",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_concepts_of_pollution_in_late_sasanian_iran",
+      "target": "llm_zand_fragard_jud_d_w_d_d",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_concepts_of_pollution_in_late_sasanian_iran",
+      "target": "llm_pahlavi_videvdad",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zand_fragard_jud_d_w_d_d",
+      "target": "llm_gumbad_dome",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zand_fragard_jud_d_w_d_d",
+      "target": "llm_tuh_g_h_pollution",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_tuh_g_h_pollution",
+      "target": "llm_menstrual_huts",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_menstrual_huts",
+      "target": "llm_abarg_zoroastrian_teacher",
+      "relation": "contrasts_with",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_menstrual_huts",
+      "target": "llm_m_dy_m_h_zoroastrian_teacher",
+      "relation": "contrasts_with",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_menstrual_huts",
+      "target": "llm_pi_ksil_zoroastrian_teacher",
+      "relation": "contrasts_with",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_gumbad_dome",
+      "target": "llm_ah_r_t_g_four_arches",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/CONCEPTS_OF_POLLUTION_IN_LATE_SASANIAN_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "usage": {
+    "prompt_tokens": 7076,
+    "completion_tokens": 1968,
+    "total_tokens": 9044,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

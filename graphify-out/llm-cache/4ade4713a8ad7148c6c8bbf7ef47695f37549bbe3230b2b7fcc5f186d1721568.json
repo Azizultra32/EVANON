@@ -1,0 +1,261 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_academia_summary_mithraic_societies_from_brotherhood_ideal_to_religion_s_adversary_2_md",
+      "label": "MITHRAIC SOCIETIES: FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY",
+      "file_type": "document",
+      "source_file": "raw/ocr/Academia Summary \u2014 MITHRAIC SOCIETIES: FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY  2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_mithraic_societies",
+      "label": "Mithraic Societies",
+      "file_type": "document",
+      "source_file": "raw/ocr/Academia Summary \u2014 MITHRAIC SOCIETIES: FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY  2.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_mithra",
+      "label": "Mithra",
+      "file_type": "document",
+      "source_file": "raw/ocr/Academia Summary \u2014 MITHRAIC SOCIETIES: FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY  2.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ahura_mazda",
+      "label": "Ahura Mazda",
+      "file_type": "document",
+      "source_file": "raw/ocr/Academia Summary \u2014 MITHRAIC SOCIETIES: FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY  2.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_apam_nap_t",
+      "label": "Apam Nap\u0101t",
+      "file_type": "document",
+      "source_file": "raw/ocr/Academia Summary \u2014 MITHRAIC SOCIETIES: FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY  2.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_cyrus",
+      "label": "Cyrus",
+      "file_type": "document",
+      "source_file": "raw/ocr/Academia Summary \u2014 MITHRAIC SOCIETIES: FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY  2.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_darius",
+      "label": "Darius",
+      "file_type": "document",
+      "source_file": "raw/ocr/Academia Summary \u2014 MITHRAIC SOCIETIES: FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY  2.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zoroastrianism",
+      "label": "Zoroastrianism",
+      "file_type": "document",
+      "source_file": "raw/ocr/Academia Summary \u2014 MITHRAIC SOCIETIES: FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY  2.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_initiation_rites",
+      "label": "Initiation Rites",
+      "file_type": "document",
+      "source_file": "raw/ocr/Academia Summary \u2014 MITHRAIC SOCIETIES: FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY  2.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_academia_summary_mithraic_societies_from_brotherhood_ideal_to_religion_s_adversary_2_md",
+      "target": "llm_ahura_mazda",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Academia Summary \u2014 MITHRAIC SOCIETIES: FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY  2.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_academia_summary_mithraic_societies_from_brotherhood_ideal_to_religion_s_adversary_2_md",
+      "target": "llm_apam_nap_t",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Academia Summary \u2014 MITHRAIC SOCIETIES: FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY  2.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_academia_summary_mithraic_societies_from_brotherhood_ideal_to_religion_s_adversary_2_md",
+      "target": "llm_cyrus",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Academia Summary \u2014 MITHRAIC SOCIETIES: FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY  2.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_academia_summary_mithraic_societies_from_brotherhood_ideal_to_religion_s_adversary_2_md",
+      "target": "llm_darius",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Academia Summary \u2014 MITHRAIC SOCIETIES: FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY  2.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_academia_summary_mithraic_societies_from_brotherhood_ideal_to_religion_s_adversary_2_md",
+      "target": "llm_initiation_rites",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Academia Summary \u2014 MITHRAIC SOCIETIES: FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY  2.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_academia_summary_mithraic_societies_from_brotherhood_ideal_to_religion_s_adversary_2_md",
+      "target": "llm_mithra",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Academia Summary \u2014 MITHRAIC SOCIETIES: FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY  2.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_academia_summary_mithraic_societies_from_brotherhood_ideal_to_religion_s_adversary_2_md",
+      "target": "llm_mithraic_societies",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Academia Summary \u2014 MITHRAIC SOCIETIES: FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY  2.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_academia_summary_mithraic_societies_from_brotherhood_ideal_to_religion_s_adversary_2_md",
+      "target": "llm_zoroastrianism",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Academia Summary \u2014 MITHRAIC SOCIETIES: FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY  2.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_mithraic_societies",
+      "target": "llm_mithra",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Academia Summary \u2014 MITHRAIC SOCIETIES: FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY  2.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_mithraic_societies",
+      "target": "llm_initiation_rites",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Academia Summary \u2014 MITHRAIC SOCIETIES: FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY  2.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_mithra",
+      "target": "llm_ahura_mazda",
+      "relation": "contrasts_with",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Academia Summary \u2014 MITHRAIC SOCIETIES: FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY  2.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_mithra",
+      "target": "llm_apam_nap_t",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Academia Summary \u2014 MITHRAIC SOCIETIES: FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY  2.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_cyrus",
+      "target": "llm_darius",
+      "relation": "debate",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/ocr/Academia Summary \u2014 MITHRAIC SOCIETIES: FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY  2.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zoroastrianism",
+      "target": "llm_mithraic_societies",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Academia Summary \u2014 MITHRAIC SOCIETIES: FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY  2.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "usage": {
+    "prompt_tokens": 2353,
+    "completion_tokens": 1635,
+    "total_tokens": 3988,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

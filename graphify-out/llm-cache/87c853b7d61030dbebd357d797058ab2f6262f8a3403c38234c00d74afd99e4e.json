@@ -1,0 +1,254 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_2_md",
+      "label": "Gifts to a Magus",
+      "file_type": "document",
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori 2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_gifts_to_a_magus",
+      "label": "Gifts to a Magus",
+      "file_type": "document",
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Jamsheed K. Choksy & Jennifer Dubeansky",
+      "contributor": null
+    },
+    {
+      "id": "llm_zarathustra",
+      "label": "Zarathustra",
+      "file_type": "document",
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ahura_mazd",
+      "label": "Ahura Mazd\u0101",
+      "file_type": "document",
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_gathas",
+      "label": "Gathas",
+      "file_type": "document",
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_mazdayasnian_religion",
+      "label": "Mazdayasnian Religion",
+      "file_type": "document",
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_conflict_between_prophet_and_priest",
+      "label": "Conflict between Prophet and Priest",
+      "file_type": "document",
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ahuna_vairya_prayer",
+      "label": "Ahuna Vairya Prayer",
+      "file_type": "document",
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_2_md",
+      "target": "llm_ahuna_vairya_prayer",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_2_md",
+      "target": "llm_ahura_mazd",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_2_md",
+      "target": "llm_conflict_between_prophet_and_priest",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_2_md",
+      "target": "llm_gathas",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_2_md",
+      "target": "llm_gifts_to_a_magus",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_2_md",
+      "target": "llm_mazdayasnian_religion",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_2_md",
+      "target": "llm_zarathustra",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_gifts_to_a_magus",
+      "target": "llm_zarathustra",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zarathustra",
+      "target": "llm_ahura_mazd",
+      "relation": "communicates_with",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zarathustra",
+      "target": "llm_mazdayasnian_religion",
+      "relation": "brings",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_gathas",
+      "target": "llm_zarathustra",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_conflict_between_prophet_and_priest",
+      "target": "llm_zarathustra",
+      "relation": "illustrates",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_ahura_mazd",
+      "target": "llm_ahuna_vairya_prayer",
+      "relation": "reveals",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_zoroastrian_priesthood",
+      "label": "Zoroastrian Priesthood",
+      "nodes": [
+        "llm_ahura_mazd",
+        "llm_mazdayasnian_religion",
+        "llm_zarathustra"
+      ],
+      "relation": "participates_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori 2.md"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 6104,
+    "completion_tokens": 1454,
+    "total_tokens": 7558,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

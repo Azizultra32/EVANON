@@ -1,0 +1,386 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_ancient_iran_cosmology_mythology_history_md",
+      "label": "Ancient Iran: Cosmology, Mythology, History",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_manah",
+      "label": "Manah",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_vohu_manah",
+      "label": "Vohu Manah",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_aka_manah",
+      "label": "Aka Manah",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_khshathra_vairya",
+      "label": "Khshathra Vairya",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_gayomart",
+      "label": "Gayomart",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_haurvatat",
+      "label": "Haurvatat",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ameretat",
+      "label": "Ameretat",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_asha_vahishta",
+      "label": "Asha Vahishta",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_spenta_armaiti",
+      "label": "Spenta Armaiti",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_yazatas",
+      "label": "Yazatas",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_fravashis",
+      "label": "Fravashis",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_ancient_iran_cosmology_mythology_history_md",
+      "target": "llm_aka_manah",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iran_cosmology_mythology_history_md",
+      "target": "llm_ameretat",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iran_cosmology_mythology_history_md",
+      "target": "llm_asha_vahishta",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iran_cosmology_mythology_history_md",
+      "target": "llm_fravashis",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iran_cosmology_mythology_history_md",
+      "target": "llm_gayomart",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iran_cosmology_mythology_history_md",
+      "target": "llm_haurvatat",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iran_cosmology_mythology_history_md",
+      "target": "llm_khshathra_vairya",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iran_cosmology_mythology_history_md",
+      "target": "llm_manah",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iran_cosmology_mythology_history_md",
+      "target": "llm_spenta_armaiti",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iran_cosmology_mythology_history_md",
+      "target": "llm_vohu_manah",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iran_cosmology_mythology_history_md",
+      "target": "llm_yazatas",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_manah",
+      "target": "llm_vohu_manah",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_vohu_manah",
+      "target": "llm_aka_manah",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_vohu_manah",
+      "target": "llm_khshathra_vairya",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_khshathra_vairya",
+      "target": "llm_gayomart",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_khshathra_vairya",
+      "target": "llm_haurvatat",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_haurvatat",
+      "target": "llm_ameretat",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_vohu_manah",
+      "target": "llm_asha_vahishta",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_asha_vahishta",
+      "target": "llm_spenta_armaiti",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_spenta_armaiti",
+      "target": "llm_yazatas",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_yazatas",
+      "target": "llm_fravashis",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_mazdian_cosmology",
+      "label": "Mazdian Cosmology",
+      "nodes": [
+        "llm_aka_manah",
+        "llm_ameretat",
+        "llm_asha_vahishta",
+        "llm_fravashis",
+        "llm_gayomart",
+        "llm_haurvatat",
+        "llm_khshathra_vairya",
+        "llm_manah",
+        "llm_spenta_armaiti",
+        "llm_vohu_manah",
+        "llm_yazatas"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/ocr/Ancient_Iran_Cosmology_Mythology_History.md"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 6893,
+    "completion_tokens": 2217,
+    "total_tokens": 9110,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "label": "Achaemenid History Derailed by AvestologyAssessing *La religion des Ach\u00e9m\u00e9nides: confrontation des sources*",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_achaemenid_history",
+      "label": "Achaemenid History",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_avesta",
+      "label": "Avesta",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zoroaster",
+      "label": "Zoroaster",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_darius",
+      "label": "Darius",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_khvarenah",
+      "label": "Khvarenah",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_pahlav",
+      "label": "Pahlav",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_magu",
+      "label": "Magu",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_kellens",
+      "label": "Kellens",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_xavier_tremblay",
+      "label": "Xavier Tremblay",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_mithra",
+      "label": "Mithra",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "target": "llm_achaemenid_history",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "target": "llm_avesta",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "target": "llm_darius",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "target": "llm_kellens",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "target": "llm_khvarenah",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "target": "llm_magu",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "target": "llm_mithra",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "target": "llm_pahlav",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "target": "llm_xavier_tremblay",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "target": "llm_zoroaster",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_avesta",
+      "target": "llm_zoroaster",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zoroaster",
+      "target": "llm_khvarenah",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_darius",
+      "target": "llm_pahlav",
+      "relation": "participates_in",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_kellens",
+      "target": "llm_xavier_tremblay",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_mithra",
+      "target": "llm_zoroaster",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_zoroastrian_hierarchy",
+      "label": "Zoroastrian Hierarchy",
+      "nodes": [
+        "llm_khvarenah",
+        "llm_mithra",
+        "llm_zoroaster"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 6129,
+    "completion_tokens": 1543,
+    "total_tokens": 7672,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

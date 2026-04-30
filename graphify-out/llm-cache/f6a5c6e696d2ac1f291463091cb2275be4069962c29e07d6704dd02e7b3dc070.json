@@ -1,0 +1,344 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "label": "Achaemenid History Derailed by AvestologyAssessing *La religion des Ach\u00e9m\u00e9nides: confrontation des sources*",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_kellens_s_concept_of_fixation",
+      "label": "Kellens's Concept of Fixation",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Abolala Soudavar",
+      "contributor": null
+    },
+    {
+      "id": "llm_darius_i",
+      "label": "Darius I",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ahura_mazd",
+      "label": "Ahura Mazd\u0101",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zoroaster",
+      "label": "Zoroaster",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_khvarenah",
+      "label": "Khvarenah",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_proto_yasna_a",
+      "label": "Proto-Yasna A",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_proto_yasna_b",
+      "label": "Proto-Yasna B",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_an_hit",
+      "label": "An\u0101hit\u0101",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_arachosia",
+      "label": "Arachosia",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_mithra",
+      "label": "Mithra",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_alexander_s_conquest",
+      "label": "Alexander's Conquest",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "target": "llm_ahura_mazd",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "target": "llm_alexander_s_conquest",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "target": "llm_an_hit",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "target": "llm_arachosia",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "target": "llm_darius_i",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "target": "llm_kellens_s_concept_of_fixation",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "target": "llm_khvarenah",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "target": "llm_mithra",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "target": "llm_proto_yasna_a",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "target": "llm_proto_yasna_b",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "target": "llm_zoroaster",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_kellens_s_concept_of_fixation",
+      "target": "llm_darius_i",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_darius_i",
+      "target": "llm_ahura_mazd",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zoroaster",
+      "target": "llm_khvarenah",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_proto_yasna_a",
+      "target": "llm_proto_yasna_b",
+      "relation": "contrasts_with",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_an_hit",
+      "target": "llm_khvarenah",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_arachosia",
+      "target": "llm_zoroaster",
+      "relation": "participates_in",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_mithra",
+      "target": "llm_darius_i",
+      "relation": "contrasts_with",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_alexander_s_conquest",
+      "target": "llm_darius_i",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "usage": {
+    "prompt_tokens": 5977,
+    "completion_tokens": 1847,
+    "total_tokens": 7824,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

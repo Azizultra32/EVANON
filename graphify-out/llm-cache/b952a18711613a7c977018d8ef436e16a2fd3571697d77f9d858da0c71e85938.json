@@ -1,0 +1,323 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "label": "ANCIENT IRANIAN MOTIFS AND ZOROASTRIAN ICONOGRAPHY",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_winged_figure",
+      "label": "Winged Figure",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Vesta Sarkhosh Curtis",
+      "contributor": null
+    },
+    {
+      "id": "llm_farvahar",
+      "label": "Farvahar",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Vesta Sarkhosh Curtis",
+      "contributor": null
+    },
+    {
+      "id": "llm_ahura_mazd",
+      "label": "Ahura Mazd\u0101",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Vesta Sarkhosh Curtis",
+      "contributor": null
+    },
+    {
+      "id": "llm_xvar_nah",
+      "label": "Xvar\u0259nah",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Vesta Sarkhosh Curtis",
+      "contributor": null
+    },
+    {
+      "id": "llm_zoroastrianism",
+      "label": "Zoroastrianism",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Vesta Sarkhosh Curtis",
+      "contributor": null
+    },
+    {
+      "id": "llm_barsom",
+      "label": "Barsom",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Vesta Sarkhosh Curtis",
+      "contributor": null
+    },
+    {
+      "id": "llm_vologases_i",
+      "label": "Vologases I",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Vesta Sarkhosh Curtis",
+      "contributor": null
+    },
+    {
+      "id": "llm_darius_the_great",
+      "label": "Darius the Great",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Vesta Sarkhosh Curtis",
+      "contributor": null
+    },
+    {
+      "id": "llm_sasanian_period",
+      "label": "Sasanian Period",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Vesta Sarkhosh Curtis",
+      "contributor": null
+    },
+    {
+      "id": "llm_parthian_period",
+      "label": "Parthian Period",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Vesta Sarkhosh Curtis",
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_ahura_mazd",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_barsom",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_darius_the_great",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_farvahar",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_parthian_period",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_sasanian_period",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_vologases_i",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_winged_figure",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_xvar_nah",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_zoroastrianism",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_winged_figure",
+      "target": "llm_ahura_mazd",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_farvahar",
+      "target": "llm_ahura_mazd",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_farvahar",
+      "target": "llm_xvar_nah",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zoroastrianism",
+      "target": "llm_barsom",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_vologases_i",
+      "target": "llm_zoroastrianism",
+      "relation": "supports",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_darius_the_great",
+      "target": "llm_winged_figure",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_sasanian_period",
+      "target": "llm_zoroastrianism",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_parthian_period",
+      "target": "llm_zoroastrianism",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "usage": {
+    "prompt_tokens": 6215,
+    "completion_tokens": 1851,
+    "total_tokens": 8066,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

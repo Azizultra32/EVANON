@@ -1,0 +1,275 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_2_md",
+      "label": "Achaemenid History Derailed by AvestologyAssessing *La religion des Ach\u00e9m\u00e9nides: confrontation des sources*",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_achaemenid_history_derailed_by_avestology",
+      "label": "Achaemenid History Derailed by Avestology",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_jean_kellens",
+      "label": "Jean Kellens",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_avesta",
+      "label": "Avesta",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_darius",
+      "label": "Darius",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_khvarenah",
+      "label": "Khvarenah",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_alberto_cantera",
+      "label": "Alberto Cantera",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zoroaster",
+      "label": "Zoroaster",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_datames",
+      "label": "Datames",
+      "file_type": "document",
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_2_md",
+      "target": "llm_achaemenid_history_derailed_by_avestology",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_2_md",
+      "target": "llm_alberto_cantera",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_2_md",
+      "target": "llm_avesta",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_2_md",
+      "target": "llm_darius",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_2_md",
+      "target": "llm_datames",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_2_md",
+      "target": "llm_jean_kellens",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_2_md",
+      "target": "llm_khvarenah",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_2_md",
+      "target": "llm_zoroaster",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_achaemenid_history_derailed_by_avestology",
+      "target": "llm_jean_kellens",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_jean_kellens",
+      "target": "llm_avesta",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_darius",
+      "target": "llm_avesta",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_khvarenah",
+      "target": "llm_zoroaster",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_alberto_cantera",
+      "target": "llm_avesta",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_datames",
+      "target": "llm_khvarenah",
+      "relation": "contrasts_with",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_debate_on_the_avesta_s_influence",
+      "label": "Debate on the Avesta's Influence",
+      "nodes": [
+        "llm_alberto_cantera",
+        "llm_darius",
+        "llm_jean_kellens"
+      ],
+      "relation": "debate",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/ocr/Achaemenid_History_Derailed_by_Avestolog 2.md"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 5687,
+    "completion_tokens": 1490,
+    "total_tokens": 7177,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

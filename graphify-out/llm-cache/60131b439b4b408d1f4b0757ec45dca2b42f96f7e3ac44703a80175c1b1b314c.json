@@ -1,0 +1,265 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_md",
+      "label": "**THE AURA OF KINGS**",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_persian_king_sassanid_era",
+      "label": "Persian King (Sassanid Era)",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_khvarnah",
+      "label": "Khvarnah",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_mithr",
+      "label": "Mithr\u0101",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_apam_nap_t",
+      "label": "Apam-Nap\u0101t",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ahura_mazd",
+      "label": "Ahura-Mazd\u0101",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_cyrus_ii",
+      "label": "Cyrus II",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_darius",
+      "label": "Darius",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_farvardin_yasht",
+      "label": "Farvardin Yasht",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_md",
+      "target": "llm_ahura_mazd",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_md",
+      "target": "llm_apam_nap_t",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_md",
+      "target": "llm_cyrus_ii",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_md",
+      "target": "llm_darius",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_md",
+      "target": "llm_farvardin_yasht",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_md",
+      "target": "llm_khvarnah",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_md",
+      "target": "llm_mithr",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_md",
+      "target": "llm_persian_king_sassanid_era",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_mithr",
+      "target": "llm_apam_nap_t",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_cyrus_ii",
+      "target": "llm_ahura_mazd",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_darius",
+      "target": "llm_ahura_mazd",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_farvardin_yasht",
+      "target": "llm_mithr",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_khvarnah",
+      "target": "llm_mithr",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_mithr_and_apam_nap_t_legacy",
+      "label": "Mithr\u0101 and Apam-Nap\u0101t Legacy",
+      "nodes": [
+        "llm_apam_nap_t",
+        "llm_khvarnah",
+        "llm_mithr"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 6207,
+    "completion_tokens": 1409,
+    "total_tokens": 7616,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

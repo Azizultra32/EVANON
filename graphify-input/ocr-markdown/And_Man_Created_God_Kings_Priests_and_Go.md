@@ -1,0 +1,1 @@
+../../raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md

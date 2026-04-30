@@ -1,0 +1,36 @@
+# Secrets and local environment
+.env
+.venv/
+*.egg-info/
+
+# Python/runtime noise
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Local Graphify machine-specific files
+graphify-out/.graphify_python
+graphify-out/manifest.json
+graphify-out/cost.json
+graphify-out/needs_update
+
+# Temporary/interrupted extraction scratch
+.graphify_cached.json
+.graphify_uncached.txt
+.graphify_semantic_new.json
+.graphify_chunk_*.json
+
+# Logs
+*.log
+
+# Office lock/temp files
+~$*

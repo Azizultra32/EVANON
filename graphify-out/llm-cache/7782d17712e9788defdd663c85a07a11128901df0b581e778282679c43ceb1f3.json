@@ -1,0 +1,313 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_copy_md",
+      "label": "Gifts to a Magus",
+      "file_type": "document",
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zarathustra",
+      "label": "Zarathustra",
+      "file_type": "document",
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ahura_mazd",
+      "label": "Ahura Mazd\u0101",
+      "file_type": "document",
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_avesta",
+      "label": "Avesta",
+      "file_type": "document",
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_gathas",
+      "label": "Gathas",
+      "file_type": "document",
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_daevas",
+      "label": "Daevas",
+      "file_type": "document",
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ritual_fire",
+      "label": "Ritual Fire",
+      "file_type": "document",
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_women_priests",
+      "label": "Women Priests",
+      "file_type": "document",
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_prophetic_authority",
+      "label": "Prophetic Authority",
+      "file_type": "document",
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_priestly_authority",
+      "label": "Priestly Authority",
+      "file_type": "document",
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zara_u_tr_t_ma",
+      "label": "zara\u03b8u\u0161tr\u014dt\u0259ma",
+      "file_type": "document",
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_copy_md",
+      "target": "llm_ahura_mazd",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_copy_md",
+      "target": "llm_avesta",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_copy_md",
+      "target": "llm_daevas",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_copy_md",
+      "target": "llm_gathas",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_copy_md",
+      "target": "llm_priestly_authority",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_copy_md",
+      "target": "llm_prophetic_authority",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_copy_md",
+      "target": "llm_ritual_fire",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_copy_md",
+      "target": "llm_women_priests",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_copy_md",
+      "target": "llm_zara_u_tr_t_ma",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_copy_md",
+      "target": "llm_zarathustra",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zarathustra",
+      "target": "llm_ahura_mazd",
+      "relation": "receives_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zarathustra",
+      "target": "llm_gathas",
+      "relation": "recites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zarathustra",
+      "target": "llm_daevas",
+      "relation": "defeats",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_ahura_mazd",
+      "target": "llm_ritual_fire",
+      "relation": "manifests_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_women_priests",
+      "target": "llm_priestly_authority",
+      "relation": "challenges",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zarathustra",
+      "target": "llm_prophetic_authority",
+      "relation": "embodies",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zarathustra",
+      "target": "llm_zara_u_tr_t_ma",
+      "relation": "represents",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "usage": {
+    "prompt_tokens": 6389,
+    "completion_tokens": 1783,
+    "total_tokens": 8172,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

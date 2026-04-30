@@ -1,0 +1,199 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_between_the_safavids_and_the_mughals_art_md",
+      "label": "BETWEEN THE SAFAVIDS AND THE MUGHALS: ART AND ARTISTS IN TRANSITION\\*",
+      "file_type": "document",
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_farrukh_beyg",
+      "label": "Farrukh Beyg",
+      "file_type": "document",
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_mughal_court",
+      "label": "Mughal Court",
+      "file_type": "document",
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_timurid_art",
+      "label": "Timurid Art",
+      "file_type": "document",
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_safavid_art",
+      "label": "Safavid Art",
+      "file_type": "document",
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_jah_ng_r",
+      "label": "Jah\u0101ng\u012br",
+      "file_type": "document",
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_sh_h_t_hm_sb",
+      "label": "Sh\u0101h T\u0101hm\u0101sb",
+      "file_type": "document",
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_between_the_safavids_and_the_mughals_art_md",
+      "target": "llm_farrukh_beyg",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_between_the_safavids_and_the_mughals_art_md",
+      "target": "llm_jah_ng_r",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_between_the_safavids_and_the_mughals_art_md",
+      "target": "llm_mughal_court",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_between_the_safavids_and_the_mughals_art_md",
+      "target": "llm_safavid_art",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_between_the_safavids_and_the_mughals_art_md",
+      "target": "llm_sh_h_t_hm_sb",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_between_the_safavids_and_the_mughals_art_md",
+      "target": "llm_timurid_art",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_farrukh_beyg",
+      "target": "llm_mughal_court",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_farrukh_beyg",
+      "target": "llm_safavid_art",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_farrukh_beyg",
+      "target": "llm_timurid_art",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_jah_ng_r",
+      "target": "llm_sh_h_t_hm_sb",
+      "relation": "contrasts_with",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "usage": {
+    "prompt_tokens": 7932,
+    "completion_tokens": 1009,
+    "total_tokens": 8941,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

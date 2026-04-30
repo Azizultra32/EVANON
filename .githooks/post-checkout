@@ -1,0 +1,21 @@
+#!/bin/sh
+command -v git-lfs >/dev/null 2>&1 || { echo >&2 "\nThis repository is configured for Git LFS but 'git-lfs' was not found on your path.\n"; exit 2; }
+git lfs post-checkout "$@"
+
+# graphify-checkout-hook-start
+# Corpus-safe Graphify checkout hook.
+# On branch switches, mark semantic re-extraction if corpus/OCR/input files changed.
+
+PREV_HEAD=$1
+NEW_HEAD=$2
+BRANCH_SWITCH=$3
+
+[ "$BRANCH_SWITCH" != "1" ] && exit 0
+
+CHANGED=$(git diff --name-only "$PREV_HEAD" "$NEW_HEAD" 2>/dev/null || true)
+[ -z "$CHANGED" ] && exit 0
+
+if [ -x scripts/mark_semantic_update.sh ]; then
+  scripts/mark_semantic_update.sh "$CHANGED"
+fi
+# graphify-checkout-hook-end

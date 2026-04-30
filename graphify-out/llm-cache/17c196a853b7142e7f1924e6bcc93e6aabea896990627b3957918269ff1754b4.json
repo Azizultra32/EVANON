@@ -1,0 +1,214 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_and_man_created_god_kings_priests_and_go_md",
+      "label": "AND MAN CREATED GOD? KINGS, PRIESTS AND GODS ON SASANIAN INVESTITURE RELIEFS",
+      "file_type": "document",
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ahura_mazda",
+      "label": "Ahura Mazda",
+      "file_type": "document",
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ardashir_i",
+      "label": "Ardashir I",
+      "file_type": "document",
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_shapur_i",
+      "label": "Shapur I",
+      "file_type": "document",
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_khosrow_ii",
+      "label": "Khosrow II",
+      "file_type": "document",
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_barsom",
+      "label": "Barsom",
+      "file_type": "document",
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_taq_i_bustan",
+      "label": "Taq-i Bustan",
+      "file_type": "document",
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_and_man_created_god_kings_priests_and_go_md",
+      "target": "llm_ahura_mazda",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_and_man_created_god_kings_priests_and_go_md",
+      "target": "llm_ardashir_i",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_and_man_created_god_kings_priests_and_go_md",
+      "target": "llm_barsom",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_and_man_created_god_kings_priests_and_go_md",
+      "target": "llm_khosrow_ii",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_and_man_created_god_kings_priests_and_go_md",
+      "target": "llm_shapur_i",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_and_man_created_god_kings_priests_and_go_md",
+      "target": "llm_taq_i_bustan",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_ahura_mazda",
+      "target": "llm_barsom",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_ardashir_i",
+      "target": "llm_taq_i_bustan",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_shapur_i",
+      "target": "llm_taq_i_bustan",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_khosrow_ii",
+      "target": "llm_taq_i_bustan",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_sasanian_investiture_reliefs",
+      "label": "Sasanian Investiture Reliefs",
+      "nodes": [
+        "llm_ahura_mazda",
+        "llm_ardashir_i",
+        "llm_khosrow_ii",
+        "llm_shapur_i"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/ocr/And_Man_Created_God_Kings_Priests_and_Go.md"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 6092,
+    "completion_tokens": 1126,
+    "total_tokens": 7218,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

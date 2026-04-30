@@ -1,0 +1,7 @@
+source_corpus=/Users/ali/Documents/EVANON/MITHRAS 3
+raw_ocr_dir=/Users/ali/GRAPHIFY-zoroastrianism/raw/ocr
+total_pdfs=190
+converted_pdfs=52
+pending_pdfs=138
+converted_list=/Users/ali/GRAPHIFY-zoroastrianism/docs/ocr-status/20260429-121759-converted-pdfs.txt
+pending_list=/Users/ali/GRAPHIFY-zoroastrianism/docs/ocr-status/20260429-121759-pending-pdfs.txt

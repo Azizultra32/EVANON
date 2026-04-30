@@ -1,0 +1,220 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_budge_e_a_w_babylonian_legends_of_the_creation_1921_2_092e1075_md",
+      "label": "The Babylonian Legends of the Creation",
+      "file_type": "document",
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_marduk",
+      "label": "Marduk",
+      "file_type": "document",
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ti_mat",
+      "label": "Ti\u00e2mat",
+      "file_type": "document",
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_kingu",
+      "label": "Kingu",
+      "file_type": "document",
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_anunnaki",
+      "label": "Anunnaki",
+      "file_type": "document",
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_seven_tablets_of_creation",
+      "label": "Seven Tablets of Creation",
+      "file_type": "document",
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_berosus",
+      "label": "Berosus",
+      "file_type": "document",
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_gods_triads",
+      "label": "Gods Triads",
+      "file_type": "document",
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_budge_e_a_w_babylonian_legends_of_the_creation_1921_2_092e1075_md",
+      "target": "llm_anunnaki",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_budge_e_a_w_babylonian_legends_of_the_creation_1921_2_092e1075_md",
+      "target": "llm_berosus",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_budge_e_a_w_babylonian_legends_of_the_creation_1921_2_092e1075_md",
+      "target": "llm_gods_triads",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_budge_e_a_w_babylonian_legends_of_the_creation_1921_2_092e1075_md",
+      "target": "llm_kingu",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_budge_e_a_w_babylonian_legends_of_the_creation_1921_2_092e1075_md",
+      "target": "llm_marduk",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_budge_e_a_w_babylonian_legends_of_the_creation_1921_2_092e1075_md",
+      "target": "llm_seven_tablets_of_creation",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_budge_e_a_w_babylonian_legends_of_the_creation_1921_2_092e1075_md",
+      "target": "llm_ti_mat",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_marduk",
+      "target": "llm_ti_mat",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_marduk",
+      "target": "llm_kingu",
+      "relation": "sacrifices",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_marduk",
+      "target": "llm_anunnaki",
+      "relation": "receives_worship_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_seven_tablets_of_creation",
+      "target": "llm_berosus",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/BUDGE(E_A_W_)-Babylonian_Legends_of_the_Creation_(1921)-2--092e1075.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "usage": {
+    "prompt_tokens": 6223,
+    "completion_tokens": 1442,
+    "total_tokens": 7665,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

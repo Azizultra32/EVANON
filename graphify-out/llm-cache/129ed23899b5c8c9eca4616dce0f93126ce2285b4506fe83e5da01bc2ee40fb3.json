@@ -1,0 +1,395 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_md",
+      "label": "Bulletin of the Asia Institute",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_iranian_aniconism",
+      "label": "Iranian Aniconism",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_mesopotamian_heritage",
+      "label": "Mesopotamian Heritage",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ahura_mazd",
+      "label": "Ahura Mazd\u0101",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zoroastrianism",
+      "label": "Zoroastrianism",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_cultic_practices",
+      "label": "Cultic Practices",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_anthropomorphism",
+      "label": "Anthropomorphism",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_sasanian_art",
+      "label": "Sasanian Art",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_kushan_dynasty",
+      "label": "Kushan Dynasty",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_elamite_cults",
+      "label": "Elamite Cults",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_scythian_art",
+      "label": "Scythian Art",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zardu_t",
+      "label": "Zardu\u0161t",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_magi",
+      "label": "Magi",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_md",
+      "target": "llm_ahura_mazd",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_md",
+      "target": "llm_anthropomorphism",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_md",
+      "target": "llm_cultic_practices",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_md",
+      "target": "llm_elamite_cults",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_md",
+      "target": "llm_iranian_aniconism",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_md",
+      "target": "llm_kushan_dynasty",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_md",
+      "target": "llm_magi",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_md",
+      "target": "llm_mesopotamian_heritage",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_md",
+      "target": "llm_sasanian_art",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_md",
+      "target": "llm_scythian_art",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_md",
+      "target": "llm_zardu_t",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_md",
+      "target": "llm_zoroastrianism",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_iranian_aniconism",
+      "target": "llm_mesopotamian_heritage",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_iranian_aniconism",
+      "target": "llm_ahura_mazd",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_iranian_aniconism",
+      "target": "llm_zoroastrianism",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_iranian_aniconism",
+      "target": "llm_cultic_practices",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_iranian_aniconism",
+      "target": "llm_anthropomorphism",
+      "relation": "contrasts_with",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_iranian_aniconism",
+      "target": "llm_sasanian_art",
+      "relation": "participates_in",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_iranian_aniconism",
+      "target": "llm_kushan_dynasty",
+      "relation": "participates_in",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_iranian_aniconism",
+      "target": "llm_elamite_cults",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_iranian_aniconism",
+      "target": "llm_scythian_art",
+      "relation": "contrasts_with",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zardu_t",
+      "target": "llm_ahura_mazd",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_magi",
+      "target": "llm_zardu_t",
+      "relation": "participates_in",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aniconism_in_the_Religious_Art_of_Pre_Is.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "usage": {
+    "prompt_tokens": 5874,
+    "completion_tokens": 2270,
+    "total_tokens": 8144,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

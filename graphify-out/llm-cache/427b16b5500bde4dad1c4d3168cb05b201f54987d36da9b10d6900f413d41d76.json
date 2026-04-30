@@ -1,0 +1,333 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_502231919_traces_of_iran_md",
+      "label": "ABSTRACT:",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_iranian_civilization",
+      "label": "Iranian Civilization",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Prof. M.S. Tajar",
+      "contributor": null
+    },
+    {
+      "id": "llm_cyrus_the_great",
+      "label": "Cyrus the Great",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_mithraism",
+      "label": "Mithraism",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zoroastrianism",
+      "label": "Zoroastrianism",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_persian_poetry",
+      "label": "Persian Poetry",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_arab_conquest_of_persia",
+      "label": "Arab Conquest of Persia",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_cultural_influences",
+      "label": "Cultural Influences",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_persian_words_in_english",
+      "label": "Persian Words in English",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_iranian_scholars",
+      "label": "Iranian Scholars",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_persian_influence_in_spain",
+      "label": "Persian Influence in Spain",
+      "file_type": "document",
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_md",
+      "target": "llm_arab_conquest_of_persia",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_md",
+      "target": "llm_cultural_influences",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_md",
+      "target": "llm_cyrus_the_great",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_md",
+      "target": "llm_iranian_civilization",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_md",
+      "target": "llm_iranian_scholars",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_md",
+      "target": "llm_mithraism",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_md",
+      "target": "llm_persian_influence_in_spain",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_md",
+      "target": "llm_persian_poetry",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_md",
+      "target": "llm_persian_words_in_english",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_502231919_traces_of_iran_md",
+      "target": "llm_zoroastrianism",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_iranian_civilization",
+      "target": "llm_cyrus_the_great",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_iranian_civilization",
+      "target": "llm_mithraism",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_iranian_civilization",
+      "target": "llm_zoroastrianism",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_iranian_civilization",
+      "target": "llm_persian_poetry",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_iranian_civilization",
+      "target": "llm_arab_conquest_of_persia",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_iranian_civilization",
+      "target": "llm_cultural_influences",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_iranian_civilization",
+      "target": "llm_persian_words_in_english",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_iranian_civilization",
+      "target": "llm_iranian_scholars",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_iranian_civilization",
+      "target": "llm_persian_influence_in_spain",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/502231919-Traces-of-Iran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "usage": {
+    "prompt_tokens": 6983,
+    "completion_tokens": 1820,
+    "total_tokens": 8803,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

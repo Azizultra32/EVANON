@@ -1,0 +1,244 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_abraham_and_nimrod_in_the_shadow_of_zar_md",
+      "label": "--- Abraham and Nimrod in the Shadow of Zarathustra\\*",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_abraham",
+      "label": "Abraham",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_nimrod",
+      "label": "Nimrod",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zarathustra",
+      "label": "Zarathustra",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_fire_worship",
+      "label": "Fire Worship",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_greek_tradition",
+      "label": "Greek Tradition",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_midrash",
+      "label": "Midrash",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_syncretism",
+      "label": "Syncretism",
+      "file_type": "document",
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_abraham_and_nimrod_in_the_shadow_of_zar_md",
+      "target": "llm_abraham",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abraham_and_nimrod_in_the_shadow_of_zar_md",
+      "target": "llm_fire_worship",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abraham_and_nimrod_in_the_shadow_of_zar_md",
+      "target": "llm_greek_tradition",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abraham_and_nimrod_in_the_shadow_of_zar_md",
+      "target": "llm_midrash",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abraham_and_nimrod_in_the_shadow_of_zar_md",
+      "target": "llm_nimrod",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abraham_and_nimrod_in_the_shadow_of_zar_md",
+      "target": "llm_syncretism",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_abraham_and_nimrod_in_the_shadow_of_zar_md",
+      "target": "llm_zarathustra",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_abraham",
+      "target": "llm_nimrod",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_nimrod",
+      "target": "llm_zarathustra",
+      "relation": "identifies_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zarathustra",
+      "target": "llm_fire_worship",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_midrash",
+      "target": "llm_greek_tradition",
+      "relation": "reacts_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_abraham",
+      "target": "llm_zarathustra",
+      "relation": "syncretizes_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_syncretic_identification_of_figures",
+      "label": "Syncretic Identification of Figures",
+      "nodes": [
+        "llm_abraham",
+        "llm_nimrod",
+        "llm_zarathustra"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/ocr/Abraham_and_Nimrod_in_the_Shadow_of_Zar.md"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 5903,
+    "completion_tokens": 1258,
+    "total_tokens": 7161,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "label": "ASTYAGES, CYRUS AND ZOROASTER: SOLVING A HISTORICAL DILEMMA",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_astyages_cyrus_and_zoroaster_solving_a_historical_dilemma",
+      "label": "Astyages, Cyrus, and Zoroaster: Solving a Historical Dilemma",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_cyrus",
+      "label": "Cyrus",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zoroaster",
+      "label": "Zoroaster",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_darius",
+      "label": "Darius",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ahura_mazd",
+      "label": "Ahura Mazd\u0101",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_mithra",
+      "label": "Mithra",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_pasargadae",
+      "label": "Pasargadae",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_fire_temple",
+      "label": "Fire Temple",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_khvarenah",
+      "label": "Khvarenah",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_p_rs",
+      "label": "P\u0101rs\u0101",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_magi",
+      "label": "Magi",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_ahura_mazd",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_astyages_cyrus_and_zoroaster_solving_a_historical_dilemma",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_cyrus",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_darius",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_fire_temple",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_khvarenah",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_magi",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_mithra",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_p_rs",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_pasargadae",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_zoroaster",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_cyrus",
+      "target": "llm_ahura_mazd",
+      "relation": "worships",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_cyrus",
+      "target": "llm_mithra",
+      "relation": "seeks_protection_from",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_cyrus",
+      "target": "llm_pasargadae",
+      "relation": "associated_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_darius",
+      "target": "llm_magi",
+      "relation": "animosity_toward",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zoroaster",
+      "target": "llm_khvarenah",
+      "relation": "embodies",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_p_rs",
+      "target": "llm_fire_temple",
+      "relation": "associated_with",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_historical_context_of_zoroastrianism_and_persian_kingship",
+      "label": "Historical Context of Zoroastrianism and Persian Kingship",
+      "nodes": [
+        "llm_cyrus",
+        "llm_darius",
+        "llm_magi",
+        "llm_p_rs",
+        "llm_zoroaster"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 6225,
+    "completion_tokens": 1779,
+    "total_tokens": 8004,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

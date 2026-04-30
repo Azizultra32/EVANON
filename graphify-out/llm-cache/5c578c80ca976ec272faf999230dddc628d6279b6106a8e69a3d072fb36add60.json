@@ -1,0 +1,327 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "label": "PROBLEMS OF ARMENIAN PREHISTORY",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_hayk",
+      "label": "Hayk",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_aram",
+      "label": "Aram",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ara_the_handsome",
+      "label": "Ara the Handsome",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_bel",
+      "label": "Bel",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_bar_amin",
+      "label": "Bar\u0161amin",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_urartu",
+      "label": "Urartu",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_armenian_ethnonyms",
+      "label": "Armenian Ethnonyms",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_indo_european_mythology",
+      "label": "Indo-European Mythology",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_armenian_language",
+      "label": "Armenian Language",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ethnogonic_legends",
+      "label": "Ethnogonic Legends",
+      "file_type": "document",
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_ara_the_handsome",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_aram",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_armenian_ethnonyms",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_armenian_language",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_bar_amin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_bel",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_ethnogonic_legends",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_hayk",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_indo_european_mythology",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "target": "llm_urartu",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_hayk",
+      "target": "llm_aram",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_aram",
+      "target": "llm_ara_the_handsome",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_hayk",
+      "target": "llm_bel",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_bar_amin",
+      "target": "llm_hayk",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_urartu",
+      "target": "llm_armenian_ethnonyms",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_indo_european_mythology",
+      "target": "llm_ethnogonic_legends",
+      "relation": "participates_in",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_armenian_language",
+      "target": "llm_urartu",
+      "relation": "contrasts_with",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_armenian_ethnogenesis",
+      "label": "Armenian Ethnogenesis",
+      "nodes": [
+        "llm_ara_the_handsome",
+        "llm_aram",
+        "llm_hayk"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/ocr/2015_Petrosyan_Problems_of_Armenian_Prehistory.md"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 6493,
+    "completion_tokens": 1781,
+    "total_tokens": 8274,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

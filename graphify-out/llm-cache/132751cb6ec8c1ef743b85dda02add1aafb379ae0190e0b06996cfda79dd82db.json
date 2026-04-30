@@ -1,0 +1,354 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "label": "ASTYAGES, CYRUS AND ZOROASTER: SOLVING A HISTORICAL DILEMMA",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_astyages",
+      "label": "Astyages",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Abolala Soudavar",
+      "contributor": null
+    },
+    {
+      "id": "llm_cyrus",
+      "label": "Cyrus",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Abolala Soudavar",
+      "contributor": null
+    },
+    {
+      "id": "llm_zoroaster",
+      "label": "Zoroaster",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Abolala Soudavar",
+      "contributor": null
+    },
+    {
+      "id": "llm_darius",
+      "label": "Darius",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Abolala Soudavar",
+      "contributor": null
+    },
+    {
+      "id": "llm_median_magi",
+      "label": "Median Magi",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Abolala Soudavar",
+      "contributor": null
+    },
+    {
+      "id": "llm_p_rs",
+      "label": "P\u0101rs\u0101",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Abolala Soudavar",
+      "contributor": null
+    },
+    {
+      "id": "llm_khvarenah",
+      "label": "Khvarenah",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Abolala Soudavar",
+      "contributor": null
+    },
+    {
+      "id": "llm_da_h_k",
+      "label": "Da\u1e25h\u0101k",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Abolala Soudavar",
+      "contributor": null
+    },
+    {
+      "id": "llm_visht_spa",
+      "label": "Visht\u0101spa",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Abolala Soudavar",
+      "contributor": null
+    },
+    {
+      "id": "llm_mithra",
+      "label": "Mithra",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Abolala Soudavar",
+      "contributor": null
+    },
+    {
+      "id": "llm_apam_nap_t",
+      "label": "Apam Nap\u0101t",
+      "file_type": "document",
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Abolala Soudavar",
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_apam_nap_t",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_astyages",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_cyrus",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_da_h_k",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_darius",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_khvarenah",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_median_magi",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_mithra",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_p_rs",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_visht_spa",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "target": "llm_zoroaster",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_astyages",
+      "target": "llm_zoroaster",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_cyrus",
+      "target": "llm_zoroaster",
+      "relation": "contrasts_with",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_darius",
+      "target": "llm_cyrus",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_median_magi",
+      "target": "llm_zoroaster",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_p_rs",
+      "target": "llm_darius",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_khvarenah",
+      "target": "llm_mithra",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_da_h_k",
+      "target": "llm_astyages",
+      "relation": "contrasts_with",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_visht_spa",
+      "target": "llm_zoroaster",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_mithra",
+      "target": "llm_apam_nap_t",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Astyages_Cyrus_and_Zoroaster_Solving_a_H.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "usage": {
+    "prompt_tokens": 6069,
+    "completion_tokens": 1992,
+    "total_tokens": 8061,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

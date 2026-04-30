@@ -1,0 +1,16 @@
+# Do not let Graphify ingest its own assistant instructions, hooks, repo metadata,
+# virtualenv, or generated graph outputs when someone runs graphify from repo root.
+AGENTS.md
+.codex/
+.git/
+.githooks/
+.venv/
+graphify_zoroastrianism.egg-info/
+graphify-out/
+
+# Local config/secrets
+.env
+
+# OS/editor files
+.DS_Store
+Thumbs.db

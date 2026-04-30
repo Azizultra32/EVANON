@@ -1,0 +1,1 @@
+../../raw/ocr/69_On_the_Prophetic_and_Priestly_Authori copy.md

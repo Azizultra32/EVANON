@@ -1,0 +1,224 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_between_the_safavids_and_the_mughals_art_md",
+      "label": "BETWEEN THE SAFAVIDS AND THE MUGHALS: ART AND ARTISTS IN TRANSITION\\*",
+      "file_type": "document",
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_farrukh_beyg",
+      "label": "Farrukh Beyg",
+      "file_type": "document",
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_haft_awrang",
+      "label": "Haft awrang",
+      "file_type": "document",
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_mirz_salm_n",
+      "label": "Mirz\u0101 Salm\u0101n",
+      "file_type": "document",
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_amza_mirz",
+      "label": "\u1e24amza Mirz\u0101",
+      "file_type": "document",
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_mughal_court",
+      "label": "Mughal Court",
+      "file_type": "document",
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_qizilb_sh_am_rs",
+      "label": "Qizilb\u0101sh am\u012brs",
+      "file_type": "document",
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_between_the_safavids_and_the_mughals_art_md",
+      "target": "llm_amza_mirz",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_between_the_safavids_and_the_mughals_art_md",
+      "target": "llm_farrukh_beyg",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_between_the_safavids_and_the_mughals_art_md",
+      "target": "llm_haft_awrang",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_between_the_safavids_and_the_mughals_art_md",
+      "target": "llm_mirz_salm_n",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_between_the_safavids_and_the_mughals_art_md",
+      "target": "llm_mughal_court",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_between_the_safavids_and_the_mughals_art_md",
+      "target": "llm_qizilb_sh_am_rs",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_farrukh_beyg",
+      "target": "llm_haft_awrang",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_farrukh_beyg",
+      "target": "llm_mirz_salm_n",
+      "relation": "linked_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_farrukh_beyg",
+      "target": "llm_amza_mirz",
+      "relation": "linked_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_farrukh_beyg",
+      "target": "llm_mughal_court",
+      "relation": "migrates_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_mirz_salm_n",
+      "target": "llm_qizilb_sh_am_rs",
+      "relation": "contrasts_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_farrukh_beyg_s_migration",
+      "label": "Farrukh Beyg's Migration",
+      "nodes": [
+        "llm_amza_mirz",
+        "llm_farrukh_beyg",
+        "llm_mirz_salm_n",
+        "llm_mughal_court"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/ocr/Between_the_Safavids_and_the_Mughals_Art.md"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 6188,
+    "completion_tokens": 1244,
+    "total_tokens": 7432,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

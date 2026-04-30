@@ -1,0 +1,23 @@
+#!/bin/sh
+command -v git-lfs >/dev/null 2>&1 || { echo >&2 "\nThis repository is configured for Git LFS but 'git-lfs' was not found on your path.\n"; exit 2; }
+git lfs post-commit "$@"
+
+# graphify-hook-start
+# Corpus-safe Graphify hook.
+# The stock Graphify git hook rebuilds code graphs. This repository's graphify-out/
+# is the Zoroastrian corpus graph, so code-only rebuilds would overwrite the wrong graph.
+# For corpus/OCR/input changes, mark that semantic re-extraction is required.
+
+GIT_DIR=$(git rev-parse --git-dir 2>/dev/null)
+[ -d "$GIT_DIR/rebase-merge" ] && exit 0
+[ -d "$GIT_DIR/rebase-apply" ] && exit 0
+[ -f "$GIT_DIR/MERGE_HEAD" ] && exit 0
+[ -f "$GIT_DIR/CHERRY_PICK_HEAD" ] && exit 0
+
+CHANGED=$(git diff --name-only HEAD~1 HEAD 2>/dev/null || git diff --name-only HEAD 2>/dev/null || true)
+[ -z "$CHANGED" ] && exit 0
+
+if [ -x scripts/mark_semantic_update.sh ]; then
+  scripts/mark_semantic_update.sh "$CHANGED"
+fi
+# graphify-hook-end

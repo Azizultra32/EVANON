@@ -1,0 +1,323 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_md",
+      "label": "IRANO-JUDAICA VII",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zoroastrian_eschatology",
+      "label": "Zoroastrian Eschatology",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_judaism_eschatology",
+      "label": "Judaism Eschatology",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ahura_mazd",
+      "label": "Ahura Mazd\u0101",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_individual_judgement",
+      "label": "Individual Judgement",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_universal_judgement",
+      "label": "Universal Judgement",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_heaven",
+      "label": "Heaven",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_hell",
+      "label": "Hell",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_resurrection",
+      "label": "Resurrection",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_cross_fertilization_of_eschatology",
+      "label": "Cross-Fertilization of Eschatology",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_antonio_panaino",
+      "label": "Antonio Panaino",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_md",
+      "target": "llm_ahura_mazd",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_md",
+      "target": "llm_antonio_panaino",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_md",
+      "target": "llm_cross_fertilization_of_eschatology",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_md",
+      "target": "llm_heaven",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_md",
+      "target": "llm_hell",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_md",
+      "target": "llm_individual_judgement",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_md",
+      "target": "llm_judaism_eschatology",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_md",
+      "target": "llm_resurrection",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_md",
+      "target": "llm_universal_judgement",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_md",
+      "target": "llm_zoroastrian_eschatology",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zoroastrian_eschatology",
+      "target": "llm_ahura_mazd",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_judaism_eschatology",
+      "target": "llm_resurrection",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zoroastrian_eschatology",
+      "target": "llm_individual_judgement",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zoroastrian_eschatology",
+      "target": "llm_universal_judgement",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zoroastrian_eschatology",
+      "target": "llm_heaven",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zoroastrian_eschatology",
+      "target": "llm_hell",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_cross_fertilization_of_eschatology",
+      "target": "llm_judaism_eschatology",
+      "relation": "inferred",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_antonio_panaino",
+      "target": "llm_cross_fertilization_of_eschatology",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "usage": {
+    "prompt_tokens": 6304,
+    "completion_tokens": 1818,
+    "total_tokens": 8122,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

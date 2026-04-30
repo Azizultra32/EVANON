@@ -1,0 +1,265 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "label": "ANCIENT IRANIAN MOTIFS AND ZOROASTRIAN ICONOGRAPHY",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_yazdgerd_iii",
+      "label": "Yazdgerd III",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_magi",
+      "label": "Magi",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_darius_the_great",
+      "label": "Darius the Great",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_akbar",
+      "label": "Akbar",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_farvahar",
+      "label": "Farvahar",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_nowruz",
+      "label": "Nowruz",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_jamshid",
+      "label": "Jamshid",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_persepolis",
+      "label": "Persepolis",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 2/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_akbar",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_darius_the_great",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_farvahar",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_jamshid",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_magi",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_nowruz",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_persepolis",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_yazdgerd_iii",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_yazdgerd_iii",
+      "target": "llm_magi",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_magi",
+      "target": "llm_darius_the_great",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_akbar",
+      "target": "llm_farvahar",
+      "relation": "participates_in",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_farvahar",
+      "target": "llm_nowruz",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_jamshid",
+      "target": "llm_persepolis",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 2/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_zoroastrian_influence_on_art",
+      "label": "Zoroastrian Influence on Art",
+      "nodes": [
+        "llm_farvahar",
+        "llm_magi",
+        "llm_nowruz"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 5702,
+    "completion_tokens": 1381,
+    "total_tokens": 7083,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

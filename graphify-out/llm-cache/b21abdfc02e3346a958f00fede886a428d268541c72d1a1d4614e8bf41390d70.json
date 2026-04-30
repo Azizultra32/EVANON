@@ -1,0 +1,255 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "label": "ANCIENT IRANIAN MOTIFS AND ZOROASTRIAN ICONOGRAPHY",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_druvasp",
+      "label": "Druvasp\u0101",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_shah_lohr_sp",
+      "label": "Shah Lohr\u0101sp",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_king_darius",
+      "label": "King Darius",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zarathustra",
+      "label": "Zarathustra",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_mithra",
+      "label": "Mithra",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_t_q_e_bost_n",
+      "label": "T\u0101q-e Bost\u0101n",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_persepolis",
+      "label": "Persepolis",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_fire_temple",
+      "label": "Fire Temple",
+      "file_type": "document",
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_druvasp",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_fire_temple",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_king_darius",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_mithra",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_persepolis",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_shah_lohr_sp",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_t_q_e_bost_n",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "target": "llm_zarathustra",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_druvasp",
+      "target": "llm_shah_lohr_sp",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_shah_lohr_sp",
+      "target": "llm_king_darius",
+      "relation": "participates_in",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zarathustra",
+      "target": "llm_mithra",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_fire_temple",
+      "target": "llm_persepolis",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_zoroastrian_iconography",
+      "label": "Zoroastrian Iconography",
+      "nodes": [
+        "llm_druvasp",
+        "llm_shah_lohr_sp",
+        "llm_zarathustra"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/ocr/Ancient_Iranian_Motifs_and_Zoroastrian_I.md"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 7240,
+    "completion_tokens": 1302,
+    "total_tokens": 8542,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

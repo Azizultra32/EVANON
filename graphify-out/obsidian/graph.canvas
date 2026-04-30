@@ -1,0 +1,6924 @@
+{
+  "nodes": [
+    {
+      "id": "g0",
+      "type": "group",
+      "label": "Mithraic Studies",
+      "x": 0,
+      "y": 0,
+      "width": 1980,
+      "height": 2720,
+      "color": "1"
+    },
+    {
+      "id": "n_doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_2_md",
+      "type": "file",
+      "file": "THE AURA OF KINGS.md",
+      "x": 20,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_copy_2_md",
+      "type": "file",
+      "file": "THE AURA OF KINGS_1.md",
+      "x": 220,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_copy_md",
+      "type": "file",
+      "file": "THE AURA OF KINGS_2.md",
+      "x": 420,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_md",
+      "type": "file",
+      "file": "THE AURA OF KINGS_3.md",
+      "x": 20,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "type": "file",
+      "file": "ASTYAGES, CYRUS AND ZOROASTER SOLVING A HISTORICAL DILEMMA.md",
+      "x": 220,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_achaemenid_empire",
+      "type": "file",
+      "file": "Achaemenid Empire.md",
+      "x": 420,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_achaemenid_history",
+      "type": "file",
+      "file": "Achaemenid History.md",
+      "x": 20,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_achaemenid_history_derailed_by_avestology",
+      "type": "file",
+      "file": "Achaemenid History Derailed by Avestology.md",
+      "x": 220,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_2_md",
+      "type": "file",
+      "file": "Achaemenid History Derailed by AvestologyAssessing La religion des Ach\u00e9m\u00e9nides confrontation des sources.md",
+      "x": 420,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "type": "file",
+      "file": "Achaemenid History Derailed by AvestologyAssessing La religion des Ach\u00e9m\u00e9nides confrontation des sources_1.md",
+      "x": 20,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_ahura_mazda",
+      "type": "file",
+      "file": "Ahura Mazda.md",
+      "x": 220,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_ahura_mazd",
+      "type": "file",
+      "file": "Ahura Mazd\u0101.md",
+      "x": 420,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_alberto_cantera",
+      "type": "file",
+      "file": "Alberto Cantera.md",
+      "x": 20,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_anahita",
+      "type": "file",
+      "file": "Anahita.md",
+      "x": 220,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_an_hit",
+      "type": "file",
+      "file": "An\u0101hit\u0101.md",
+      "x": 420,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_apam_nap_t",
+      "type": "file",
+      "file": "Apam-Nap\u0101t.md",
+      "x": 20,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_arachosia",
+      "type": "file",
+      "file": "Arachosia.md",
+      "x": 220,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_astyages",
+      "type": "file",
+      "file": "Astyages.md",
+      "x": 420,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_astyages_cyrus_and_zoroaster_solving_a_historical_dilemma",
+      "type": "file",
+      "file": "Astyages, Cyrus, and Zoroaster Solving a Historical Dilemma.md",
+      "x": 20,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_document_raw_ocr_academia_summary_aura_of_kings_legitimacy_and_divine_sanction_in_iranian_kingship_md",
+      "type": "file",
+      "file": "Aura of Kings; Legitimacy and Divine Sanction in Iranian Kingship.md",
+      "x": 220,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_avesta",
+      "type": "file",
+      "file": "Avesta.md",
+      "x": 420,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_bondahesh",
+      "type": "file",
+      "file": "Bondahesh.md",
+      "x": 20,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_brotherhood_principles",
+      "type": "file",
+      "file": "Brotherhood Principles.md",
+      "x": 220,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_covenant",
+      "type": "file",
+      "file": "Covenant.md",
+      "x": 420,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_cyrus",
+      "type": "file",
+      "file": "Cyrus.md",
+      "x": 20,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_cyrus_ii",
+      "type": "file",
+      "file": "Cyrus II.md",
+      "x": 220,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_darius",
+      "type": "file",
+      "file": "Darius.md",
+      "x": 420,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_datames",
+      "type": "file",
+      "file": "Datames.md",
+      "x": 20,
+      "y": 800,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_da_h_k",
+      "type": "file",
+      "file": "Da\u1e25h\u0101k.md",
+      "x": 220,
+      "y": 800,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_divine_glory",
+      "type": "file",
+      "file": "Divine Glory.md",
+      "x": 420,
+      "y": 800,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_divine_sanction",
+      "type": "file",
+      "file": "Divine Sanction.md",
+      "x": 20,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_farr_divine_glory",
+      "type": "file",
+      "file": "Farr (Divine Glory).md",
+      "x": 220,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_farvardin_yasht",
+      "type": "file",
+      "file": "Farvardin Yasht.md",
+      "x": 420,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_fire_temple",
+      "type": "file",
+      "file": "Fire Temple.md",
+      "x": 20,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_g_th_s",
+      "type": "file",
+      "file": "G\u0101th\u0101s.md",
+      "x": 220,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_initiation_rites",
+      "type": "file",
+      "file": "Initiation Rites.md",
+      "x": 420,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_iranian_kingship",
+      "type": "file",
+      "file": "Iranian Kingship.md",
+      "x": 20,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_jean_kellens",
+      "type": "file",
+      "file": "Jean Kellens.md",
+      "x": 220,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_kellens",
+      "type": "file",
+      "file": "Kellens.md",
+      "x": 420,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_khvarenah",
+      "type": "file",
+      "file": "Khvarenah.md",
+      "x": 20,
+      "y": 1120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_khvarnah",
+      "type": "file",
+      "file": "Khvarnah.md",
+      "x": 220,
+      "y": 1120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_lotus_flower",
+      "type": "file",
+      "file": "Lotus Flower.md",
+      "x": 420,
+      "y": 1120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_lotus_sunflower_motif",
+      "type": "file",
+      "file": "Lotus-Sunflower Motif.md",
+      "x": 20,
+      "y": 1200,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_document_raw_ocr_academia_summary_mithraic_societies_from_brotherhood_ideal_to_religion_s_adversary_2_md",
+      "type": "file",
+      "file": "MITHRAIC SOCIETIES FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY.md",
+      "x": 220,
+      "y": 1200,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_document_raw_ocr_academia_summary_mithraic_societies_from_brotherhood_ideal_to_religion_s_adversary_3_md",
+      "type": "file",
+      "file": "MITHRAIC SOCIETIES FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY_1.md",
+      "x": 420,
+      "y": 1200,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_document_raw_ocr_academia_summary_mithraic_societies_from_brotherhood_ideal_to_religion_s_adversary_md",
+      "type": "file",
+      "file": "MITHRAIC SOCIETIES FROM BROTHERHOOD IDEAL TO RELIGION'S ADVERSARY_2.md",
+      "x": 20,
+      "y": 1280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_magophonia",
+      "type": "file",
+      "file": "Magophonia.md",
+      "x": 220,
+      "y": 1280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_magu",
+      "type": "file",
+      "file": "Magu.md",
+      "x": 420,
+      "y": 1280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_median_ideology",
+      "type": "file",
+      "file": "Median Ideology.md",
+      "x": 20,
+      "y": 1360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_median_magi",
+      "type": "file",
+      "file": "Median Magi.md",
+      "x": 220,
+      "y": 1360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_mithra",
+      "type": "file",
+      "file": "Mithra.md",
+      "x": 420,
+      "y": 1360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_mithraic_societies",
+      "type": "file",
+      "file": "Mithraic Societies.md",
+      "x": 20,
+      "y": 1440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_mithr",
+      "type": "file",
+      "file": "Mithr\u0101.md",
+      "x": 220,
+      "y": 1440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_narseh",
+      "type": "file",
+      "file": "Narseh.md",
+      "x": 420,
+      "y": 1440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_pahlav",
+      "type": "file",
+      "file": "Pahlav.md",
+      "x": 20,
+      "y": 1520,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_pasargadae",
+      "type": "file",
+      "file": "Pasargadae.md",
+      "x": 220,
+      "y": 1520,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_persian_king_sassanid_era",
+      "type": "file",
+      "file": "Persian King (Sassanid Era).md",
+      "x": 420,
+      "y": 1520,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_political_instruments",
+      "type": "file",
+      "file": "Political Instruments.md",
+      "x": 20,
+      "y": 1600,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_priesthood",
+      "type": "file",
+      "file": "Priesthood.md",
+      "x": 220,
+      "y": 1600,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_proto_yasna_a",
+      "type": "file",
+      "file": "Proto-Yasna A.md",
+      "x": 420,
+      "y": 1600,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_proto_yasna_b",
+      "type": "file",
+      "file": "Proto-Yasna B.md",
+      "x": 20,
+      "y": 1680,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_p_rs",
+      "type": "file",
+      "file": "P\u0101rs\u0101.md",
+      "x": 220,
+      "y": 1680,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_document_raw_ocr_academia_summary_reconsidering_the_concept_of_revolutionary_monotheism_beate_pongratz_leisten_winona_lake_indiana_eisenbrauns_2011_offprint_from_md",
+      "type": "file",
+      "file": "Reconsidering the Concept of Revolutionary Monotheism Beate Pongratz-Leisten Winona Lake, Indiana EisEnbrauns 2011 Offprint frOm.md",
+      "x": 420,
+      "y": 1680,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_revolutionary_monotheism",
+      "type": "file",
+      "file": "Revolutionary Monotheism.md",
+      "x": 20,
+      "y": 1760,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_sasanian_iconography",
+      "type": "file",
+      "file": "Sasanian Iconography.md",
+      "x": 220,
+      "y": 1760,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_sasanian_reliefs",
+      "type": "file",
+      "file": "Sasanian Reliefs.md",
+      "x": 420,
+      "y": 1760,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_sh_pur_ii",
+      "type": "file",
+      "file": "Sh\u0101pur II.md",
+      "x": 20,
+      "y": 1840,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_soudavar",
+      "type": "file",
+      "file": "Soudavar.md",
+      "x": 220,
+      "y": 1840,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_sunflower",
+      "type": "file",
+      "file": "Sunflower.md",
+      "x": 420,
+      "y": 1840,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_sunflower_symbol",
+      "type": "file",
+      "file": "Sunflower Symbol.md",
+      "x": 20,
+      "y": 1920,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_the_aura_of_kings",
+      "type": "file",
+      "file": "The Aura of Kings.md",
+      "x": 220,
+      "y": 1920,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_visht_spa",
+      "type": "file",
+      "file": "Visht\u0101spa.md",
+      "x": 420,
+      "y": 1920,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_winged_disk",
+      "type": "file",
+      "file": "Winged Disk.md",
+      "x": 20,
+      "y": 2000,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_xavier_tremblay",
+      "type": "file",
+      "file": "Xavier Tremblay.md",
+      "x": 220,
+      "y": 2000,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_xerxes",
+      "type": "file",
+      "file": "Xerxes.md",
+      "x": 420,
+      "y": 2000,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_young_avesta",
+      "type": "file",
+      "file": "Young Avesta.md",
+      "x": 20,
+      "y": 2080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_zoroaster",
+      "type": "file",
+      "file": "Zoroaster.md",
+      "x": 220,
+      "y": 2080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g1",
+      "type": "group",
+      "label": "Avestan Texts",
+      "x": 2060,
+      "y": 0,
+      "width": 1760,
+      "height": 2020,
+      "color": "2"
+    },
+    {
+      "id": "n_doc_document_raw_ocr_abraham_and_nimrod_in_the_shadow_of_zar_md",
+      "type": "file",
+      "file": "--- Abraham and Nimrod in the Shadow of Zarathustra.md",
+      "x": 2080,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "type": "file",
+      "file": "--- Monotheism the Zoroastrian Way.md",
+      "x": 2280,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "type": "file",
+      "file": "A History of Persian Literature Volume XVII.md",
+      "x": 2480,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_abraham",
+      "type": "file",
+      "file": "Abraham.md",
+      "x": 2080,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_ahuna_vairya",
+      "type": "file",
+      "file": "Ahuna Vairya.md",
+      "x": 2280,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_ahuna_vairya_prayer",
+      "type": "file",
+      "file": "Ahuna Vairya Prayer.md",
+      "x": 2480,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_amesha_spentas",
+      "type": "file",
+      "file": "Amesha Spentas.md",
+      "x": 2080,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_avestan_literature",
+      "type": "file",
+      "file": "Avestan Literature.md",
+      "x": 2280,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_conflict_between_prophet_and_priest",
+      "type": "file",
+      "file": "Conflict between Prophet and Priest.md",
+      "x": 2480,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_creatio_ex_deo",
+      "type": "file",
+      "file": "Creatio ex Deo.md",
+      "x": 2080,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_daevas",
+      "type": "file",
+      "file": "Daevas.md",
+      "x": 2280,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_dualism",
+      "type": "file",
+      "file": "Dualism.md",
+      "x": 2480,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_fire_worship",
+      "type": "file",
+      "file": "Fire Worship.md",
+      "x": 2080,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_friedrich_nietzsche",
+      "type": "file",
+      "file": "Friedrich Nietzsche.md",
+      "x": 2280,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_gathas",
+      "type": "file",
+      "file": "Gathas.md",
+      "x": 2480,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_gathic_composition",
+      "type": "file",
+      "file": "Gathic Composition.md",
+      "x": 2080,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_gender_roles",
+      "type": "file",
+      "file": "Gender Roles.md",
+      "x": 2280,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_gender_roles_in_zoroastrianism",
+      "type": "file",
+      "file": "Gender Roles in Zoroastrianism.md",
+      "x": 2480,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_genesis_rabbah",
+      "type": "file",
+      "file": "Genesis Rabbah.md",
+      "x": 2080,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_2_md",
+      "type": "file",
+      "file": "Gifts to a Magus.md",
+      "x": 2280,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_copy_md",
+      "type": "file",
+      "file": "Gifts to a Magus_2.md",
+      "x": 2480,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_md",
+      "type": "file",
+      "file": "Gifts to a Magus_3.md",
+      "x": 2080,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_gifts_to_a_magus",
+      "type": "file",
+      "file": "Gifts to a Magus_1.md",
+      "x": 2280,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_greek_tradition",
+      "type": "file",
+      "file": "Greek Tradition.md",
+      "x": 2480,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_haran",
+      "type": "file",
+      "file": "Haran.md",
+      "x": 2080,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_indo_european_poetic_language_in_the_gathas",
+      "type": "file",
+      "file": "Indo-European Poetic Language in the Gathas.md",
+      "x": 2280,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_khorde_avesta",
+      "type": "file",
+      "file": "Khorde Avesta.md",
+      "x": 2480,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_material_creation",
+      "type": "file",
+      "file": "Material Creation.md",
+      "x": 2080,
+      "y": 800,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_material_world",
+      "type": "file",
+      "file": "Material World.md",
+      "x": 2280,
+      "y": 800,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_mazdayasnian_religion",
+      "type": "file",
+      "file": "Mazdayasnian Religion.md",
+      "x": 2480,
+      "y": 800,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_midrash",
+      "type": "file",
+      "file": "Midrash.md",
+      "x": 2080,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_monotheism",
+      "type": "file",
+      "file": "Monotheism.md",
+      "x": 2280,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_nimrod",
+      "type": "file",
+      "file": "Nimrod.md",
+      "x": 2480,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_polytheism",
+      "type": "file",
+      "file": "Polytheism.md",
+      "x": 2080,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_priestly_authority",
+      "type": "file",
+      "file": "Priestly Authority.md",
+      "x": 2280,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_prophetic_authority",
+      "type": "file",
+      "file": "Prophetic Authority.md",
+      "x": 2480,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_pseudo_philo",
+      "type": "file",
+      "file": "Pseudo-Philo.md",
+      "x": 2080,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_ritual_fire",
+      "type": "file",
+      "file": "Ritual Fire.md",
+      "x": 2280,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_spiritual_creation",
+      "type": "file",
+      "file": "Spiritual Creation.md",
+      "x": 2480,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_spiritual_world",
+      "type": "file",
+      "file": "Spiritual World.md",
+      "x": 2080,
+      "y": 1120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_syncretism",
+      "type": "file",
+      "file": "Syncretism.md",
+      "x": 2280,
+      "y": 1120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_va_nask",
+      "type": "file",
+      "file": "Va\u0113\u0111\u0101 Nask.md",
+      "x": 2480,
+      "y": 1120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_vid_vd_d",
+      "type": "file",
+      "file": "Vid\u0113vd\u0101d.md",
+      "x": 2080,
+      "y": 1200,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_visperad",
+      "type": "file",
+      "file": "Visperad.md",
+      "x": 2280,
+      "y": 1200,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_vi_t_sp_ya_t",
+      "type": "file",
+      "file": "Vi\u0161t\u0101sp Ya\u0161t.md",
+      "x": 2480,
+      "y": 1200,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_v_d_vd_d",
+      "type": "file",
+      "file": "V\u012bd\u0113vd\u0101d.md",
+      "x": 2080,
+      "y": 1280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_women_priests",
+      "type": "file",
+      "file": "Women Priests.md",
+      "x": 2280,
+      "y": 1280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_yasna",
+      "type": "file",
+      "file": "Yasna.md",
+      "x": 2480,
+      "y": 1280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_ya_ts",
+      "type": "file",
+      "file": "Ya\u0161ts.md",
+      "x": 2080,
+      "y": 1360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_yishai_kiel",
+      "type": "file",
+      "file": "Yishai Kiel.md",
+      "x": 2280,
+      "y": 1360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_younger_avesta",
+      "type": "file",
+      "file": "Younger Avesta.md",
+      "x": 2480,
+      "y": 1360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_zarathustra",
+      "type": "file",
+      "file": "Zarathustra.md",
+      "x": 2080,
+      "y": 1440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_zoroastrianism",
+      "type": "file",
+      "file": "Zoroastrianism.md",
+      "x": 2280,
+      "y": 1440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_zara_u_tr_t_ma",
+      "type": "file",
+      "file": "zara\u03b8u\u0161tr\u014dt\u0259ma.md",
+      "x": 2480,
+      "y": 1440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_zardu_tr_tama",
+      "type": "file",
+      "file": "zardu\u0161tr\u014dtama.md",
+      "x": 2080,
+      "y": 1520,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_zardu_tr_tom",
+      "type": "file",
+      "file": "zardu\u0161tr\u014dtom.md",
+      "x": 2280,
+      "y": 1520,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_fr_n_zardu_t",
+      "type": "file",
+      "file": "\u0100fr\u012bn \u012b Zardu\u0161t.md",
+      "x": 2480,
+      "y": 1520,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g2",
+      "type": "group",
+      "label": "Iranian Kingship",
+      "x": 3900,
+      "y": 0,
+      "width": 1540,
+      "height": 1720,
+      "color": "3"
+    },
+    {
+      "id": "n_llm_abu_ali_sina",
+      "type": "file",
+      "file": "Abu Ali Sina.md",
+      "x": 3920,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_abu_ali_sina_avicenna",
+      "type": "file",
+      "file": "Abu Ali Sina (Avicenna).md",
+      "x": 4120,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_abu_zaid_balkhy",
+      "type": "file",
+      "file": "Abu Zaid Balkhy.md",
+      "x": 4320,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_al_kashani",
+      "type": "file",
+      "file": "Al-Kashani.md",
+      "x": 3920,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_al_khawrazmi",
+      "type": "file",
+      "file": "Al-Khawrazmi.md",
+      "x": 4120,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_ayatullah_ruhullah_khomeini",
+      "type": "file",
+      "file": "Ayatullah Ruhullah Khomeini.md",
+      "x": 4320,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_contribution_of_persia_to_world_civilization",
+      "type": "file",
+      "file": "Contribution of Persia to World Civilization.md",
+      "x": 3920,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_document_raw_ocr_50263688_contribution_of_persia_to_the_world_civilization_doc_xp_md",
+      "type": "file",
+      "file": "Contribution of Persia to the World Civilization.md",
+      "x": 4120,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_cyrus_the_great",
+      "type": "file",
+      "file": "Cyrus the Great.md",
+      "x": 4320,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_document_raw_ocr_471689884_contribution_of_persia_to_the_world_civilization_2019_doc_doc_2_md",
+      "type": "file",
+      "file": "Decorative blue oval graphicDecorative blue oval graphicContribution of Persia To World Civilization.md",
+      "x": 3920,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_document_raw_ocr_471689884_contribution_of_persia_to_the_world_civilization_2019_doc_doc_md",
+      "type": "file",
+      "file": "Decorative blue oval graphicDecorative blue oval graphicContribution of Persia To World Civilization_1.md",
+      "x": 4120,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_dr_nasser_khalili",
+      "type": "file",
+      "file": "Dr. Nasser Khalili.md",
+      "x": 4320,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_egyptians",
+      "type": "file",
+      "file": "Egyptians.md",
+      "x": 3920,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_first_civilization",
+      "type": "file",
+      "file": "First Civilization.md",
+      "x": 4120,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_first_great_human_civilization",
+      "type": "file",
+      "file": "First Great Human Civilization.md",
+      "x": 4320,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_human_rights_charter",
+      "type": "file",
+      "file": "Human Rights Charter.md",
+      "x": 3920,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_ibn_khordad_beh",
+      "type": "file",
+      "file": "Ibn Khordad Beh.md",
+      "x": 4120,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_indo_european_languages",
+      "type": "file",
+      "file": "Indo-European Languages.md",
+      "x": 4320,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_king_darius",
+      "type": "file",
+      "file": "King Darius.md",
+      "x": 3920,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_king_jamshid",
+      "type": "file",
+      "file": "King Jamshid.md",
+      "x": 4120,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_mohammad_majlesi",
+      "type": "file",
+      "file": "Mohammad Majlesi.md",
+      "x": 4320,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_mughals",
+      "type": "file",
+      "file": "Mughals.md",
+      "x": 3920,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_naseer_ad_din_toosi",
+      "type": "file",
+      "file": "Naseer Ad-Din Toosi.md",
+      "x": 4120,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_naseer_ad_din_tousi",
+      "type": "file",
+      "file": "Naseer ad-Din Tousi.md",
+      "x": 4320,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_parsi",
+      "type": "file",
+      "file": "Parsi.md",
+      "x": 3920,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_parthian_shots",
+      "type": "file",
+      "file": "Parthian Shots.md",
+      "x": 4120,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_persia",
+      "type": "file",
+      "file": "Persia.md",
+      "x": 4320,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_persian_architecture",
+      "type": "file",
+      "file": "Persian Architecture.md",
+      "x": 3920,
+      "y": 800,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_persian_carpet",
+      "type": "file",
+      "file": "Persian Carpet.md",
+      "x": 4120,
+      "y": 800,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_persian_civilization",
+      "type": "file",
+      "file": "Persian Civilization.md",
+      "x": 4320,
+      "y": 800,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_persian_empire",
+      "type": "file",
+      "file": "Persian Empire.md",
+      "x": 3920,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_persian_scientists",
+      "type": "file",
+      "file": "Persian Scientists.md",
+      "x": 4120,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_professor_arthur_a_pope",
+      "type": "file",
+      "file": "Professor Arthur A. Pope.md",
+      "x": 4320,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_qanat",
+      "type": "file",
+      "file": "Qanat.md",
+      "x": 3920,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_qawwali",
+      "type": "file",
+      "file": "Qawwali.md",
+      "x": 4120,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_queen_noor_jahan",
+      "type": "file",
+      "file": "Queen Noor Jahan.md",
+      "x": 4320,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_qutb_shirazi",
+      "type": "file",
+      "file": "Qutb Shirazi.md",
+      "x": 3920,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_saladdin",
+      "type": "file",
+      "file": "Saladdin.md",
+      "x": 4120,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_saxons",
+      "type": "file",
+      "file": "Saxons.md",
+      "x": 4320,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_sibawaih",
+      "type": "file",
+      "file": "Sibawaih.md",
+      "x": 3920,
+      "y": 1120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_silk_road",
+      "type": "file",
+      "file": "Silk Road.md",
+      "x": 4120,
+      "y": 1120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_sir_john_malcolm",
+      "type": "file",
+      "file": "Sir John Malcolm.md",
+      "x": 4320,
+      "y": 1120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_sir_percy_sykes",
+      "type": "file",
+      "file": "Sir Percy Sykes.md",
+      "x": 3920,
+      "y": 1200,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_sumerians",
+      "type": "file",
+      "file": "Sumerians.md",
+      "x": 4120,
+      "y": 1200,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_taj_mahal",
+      "type": "file",
+      "file": "Taj Mahal.md",
+      "x": 4320,
+      "y": 1200,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_tehran",
+      "type": "file",
+      "file": "Tehran.md",
+      "x": 3920,
+      "y": 1280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_zakariyya_al_razi",
+      "type": "file",
+      "file": "Zakariyya Al Razi.md",
+      "x": 4120,
+      "y": 1280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g3",
+      "type": "group",
+      "label": "Iranian Kingship",
+      "x": 5520,
+      "y": 0,
+      "width": 1540,
+      "height": 1520,
+      "color": "4"
+    },
+    {
+      "id": "n_llm_abar_r_dest_n_bab_l",
+      "type": "file",
+      "file": "Abar R\u014ddest\u0101n \u012b Bab\u0113l.md",
+      "x": 5540,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_abarg",
+      "type": "file",
+      "file": "Abarg.md",
+      "x": 5740,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_abarg_zoroastrian_teacher",
+      "type": "file",
+      "file": "Abarg (Zoroastrian Teacher).md",
+      "x": 5940,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_angra_manyu",
+      "type": "file",
+      "file": "Angra Manyu.md",
+      "x": 5540,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_document_raw_ocr_concepts_of_pollution_in_late_sasanian_i_md",
+      "type": "file",
+      "file": "CONCEPTS OF POLLUTION IN LATE SASANIAN IRAN DOES POLLUTION NEED STAIRS, AND DOES IT FILL SPACE.md",
+      "x": 5740,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_concepts_of_pollution",
+      "type": "file",
+      "file": "Concepts of Pollution.md",
+      "x": 5940,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_concepts_of_pollution_in_late_sasanian_iran",
+      "type": "file",
+      "file": "Concepts of Pollution in Late Sasanian Iran.md",
+      "x": 5540,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_corpse_pollution",
+      "type": "file",
+      "file": "Corpse Pollution.md",
+      "x": 5740,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_d_n",
+      "type": "file",
+      "file": "D\u0113n.md",
+      "x": 5940,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_empty_space",
+      "type": "file",
+      "file": "Empty Space.md",
+      "x": 5540,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "type": "file",
+      "file": "Encounters by the Rivers of Babylon.md",
+      "x": 5740,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_encounters_by_the_rivers_of_babylon",
+      "type": "file",
+      "file": "Encounters by the Rivers of Babylon_1.md",
+      "x": 5940,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_gumbad_dome",
+      "type": "file",
+      "file": "Gumbad (Dome).md",
+      "x": 5540,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_g_th",
+      "type": "file",
+      "file": "G\u0101th\u0101.md",
+      "x": 5740,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_iranian_speaking_kingdom_of_khotan",
+      "type": "file",
+      "file": "Iranian-speaking Kingdom of Khotan.md",
+      "x": 5940,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_irano_jewish_symbiosis",
+      "type": "file",
+      "file": "Irano-Jewish Symbiosis.md",
+      "x": 5540,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_jews_in_xinjiang",
+      "type": "file",
+      "file": "Jews in Xinjiang.md",
+      "x": 5740,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_menstrual_huts",
+      "type": "file",
+      "file": "Menstrual Huts.md",
+      "x": 5940,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_m_dy_m_h",
+      "type": "file",
+      "file": "M\u0113dy\u014dm\u0101h.md",
+      "x": 5540,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_m_dy_m_h_zoroastrian_teacher",
+      "type": "file",
+      "file": "M\u0113dy\u014dm\u0101h (Zoroastrian Teacher).md",
+      "x": 5740,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_old_persian_zand",
+      "type": "file",
+      "file": "Old Persian Zand.md",
+      "x": 5940,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_pahlavi_literature",
+      "type": "file",
+      "file": "Pahlavi Literature.md",
+      "x": 5540,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_pahlavi_psalter",
+      "type": "file",
+      "file": "Pahlavi Psalter.md",
+      "x": 5740,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_pahlavi_texts",
+      "type": "file",
+      "file": "Pahlavi Texts.md",
+      "x": 5940,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_pahlavi_videvdad",
+      "type": "file",
+      "file": "Pahlavi Videvdad.md",
+      "x": 5540,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_parameters_of_pollution",
+      "type": "file",
+      "file": "Parameters of Pollution.md",
+      "x": 5740,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_pi_kilites",
+      "type": "file",
+      "file": "Pi\u0161kilites.md",
+      "x": 5940,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_pi_ksil_zoroastrian_teacher",
+      "type": "file",
+      "file": "Pi\u0161ksil (Zoroastrian Teacher).md",
+      "x": 5540,
+      "y": 800,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_rabbinic_judaism",
+      "type": "file",
+      "file": "Rabbinic Judaism.md",
+      "x": 5740,
+      "y": 800,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_ritual_pollution",
+      "type": "file",
+      "file": "Ritual Pollution.md",
+      "x": 5940,
+      "y": 800,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_sasanian_legal_system",
+      "type": "file",
+      "file": "Sasanian Legal System.md",
+      "x": 5540,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_skj_rv",
+      "type": "file",
+      "file": "Skj\u00e6rv\u00f8.md",
+      "x": 5740,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_s_yans_s_ns",
+      "type": "file",
+      "file": "S\u014d\u0161yansS\u014d\u0161\u0101ns.md",
+      "x": 5940,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_transmission_of_pollution",
+      "type": "file",
+      "file": "Transmission of Pollution.md",
+      "x": 5540,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_tuh_g_h_pollution",
+      "type": "file",
+      "file": "Tuh\u012bg\u012bh (Pollution).md",
+      "x": 5740,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_videvdad",
+      "type": "file",
+      "file": "Videvdad.md",
+      "x": 5940,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_xinjiang",
+      "type": "file",
+      "file": "Xinjiang.md",
+      "x": 5540,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_zand_fragard_jud_d_w_d_d",
+      "type": "file",
+      "file": "Zand \u012b fragard \u012b jud-d\u0113w-d\u0101d.md",
+      "x": 5740,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_zoroastrian_tradition",
+      "type": "file",
+      "file": "Zoroastrian Tradition.md",
+      "x": 5940,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_ah_r_t_g_four_arches",
+      "type": "file",
+      "file": "\u010cah\u0101r-t\u0101g (Four Arches).md",
+      "x": 5540,
+      "y": 1120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_yist_n_yist",
+      "type": "file",
+      "file": "\u0160\u0101yist n\u0113 \u0161\u0101yist.md",
+      "x": 5740,
+      "y": 1120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g4",
+      "type": "group",
+      "label": "Iranian Kingship",
+      "x": 7140,
+      "y": 0,
+      "width": 1320,
+      "height": 1220,
+      "color": "5"
+    },
+    {
+      "id": "n_llm_agni",
+      "type": "file",
+      "file": "Agni.md",
+      "x": 7160,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_aniconic_practices",
+      "type": "file",
+      "file": "Aniconic Practices.md",
+      "x": 7360,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_aniconism_in_the_religious_art_of_pre_islamic_iran",
+      "type": "file",
+      "file": "Aniconism in the Religious Art of Pre-Islamic Iran.md",
+      "x": 7560,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_aniconism_in_the_religious_art_of_pre_islamic_iran_and_central_asia",
+      "type": "file",
+      "file": "Aniconism in the Religious Art of Pre-Islamic Iran and Central Asia.md",
+      "x": 7160,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_anthropomorphic_deities",
+      "type": "file",
+      "file": "Anthropomorphic Deities.md",
+      "x": 7360,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_anthropomorphism",
+      "type": "file",
+      "file": "Anthropomorphism.md",
+      "x": 7560,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_2_2_md",
+      "type": "file",
+      "file": "Bulletin of the Asia Institute.md",
+      "x": 7160,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_2_md",
+      "type": "file",
+      "file": "Bulletin of the Asia Institute_1.md",
+      "x": 7360,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_md",
+      "type": "file",
+      "file": "Bulletin of the Asia Institute_2.md",
+      "x": 7560,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_cribb_1990",
+      "type": "file",
+      "file": "Cribb 1990.md",
+      "x": 7160,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_cultic_images",
+      "type": "file",
+      "file": "Cultic Images.md",
+      "x": 7360,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_cultic_practices",
+      "type": "file",
+      "file": "Cultic Practices.md",
+      "x": 7560,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_elamite_cults",
+      "type": "file",
+      "file": "Elamite Cults.md",
+      "x": 7160,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_elemental_aniconism",
+      "type": "file",
+      "file": "Elemental Aniconism.md",
+      "x": 7360,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_empty_space_aniconism",
+      "type": "file",
+      "file": "Empty-space Aniconism.md",
+      "x": 7560,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_garrison_pre_publication",
+      "type": "file",
+      "file": "Garrison Pre-Publication.md",
+      "x": 7160,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_gnoli_2009",
+      "type": "file",
+      "file": "Gnoli 2009.md",
+      "x": 7360,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_grenet_2010",
+      "type": "file",
+      "file": "Grenet 2010.md",
+      "x": 7560,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_g_t_g",
+      "type": "file",
+      "file": "G\u0113t\u012bg.md",
+      "x": 7160,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_iranian_aniconism",
+      "type": "file",
+      "file": "Iranian Aniconism.md",
+      "x": 7360,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_kushan_dynasty",
+      "type": "file",
+      "file": "Kushan Dynasty.md",
+      "x": 7560,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_kushan_god",
+      "type": "file",
+      "file": "Kushan God.md",
+      "x": 7160,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_material_aniconism",
+      "type": "file",
+      "file": "Material Aniconism.md",
+      "x": 7360,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_mesopotamian_heritage",
+      "type": "file",
+      "file": "Mesopotamian Heritage.md",
+      "x": 7560,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_m_n_g",
+      "type": "file",
+      "file": "M\u0113n\u014dg.md",
+      "x": 7160,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_ornan_2009",
+      "type": "file",
+      "file": "Ornan 2009.md",
+      "x": 7360,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_rig_veda",
+      "type": "file",
+      "file": "Rig Veda.md",
+      "x": 7560,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_sasanian_art",
+      "type": "file",
+      "file": "Sasanian Art.md",
+      "x": 7160,
+      "y": 800,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_scythian_art",
+      "type": "file",
+      "file": "Scythian Art.md",
+      "x": 7360,
+      "y": 800,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_scythians",
+      "type": "file",
+      "file": "Scythians.md",
+      "x": 7560,
+      "y": 800,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_shaked_1994",
+      "type": "file",
+      "file": "Shaked 1994.md",
+      "x": 7160,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_shaked_2001",
+      "type": "file",
+      "file": "Shaked 2001.md",
+      "x": 7360,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_t_d_n_mettinger",
+      "type": "file",
+      "file": "T. D. N. Mettinger.md",
+      "x": 7560,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g5",
+      "type": "group",
+      "label": "Mithraic Studies",
+      "x": 0,
+      "y": 2800,
+      "width": 1320,
+      "height": 1220,
+      "color": "6"
+    },
+    {
+      "id": "n_doc_document_raw_ocr_502231919_traces_of_iran_2_2_md",
+      "type": "file",
+      "file": "ABSTRACT.md",
+      "x": 20,
+      "y": 2880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_document_raw_ocr_502231919_traces_of_iran_2_md",
+      "type": "file",
+      "file": "ABSTRACT_1.md",
+      "x": 220,
+      "y": 2880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_document_raw_ocr_502231919_traces_of_iran_md",
+      "type": "file",
+      "file": "ABSTRACT_2.md",
+      "x": 420,
+      "y": 2880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_arab_conquest_of_persia",
+      "type": "file",
+      "file": "Arab Conquest of Persia.md",
+      "x": 20,
+      "y": 2960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_avestan_words_in_quran",
+      "type": "file",
+      "file": "Avestan Words in Quran.md",
+      "x": 220,
+      "y": 2960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_avestan_words_in_the_quran",
+      "type": "file",
+      "file": "Avestan Words in the Quran.md",
+      "x": 420,
+      "y": 2960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_cities_with_persian_names",
+      "type": "file",
+      "file": "Cities with Persian Names.md",
+      "x": 20,
+      "y": 3040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_countries_with_persian_names",
+      "type": "file",
+      "file": "Countries with Persian Names.md",
+      "x": 220,
+      "y": 3040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_cultural_influence",
+      "type": "file",
+      "file": "Cultural Influence.md",
+      "x": 420,
+      "y": 3040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_cultural_influences",
+      "type": "file",
+      "file": "Cultural Influences.md",
+      "x": 20,
+      "y": 3120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_cultural_traces",
+      "type": "file",
+      "file": "Cultural Traces.md",
+      "x": 220,
+      "y": 3120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_dr_zardosht_sotudeh",
+      "type": "file",
+      "file": "Dr. Zardosht Sotudeh.md",
+      "x": 420,
+      "y": 3120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_indian_independence",
+      "type": "file",
+      "file": "Indian Independence.md",
+      "x": 20,
+      "y": 3200,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_indian_subcontinent",
+      "type": "file",
+      "file": "Indian Subcontinent.md",
+      "x": 220,
+      "y": 3200,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_iranian_civilization",
+      "type": "file",
+      "file": "Iranian Civilization.md",
+      "x": 420,
+      "y": 3200,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_iranian_culture",
+      "type": "file",
+      "file": "Iranian Culture.md",
+      "x": 20,
+      "y": 3280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_iranian_revolution",
+      "type": "file",
+      "file": "Iranian Revolution.md",
+      "x": 220,
+      "y": 3280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_iranian_scholars",
+      "type": "file",
+      "file": "Iranian Scholars.md",
+      "x": 420,
+      "y": 3280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_mahmood_ghaznavi",
+      "type": "file",
+      "file": "Mahmood Ghaznavi.md",
+      "x": 20,
+      "y": 3360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_mithraism",
+      "type": "file",
+      "file": "Mithraism.md",
+      "x": 220,
+      "y": 3360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_nader_shah",
+      "type": "file",
+      "file": "Nader Shah.md",
+      "x": 420,
+      "y": 3360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_nadir_shah",
+      "type": "file",
+      "file": "Nadir Shah.md",
+      "x": 20,
+      "y": 3440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_persian_culture_in_india",
+      "type": "file",
+      "file": "Persian Culture in India.md",
+      "x": 220,
+      "y": 3440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_persian_influence_in_spain",
+      "type": "file",
+      "file": "Persian Influence in Spain.md",
+      "x": 420,
+      "y": 3440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_persian_poetry",
+      "type": "file",
+      "file": "Persian Poetry.md",
+      "x": 20,
+      "y": 3520,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_persian_words_in_english",
+      "type": "file",
+      "file": "Persian Words in English.md",
+      "x": 220,
+      "y": 3520,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_sanskrit",
+      "type": "file",
+      "file": "Sanskrit.md",
+      "x": 420,
+      "y": 3520,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_sanskrit_language",
+      "type": "file",
+      "file": "Sanskrit Language.md",
+      "x": 20,
+      "y": 3600,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_sufi_islam",
+      "type": "file",
+      "file": "Sufi Islam.md",
+      "x": 220,
+      "y": 3600,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_sultan_mahmood_ghaznavi",
+      "type": "file",
+      "file": "Sultan Mahmood Ghaznavi.md",
+      "x": 420,
+      "y": 3600,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_urdu_language",
+      "type": "file",
+      "file": "Urdu Language.md",
+      "x": 20,
+      "y": 3680,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g6",
+      "type": "group",
+      "label": "Afterlife Doctrine",
+      "x": 2060,
+      "y": 2800,
+      "width": 1320,
+      "height": 1120,
+      "color": "1"
+    },
+    {
+      "id": "n_llm_abrahamic_religions",
+      "type": "file",
+      "file": "Abrahamic Religions.md",
+      "x": 2080,
+      "y": 2880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_angra_mainyu",
+      "type": "file",
+      "file": "Angra Mainyu.md",
+      "x": 2280,
+      "y": 2880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_antonio_panaino",
+      "type": "file",
+      "file": "Antonio Panaino.md",
+      "x": 2480,
+      "y": 2880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_astuuat_r_ta",
+      "type": "file",
+      "file": "Astuuat.\u0259r\u0259ta.md",
+      "x": 2080,
+      "y": 2960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_cross_cultural_influence",
+      "type": "file",
+      "file": "Cross-Cultural Influence.md",
+      "x": 2280,
+      "y": 2960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_cross_fertilization_of_eschatology",
+      "type": "file",
+      "file": "Cross-Fertilization of Eschatology.md",
+      "x": 2480,
+      "y": 2960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_cultural_influence_of_zoroastrianism_on_judaism",
+      "type": "file",
+      "file": "Cultural Influence of Zoroastrianism on Judaism.md",
+      "x": 2080,
+      "y": 3040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_dualism_good_and_evil",
+      "type": "file",
+      "file": "Dualism Good and Evil.md",
+      "x": 2280,
+      "y": 3040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_eschatology_in_judaism",
+      "type": "file",
+      "file": "Eschatology in Judaism.md",
+      "x": 2480,
+      "y": 3040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_evil",
+      "type": "file",
+      "file": "Evil.md",
+      "x": 2080,
+      "y": 3120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_gehenna_and_the_garden_of_eden",
+      "type": "file",
+      "file": "Gehenna and the Garden of Eden.md",
+      "x": 2280,
+      "y": 3120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_heaven",
+      "type": "file",
+      "file": "Heaven.md",
+      "x": 2480,
+      "y": 3120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_heaven_and_hell",
+      "type": "file",
+      "file": "Heaven and Hell.md",
+      "x": 2080,
+      "y": 3200,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_hell",
+      "type": "file",
+      "file": "Hell.md",
+      "x": 2280,
+      "y": 3200,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_historical_contacts_between_israelites_and_zoroastrians",
+      "type": "file",
+      "file": "Historical Contacts between Israelites and Zoroastrians.md",
+      "x": 2480,
+      "y": 3200,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_2_md",
+      "type": "file",
+      "file": "IRANO-JUDAICA VII.md",
+      "x": 2080,
+      "y": 3280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_3_md",
+      "type": "file",
+      "file": "IRANO-JUDAICA VII_1.md",
+      "x": 2280,
+      "y": 3280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_md",
+      "type": "file",
+      "file": "IRANO-JUDAICA VII_2.md",
+      "x": 2480,
+      "y": 3280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_individual_judgement",
+      "type": "file",
+      "file": "Individual Judgement.md",
+      "x": 2080,
+      "y": 3360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_judaism_eschatology",
+      "type": "file",
+      "file": "Judaism Eschatology.md",
+      "x": 2280,
+      "y": 3360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_judgement_after_death",
+      "type": "file",
+      "file": "Judgement After Death.md",
+      "x": 2480,
+      "y": 3360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_resurrection",
+      "type": "file",
+      "file": "Resurrection.md",
+      "x": 2080,
+      "y": 3440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_sa_iiant",
+      "type": "file",
+      "file": "Sa\u014d\u0161iiant.md",
+      "x": 2280,
+      "y": 3440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_second_temple_period",
+      "type": "file",
+      "file": "Second Temple Period.md",
+      "x": 2480,
+      "y": 3440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_sheol",
+      "type": "file",
+      "file": "Sheol.md",
+      "x": 2080,
+      "y": 3520,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_universal_judgement",
+      "type": "file",
+      "file": "Universal Judgement.md",
+      "x": 2280,
+      "y": 3520,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_zoroastrian_cosmology",
+      "type": "file",
+      "file": "Zoroastrian Cosmology.md",
+      "x": 2480,
+      "y": 3520,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_zoroastrian_eschatology",
+      "type": "file",
+      "file": "Zoroastrian Eschatology.md",
+      "x": 2080,
+      "y": 3600,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_zoroastrian_influence",
+      "type": "file",
+      "file": "Zoroastrian Influence.md",
+      "x": 2280,
+      "y": 3600,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_zoroastrian_influence_on_judaism",
+      "type": "file",
+      "file": "Zoroastrian Influence on Judaism.md",
+      "x": 2480,
+      "y": 3600,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g7",
+      "type": "group",
+      "label": "Iranian Kingship",
+      "x": 3900,
+      "y": 2800,
+      "width": 1320,
+      "height": 1120,
+      "color": "2"
+    },
+    {
+      "id": "n_doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "type": "file",
+      "file": "ANCIENT IRANIAN MOTIFS AND ZOROASTRIAN ICONOGRAPHY.md",
+      "x": 3920,
+      "y": 2880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_document_raw_ocr_and_man_created_god_kings_priests_and_go_md",
+      "type": "file",
+      "file": "AND MAN CREATED GOD KINGS, PRIESTS AND GODS ON SASANIAN INVESTITURE RELIEFS.md",
+      "x": 4120,
+      "y": 2880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_akbar",
+      "type": "file",
+      "file": "Akbar.md",
+      "x": 4320,
+      "y": 2880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_ardashir_i",
+      "type": "file",
+      "file": "Ardashir I.md",
+      "x": 3920,
+      "y": 2960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_bahram_ii",
+      "type": "file",
+      "file": "Bahram II.md",
+      "x": 4120,
+      "y": 2960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_barsom",
+      "type": "file",
+      "file": "Barsom.md",
+      "x": 4320,
+      "y": 2960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_barsum",
+      "type": "file",
+      "file": "Barsum.md",
+      "x": 3920,
+      "y": 3040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_darius_the_great",
+      "type": "file",
+      "file": "Darius the Great.md",
+      "x": 4120,
+      "y": 3040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_druvasp",
+      "type": "file",
+      "file": "Druvasp\u0101.md",
+      "x": 4320,
+      "y": 3040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_d_dest_n_d_n_g",
+      "type": "file",
+      "file": "D\u0101dest\u0101n \u012b d\u0113n\u012bg.md",
+      "x": 3920,
+      "y": 3120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_farvahar",
+      "type": "file",
+      "file": "Farvahar.md",
+      "x": 4120,
+      "y": 3120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_jamshid",
+      "type": "file",
+      "file": "Jamshid.md",
+      "x": 4320,
+      "y": 3120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_khosrow_ii",
+      "type": "file",
+      "file": "Khosrow II.md",
+      "x": 3920,
+      "y": 3200,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_khusrow_ii",
+      "type": "file",
+      "file": "Khusrow II.md",
+      "x": 4120,
+      "y": 3200,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_magi",
+      "type": "file",
+      "file": "Magi.md",
+      "x": 4320,
+      "y": 3200,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_nowruz",
+      "type": "file",
+      "file": "Nowruz.md",
+      "x": 3920,
+      "y": 3280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_parthian_period",
+      "type": "file",
+      "file": "Parthian Period.md",
+      "x": 4120,
+      "y": 3280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_priest_king",
+      "type": "file",
+      "file": "Priest-King.md",
+      "x": 4320,
+      "y": 3280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_sasanian_investiture_reliefs",
+      "type": "file",
+      "file": "Sasanian Investiture Reliefs.md",
+      "x": 3920,
+      "y": 3360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_sasanian_period",
+      "type": "file",
+      "file": "Sasanian Period.md",
+      "x": 4120,
+      "y": 3360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_shah_lohr_sp",
+      "type": "file",
+      "file": "Shah Lohr\u0101sp.md",
+      "x": 4320,
+      "y": 3360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_shapur_i",
+      "type": "file",
+      "file": "Shapur I.md",
+      "x": 3920,
+      "y": 3440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_tamga",
+      "type": "file",
+      "file": "Tamga.md",
+      "x": 4120,
+      "y": 3440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_taq_i_bustan",
+      "type": "file",
+      "file": "Taq-i Bustan.md",
+      "x": 4320,
+      "y": 3440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_t_q_e_bost_n",
+      "type": "file",
+      "file": "T\u0101q-e Bost\u0101n.md",
+      "x": 3920,
+      "y": 3520,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_vologases_i",
+      "type": "file",
+      "file": "Vologases I.md",
+      "x": 4120,
+      "y": 3520,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_winged_figure",
+      "type": "file",
+      "file": "Winged Figure.md",
+      "x": 4320,
+      "y": 3520,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_xvar_nah",
+      "type": "file",
+      "file": "Xvar\u0259nah.md",
+      "x": 3920,
+      "y": 3600,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_yazdgerd_iii",
+      "type": "file",
+      "file": "Yazdgerd III.md",
+      "x": 4120,
+      "y": 3600,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_zardu_t",
+      "type": "file",
+      "file": "Zardu\u0161t.md",
+      "x": 4320,
+      "y": 3600,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g8",
+      "type": "group",
+      "label": "Iranian Kingship",
+      "x": 5520,
+      "y": 2800,
+      "width": 1320,
+      "height": 1020,
+      "color": "3"
+    },
+    {
+      "id": "n_llm_arsacid_dynasty",
+      "type": "file",
+      "file": "Arsacid Dynasty.md",
+      "x": 5540,
+      "y": 2880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_bundahi_n",
+      "type": "file",
+      "file": "Bundahi\u0161n.md",
+      "x": 5740,
+      "y": 2880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_cultural_heritage",
+      "type": "file",
+      "file": "Cultural Heritage.md",
+      "x": 5940,
+      "y": 2880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_great_fires_of_iran",
+      "type": "file",
+      "file": "Great Fires of Iran.md",
+      "x": 5540,
+      "y": 2960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_kartir",
+      "type": "file",
+      "file": "Kartir.md",
+      "x": 5740,
+      "y": 2960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_kay_nid_dynasty",
+      "type": "file",
+      "file": "Kay\u0101nid Dynasty.md",
+      "x": 5940,
+      "y": 2960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_khosrow_i",
+      "type": "file",
+      "file": "Khosrow I.md",
+      "x": 5540,
+      "y": 3040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_kushan_bactria",
+      "type": "file",
+      "file": "Kushan Bactria.md",
+      "x": 5740,
+      "y": 3040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_lake_kay_ns_h",
+      "type": "file",
+      "file": "Lake Kay\u0101ns\u012bh.md",
+      "x": 5940,
+      "y": 3040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_mary_boyce",
+      "type": "file",
+      "file": "Mary Boyce.md",
+      "x": 5540,
+      "y": 3120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_matthew_p_canepa",
+      "type": "file",
+      "file": "Matthew P. Canepa.md",
+      "x": 5740,
+      "y": 3120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_numismatic_evidence",
+      "type": "file",
+      "file": "Numismatic Evidence.md",
+      "x": 5940,
+      "y": 3120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_pilgrimage_destination",
+      "type": "file",
+      "file": "Pilgrimage Destination.md",
+      "x": 5540,
+      "y": 3200,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_royal_architecture",
+      "type": "file",
+      "file": "Royal Architecture.md",
+      "x": 5740,
+      "y": 3200,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_royal_power",
+      "type": "file",
+      "file": "Royal Power.md",
+      "x": 5940,
+      "y": 3200,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_sacred_geography",
+      "type": "file",
+      "file": "Sacred Geography.md",
+      "x": 5540,
+      "y": 3280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_sanctuary_of_kay_nsih",
+      "type": "file",
+      "file": "Sanctuary of Kay\u0101nsih.md",
+      "x": 5740,
+      "y": 3280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_sanctuary_of_dur_gu_nasp",
+      "type": "file",
+      "file": "Sanctuary of \u0100dur Gu\u0161nasp.md",
+      "x": 5940,
+      "y": 3280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_sao_yant",
+      "type": "file",
+      "file": "Sao\u0161yant.md",
+      "x": 5540,
+      "y": 3360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_sasanian_empire",
+      "type": "file",
+      "file": "Sasanian Empire.md",
+      "x": 5740,
+      "y": 3360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_wi_t_sp",
+      "type": "file",
+      "file": "Wi\u0161t\u0101sp.md",
+      "x": 5940,
+      "y": 3360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_yima",
+      "type": "file",
+      "file": "Yima.md",
+      "x": 5540,
+      "y": 3440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_xwarrah",
+      "type": "file",
+      "file": "xwarrah.md",
+      "x": 5740,
+      "y": 3440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_dur_burz_n_mihr",
+      "type": "file",
+      "file": "\u0100dur Burz\u0113n-Mihr.md",
+      "x": 5940,
+      "y": 3440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_dur_farnb_g",
+      "type": "file",
+      "file": "\u0100dur Farnb\u0101g.md",
+      "x": 5540,
+      "y": 3520,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_dur_gu_nasp",
+      "type": "file",
+      "file": "\u0100dur Gu\u0161nasp.md",
+      "x": 5740,
+      "y": 3520,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_document_raw_ocr_canepa_building_a_new_vision_of_the_past_md",
+      "type": "file",
+      "file": "\u201cBuilding a New Vision of the Past in the Sasanian Empire The Sanctuaries of Kay\u0101nsih and the Great Fires of Iran\u201d.md",
+      "x": 5940,
+      "y": 3520,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g9",
+      "type": "group",
+      "label": "The Coming Persian War",
+      "x": 7140,
+      "y": 2800,
+      "width": 1100,
+      "height": 1020,
+      "color": "4"
+    },
+    {
+      "id": "n_llm_9_11_attacks",
+      "type": "file",
+      "file": "911 Attacks.md",
+      "x": 7160,
+      "y": 2880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_al_ahwaz",
+      "type": "file",
+      "file": "Al-Ahwaz.md",
+      "x": 7360,
+      "y": 2880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_arabian_gulf",
+      "type": "file",
+      "file": "Arabian Gulf.md",
+      "x": 7560,
+      "y": 2880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_donald_trump",
+      "type": "file",
+      "file": "Donald Trump.md",
+      "x": 7160,
+      "y": 2960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_general_michael_flynn",
+      "type": "file",
+      "file": "General Michael Flynn.md",
+      "x": 7360,
+      "y": 2960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_hezbollah",
+      "type": "file",
+      "file": "Hezbollah.md",
+      "x": 7560,
+      "y": 2960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_iran",
+      "type": "file",
+      "file": "Iran.md",
+      "x": 7160,
+      "y": 3040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_iranian_opposition",
+      "type": "file",
+      "file": "Iranian Opposition.md",
+      "x": 7360,
+      "y": 3040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_iranian_revolutionary_guard_pasdaran",
+      "type": "file",
+      "file": "Iranian Revolutionary Guard (Pasdaran).md",
+      "x": 7560,
+      "y": 3040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_iranian_united_front",
+      "type": "file",
+      "file": "Iranian United Front.md",
+      "x": 7160,
+      "y": 3120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_islamic_revolutionary_guard_corps_irgc",
+      "type": "file",
+      "file": "Islamic Revolutionary Guard Corps (IRGC).md",
+      "x": 7360,
+      "y": 3120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_joint_comprehensive_plan_of_action_jcpoa",
+      "type": "file",
+      "file": "Joint Comprehensive Plan of Action (JCPOA).md",
+      "x": 7560,
+      "y": 3120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_michael",
+      "type": "file",
+      "file": "Michael.md",
+      "x": 7160,
+      "y": 3200,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_michael_bagley",
+      "type": "file",
+      "file": "Michael Bagley.md",
+      "x": 7360,
+      "y": 3200,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_neo_zoroastrianism",
+      "type": "file",
+      "file": "Neo-Zoroastrianism.md",
+      "x": 7560,
+      "y": 3200,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_persian_renaissance",
+      "type": "file",
+      "file": "Persian Renaissance.md",
+      "x": 7160,
+      "y": 3280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_rex_tillerson",
+      "type": "file",
+      "file": "Rex Tillerson.md",
+      "x": 7360,
+      "y": 3280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_richard_spencer",
+      "type": "file",
+      "file": "Richard Spencer.md",
+      "x": 7560,
+      "y": 3280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_saudi_arabia",
+      "type": "file",
+      "file": "Saudi Arabia.md",
+      "x": 7160,
+      "y": 3360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_steve_bannon",
+      "type": "file",
+      "file": "Steve Bannon.md",
+      "x": 7360,
+      "y": 3360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_document_raw_ocr_387906351_majorityrights_com_the_coming_persian_war_jason_reza_jorjani_2_md",
+      "type": "file",
+      "file": "The Coming Persian War.md",
+      "x": 7560,
+      "y": 3360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_document_raw_ocr_387906351_majorityrights_com_the_coming_persian_war_jason_reza_jorjani_md",
+      "type": "file",
+      "file": "The Coming Persian War_2.md",
+      "x": 7160,
+      "y": 3440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_the_coming_persian_war",
+      "type": "file",
+      "file": "The Coming Persian War_1.md",
+      "x": 7360,
+      "y": 3440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_trump_administration",
+      "type": "file",
+      "file": "Trump Administration.md",
+      "x": 7560,
+      "y": 3440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_walid_phares",
+      "type": "file",
+      "file": "Walid Phares.md",
+      "x": 7160,
+      "y": 3520,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g10",
+      "type": "group",
+      "label": "PROBLEMS OF ARMENIAN PREHISTORY",
+      "x": 0,
+      "y": 4100,
+      "width": 1100,
+      "height": 920,
+      "color": "5"
+    },
+    {
+      "id": "n_llm_ara_the_handsome",
+      "type": "file",
+      "file": "Ara the Handsome.md",
+      "x": 20,
+      "y": 4180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_aram",
+      "type": "file",
+      "file": "Aram.md",
+      "x": 220,
+      "y": 4180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_armenian_ethnonyms",
+      "type": "file",
+      "file": "Armenian Ethnonyms.md",
+      "x": 420,
+      "y": 4180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_armenian_language",
+      "type": "file",
+      "file": "Armenian Language.md",
+      "x": 20,
+      "y": 4260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_armenian_pantheon",
+      "type": "file",
+      "file": "Armenian Pantheon.md",
+      "x": 220,
+      "y": 4260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_bar_amin",
+      "type": "file",
+      "file": "Bar\u0161amin.md",
+      "x": 420,
+      "y": 4260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_bel",
+      "type": "file",
+      "file": "Bel.md",
+      "x": 20,
+      "y": 4340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_ethnogonic_legends",
+      "type": "file",
+      "file": "Ethnogonic Legends.md",
+      "x": 220,
+      "y": 4340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_forefather_hayk",
+      "type": "file",
+      "file": "Forefather Hayk.md",
+      "x": 420,
+      "y": 4340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_haldi",
+      "type": "file",
+      "file": "Haldi.md",
+      "x": 20,
+      "y": 4420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_hayk",
+      "type": "file",
+      "file": "Hayk.md",
+      "x": 220,
+      "y": 4420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_hayk_and_noah",
+      "type": "file",
+      "file": "Hayk and Noah.md",
+      "x": 420,
+      "y": 4420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_hayk_as_creator",
+      "type": "file",
+      "file": "Hayk as Creator.md",
+      "x": 20,
+      "y": 4500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_indo_european_legacy",
+      "type": "file",
+      "file": "Indo-European Legacy.md",
+      "x": 220,
+      "y": 4500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_indo_european_mythology",
+      "type": "file",
+      "file": "Indo-European Mythology.md",
+      "x": 420,
+      "y": 4500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_mher",
+      "type": "file",
+      "file": "Mher.md",
+      "x": 20,
+      "y": 4580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_mihr",
+      "type": "file",
+      "file": "Mihr.md",
+      "x": 220,
+      "y": 4580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_myth_of_bel",
+      "type": "file",
+      "file": "Myth of Bel.md",
+      "x": 420,
+      "y": 4580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_myth_of_hayk",
+      "type": "file",
+      "file": "Myth of Hayk.md",
+      "x": 20,
+      "y": 4660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_document_raw_ocr_2015_petrosyan_problems_of_armenian_prehistory_md",
+      "type": "file",
+      "file": "PROBLEMS OF ARMENIAN PREHISTORY.md",
+      "x": 220,
+      "y": 4660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_problems_of_armenian_prehistory",
+      "type": "file",
+      "file": "Problems of Armenian Prehistory.md",
+      "x": 420,
+      "y": 4660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_te_ub_tei_eba",
+      "type": "file",
+      "file": "Te\u0161\u0161ubTei\u0161eba.md",
+      "x": 20,
+      "y": 4740,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_urartu",
+      "type": "file",
+      "file": "Urartu.md",
+      "x": 220,
+      "y": 4740,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g11",
+      "type": "group",
+      "label": "Iranian Kingship",
+      "x": 2060,
+      "y": 4100,
+      "width": 1100,
+      "height": 920,
+      "color": "6"
+    },
+    {
+      "id": "n_doc_document_raw_ocr_a_father_a_daughter_and_a_son_in_law_in_md",
+      "type": "file",
+      "file": "A FATHER, A DAUGHTER, AND A SON-IN-LAW IN ZOROASTRIAN HERMENEUTICSsup1sup.md",
+      "x": 2080,
+      "y": 4180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_consanguineous_marriage",
+      "type": "file",
+      "file": "Consanguineous Marriage.md",
+      "x": 2280,
+      "y": 4180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_d_nkard",
+      "type": "file",
+      "file": "D\u0113nkard.md",
+      "x": 2480,
+      "y": 4180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_good_deeds",
+      "type": "file",
+      "file": "Good Deeds.md",
+      "x": 2080,
+      "y": 4260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_good_d_n",
+      "type": "file",
+      "file": "Good D\u0113n.md",
+      "x": 2280,
+      "y": 4260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_good_thought",
+      "type": "file",
+      "file": "Good Thought.md",
+      "x": 2480,
+      "y": 4260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_g_s",
+      "type": "file",
+      "file": "G\u0101\u03b8\u0101s.md",
+      "x": 2080,
+      "y": 4340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_hermeneutics",
+      "type": "file",
+      "file": "Hermeneutics.md",
+      "x": 2280,
+      "y": 4340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_incest_taboo",
+      "type": "file",
+      "file": "Incest Taboo.md",
+      "x": 2480,
+      "y": 4340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_incest_in_zoroastrianism",
+      "type": "file",
+      "file": "Incest in Zoroastrianism.md",
+      "x": 2080,
+      "y": 4420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_j_m_sp",
+      "type": "file",
+      "file": "J\u0101m\u0101sp.md",
+      "x": 2280,
+      "y": 4420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_ohrmazd",
+      "type": "file",
+      "file": "Ohrmazd.md",
+      "x": 2480,
+      "y": 4420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_pahlavi",
+      "type": "file",
+      "file": "Pahlavi.md",
+      "x": 2080,
+      "y": 4500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_pahlavi_yasna",
+      "type": "file",
+      "file": "Pahlavi Yasna.md",
+      "x": 2280,
+      "y": 4500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_pourucist",
+      "type": "file",
+      "file": "Pourucist\u0101.md",
+      "x": 2480,
+      "y": 4500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_sasanian_iran",
+      "type": "file",
+      "file": "Sasanian Iran.md",
+      "x": 2080,
+      "y": 4580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_x_a_tuuada_a",
+      "type": "file",
+      "file": "X'a\u0113tuuada\u03b8a.md",
+      "x": 2280,
+      "y": 4580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_xw_d_dah",
+      "type": "file",
+      "file": "Xw\u0113d\u014ddah.md",
+      "x": 2480,
+      "y": 4580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_yasna_53",
+      "type": "file",
+      "file": "Yasna 53.md",
+      "x": 2080,
+      "y": 4660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_yuhan_sohrab_dinshaw_vevaina",
+      "type": "file",
+      "file": "Yuhan Sohrab-Dinshaw Vevaina.md",
+      "x": 2280,
+      "y": 4660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_zardu_x_t",
+      "type": "file",
+      "file": "Zardu(x)\u0161t.md",
+      "x": 2480,
+      "y": 4660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_zoroastrian_family_law",
+      "type": "file",
+      "file": "Zoroastrian Family Law.md",
+      "x": 2080,
+      "y": 4740,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_zoroastrian_hermeneutics",
+      "type": "file",
+      "file": "Zoroastrian Hermeneutics.md",
+      "x": 2280,
+      "y": 4740,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g12",
+      "type": "group",
+      "label": "Iranian Kingship",
+      "x": 3900,
+      "y": 4100,
+      "width": 1100,
+      "height": 920,
+      "color": "1"
+    },
+    {
+      "id": "n_llm_achaemenid_kingship",
+      "type": "file",
+      "file": "Achaemenid Kingship.md",
+      "x": 3920,
+      "y": 4180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_achaemenid_monarchic_ideology",
+      "type": "file",
+      "file": "Achaemenid Monarchic Ideology.md",
+      "x": 4120,
+      "y": 4180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_alexander_s_conquest",
+      "type": "file",
+      "file": "Alexander's Conquest.md",
+      "x": 4320,
+      "y": 4180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_avestan_perspective",
+      "type": "file",
+      "file": "Avestan Perspective.md",
+      "x": 3920,
+      "y": 4260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_darius_i",
+      "type": "file",
+      "file": "Darius I.md",
+      "x": 4120,
+      "y": 4260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_elamite_culture",
+      "type": "file",
+      "file": "Elamite Culture.md",
+      "x": 4320,
+      "y": 4260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_fire_structure",
+      "type": "file",
+      "file": "Fire Structure.md",
+      "x": 3920,
+      "y": 4340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_herodotean_perspective",
+      "type": "file",
+      "file": "Herodotean Perspective.md",
+      "x": 4120,
+      "y": 4340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_imperial_program_in_visual_arts",
+      "type": "file",
+      "file": "Imperial Program in Visual Arts.md",
+      "x": 4320,
+      "y": 4340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_kellens_s_1998_liturgical_tabulations",
+      "type": "file",
+      "file": "Kellens's 1998 Liturgical Tabulations.md",
+      "x": 3920,
+      "y": 4420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_kellens_s_concept_of_fixation",
+      "type": "file",
+      "file": "Kellens's Concept of Fixation.md",
+      "x": 4120,
+      "y": 4420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_lunar_imagery",
+      "type": "file",
+      "file": "Lunar Imagery.md",
+      "x": 4320,
+      "y": 4420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_2_md",
+      "type": "file",
+      "file": "MORE THAN MEN, LESS THAN GODS.md",
+      "x": 3920,
+      "y": 4500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_md",
+      "type": "file",
+      "file": "MORE THAN MEN, LESS THAN GODS_1.md",
+      "x": 4120,
+      "y": 4500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_more_than_men_less_than_gods",
+      "type": "file",
+      "file": "More Than Men, Less Than Gods.md",
+      "x": 4320,
+      "y": 4500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_naq_e_rustam",
+      "type": "file",
+      "file": "Naq\u0161-e Rustam.md",
+      "x": 3920,
+      "y": 4580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_persepolis",
+      "type": "file",
+      "file": "Persepolis.md",
+      "x": 4120,
+      "y": 4580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_persepolitan_glyptic",
+      "type": "file",
+      "file": "Persepolitan Glyptic.md",
+      "x": 4320,
+      "y": 4580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_persian_calendar",
+      "type": "file",
+      "file": "Persian Calendar.md",
+      "x": 3920,
+      "y": 4660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_royal_cult",
+      "type": "file",
+      "file": "Royal Cult.md",
+      "x": 4120,
+      "y": 4660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_royal_cults",
+      "type": "file",
+      "file": "Royal Cults.md",
+      "x": 4320,
+      "y": 4660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_ruler_cults",
+      "type": "file",
+      "file": "Ruler Cults.md",
+      "x": 3920,
+      "y": 4740,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_winged_symbol",
+      "type": "file",
+      "file": "Winged Symbol.md",
+      "x": 4120,
+      "y": 4740,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g13",
+      "type": "group",
+      "label": "Iranian Kingship",
+      "x": 5520,
+      "y": 4100,
+      "width": 1100,
+      "height": 920,
+      "color": "2"
+    },
+    {
+      "id": "n_llm_achaemenid_persia",
+      "type": "file",
+      "file": "Achaemenid Persia.md",
+      "x": 5540,
+      "y": 4180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_aryan_society",
+      "type": "file",
+      "file": "Aryan Society.md",
+      "x": 5740,
+      "y": 4180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_central_asia",
+      "type": "file",
+      "file": "Central Asia.md",
+      "x": 5940,
+      "y": 4180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_chess_game",
+      "type": "file",
+      "file": "Chess Game.md",
+      "x": 5540,
+      "y": 4260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_cultural_exchange",
+      "type": "file",
+      "file": "Cultural Exchange.md",
+      "x": 5740,
+      "y": 4260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_cultural_interaction",
+      "type": "file",
+      "file": "Cultural Interaction.md",
+      "x": 5940,
+      "y": 4260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "type": "file",
+      "file": "Dialogue Between Cultures & Exchange of Knowledge And Cultural Ideas.md",
+      "x": 5540,
+      "y": 4340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_dialogue_between_cultures_exchange_of_knowledge_and_cultural_ideas",
+      "type": "file",
+      "file": "Dialogue Between Cultures & Exchange of Knowledge And Cultural Ideas_1.md",
+      "x": 5740,
+      "y": 4340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_gupta_dynasty",
+      "type": "file",
+      "file": "Gupta Dynasty.md",
+      "x": 5940,
+      "y": 4340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_independent_india",
+      "type": "file",
+      "file": "Independent India.md",
+      "x": 5540,
+      "y": 4420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_india",
+      "type": "file",
+      "file": "India.md",
+      "x": 5740,
+      "y": 4420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_indian_culture",
+      "type": "file",
+      "file": "Indian Culture.md",
+      "x": 5940,
+      "y": 4420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_indian_medical_literature",
+      "type": "file",
+      "file": "Indian Medical Literature.md",
+      "x": 5540,
+      "y": 4500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_indus_valley_civilization",
+      "type": "file",
+      "file": "Indus Valley Civilization.md",
+      "x": 5740,
+      "y": 4500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_knowledge_dissemination",
+      "type": "file",
+      "file": "Knowledge Dissemination.md",
+      "x": 5940,
+      "y": 4500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_knowledge_exchange",
+      "type": "file",
+      "file": "Knowledge Exchange.md",
+      "x": 5540,
+      "y": 4580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_mughal_safavid_period",
+      "type": "file",
+      "file": "Mughal-Safavid Period.md",
+      "x": 5740,
+      "y": 4580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_panchtantra",
+      "type": "file",
+      "file": "Panchtantra.md",
+      "x": 5940,
+      "y": 4580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_persian_culture",
+      "type": "file",
+      "file": "Persian Culture.md",
+      "x": 5540,
+      "y": 4660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_persianate_traditions",
+      "type": "file",
+      "file": "Persianate Traditions.md",
+      "x": 5740,
+      "y": 4660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_sasanian_dynasty",
+      "type": "file",
+      "file": "Sasanian Dynasty.md",
+      "x": 5940,
+      "y": 4660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_turkey",
+      "type": "file",
+      "file": "Turkey.md",
+      "x": 5540,
+      "y": 4740,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_vedic_religion",
+      "type": "file",
+      "file": "Vedic Religion.md",
+      "x": 5740,
+      "y": 4740,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g14",
+      "type": "group",
+      "label": "Creation Cosmology",
+      "x": 7140,
+      "y": 4100,
+      "width": 1100,
+      "height": 920,
+      "color": "3"
+    },
+    {
+      "id": "n_llm_anunnaki",
+      "type": "file",
+      "file": "Anunnaki.md",
+      "x": 7160,
+      "y": 4180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_aruru",
+      "type": "file",
+      "file": "Aruru.md",
+      "x": 7360,
+      "y": 4180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_ashur_bani_pal",
+      "type": "file",
+      "file": "Ashur-bani-pal.md",
+      "x": 7560,
+      "y": 4180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_berosus",
+      "type": "file",
+      "file": "Berosus.md",
+      "x": 7160,
+      "y": 4260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_blood_of_a_god",
+      "type": "file",
+      "file": "Blood of a God.md",
+      "x": 7360,
+      "y": 4260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_creation_texts",
+      "type": "file",
+      "file": "Creation Texts.md",
+      "x": 7560,
+      "y": 4260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_creation_of_man",
+      "type": "file",
+      "file": "Creation of Man.md",
+      "x": 7160,
+      "y": 4340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_damascius",
+      "type": "file",
+      "file": "Damascius.md",
+      "x": 7360,
+      "y": 4340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_e_sagila",
+      "type": "file",
+      "file": "E-Sagila.md",
+      "x": 7560,
+      "y": 4340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_enlil",
+      "type": "file",
+      "file": "Enlil.md",
+      "x": 7160,
+      "y": 4420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_fifty_names_of_marduk",
+      "type": "file",
+      "file": "Fifty Names of Marduk.md",
+      "x": 7360,
+      "y": 4420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_george_smith",
+      "type": "file",
+      "file": "George Smith.md",
+      "x": 7560,
+      "y": 4420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_gods_triads",
+      "type": "file",
+      "file": "Gods Triads.md",
+      "x": 7160,
+      "y": 4500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_kingu",
+      "type": "file",
+      "file": "Kingu.md",
+      "x": 7360,
+      "y": 4500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_kuy_njik_nineveh",
+      "type": "file",
+      "file": "Kuy\u00fbnjik (Nineveh).md",
+      "x": 7560,
+      "y": 4500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_marduk",
+      "type": "file",
+      "file": "Marduk.md",
+      "x": 7160,
+      "y": 4580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_nineveh",
+      "type": "file",
+      "file": "Nineveh.md",
+      "x": 7360,
+      "y": 4580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_seven_tablets_of_creation",
+      "type": "file",
+      "file": "Seven Tablets of Creation.md",
+      "x": 7560,
+      "y": 4580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_document_raw_ocr_budge_e_a_w_babylonian_legends_of_the_creation_1921_2_092e1075_md",
+      "type": "file",
+      "file": "The Babylonian Legends of the Creation_2.md",
+      "x": 7160,
+      "y": 4660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_document_raw_ocr_budge_e_a_w_babylonian_legends_of_the_creation_1921_2_2_a3638dff_md",
+      "type": "file",
+      "file": "The Babylonian Legends of the Creation.md",
+      "x": 7360,
+      "y": 4660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_the_babylonian_legends_of_the_creation",
+      "type": "file",
+      "file": "The Babylonian Legends of the Creation_1.md",
+      "x": 7560,
+      "y": 4660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_the_seven_tablets_of_creation",
+      "type": "file",
+      "file": "The Seven Tablets of Creation.md",
+      "x": 7160,
+      "y": 4740,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_ti_mat",
+      "type": "file",
+      "file": "Ti\u00e2mat.md",
+      "x": 7360,
+      "y": 4740,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g15",
+      "type": "group",
+      "label": "BETWEEN THE SAFAVIDS AND THE MUGHALS: ART AND AR",
+      "x": 0,
+      "y": 5100,
+      "width": 1100,
+      "height": 820,
+      "color": "4"
+    },
+    {
+      "id": "n_llm_abd_al_amad",
+      "type": "file",
+      "file": "'Abd al-\u1e62amad.md",
+      "x": 20,
+      "y": 5180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_document_raw_ocr_between_the_safavids_and_the_mughals_art_md",
+      "type": "file",
+      "file": "BETWEEN THE SAFAVIDS AND THE MUGHALS ART AND ARTISTS IN TRANSITION.md",
+      "x": 220,
+      "y": 5180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_farrukh_beyg",
+      "type": "file",
+      "file": "Farrukh Beyg.md",
+      "x": 420,
+      "y": 5180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_gulist_n",
+      "type": "file",
+      "file": "Gulist\u0101n.md",
+      "x": 20,
+      "y": 5260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_haft_awrang",
+      "type": "file",
+      "file": "Haft awrang.md",
+      "x": 220,
+      "y": 5260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_her_t_library",
+      "type": "file",
+      "file": "Her\u0101t Library.md",
+      "x": 420,
+      "y": 5260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_hum_y_n",
+      "type": "file",
+      "file": "Hum\u0101y\u016bn.md",
+      "x": 20,
+      "y": 5340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_jah_ng_r",
+      "type": "file",
+      "file": "Jah\u0101ng\u012br.md",
+      "x": 220,
+      "y": 5340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_mirz_salm_n",
+      "type": "file",
+      "file": "Mirz\u0101 Salm\u0101n.md",
+      "x": 420,
+      "y": 5340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_mughal_court",
+      "type": "file",
+      "file": "Mughal Court.md",
+      "x": 20,
+      "y": 5420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_mughal_painting",
+      "type": "file",
+      "file": "Mughal Painting.md",
+      "x": 220,
+      "y": 5420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_mughal_royal_library",
+      "type": "file",
+      "file": "Mughal Royal Library.md",
+      "x": 420,
+      "y": 5420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_m_r_sayyid_al",
+      "type": "file",
+      "file": "M\u012br Sayyid 'Al\u012b.md",
+      "x": 20,
+      "y": 5500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_qizilb_sh_am_rs",
+      "type": "file",
+      "file": "Qizilb\u0101sh am\u012brs.md",
+      "x": 220,
+      "y": 5500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_safavid_art",
+      "type": "file",
+      "file": "Safavid Art.md",
+      "x": 420,
+      "y": 5500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_safavid_painting",
+      "type": "file",
+      "file": "Safavid Painting.md",
+      "x": 20,
+      "y": 5580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_sh_h_t_hm_sb",
+      "type": "file",
+      "file": "Sh\u0101h T\u0101hm\u0101sb.md",
+      "x": 220,
+      "y": 5580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_sh_h_ahm_sb_i",
+      "type": "file",
+      "file": "Sh\u0101h \u1e6cahm\u0101sb I.md",
+      "x": 420,
+      "y": 5580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_timurid_art",
+      "type": "file",
+      "file": "Timurid Art.md",
+      "x": 20,
+      "y": 5660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_timurid_painting",
+      "type": "file",
+      "file": "Timurid Painting.md",
+      "x": 220,
+      "y": 5660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_amza_mirz",
+      "type": "file",
+      "file": "\u1e24amza Mirz\u0101.md",
+      "x": 420,
+      "y": 5660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g16",
+      "type": "group",
+      "label": "\u015eADIQ\u012a BEYK'S NAV\u0100'\u012a MANUSCRIPT",
+      "x": 2060,
+      "y": 5100,
+      "width": 1100,
+      "height": 820,
+      "color": "5"
+    },
+    {
+      "id": "n_llm_am_r_kh_n_mowsillu",
+      "type": "file",
+      "file": "Am\u012br Kh\u0101n Mowsillu.md",
+      "x": 2080,
+      "y": 5180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_am_r_kh_n_mowsill",
+      "type": "file",
+      "file": "Am\u012br Kh\u0101n Mowsill\u016b.md",
+      "x": 2280,
+      "y": 5180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_am_r_al_shir_nav",
+      "type": "file",
+      "file": "Am\u012br `Al\u012b-shir Nav\u0101'\u012b.md",
+      "x": 2480,
+      "y": 5180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_bihz_d",
+      "type": "file",
+      "file": "Bihz\u0101d.md",
+      "x": 2080,
+      "y": 5260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_d_v_n_of_h_fi",
+      "type": "file",
+      "file": "D\u012bv\u0101n of H\u0101fi\u1e93.md",
+      "x": 2280,
+      "y": 5260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_garsh_sbn_ma",
+      "type": "file",
+      "file": "Garsh\u0101sbn\u0101ma.md",
+      "x": 2480,
+      "y": 5260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_islamic_art",
+      "type": "file",
+      "file": "Islamic Art.md",
+      "x": 2080,
+      "y": 5340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_mu_ammad",
+      "type": "file",
+      "file": "Mu\u1e25ammad\u012b.md",
+      "x": 2280,
+      "y": 5340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_mu_affar_al",
+      "type": "file",
+      "file": "Mu\u1e93affar-`Al\u012b.md",
+      "x": 2480,
+      "y": 5340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_m_rz_al",
+      "type": "file",
+      "file": "M\u012brz\u0101 `Al\u012b.md",
+      "x": 2080,
+      "y": 5420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_nav_manuscript",
+      "type": "file",
+      "file": "Nav\u0101'\u012b Manuscript.md",
+      "x": 2280,
+      "y": 5420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_n_z_m",
+      "type": "file",
+      "file": "N\u012bz\u0101m\u012b.md",
+      "x": 2480,
+      "y": 5420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_qalandar",
+      "type": "file",
+      "file": "Qalandar.md",
+      "x": 2080,
+      "y": 5500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_qalandar_theme",
+      "type": "file",
+      "file": "Qalandar Theme.md",
+      "x": 2280,
+      "y": 5500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_qizilb_sh_nobility",
+      "type": "file",
+      "file": "Qizilb\u0101sh Nobility.md",
+      "x": 2480,
+      "y": 5500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_safavid_throne",
+      "type": "file",
+      "file": "Safavid Throne.md",
+      "x": 2080,
+      "y": 5580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_sh_h_tahm_sb",
+      "type": "file",
+      "file": "Sh\u0101h Tahm\u0101sb.md",
+      "x": 2280,
+      "y": 5580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_document_raw_ocr_adiqi_beyks_navai_manuscript_md",
+      "type": "file",
+      "file": "\u015eADIQ\u012a BEYK'S NAV\u0100'\u012a MANUSCRIPT.md",
+      "x": 2480,
+      "y": 5580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_diq_beyk",
+      "type": "file",
+      "file": "\u015e\u0101diq\u012b Beyk.md",
+      "x": 2080,
+      "y": 5660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_d_q_beyk",
+      "type": "file",
+      "file": "\u015e\u0101d\u012bq\u012b Beyk.md",
+      "x": 2280,
+      "y": 5660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g17",
+      "type": "group",
+      "label": "Avestan Texts",
+      "x": 3900,
+      "y": 5100,
+      "width": 1100,
+      "height": 820,
+      "color": "6"
+    },
+    {
+      "id": "n_doc_document_raw_ocr_a_thousand_judgements_md",
+      "type": "file",
+      "file": "A Thousand Judgements.md",
+      "x": 3920,
+      "y": 5180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_a_thousand_judgements",
+      "type": "file",
+      "file": "A Thousand Judgements_1.md",
+      "x": 4120,
+      "y": 5180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_apostasy",
+      "type": "file",
+      "file": "Apostasy.md",
+      "x": 4320,
+      "y": 5180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_babylonian_talmud",
+      "type": "file",
+      "file": "Babylonian Talmud.md",
+      "x": 3920,
+      "y": 5260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_cultural_exchanges_between_rabbis_and_dastwars",
+      "type": "file",
+      "file": "Cultural Exchanges between Rabbis and Dastwars.md",
+      "x": 4120,
+      "y": 5260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_ibn_qud_ma",
+      "type": "file",
+      "file": "IBN QUD\u0100MA.md",
+      "x": 4320,
+      "y": 5260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_islamic_jurists",
+      "type": "file",
+      "file": "Islamic Jurists.md",
+      "x": 3920,
+      "y": 5340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_islamic_law",
+      "type": "file",
+      "file": "Islamic Law.md",
+      "x": 4120,
+      "y": 5340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_legal_principles_in_rabbinic_and_zoroastrian_texts",
+      "type": "file",
+      "file": "Legal Principles in Rabbinic and Zoroastrian Texts.md",
+      "x": 4320,
+      "y": 5340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_margarz_n_sin",
+      "type": "file",
+      "file": "Margarz\u0101n Sin.md",
+      "x": 3920,
+      "y": 5420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_maria_macuch",
+      "type": "file",
+      "file": "Maria Macuch.md",
+      "x": 4120,
+      "y": 5420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_normative_nonconformity",
+      "type": "file",
+      "file": "Normative Nonconformity.md",
+      "x": 4320,
+      "y": 5420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_normative_and_theological_dissent_in_early_zoroastrian_law",
+      "type": "file",
+      "file": "Normative and Theological Dissent in Early Zoroastrian Law.md",
+      "x": 3920,
+      "y": 5500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_pahlavi_n_rangest_n",
+      "type": "file",
+      "file": "Pahlavi N\u012brangest\u0101n.md",
+      "x": 4120,
+      "y": 5500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_religious_conversion",
+      "type": "file",
+      "file": "Religious Conversion.md",
+      "x": 4320,
+      "y": 5500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_talmudic_debate",
+      "type": "file",
+      "file": "Talmudic Debate.md",
+      "x": 3920,
+      "y": 5580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_talmudic_law",
+      "type": "file",
+      "file": "Talmudic Law.md",
+      "x": 4120,
+      "y": 5580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_tan_buhl_sin",
+      "type": "file",
+      "file": "Tan\u0101buhl Sin.md",
+      "x": 4320,
+      "y": 5580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_zoroastrian_jurists",
+      "type": "file",
+      "file": "Zoroastrian Jurists.md",
+      "x": 3920,
+      "y": 5660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_zoroastrian_law",
+      "type": "file",
+      "file": "Zoroastrian Law.md",
+      "x": 4120,
+      "y": 5660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g18",
+      "type": "group",
+      "label": "Zoroastrian Theology",
+      "x": 5520,
+      "y": 5100,
+      "width": 1100,
+      "height": 820,
+      "color": "1"
+    },
+    {
+      "id": "n_llm_aka_manah",
+      "type": "file",
+      "file": "Aka Manah.md",
+      "x": 5540,
+      "y": 5180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_ameretat",
+      "type": "file",
+      "file": "Ameretat.md",
+      "x": 5740,
+      "y": 5180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_document_raw_ocr_ancient_iran_cosmology_mythology_history_2_md",
+      "type": "file",
+      "file": "Ancient Iran Cosmology, Mythology, History.md",
+      "x": 5940,
+      "y": 5180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_document_raw_ocr_ancient_iran_cosmology_mythology_history_3_md",
+      "type": "file",
+      "file": "Ancient Iran Cosmology, Mythology, History_1.md",
+      "x": 5540,
+      "y": 5260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_document_raw_ocr_ancient_iran_cosmology_mythology_history_md",
+      "type": "file",
+      "file": "Ancient Iran Cosmology, Mythology, History_2.md",
+      "x": 5740,
+      "y": 5260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_asha_vahishta",
+      "type": "file",
+      "file": "Asha Vahishta.md",
+      "x": 5940,
+      "y": 5260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_bundahishn",
+      "type": "file",
+      "file": "Bundahishn.md",
+      "x": 5540,
+      "y": 5340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_farr",
+      "type": "file",
+      "file": "Farr.md",
+      "x": 5740,
+      "y": 5340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_fravashis",
+      "type": "file",
+      "file": "Fravashis.md",
+      "x": 5940,
+      "y": 5340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_gayomart",
+      "type": "file",
+      "file": "Gayomart.md",
+      "x": 5540,
+      "y": 5420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_haurvatat",
+      "type": "file",
+      "file": "Haurvatat.md",
+      "x": 5740,
+      "y": 5420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_iraj_bashiri",
+      "type": "file",
+      "file": "Iraj Bashiri.md",
+      "x": 5940,
+      "y": 5420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_khshathra_vairya",
+      "type": "file",
+      "file": "Khshathra Vairya.md",
+      "x": 5540,
+      "y": 5500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_khvarnah_farr",
+      "type": "file",
+      "file": "Khvarnah (Farr).md",
+      "x": 5740,
+      "y": 5500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_manah",
+      "type": "file",
+      "file": "Manah.md",
+      "x": 5940,
+      "y": 5500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_shahname",
+      "type": "file",
+      "file": "Shahname.md",
+      "x": 5540,
+      "y": 5580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_spenta_armaiti",
+      "type": "file",
+      "file": "Spenta Armaiti.md",
+      "x": 5740,
+      "y": 5580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_vohu_manah",
+      "type": "file",
+      "file": "Vohu Manah.md",
+      "x": 5940,
+      "y": 5580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_yazatas",
+      "type": "file",
+      "file": "Yazatas.md",
+      "x": 5540,
+      "y": 5660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g19",
+      "type": "group",
+      "label": "Gazelle AcademicNew Title \u2013 Political Philosophy",
+      "x": 7140,
+      "y": 5100,
+      "width": 880,
+      "height": 520,
+      "color": "2"
+    },
+    {
+      "id": "n_llm_christian_gospels",
+      "type": "file",
+      "file": "Christian Gospels.md",
+      "x": 7160,
+      "y": 5180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_cicero",
+      "type": "file",
+      "file": "Cicero.md",
+      "x": 7360,
+      "y": 5180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_doc_document_raw_ocr_a_history_of_political_ideas_from_antiqu_md",
+      "type": "file",
+      "file": "Gazelle AcademicNew Title \u2013 Political Philosophy.md",
+      "x": 7560,
+      "y": 5180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_greek_city_state",
+      "type": "file",
+      "file": "Greek City-State.md",
+      "x": 7160,
+      "y": 5260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_philippe_nemo",
+      "type": "file",
+      "file": "Philippe Nemo.md",
+      "x": 7360,
+      "y": 5260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_roman_law",
+      "type": "file",
+      "file": "Roman Law.md",
+      "x": 7560,
+      "y": 5260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_saint_augustine",
+      "type": "file",
+      "file": "Saint Augustine.md",
+      "x": 7160,
+      "y": 5340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_saint_paul",
+      "type": "file",
+      "file": "Saint Paul.md",
+      "x": 7360,
+      "y": 5340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_seneca",
+      "type": "file",
+      "file": "Seneca.md",
+      "x": 7560,
+      "y": 5340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_tacitus",
+      "type": "file",
+      "file": "Tacitus.md",
+      "x": 7160,
+      "y": 5420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_thomas_aquinas",
+      "type": "file",
+      "file": "Thomas Aquinas.md",
+      "x": 7360,
+      "y": 5420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g20",
+      "type": "group",
+      "label": "Mithraic Studies",
+      "x": 0,
+      "y": 6000,
+      "width": 660,
+      "height": 420,
+      "color": "3"
+    },
+    {
+      "id": "n_doc_document_raw_ocr_02239118_md",
+      "type": "file",
+      "file": "02239118.md",
+      "x": 20,
+      "y": 6080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_bas_relief_of_mithras",
+      "type": "file",
+      "file": "Bas-relief of Mithras.md",
+      "x": 220,
+      "y": 6080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_christianity",
+      "type": "file",
+      "file": "Christianity.md",
+      "x": 420,
+      "y": 6080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_mithras",
+      "type": "file",
+      "file": "Mithras.md",
+      "x": 20,
+      "y": 6160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_patriarchal_religion",
+      "type": "file",
+      "file": "Patriarchal Religion.md",
+      "x": 220,
+      "y": 6160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_spring_equinox",
+      "type": "file",
+      "file": "Spring Equinox.md",
+      "x": 420,
+      "y": 6160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_tertullian",
+      "type": "file",
+      "file": "Tertullian.md",
+      "x": 20,
+      "y": 6240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_llm_york",
+      "type": "file",
+      "file": "York.md",
+      "x": 220,
+      "y": 6240,
+      "width": 180,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_doc_document_raw_ocr_02239118_md_llm_bas_relief_of_mithras",
+      "fromNode": "n_doc_document_raw_ocr_02239118_md",
+      "toNode": "n_llm_bas_relief_of_mithras",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_doc_document_raw_ocr_02239118_md_llm_christianity",
+      "fromNode": "n_doc_document_raw_ocr_02239118_md",
+      "toNode": "n_llm_christianity",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_doc_document_raw_ocr_02239118_md_llm_mithras",
+      "fromNode": "n_doc_document_raw_ocr_02239118_md",
+      "toNode": "n_llm_mithras",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_doc_document_raw_ocr_02239118_md_llm_patriarchal_religion",
+      "fromNode": "n_doc_document_raw_ocr_02239118_md",
+      "toNode": "n_llm_patriarchal_religion",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_doc_document_raw_ocr_02239118_md_llm_spring_equinox",
+      "fromNode": "n_doc_document_raw_ocr_02239118_md",
+      "toNode": "n_llm_spring_equinox",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_doc_document_raw_ocr_02239118_md_llm_tertullian",
+      "fromNode": "n_doc_document_raw_ocr_02239118_md",
+      "toNode": "n_llm_tertullian",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_doc_document_raw_ocr_02239118_md_llm_york",
+      "fromNode": "n_doc_document_raw_ocr_02239118_md",
+      "toNode": "n_llm_york",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_bas_relief_of_mithras_llm_mithras",
+      "fromNode": "n_llm_bas_relief_of_mithras",
+      "toNode": "n_llm_mithras",
+      "label": "represents [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_bas_relief_of_mithras_llm_york",
+      "fromNode": "n_llm_bas_relief_of_mithras",
+      "toNode": "n_llm_york",
+      "label": "found_in [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_mithras_llm_spring_equinox",
+      "fromNode": "n_llm_mithras",
+      "toNode": "n_llm_spring_equinox",
+      "label": "associated_with [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_mithras_llm_patriarchal_religion",
+      "fromNode": "n_llm_mithras",
+      "toNode": "n_llm_patriarchal_religion",
+      "label": "is_a [INFERRED]"
+    },
+    {
+      "id": "e_llm_mithras_llm_tertullian",
+      "fromNode": "n_llm_mithras",
+      "toNode": "n_llm_tertullian",
+      "label": "discusses [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_mithras_doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_md",
+      "fromNode": "n_llm_mithras",
+      "toNode": "n_doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_mithras_llm_farr",
+      "fromNode": "n_llm_mithras",
+      "toNode": "n_llm_farr",
+      "label": "associated_with [INFERRED]"
+    },
+    {
+      "id": "e_llm_patriarchal_religion_llm_christianity",
+      "fromNode": "n_llm_patriarchal_religion",
+      "toNode": "n_llm_christianity",
+      "label": "precedes [INFERRED]"
+    },
+    {
+      "id": "e_doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md_llm_avestan_literature",
+      "fromNode": "n_doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "toNode": "n_llm_avestan_literature",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md_llm_gathas",
+      "fromNode": "n_doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "toNode": "n_llm_gathas",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md_llm_gathic_composition",
+      "fromNode": "n_doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "toNode": "n_llm_gathic_composition",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md_llm_indo_european_poetic_language_in_the_gathas",
+      "fromNode": "n_doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "toNode": "n_llm_indo_european_poetic_language_in_the_gathas",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md_llm_khorde_avesta",
+      "fromNode": "n_doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "toNode": "n_llm_khorde_avesta",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md_llm_vid_vd_d",
+      "fromNode": "n_doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "toNode": "n_llm_vid_vd_d",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md_llm_visperad",
+      "fromNode": "n_doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "toNode": "n_llm_visperad",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md_llm_ya_ts",
+      "fromNode": "n_doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "toNode": "n_llm_ya_ts",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md_llm_yasna",
+      "fromNode": "n_doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "toNode": "n_llm_yasna",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md_llm_younger_avesta",
+      "fromNode": "n_doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "toNode": "n_llm_younger_avesta",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md_llm_zarathustra",
+      "fromNode": "n_doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "toNode": "n_llm_zarathustra",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md_llm_ahura_mazd",
+      "fromNode": "n_doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "toNode": "n_llm_ahura_mazd",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md_llm_fr_n_zardu_t",
+      "fromNode": "n_doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "toNode": "n_llm_fr_n_zardu_t",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md_llm_va_nask",
+      "fromNode": "n_doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "toNode": "n_llm_va_nask",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md_llm_vi_t_sp_ya_t",
+      "fromNode": "n_doc_document_raw_ocr_2008_2009_avestan_literature_in_ronald_e_md",
+      "toNode": "n_llm_vi_t_sp_ya_t",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_avestan_literature_llm_yasna",
+      "fromNode": "n_llm_avestan_literature",
+      "toNode": "n_llm_yasna",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_avestan_literature_llm_gathas",
+      "fromNode": "n_llm_avestan_literature",
+      "toNode": "n_llm_gathas",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_avestan_literature_llm_younger_avesta",
+      "fromNode": "n_llm_avestan_literature",
+      "toNode": "n_llm_younger_avesta",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_avestan_literature_llm_visperad",
+      "fromNode": "n_llm_avestan_literature",
+      "toNode": "n_llm_visperad",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_avestan_literature_llm_vid_vd_d",
+      "fromNode": "n_llm_avestan_literature",
+      "toNode": "n_llm_vid_vd_d",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_avestan_literature_llm_ya_ts",
+      "fromNode": "n_llm_avestan_literature",
+      "toNode": "n_llm_ya_ts",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_avestan_literature_llm_khorde_avesta",
+      "fromNode": "n_llm_avestan_literature",
+      "toNode": "n_llm_khorde_avesta",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_avestan_literature_llm_vi_t_sp_ya_t",
+      "fromNode": "n_llm_avestan_literature",
+      "toNode": "n_llm_vi_t_sp_ya_t",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_avestan_literature_llm_fr_n_zardu_t",
+      "fromNode": "n_llm_avestan_literature",
+      "toNode": "n_llm_fr_n_zardu_t",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_avestan_literature_llm_va_nask",
+      "fromNode": "n_llm_avestan_literature",
+      "toNode": "n_llm_va_nask",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_gathas_llm_zarathustra",
+      "fromNode": "n_llm_gathas",
+      "toNode": "n_llm_zarathustra",
+      "label": "recites [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_gathas_llm_gathic_composition",
+      "fromNode": "n_llm_gathas",
+      "toNode": "n_llm_gathic_composition",
+      "label": "discusses [INFERRED]"
+    },
+    {
+      "id": "e_llm_gathas_llm_indo_european_poetic_language_in_the_gathas",
+      "fromNode": "n_llm_gathas",
+      "toNode": "n_llm_indo_european_poetic_language_in_the_gathas",
+      "label": "utilizes [INFERRED]"
+    },
+    {
+      "id": "e_llm_gathas_doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "fromNode": "n_llm_gathas",
+      "toNode": "n_doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_gathas_llm_monotheism",
+      "fromNode": "n_llm_gathas",
+      "toNode": "n_llm_monotheism",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_gathas_llm_dualism",
+      "fromNode": "n_llm_gathas",
+      "toNode": "n_llm_dualism",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_gathas_llm_polytheism",
+      "fromNode": "n_llm_gathas",
+      "toNode": "n_llm_polytheism",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_gathas_doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_2_md",
+      "fromNode": "n_llm_gathas",
+      "toNode": "n_doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_2_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_gathas_doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_copy_md",
+      "fromNode": "n_llm_gathas",
+      "toNode": "n_doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_copy_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_gathas_llm_mazdayasnian_religion",
+      "fromNode": "n_llm_gathas",
+      "toNode": "n_llm_mazdayasnian_religion",
+      "label": "foundational_to [INFERRED]"
+    },
+    {
+      "id": "e_llm_gathas_doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_md",
+      "fromNode": "n_llm_gathas",
+      "toNode": "n_doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_zarathustra_llm_ahura_mazd",
+      "fromNode": "n_llm_zarathustra",
+      "toNode": "n_llm_ahura_mazd",
+      "label": "receives_revelation_from [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_zarathustra_doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_3_md",
+      "fromNode": "n_llm_zarathustra",
+      "toNode": "n_doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_3_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_zarathustra_llm_cross_cultural_influence",
+      "fromNode": "n_llm_zarathustra",
+      "toNode": "n_llm_cross_cultural_influence",
+      "label": "is_related_to [INFERRED]"
+    },
+    {
+      "id": "e_llm_zarathustra_doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_2_md",
+      "fromNode": "n_llm_zarathustra",
+      "toNode": "n_doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_2_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_zarathustra_llm_gifts_to_a_magus",
+      "fromNode": "n_llm_zarathustra",
+      "toNode": "n_llm_gifts_to_a_magus",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_zarathustra_llm_mazdayasnian_religion",
+      "fromNode": "n_llm_zarathustra",
+      "toNode": "n_llm_mazdayasnian_religion",
+      "label": "brings [INFERRED]"
+    },
+    {
+      "id": "e_llm_zarathustra_llm_conflict_between_prophet_and_priest",
+      "fromNode": "n_llm_zarathustra",
+      "toNode": "n_llm_conflict_between_prophet_and_priest",
+      "label": "exemplifies [INFERRED]"
+    },
+    {
+      "id": "e_llm_zarathustra_llm_avesta",
+      "fromNode": "n_llm_zarathustra",
+      "toNode": "n_llm_avesta",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_zarathustra_llm_daevas",
+      "fromNode": "n_llm_zarathustra",
+      "toNode": "n_llm_daevas",
+      "label": "defeats [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_zarathustra_llm_zardu_tr_tama",
+      "fromNode": "n_llm_zarathustra",
+      "toNode": "n_llm_zardu_tr_tama",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_zarathustra_doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_copy_md",
+      "fromNode": "n_llm_zarathustra",
+      "toNode": "n_doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_copy_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_zarathustra_llm_prophetic_authority",
+      "fromNode": "n_llm_zarathustra",
+      "toNode": "n_llm_prophetic_authority",
+      "label": "embodies [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_zarathustra_llm_zara_u_tr_t_ma",
+      "fromNode": "n_llm_zarathustra",
+      "toNode": "n_llm_zara_u_tr_t_ma",
+      "label": "represents [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_zarathustra_doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_md",
+      "fromNode": "n_llm_zarathustra",
+      "toNode": "n_doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_zarathustra_llm_priesthood",
+      "fromNode": "n_llm_zarathustra",
+      "toNode": "n_llm_priesthood",
+      "label": "embodies [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_zarathustra_llm_women_priests",
+      "fromNode": "n_llm_zarathustra",
+      "toNode": "n_llm_women_priests",
+      "label": "empowers [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_zarathustra_llm_zardu_tr_tom",
+      "fromNode": "n_llm_zarathustra",
+      "toNode": "n_llm_zardu_tr_tom",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_zarathustra_llm_zoroastrianism",
+      "fromNode": "n_llm_zarathustra",
+      "toNode": "n_llm_zoroastrianism",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_zarathustra_doc_document_raw_ocr_abraham_and_nimrod_in_the_shadow_of_zar_md",
+      "fromNode": "n_llm_zarathustra",
+      "toNode": "n_doc_document_raw_ocr_abraham_and_nimrod_in_the_shadow_of_zar_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_zarathustra_llm_abraham",
+      "fromNode": "n_llm_zarathustra",
+      "toNode": "n_llm_abraham",
+      "label": "syncretizes_with [INFERRED]"
+    },
+    {
+      "id": "e_llm_zarathustra_llm_nimrod",
+      "fromNode": "n_llm_zarathustra",
+      "toNode": "n_llm_nimrod",
+      "label": "identifies_with [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_zarathustra_llm_fire_worship",
+      "fromNode": "n_llm_zarathustra",
+      "toNode": "n_llm_fire_worship",
+      "label": "participates_in [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_zarathustra_doc_document_raw_ocr_academia_summary_reconsidering_the_concept_of_revolutionary_monotheism_beate_pongratz_leisten_winona_lake_indiana_eisenbrauns_2011_offprint_from_md",
+      "fromNode": "n_llm_zarathustra",
+      "toNode": "n_doc_document_raw_ocr_academia_summary_reconsidering_the_concept_of_revolutionary_monotheism_beate_pongratz_leisten_winona_lake_indiana_eisenbrauns_2011_offprint_from_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_zarathustra_llm_revolutionary_monotheism",
+      "fromNode": "n_llm_zarathustra",
+      "toNode": "n_llm_revolutionary_monotheism",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_zarathustra_llm_g_th_s",
+      "fromNode": "n_llm_zarathustra",
+      "toNode": "n_llm_g_th_s",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_zarathustra_doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "fromNode": "n_llm_zarathustra",
+      "toNode": "n_doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_zarathustra_llm_mithra",
+      "fromNode": "n_llm_zarathustra",
+      "toNode": "n_llm_mithra",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_llm_zarathustra_doc_document_raw_ocr_concepts_of_pollution_in_late_sasanian_i_md",
+      "fromNode": "n_llm_zarathustra",
+      "toNode": "n_doc_document_raw_ocr_concepts_of_pollution_in_late_sasanian_i_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_younger_avesta_doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_2_md",
+      "fromNode": "n_llm_younger_avesta",
+      "toNode": "n_doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_2_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_younger_avesta_llm_zoroastrian_cosmology",
+      "fromNode": "n_llm_younger_avesta",
+      "toNode": "n_llm_zoroastrian_cosmology",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_llm_yazatas",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_llm_yazatas",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_llm_angra_mainyu",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_llm_angra_mainyu",
+      "label": "contrasts_with [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_llm_spiritual_creation",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_llm_spiritual_creation",
+      "label": "creates [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_llm_material_world",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_llm_material_world",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_llm_material_creation",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_llm_material_creation",
+      "label": "creates [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_llm_spiritual_world",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_llm_spiritual_world",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_2_md",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_2_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_llm_zoroastrian_eschatology",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_llm_zoroastrian_eschatology",
+      "label": "participates_in [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_llm_sa_iiant",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_llm_sa_iiant",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_3_md",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_3_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_md",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_2_md",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_2_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_llm_ahuna_vairya_prayer",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_llm_ahuna_vairya_prayer",
+      "label": "reveals [INFERRED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_llm_ritual_fire",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_llm_ritual_fire",
+      "label": "manifests_in [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_copy_md",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_copy_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_md",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_llm_ahuna_vairya",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_llm_ahuna_vairya",
+      "label": "reveals [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_llm_zardu_tr_tom",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_llm_zardu_tr_tom",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_doc_document_raw_ocr_a_father_a_daughter_and_a_son_in_law_in_md",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_doc_document_raw_ocr_a_father_a_daughter_and_a_son_in_law_in_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_llm_pourucist",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_llm_pourucist",
+      "label": "participates_in [INFERRED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_llm_g_th_s",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_llm_g_th_s",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_doc_document_raw_ocr_academia_summary_aura_of_kings_legitimacy_and_divine_sanction_in_iranian_kingship_md",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_doc_document_raw_ocr_academia_summary_aura_of_kings_legitimacy_and_divine_sanction_in_iranian_kingship_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_llm_khvarnah",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_llm_khvarnah",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_llm_zoroaster",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_llm_zoroaster",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_llm_narseh",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_llm_narseh",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_2_md",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_2_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_llm_darius_i",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_llm_darius_i",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_doc_document_raw_ocr_ancient_iranian_motifs_and_zoroastrian_i_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_llm_winged_figure",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_llm_winged_figure",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_llm_farvahar",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_llm_farvahar",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_2_2_md",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_2_2_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_llm_zoroastrianism",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_llm_zoroastrianism",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_2_md",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_2_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_llm_avesta",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_llm_avesta",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_llm_anthropomorphism",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_llm_anthropomorphism",
+      "label": "participates_in [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_md",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_llm_iranian_aniconism",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_llm_iranian_aniconism",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_llm_zardu_t",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_llm_zardu_t",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_llm_cyrus",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_llm_cyrus",
+      "label": "worships [INFERRED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_llm_khvarenah",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_llm_khvarenah",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_2_md",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_2_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_llm_the_aura_of_kings",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_llm_the_aura_of_kings",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_llm_cyrus_ii",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_llm_cyrus_ii",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_llm_darius",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_llm_darius",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_copy_2_md",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_copy_2_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_copy_md",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_copy_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_md",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_llm_farr_divine_glory",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_llm_farr_divine_glory",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_ahura_mazd_doc_document_raw_ocr_concepts_of_pollution_in_late_sasanian_i_md",
+      "fromNode": "n_llm_ahura_mazd",
+      "toNode": "n_doc_document_raw_ocr_concepts_of_pollution_in_late_sasanian_i_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md_llm_angra_mainyu",
+      "fromNode": "n_doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "toNode": "n_llm_angra_mainyu",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md_llm_dualism",
+      "fromNode": "n_doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "toNode": "n_llm_dualism",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md_llm_material_world",
+      "fromNode": "n_doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "toNode": "n_llm_material_world",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md_llm_monotheism",
+      "fromNode": "n_doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "toNode": "n_llm_monotheism",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md_llm_polytheism",
+      "fromNode": "n_doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "toNode": "n_llm_polytheism",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md_llm_spiritual_creation",
+      "fromNode": "n_doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "toNode": "n_llm_spiritual_creation",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md_llm_yazatas",
+      "fromNode": "n_doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "toNode": "n_llm_yazatas",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md_llm_amesha_spentas",
+      "fromNode": "n_doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "toNode": "n_llm_amesha_spentas",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md_llm_avesta",
+      "fromNode": "n_doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "toNode": "n_llm_avesta",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md_llm_material_creation",
+      "fromNode": "n_doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "toNode": "n_llm_material_creation",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md_llm_pahlavi_texts",
+      "fromNode": "n_doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "toNode": "n_llm_pahlavi_texts",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md_llm_creatio_ex_deo",
+      "fromNode": "n_doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "toNode": "n_llm_creatio_ex_deo",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md_llm_spiritual_world",
+      "fromNode": "n_doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "toNode": "n_llm_spiritual_world",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md_llm_v_d_vd_d",
+      "fromNode": "n_doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "toNode": "n_llm_v_d_vd_d",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md_llm_zoroastrianism",
+      "fromNode": "n_doc_document_raw_ocr_2014_monotheism_the_zoroastrian_way_jour_md",
+      "toNode": "n_llm_zoroastrianism",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_angra_mainyu_llm_material_creation",
+      "fromNode": "n_llm_angra_mainyu",
+      "toNode": "n_llm_material_creation",
+      "label": "produces_negative_counter_creation [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_angra_mainyu_llm_zoroastrianism",
+      "fromNode": "n_llm_angra_mainyu",
+      "toNode": "n_llm_zoroastrianism",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_angra_mainyu_doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_2_md",
+      "fromNode": "n_llm_angra_mainyu",
+      "toNode": "n_doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_2_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_angra_mainyu_llm_evil",
+      "fromNode": "n_llm_angra_mainyu",
+      "toNode": "n_llm_evil",
+      "label": "contrasts_with [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_angra_mainyu_doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_3_md",
+      "fromNode": "n_llm_angra_mainyu",
+      "toNode": "n_doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_3_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_angra_mainyu_llm_sa_iiant",
+      "fromNode": "n_llm_angra_mainyu",
+      "toNode": "n_llm_sa_iiant",
+      "label": "contrasts_with [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_angra_mainyu_doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_md",
+      "fromNode": "n_llm_angra_mainyu",
+      "toNode": "n_doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_angra_mainyu_llm_astuuat_r_ta",
+      "fromNode": "n_llm_angra_mainyu",
+      "toNode": "n_llm_astuuat_r_ta",
+      "label": "contrasts_with [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_yazatas_llm_amesha_spentas",
+      "fromNode": "n_llm_yazatas",
+      "toNode": "n_llm_amesha_spentas",
+      "label": "includes [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_yazatas_doc_document_raw_ocr_ancient_iran_cosmology_mythology_history_2_md",
+      "fromNode": "n_llm_yazatas",
+      "toNode": "n_doc_document_raw_ocr_ancient_iran_cosmology_mythology_history_2_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_yazatas_llm_fravashis",
+      "fromNode": "n_llm_yazatas",
+      "toNode": "n_llm_fravashis",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_yazatas_doc_document_raw_ocr_ancient_iran_cosmology_mythology_history_3_md",
+      "fromNode": "n_llm_yazatas",
+      "toNode": "n_doc_document_raw_ocr_ancient_iran_cosmology_mythology_history_3_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_yazatas_doc_document_raw_ocr_ancient_iran_cosmology_mythology_history_md",
+      "fromNode": "n_llm_yazatas",
+      "toNode": "n_doc_document_raw_ocr_ancient_iran_cosmology_mythology_history_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_yazatas_llm_spenta_armaiti",
+      "fromNode": "n_llm_yazatas",
+      "toNode": "n_llm_spenta_armaiti",
+      "label": "participates_in [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_dualism_llm_zoroastrianism",
+      "fromNode": "n_llm_dualism",
+      "toNode": "n_llm_zoroastrianism",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_monotheism_llm_zoroastrianism",
+      "fromNode": "n_llm_monotheism",
+      "toNode": "n_llm_zoroastrianism",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_polytheism_llm_zoroastrianism",
+      "fromNode": "n_llm_polytheism",
+      "toNode": "n_llm_zoroastrianism",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_spiritual_creation_llm_material_creation",
+      "fromNode": "n_llm_spiritual_creation",
+      "toNode": "n_llm_material_creation",
+      "label": "derives_from [INFERRED]"
+    },
+    {
+      "id": "e_llm_material_world_llm_spiritual_world",
+      "fromNode": "n_llm_material_world",
+      "toNode": "n_llm_spiritual_world",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_avesta_doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_2_md",
+      "fromNode": "n_llm_avesta",
+      "toNode": "n_doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_2_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_avesta_llm_pahlavi_texts",
+      "fromNode": "n_llm_avesta",
+      "toNode": "n_llm_pahlavi_texts",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_avesta_doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_2_md",
+      "fromNode": "n_llm_avesta",
+      "toNode": "n_doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_2_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_avesta_llm_zoroastrianism",
+      "fromNode": "n_llm_avesta",
+      "toNode": "n_llm_zoroastrianism",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_avesta_doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_copy_md",
+      "fromNode": "n_llm_avesta",
+      "toNode": "n_doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_copy_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_avesta_doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_md",
+      "fromNode": "n_llm_avesta",
+      "toNode": "n_doc_document_raw_ocr_69_on_the_prophetic_and_priestly_authori_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_avesta_doc_document_raw_ocr_a_father_a_daughter_and_a_son_in_law_in_md",
+      "fromNode": "n_llm_avesta",
+      "toNode": "n_doc_document_raw_ocr_a_father_a_daughter_and_a_son_in_law_in_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_avesta_llm_d_nkard",
+      "fromNode": "n_llm_avesta",
+      "toNode": "n_llm_d_nkard",
+      "label": "is_a_commentary_on [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_avesta_doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "fromNode": "n_llm_avesta",
+      "toNode": "n_doc_document_raw_ocr_abar_rodestan_i_babel_the_zoroastrian_tr_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_avesta_llm_zoroastrian_tradition",
+      "fromNode": "n_llm_avesta",
+      "toNode": "n_llm_zoroastrian_tradition",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_avesta_llm_g_th_s",
+      "fromNode": "n_llm_avesta",
+      "toNode": "n_llm_g_th_s",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_avesta_llm_old_persian_zand",
+      "fromNode": "n_llm_avesta",
+      "toNode": "n_llm_old_persian_zand",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_llm_avesta_llm_pahlavi_literature",
+      "fromNode": "n_llm_avesta",
+      "toNode": "n_llm_pahlavi_literature",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_avesta_doc_document_raw_ocr_academia_summary_reconsidering_the_concept_of_revolutionary_monotheism_beate_pongratz_leisten_winona_lake_indiana_eisenbrauns_2011_offprint_from_md",
+      "fromNode": "n_llm_avesta",
+      "toNode": "n_doc_document_raw_ocr_academia_summary_reconsidering_the_concept_of_revolutionary_monotheism_beate_pongratz_leisten_winona_lake_indiana_eisenbrauns_2011_offprint_from_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_avesta_llm_ahura_mazda",
+      "fromNode": "n_llm_avesta",
+      "toNode": "n_llm_ahura_mazda",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_avesta_llm_young_avesta",
+      "fromNode": "n_llm_avesta",
+      "toNode": "n_llm_young_avesta",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_llm_avesta_doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_2_md",
+      "fromNode": "n_llm_avesta",
+      "toNode": "n_doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_2_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_avesta_llm_jean_kellens",
+      "fromNode": "n_llm_avesta",
+      "toNode": "n_llm_jean_kellens",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_avesta_llm_darius",
+      "fromNode": "n_llm_avesta",
+      "toNode": "n_llm_darius",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_llm_avesta_llm_alberto_cantera",
+      "fromNode": "n_llm_avesta",
+      "toNode": "n_llm_alberto_cantera",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_avesta_llm_xavier_tremblay",
+      "fromNode": "n_llm_avesta",
+      "toNode": "n_llm_xavier_tremblay",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_avesta_doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "fromNode": "n_llm_avesta",
+      "toNode": "n_doc_document_raw_ocr_achaemenid_history_derailed_by_avestolog_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_avesta_llm_zoroaster",
+      "fromNode": "n_llm_avesta",
+      "toNode": "n_llm_zoroaster",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_avesta_doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_2_2_md",
+      "fromNode": "n_llm_avesta",
+      "toNode": "n_doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_2_2_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_avesta_llm_aniconism_in_the_religious_art_of_pre_islamic_iran_and_central_asia",
+      "fromNode": "n_llm_avesta",
+      "toNode": "n_llm_aniconism_in_the_religious_art_of_pre_islamic_iran_and_central_asia",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_avesta_doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_2_md",
+      "fromNode": "n_llm_avesta",
+      "toNode": "n_doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_2_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_avesta_llm_aniconism_in_the_religious_art_of_pre_islamic_iran",
+      "fromNode": "n_llm_avesta",
+      "toNode": "n_llm_aniconism_in_the_religious_art_of_pre_islamic_iran",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_avesta_llm_an_hit",
+      "fromNode": "n_llm_avesta",
+      "toNode": "n_llm_an_hit",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_avesta_llm_mithra",
+      "fromNode": "n_llm_avesta",
+      "toNode": "n_llm_mithra",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_avesta_doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_md",
+      "fromNode": "n_llm_avesta",
+      "toNode": "n_doc_document_raw_ocr_aniconism_in_the_religious_art_of_pre_is_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_avesta_doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "fromNode": "n_llm_avesta",
+      "toNode": "n_doc_document_raw_ocr_astyages_cyrus_and_zoroaster_solving_a_h_md",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_llm_avesta_llm_political_instruments",
+      "fromNode": "n_llm_avesta",
+      "toNode": "n_llm_political_instruments",
+      "label": "references [EXTRACTED]"
+    }
+  ]
+}

@@ -1,0 +1,334 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_md",
+      "label": "**THE AURA OF KINGS**",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_khvarnah",
+      "label": "Khvarnah",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ahura_mazda",
+      "label": "Ahura-Mazda",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_mithras",
+      "label": "Mithras",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_sasanian_reliefs",
+      "label": "Sasanian Reliefs",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_sh_pur_ii",
+      "label": "Sh\u0101pur II",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_an_hit",
+      "label": "An\u0101hit\u0101",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_farr",
+      "label": "Farr",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_darius",
+      "label": "Darius",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_xerxes",
+      "label": "Xerxes",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_lotus_flower",
+      "label": "Lotus Flower",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_winged_disk",
+      "label": "Winged Disk",
+      "file_type": "document",
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_md",
+      "target": "llm_ahura_mazda",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_md",
+      "target": "llm_an_hit",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_md",
+      "target": "llm_darius",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_md",
+      "target": "llm_farr",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_md",
+      "target": "llm_khvarnah",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_md",
+      "target": "llm_lotus_flower",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_md",
+      "target": "llm_mithras",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_md",
+      "target": "llm_sasanian_reliefs",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_md",
+      "target": "llm_sh_pur_ii",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_md",
+      "target": "llm_winged_disk",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_aura_of_kings_legitimacy_and_divine_sanc_md",
+      "target": "llm_xerxes",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_khvarnah",
+      "target": "llm_ahura_mazda",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_ahura_mazda",
+      "target": "llm_winged_disk",
+      "relation": "symbolizes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_sh_pur_ii",
+      "target": "llm_sasanian_reliefs",
+      "relation": "depicted_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_darius",
+      "target": "llm_lotus_flower",
+      "relation": "holds",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_xerxes",
+      "target": "llm_lotus_flower",
+      "relation": "holds",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_mithras",
+      "target": "llm_farr",
+      "relation": "associated_with",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_an_hit",
+      "target": "llm_farr",
+      "relation": "associated_with",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "usage": {
+    "prompt_tokens": 6058,
+    "completion_tokens": 1761,
+    "total_tokens": 7819,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

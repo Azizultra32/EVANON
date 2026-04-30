@@ -1,0 +1,1 @@
+../../raw/ocr/Academia Summary — Reconsidering the Concept of Revolutionary Monotheism Beate Pongratz-Leisten Winona Lake, Indiana EisEnbrauns 2011 Offprint frOm.md

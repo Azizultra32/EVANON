@@ -1,0 +1,333 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "label": "Dialogue Between Cultures & Exchange of Knowledge And Cultural Ideas",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_dialogue_between_cultures_exchange_of_knowledge_and_cultural_ideas",
+      "label": "Dialogue Between Cultures & Exchange of Knowledge And Cultural Ideas",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_sasanian_dynasty",
+      "label": "Sasanian Dynasty",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_gupta_dynasty",
+      "label": "Gupta Dynasty",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_indian_culture",
+      "label": "Indian Culture",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_persian_culture",
+      "label": "Persian Culture",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_cultural_exchange",
+      "label": "Cultural Exchange",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_knowledge_dissemination",
+      "label": "Knowledge Dissemination",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_indian_medical_literature",
+      "label": "Indian Medical Literature",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_chess_game",
+      "label": "Chess Game",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_panchtantra",
+      "label": "Panchtantra",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_chess_game",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_cultural_exchange",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_dialogue_between_cultures_exchange_of_knowledge_and_cultural_ideas",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_gupta_dynasty",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_indian_culture",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_indian_medical_literature",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_knowledge_dissemination",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_panchtantra",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_persian_culture",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_sasanian_dynasty",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_dialogue_between_cultures_exchange_of_knowledge_and_cultural_ideas",
+      "target": "llm_sasanian_dynasty",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_dialogue_between_cultures_exchange_of_knowledge_and_cultural_ideas",
+      "target": "llm_gupta_dynasty",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_sasanian_dynasty",
+      "target": "llm_persian_culture",
+      "relation": "participates_in",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_gupta_dynasty",
+      "target": "llm_indian_culture",
+      "relation": "participates_in",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_indian_culture",
+      "target": "llm_cultural_exchange",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_persian_culture",
+      "target": "llm_cultural_exchange",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_knowledge_dissemination",
+      "target": "llm_indian_medical_literature",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_chess_game",
+      "target": "llm_sasanian_dynasty",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_panchtantra",
+      "target": "llm_knowledge_dissemination",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "usage": {
+    "prompt_tokens": 5495,
+    "completion_tokens": 1879,
+    "total_tokens": 7374,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

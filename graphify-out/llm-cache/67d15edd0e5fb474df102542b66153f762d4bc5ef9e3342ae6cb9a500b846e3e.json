@@ -1,0 +1,209 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_academia_summary_reconsidering_the_concept_of_revolutionary_monotheism_beate_pongratz_leisten_winona_lake_indiana_eisenbrauns_2011_offprint_from_md",
+      "label": "Reconsidering the Concept of Revolutionary Monotheism Beate Pongratz-Leisten Winona Lake, Indiana EisEnbrauns 2011 Offprint frOm",
+      "file_type": "document",
+      "source_file": "raw/ocr/Academia Summary \u2014 Reconsidering the Concept of Revolutionary Monotheism Beate Pongratz-Leisten Winona Lake, Indiana EisEnbrauns 2011 Offprint frOm.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_revolutionary_monotheism",
+      "label": "Revolutionary Monotheism",
+      "file_type": "document",
+      "source_file": "raw/ocr/Academia Summary \u2014 Reconsidering the Concept of Revolutionary Monotheism Beate Pongratz-Leisten Winona Lake, Indiana EisEnbrauns 2011 Offprint frOm.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Beate Pongratz-Leisten",
+      "contributor": null
+    },
+    {
+      "id": "llm_zarathustra",
+      "label": "Zarathustra",
+      "file_type": "document",
+      "source_file": "raw/ocr/Academia Summary \u2014 Reconsidering the Concept of Revolutionary Monotheism Beate Pongratz-Leisten Winona Lake, Indiana EisEnbrauns 2011 Offprint frOm.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_avesta",
+      "label": "Avesta",
+      "file_type": "document",
+      "source_file": "raw/ocr/Academia Summary \u2014 Reconsidering the Concept of Revolutionary Monotheism Beate Pongratz-Leisten Winona Lake, Indiana EisEnbrauns 2011 Offprint frOm.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ahura_mazda",
+      "label": "Ahura Mazda",
+      "file_type": "document",
+      "source_file": "raw/ocr/Academia Summary \u2014 Reconsidering the Concept of Revolutionary Monotheism Beate Pongratz-Leisten Winona Lake, Indiana EisEnbrauns 2011 Offprint frOm.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_g_th_s",
+      "label": "G\u0101th\u0101s",
+      "file_type": "document",
+      "source_file": "raw/ocr/Academia Summary \u2014 Reconsidering the Concept of Revolutionary Monotheism Beate Pongratz-Leisten Winona Lake, Indiana EisEnbrauns 2011 Offprint frOm.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_young_avesta",
+      "label": "Young Avesta",
+      "file_type": "document",
+      "source_file": "raw/ocr/Academia Summary \u2014 Reconsidering the Concept of Revolutionary Monotheism Beate Pongratz-Leisten Winona Lake, Indiana EisEnbrauns 2011 Offprint frOm.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_academia_summary_reconsidering_the_concept_of_revolutionary_monotheism_beate_pongratz_leisten_winona_lake_indiana_eisenbrauns_2011_offprint_from_md",
+      "target": "llm_ahura_mazda",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Academia Summary \u2014 Reconsidering the Concept of Revolutionary Monotheism Beate Pongratz-Leisten Winona Lake, Indiana EisEnbrauns 2011 Offprint frOm.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_academia_summary_reconsidering_the_concept_of_revolutionary_monotheism_beate_pongratz_leisten_winona_lake_indiana_eisenbrauns_2011_offprint_from_md",
+      "target": "llm_avesta",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Academia Summary \u2014 Reconsidering the Concept of Revolutionary Monotheism Beate Pongratz-Leisten Winona Lake, Indiana EisEnbrauns 2011 Offprint frOm.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_academia_summary_reconsidering_the_concept_of_revolutionary_monotheism_beate_pongratz_leisten_winona_lake_indiana_eisenbrauns_2011_offprint_from_md",
+      "target": "llm_g_th_s",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Academia Summary \u2014 Reconsidering the Concept of Revolutionary Monotheism Beate Pongratz-Leisten Winona Lake, Indiana EisEnbrauns 2011 Offprint frOm.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_academia_summary_reconsidering_the_concept_of_revolutionary_monotheism_beate_pongratz_leisten_winona_lake_indiana_eisenbrauns_2011_offprint_from_md",
+      "target": "llm_revolutionary_monotheism",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Academia Summary \u2014 Reconsidering the Concept of Revolutionary Monotheism Beate Pongratz-Leisten Winona Lake, Indiana EisEnbrauns 2011 Offprint frOm.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_academia_summary_reconsidering_the_concept_of_revolutionary_monotheism_beate_pongratz_leisten_winona_lake_indiana_eisenbrauns_2011_offprint_from_md",
+      "target": "llm_young_avesta",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Academia Summary \u2014 Reconsidering the Concept of Revolutionary Monotheism Beate Pongratz-Leisten Winona Lake, Indiana EisEnbrauns 2011 Offprint frOm.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_academia_summary_reconsidering_the_concept_of_revolutionary_monotheism_beate_pongratz_leisten_winona_lake_indiana_eisenbrauns_2011_offprint_from_md",
+      "target": "llm_zarathustra",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Academia Summary \u2014 Reconsidering the Concept of Revolutionary Monotheism Beate Pongratz-Leisten Winona Lake, Indiana EisEnbrauns 2011 Offprint frOm.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_revolutionary_monotheism",
+      "target": "llm_zarathustra",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Academia Summary \u2014 Reconsidering the Concept of Revolutionary Monotheism Beate Pongratz-Leisten Winona Lake, Indiana EisEnbrauns 2011 Offprint frOm.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zarathustra",
+      "target": "llm_avesta",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Academia Summary \u2014 Reconsidering the Concept of Revolutionary Monotheism Beate Pongratz-Leisten Winona Lake, Indiana EisEnbrauns 2011 Offprint frOm.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_avesta",
+      "target": "llm_ahura_mazda",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Academia Summary \u2014 Reconsidering the Concept of Revolutionary Monotheism Beate Pongratz-Leisten Winona Lake, Indiana EisEnbrauns 2011 Offprint frOm.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zarathustra",
+      "target": "llm_g_th_s",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Academia Summary \u2014 Reconsidering the Concept of Revolutionary Monotheism Beate Pongratz-Leisten Winona Lake, Indiana EisEnbrauns 2011 Offprint frOm.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_avesta",
+      "target": "llm_young_avesta",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Academia Summary \u2014 Reconsidering the Concept of Revolutionary Monotheism Beate Pongratz-Leisten Winona Lake, Indiana EisEnbrauns 2011 Offprint frOm.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "usage": {
+    "prompt_tokens": 2426,
+    "completion_tokens": 1350,
+    "total_tokens": 3776,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,333 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_2_md",
+      "label": "IRANO-JUDAICA VII",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zoroastrian_eschatology",
+      "label": "Zoroastrian Eschatology",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_eschatology_in_judaism",
+      "label": "Eschatology in Judaism",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_individual_judgement",
+      "label": "Individual Judgement",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_resurrection",
+      "label": "Resurrection",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_heaven_and_hell",
+      "label": "Heaven and Hell",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_cultural_influence_of_zoroastrianism_on_judaism",
+      "label": "Cultural Influence of Zoroastrianism on Judaism",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_ahura_mazd",
+      "label": "Ahura Mazd\u0101",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_dualism_good_and_evil",
+      "label": "Dualism: Good and Evil",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_gehenna_and_the_garden_of_eden",
+      "label": "Gehenna and the Garden of Eden",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_historical_contacts_between_israelites_and_zoroastrians",
+      "label": "Historical Contacts between Israelites and Zoroastrians",
+      "file_type": "document",
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_2_md",
+      "target": "llm_ahura_mazd",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_2_md",
+      "target": "llm_cultural_influence_of_zoroastrianism_on_judaism",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_2_md",
+      "target": "llm_dualism_good_and_evil",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_2_md",
+      "target": "llm_eschatology_in_judaism",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_2_md",
+      "target": "llm_gehenna_and_the_garden_of_eden",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_2_md",
+      "target": "llm_heaven_and_hell",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_2_md",
+      "target": "llm_historical_contacts_between_israelites_and_zoroastrians",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_2_md",
+      "target": "llm_individual_judgement",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_2_md",
+      "target": "llm_resurrection",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_2019_defeating_death_eschatology_in_zoro_2_md",
+      "target": "llm_zoroastrian_eschatology",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zoroastrian_eschatology",
+      "target": "llm_eschatology_in_judaism",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_eschatology_in_judaism",
+      "target": "llm_individual_judgement",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_eschatology_in_judaism",
+      "target": "llm_resurrection",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_eschatology_in_judaism",
+      "target": "llm_heaven_and_hell",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zoroastrian_eschatology",
+      "target": "llm_cultural_influence_of_zoroastrianism_on_judaism",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zoroastrian_eschatology",
+      "target": "llm_ahura_mazd",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_zoroastrian_eschatology",
+      "target": "llm_dualism_good_and_evil",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_eschatology_in_judaism",
+      "target": "llm_gehenna_and_the_garden_of_eden",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_historical_contacts_between_israelites_and_zoroastrians",
+      "target": "llm_zoroastrian_eschatology",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/2019_Defeating_Death_Eschatology_in_Zoro 2.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "usage": {
+    "prompt_tokens": 7092,
+    "completion_tokens": 1982,
+    "total_tokens": 9074,
+    "prompt_tokens_details": {
+      "cached_tokens": 6144,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

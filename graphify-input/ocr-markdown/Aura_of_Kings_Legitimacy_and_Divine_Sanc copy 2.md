@@ -1,0 +1,1 @@
+../../raw/ocr/Aura_of_Kings_Legitimacy_and_Divine_Sanc copy 2.md

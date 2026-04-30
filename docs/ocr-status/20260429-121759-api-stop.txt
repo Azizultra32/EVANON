@@ -1,0 +1,7 @@
+Datalab OCR stopped during PDF batch.
+timestamp=20260429-121759
+error=403 Forbidden while polling Datalab convert API
+last_attempted=/Users/ali/Documents/EVANON/MITHRAS 3/Chaos_in_Methodology_Reflections_on_Cyru.pdf
+summary=/Users/ali/GRAPHIFY-zoroastrianism/docs/ocr-status/20260429-121759-summary.txt
+pending=/Users/ali/GRAPHIFY-zoroastrianism/docs/ocr-status/20260429-121759-pending-pdfs.txt
+converted=/Users/ali/GRAPHIFY-zoroastrianism/docs/ocr-status/20260429-121759-converted-pdfs.txt

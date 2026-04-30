@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "graphify-zoroastrianism"
+version = "0.1.0"
+description = "OCR and Graphify prep for the Zoroastrianism corpus."
+requires-python = ">=3.11"
+dependencies = [
+  "datalab-python-sdk",
+  "graphifyy",
+  "python-dotenv",
+]
+
+[project.scripts]
+graphify-zoro-bootstrap = "graphify_zoro.bootstrap_source:main"
+graphify-zoro-ocr = "graphify_zoro.ocr_corpus:main"
+graphify-zoro-ocr-status = "graphify_zoro.ocr_status:main"
+graphify-zoro-analyze = "graphify_zoro.graphify_analyze:main"
+graphify-zoro-llm = "graphify_zoro.llm_graphify:main"
+
+[tool.setuptools.packages.find]
+include = ["graphify_zoro*"]

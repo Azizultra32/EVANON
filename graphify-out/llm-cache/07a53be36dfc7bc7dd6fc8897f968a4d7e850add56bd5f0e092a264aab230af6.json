@@ -1,0 +1,251 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "label": "Dialogue Between Cultures & Exchange of Knowledge And Cultural Ideas",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_indus_valley_civilization",
+      "label": "Indus Valley Civilization",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_aryan_society",
+      "label": "Aryan Society",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_achaemenid_persia",
+      "label": "Achaemenid Persia",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_zoroastrianism",
+      "label": "Zoroastrianism",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_vedic_religion",
+      "label": "Vedic Religion",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_mughal_safavid_period",
+      "label": "Mughal-Safavid Period",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_independent_india",
+      "label": "Independent India",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_cultural_exchange",
+      "label": "Cultural Exchange",
+      "file_type": "document",
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_achaemenid_persia",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_aryan_society",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_cultural_exchange",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_independent_india",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_indus_valley_civilization",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_mughal_safavid_period",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_vedic_religion",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_arta_and_asa_in_proper_names_and_the_ran_md",
+      "target": "llm_zoroastrianism",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_indus_valley_civilization",
+      "target": "llm_achaemenid_persia",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_aryan_society",
+      "target": "llm_vedic_religion",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_achaemenid_persia",
+      "target": "llm_zoroastrianism",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_mughal_safavid_period",
+      "target": "llm_cultural_exchange",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_independent_india",
+      "target": "llm_cultural_exchange",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/Arta_and_Asa_in_proper_names_and_the_ran.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "usage": {
+    "prompt_tokens": 6844,
+    "completion_tokens": 1308,
+    "total_tokens": 8152,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

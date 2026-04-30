@@ -1,0 +1,178 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_md",
+      "label": "MORE THAN MEN, LESS THAN GODS",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_more_than_men_less_than_gods",
+      "label": "More Than Men, Less Than Gods",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_achaemenid_monarchic_ideology",
+      "label": "Achaemenid Monarchic Ideology",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_darius_i",
+      "label": "Darius I",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_persepolis",
+      "label": "Persepolis",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_royal_cults",
+      "label": "Royal Cults",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_md",
+      "target": "llm_achaemenid_monarchic_ideology",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_md",
+      "target": "llm_darius_i",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_md",
+      "target": "llm_more_than_men_less_than_gods",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_md",
+      "target": "llm_persepolis",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_md",
+      "target": "llm_royal_cults",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_more_than_men_less_than_gods",
+      "target": "llm_achaemenid_monarchic_ideology",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_achaemenid_monarchic_ideology",
+      "target": "llm_darius_i",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_darius_i",
+      "target": "llm_persepolis",
+      "relation": "participates_in",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_achaemenid_monarchic_ideology",
+      "target": "llm_royal_cults",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 3/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "usage": {
+    "prompt_tokens": 6120,
+    "completion_tokens": 928,
+    "total_tokens": 7048,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

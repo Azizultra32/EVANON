@@ -1,0 +1,292 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_md",
+      "label": "MORE THAN MEN, LESS THAN GODS",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_more_than_men_less_than_gods",
+      "label": "More Than Men, Less Than Gods",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Panagiotis P. IOSSIF, Andrzej S. CHANKOWSKI, Catharine C. LORBER",
+      "contributor": null
+    },
+    {
+      "id": "llm_achaemenid_kingship",
+      "label": "Achaemenid Kingship",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_darius_i",
+      "label": "Darius I",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_royal_cult",
+      "label": "Royal Cult",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_elamite_culture",
+      "label": "Elamite Culture",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_naq_e_rustam",
+      "label": "Naq\u0161-e Rustam",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_persepolis",
+      "label": "Persepolis",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_herodotean_perspective",
+      "label": "Herodotean Perspective",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_avestan_perspective",
+      "label": "Avestan Perspective",
+      "file_type": "document",
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_md",
+      "target": "llm_achaemenid_kingship",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_md",
+      "target": "llm_avestan_perspective",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_md",
+      "target": "llm_darius_i",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_md",
+      "target": "llm_elamite_culture",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_md",
+      "target": "llm_herodotean_perspective",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_md",
+      "target": "llm_more_than_men_less_than_gods",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_md",
+      "target": "llm_naq_e_rustam",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_md",
+      "target": "llm_persepolis",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_by_the_favor_of_auramazda_kingship_and_md",
+      "target": "llm_royal_cult",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_more_than_men_less_than_gods",
+      "target": "llm_achaemenid_kingship",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_achaemenid_kingship",
+      "target": "llm_darius_i",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_achaemenid_kingship",
+      "target": "llm_royal_cult",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_darius_i",
+      "target": "llm_elamite_culture",
+      "relation": "participates_in",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_naq_e_rustam",
+      "target": "llm_persepolis",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_achaemenid_kingship",
+      "target": "llm_herodotean_perspective",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_achaemenid_kingship",
+      "target": "llm_avestan_perspective",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/By_the_Favor_of_Auramazda_Kingship_and.md",
+      "source_location": "chunk 1/3",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "usage": {
+    "prompt_tokens": 5294,
+    "completion_tokens": 1647,
+    "total_tokens": 6941,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,333 @@
+{
+  "nodes": [
+    {
+      "id": "doc_document_raw_ocr_a_history_of_political_ideas_from_antiqu_md",
+      "label": "Gazelle AcademicNew Title \u2013 Political Philosophy",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_philippe_nemo",
+      "label": "Philippe Nemo",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_greek_city_state",
+      "label": "Greek City-State",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_roman_law",
+      "label": "Roman Law",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_christian_gospels",
+      "label": "Christian Gospels",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_cicero",
+      "label": "Cicero",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_seneca",
+      "label": "Seneca",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_tacitus",
+      "label": "Tacitus",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_saint_augustine",
+      "label": "Saint Augustine",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_saint_paul",
+      "label": "Saint Paul",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_thomas_aquinas",
+      "label": "Thomas Aquinas",
+      "file_type": "document",
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_document_raw_ocr_a_history_of_political_ideas_from_antiqu_md",
+      "target": "llm_christian_gospels",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_history_of_political_ideas_from_antiqu_md",
+      "target": "llm_cicero",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_history_of_political_ideas_from_antiqu_md",
+      "target": "llm_greek_city_state",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_history_of_political_ideas_from_antiqu_md",
+      "target": "llm_philippe_nemo",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_history_of_political_ideas_from_antiqu_md",
+      "target": "llm_roman_law",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_history_of_political_ideas_from_antiqu_md",
+      "target": "llm_saint_augustine",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_history_of_political_ideas_from_antiqu_md",
+      "target": "llm_saint_paul",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_history_of_political_ideas_from_antiqu_md",
+      "target": "llm_seneca",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_history_of_political_ideas_from_antiqu_md",
+      "target": "llm_tacitus",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "doc_document_raw_ocr_a_history_of_political_ideas_from_antiqu_md",
+      "target": "llm_thomas_aquinas",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_philippe_nemo",
+      "target": "llm_greek_city_state",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_philippe_nemo",
+      "target": "llm_roman_law",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_philippe_nemo",
+      "target": "llm_christian_gospels",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_greek_city_state",
+      "target": "llm_cicero",
+      "relation": "influences",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_greek_city_state",
+      "target": "llm_seneca",
+      "relation": "influences",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_greek_city_state",
+      "target": "llm_tacitus",
+      "relation": "influences",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_christian_gospels",
+      "target": "llm_saint_augustine",
+      "relation": "influences",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_christian_gospels",
+      "target": "llm_saint_paul",
+      "relation": "influences",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    },
+    {
+      "source": "llm_christian_gospels",
+      "target": "llm_thomas_aquinas",
+      "relation": "influences",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "raw/ocr/A_History_of_Political_Ideas_From_Antiqu.md",
+      "source_location": "chunk 1/1",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "usage": {
+    "prompt_tokens": 1600,
+    "completion_tokens": 1826,
+    "total_tokens": 3426,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}
