@@ -31,6 +31,8 @@ graphify-out/needs_update
 
 # Logs
 *.log
+*.pid
+logs/
 
 # Office lock/temp files
 ~$*
