@@ -32,9 +32,8 @@ cd /Users/ali/GRAPHIFY-zoroastrianism
 source .venv/bin/activate
 graphify-zoro-ocr --suffix .pdf
 graphify-zoro-ocr-status
-find graphify-input/ocr-markdown -type l -delete
-find raw/ocr -maxdepth 1 -type f -name '*.md' -exec ln -sf "$PWD/{}" graphify-input/ocr-markdown/ \;
-graphify-zoro-llm --input graphify-input/ocr-markdown --workers 2 --timeout 1200
+python scripts/build_clean_markdown_input.py
+graphify-zoro-llm --input graphify-input/ocr-markdown-clean --workers 2 --timeout 1200
 ```
 
 The LLM cache in `graphify-out/llm-cache/` prevents reprocessing chunks already completed for the same model, reasoning setting, prompt version, and source text.

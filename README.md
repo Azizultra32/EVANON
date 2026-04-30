@@ -119,14 +119,14 @@ Current LLM build:
 - 32 unique OCR Markdown files included after dedupe from 52 converted Markdown files.
 - Model: `gpt-5.5`
 - Reasoning effort: `xhigh`
-- 141/142 chunks succeeded.
-- 1 chunk failed with a transient OpenAI HTTP 520 and is documented in `graphify-out/llm-failures.json`.
-- 1,492 semantic nodes.
-- 3,962 graph edges in `graph.json`.
-- 272 hyperedges.
-- Token usage: 919,614 input tokens, 1,718,022 output tokens.
+- 86/86 chunks succeeded.
+- 0 failed chunks.
+- 996 semantic nodes.
+- 2,449 graph edges in `graph.json`.
+- 167 hyperedges.
+- Token usage: 564,147 input tokens, 1,037,291 output tokens.
 
-The accepted graph is the `gpt-5.5` / `xhigh` rebuild. One failed chunk out of 142 does not invalidate the graph; it is kept as an explicit documented failure so the project can move forward.
+The accepted graph is the clean `gpt-5.5` / `xhigh` rebuild over `graphify-input/ocr-markdown-clean`.
 
 The LLM pass samples very large documents into representative chunks rather than sending every byte of every long PDF. It is still the semantic Graphify layer: entities, relations, communities, inferred edges, reports, HTML, SVG, GraphML, and Obsidian notes are generated from LLM extraction output.
 

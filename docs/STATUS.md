@@ -52,14 +52,14 @@ graphify-zoro-ocr-status
 - Input used: `graphify-input/ocr-markdown-clean`
 - OCR Markdown files included: 32 unique files after dedupe from 52 converted Markdown files
 - Graph output: `graphify-out/`
-- Current graph size: 1,492 nodes, 3,962 graph links, 272 hyperedges
-- LLM extraction chunks: 141/142 succeeded
-- LLM token usage: 919,614 input tokens, 1,718,022 output tokens
-- Final LLM failures: 1 documented in `graphify-out/llm-failures.json`
+- Current graph size: 996 nodes, 2,449 graph links, 167 hyperedges
+- LLM extraction chunks: 86/86 succeeded
+- LLM token usage: 564,147 input tokens, 1,037,291 output tokens
+- Final LLM failures: 0
 - Runtime query layer verified with `graphify query`, `graphify explain`, and `graphify path`.
 - Current accepted model: `gpt-5.5` through OpenAI Responses API.
 - Current accepted reasoning effort: `xhigh`.
-- Acceptance policy: one transient failed chunk is acceptable when documented; the graph remains valid and queryable.
+- Acceptance policy: accept only the clean deduped corpus graph; documented partial reruns are not allowed to overwrite the canonical graph.
 
 Build or rebuild the graph:
 
