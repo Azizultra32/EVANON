@@ -91,6 +91,14 @@ sys.exit(0 if success_rate >= min_success_rate else 1)
 PY
 }
 
+query_report_clean() {
+  [ -f "$QUERY_REPORT" ] && ! grep -Eq 'Exit status: `[^0]`' "$QUERY_REPORT"
+}
+
+git_worktree_clean() {
+  git diff --quiet && git diff --cached --quiet
+}
+
 run_llm_attempts_if_needed() {
   if is_acceptable_graph; then
     log "graph is already acceptable; skipping LLM rerun"
@@ -124,6 +132,7 @@ run_llm_attempts_if_needed() {
 
 run_query_report() {
   local tmp
+  local query_failures=0
   tmp="$(mktemp)"
 
   {
@@ -144,6 +153,9 @@ run_query_report() {
     output=$("$@" 2>&1)
     status=$?
     set -e
+    if [ "$status" -ne 0 ]; then
+      query_failures=1
+    fi
     {
       echo "## $title"
       echo
@@ -171,6 +183,7 @@ run_query_report() {
     .venv/bin/graphify query "What does the graph say about Sasanian kingship, divine sanction, and legitimacy?" --graph "$GRAPH_JSON"
 
   mv "$tmp" "$QUERY_REPORT"
+  return "$query_failures"
 }
 
 commit_and_push() {
@@ -200,8 +213,16 @@ commit_and_push() {
 }
 
 log "graphify worker started"
+if is_acceptable_graph && [ -f "$STATUS_JSON" ] && query_report_clean && git_worktree_clean; then
+  log "Graphify graph already finalized and pushed; no work needed"
+  exit 0
+fi
+
 run_llm_attempts_if_needed || log "continuing with documented partial graph"
 write_status
-run_query_report
+if ! run_query_report; then
+  log "Graphify query smoke tests failed"
+  exit 1
+fi
 commit_and_push
 log "graphify worker finished"
