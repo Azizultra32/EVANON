@@ -9,6 +9,7 @@
   - Graphify LLM graph extraction, query, and graph artifacts
 - Cognee was not used for this build.
 - Git is initialized locally. Large source PDFs/TIFFs/images/media are tracked with Git LFS.
+- The separate Datalab API documentation graph at `/Users/ali/GRAPHIFY-datalab-api-docs` is tooling reference only. It is not part of the canonical Zoroastrian content graph and should not be merged into `graphify-out/graph.json`.
 
 ## Important Notes
 
