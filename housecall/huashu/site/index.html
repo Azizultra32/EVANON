@@ -1,0 +1,12 @@
+<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>HouseCall</title>
+<style>
+  html,body{margin:0;height:100%;background:#1a2747;overflow:hidden}
+  .wrap{position:fixed;inset:0;display:flex;align-items:center;justify-content:center}
+  iframe{border:0;width:1920px;height:1080px;transform-origin:center center}
+</style></head><body>
+<div class="wrap"><iframe id="f" src="motion.html" scrolling="no"></iframe></div>
+<script>
+  function fit(){var s=Math.min(innerWidth/1920,innerHeight/1080);document.getElementById('f').style.transform='scale('+s+')';}
+  addEventListener('resize',fit);fit();
+</script></body></html>
