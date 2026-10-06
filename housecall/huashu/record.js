@@ -5,7 +5,7 @@ const fs = require('fs'); const path = require('path');
 const FF = require('ffmpeg-static');
 
 (async () => {
-  const FPS = 30;
+  const FPS = Number(process.env.FPS) || 30;
   const url = 'file://' + path.join(process.cwd(), 'motion.html');
   const tmp = fs.mkdtempSync(path.join(process.cwd(), '.video-tmp-'));
   const out = process.argv[2] || 'out/housecall-editorial.mp4';
